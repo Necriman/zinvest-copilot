@@ -1,0 +1,193 @@
+{
+ "unit": 11,
+ "langs": {
+  "en": {
+   "unit": 11,
+   "lang": "en",
+   "title": "Introduction to Economics",
+   "subtitle": "What economics is, why it matters for your money, scarcity and choice, opportunity cost, economic systems, and how economics shapes every financial decision.",
+   "lessons": [
+    {
+     "num": "11.1",
+     "title": "What is Economics?",
+     "html": "<p>In Level 1, you learned how to manage YOUR money. In Level 2, you will learn how the WORLD's money works — and why it directly affects every decision you make.</p><blockquote><p><strong>The One-Sentence Definition</strong></p><p>Economics is the study of how individuals, businesses, and governments make choices about allocating SCARCE resources to satisfy UNLIMITED wants.</p></blockquote><p><em><strong><em><strong>That is it. Everything in economics flows from this single idea: we want more than we have,</strong></em> <em><strong>so we must choose.</strong></em></strong></em></p><h2>Why Economics is NOT Just Theory</h2><blockquote><p>→<strong> Your salary</strong></p><p>Determined by supply and demand for your skills in the labor market. Scarce skills = high pay.</p><p>→<strong> Prices at the store</strong></p><p>Set by production costs, competition, and consumer demand. When gas prices rise, everything else follows.</p><p>→<strong> Your loan interest rate</strong></p><p>Controlled by the central bank's monetary policy. When the economy overheats, rates rise and your mortgage costs more.</p><p>→<strong> Whether you have a job</strong></p><p>Depends on economic growth, business confidence, and labor market conditions. Recessions destroy jobs; expansions create them.</p></blockquote><p><em><strong><em><strong>Economics is not something that happens 'out there.' It is the operating system running beneath</strong></em> <em><strong>every financial decision you make.</strong></em></strong></em></p>"
+    },
+    {
+     "num": "11.2",
+     "title": "Scarcity & Choice",
+     "html": "<p>Scarcity is the fundamental problem of economics. It means there are not enough resources to satisfy all human wants. This is true for individuals, companies, and entire nations.</p><h2>The Three Types of Scarcity</h2><table><tbody><tr><th><p>Type</p></th><th><p>What is Scarce</p></th><th><p>Example</p></th><th><p>Impact</p></th></tr><tr><td><p>Time</p></td><td><p>24 hours in a day</p></td><td><p>Can't work AND study AND rest fully</p></td><td><p>Must prioritize activities</p></td></tr><tr><td><p>Money</p></td><td><p>Limited income</p></td><td><p>Can't buy everything you want</p></td><td><p>Must budget (Unit 3)</p></td></tr><tr><td><p>Resources</p></td><td><p>Land, oil, water, labor</p></td><td><p>Country can't produce everything</p></td><td><p>Must trade with others</p></td></tr><tr><td><p>Attention</p></td><td><p>Limited mental energy</p></td><td><p>Can't focus on 10 goals at once</p></td><td><p>Must choose priorities</p></td></tr></tbody></table><blockquote><p><strong>REAL EXAMPLE — Scarcity in Your Daily Life</strong></p><p>You have 4,000,000 UZS after expenses this month. You want to:</p><ul><li><p>Save for emergency fund (2,000,000)</p></li><li><p>Invest in index fund (1,500,000)</p></li><li><p>Take a weekend trip (1,200,000)</p></li><li><p>Buy new headphones (800,000)</p></li></ul><p><strong>Total wanted: 5,500,000. Available: 4,000,000. Scarcity forces you to choose. You CANNOT</strong> <strong>have everything. This is economics in its purest form — and it is the reason budgeting (Unit</strong> <strong>3), goal-setting (Unit 10), and prioritization exist.</strong></p></blockquote><table><tbody><tr><td><p><strong>Scarcity for Individuals</strong></p><p>Limited time, money, energy. Forces: budgeting, career choices, trade-offs between spending now vs investing for later. Key question: 'What is the BEST use of my next dollar/hour?'</p></td><td><p><strong>Scarcity for Nations</strong></p><p>Limited land, labor, capital, technology. Forces: decisions about healthcare vs defense, education vs infrastructure. Key question: 'How do we produce the MOST value with what we have?'</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "11.3",
+     "title": "Opportunity Cost",
+     "html": "<p>Opportunity cost is the most powerful concept in all of economics. Once you understand it, you will never make a decision the same way again.</p><blockquote><p><strong>Definition</strong></p><p>Opportunity cost is the value of the NEXT BEST ALTERNATIVE you give up when making a choice. Every time you say yes to something, you are saying no to something else.</p></blockquote><h2>Opportunity Cost is Everywhere</h2><blockquote><p>→<strong> Spending $1,000 on a phone</strong></p><p>The opportunity cost is not $1,000 — it is what that $1,000 COULD have become. Invested at 8% for 10 years = $2,159. The real cost of the phone is $2,159 in future wealth.</p><p>→<strong> Watching Netflix for 3 hours</strong></p><p>The opportunity cost is: 3 hours of freelance work ($60?), learning a skill, exercising, or building a side project. Netflix is not free — it costs whatever you gave up.</p><p>→<strong> Choosing Job A over Job B</strong></p><p>Job A pays $50K with no growth. Job B pays $40K but teaches skills worth $80K in 3 years. The opportunity cost of Job A might be $30K in future earnings.</p><p>→<strong> A government building a stadium</strong></p><p>The opportunity cost is the hospital, school, or road that could have been built with the same money. Every public dollar has an alternative use.</p><p><strong>REAL EXAMPLE — The $5 Daily Coffee Over 30 Years</strong></p><p>$5/day on coffee = $150/month = $1,800/year.</p><p>If invested at 8% instead for 30 years: $1,800/year becomes approximately $204,000.</p><p><strong>The coffee is not $5. It is $204,000 in retirement wealth. This doesn't mean never buy coffee —</strong> <strong>it means understand what you're actually choosing. THAT is opportunity cost.</strong></p></blockquote>"
+    },
+    {
+     "num": "11.4",
+     "title": "Micro vs Macro Economics",
+     "html": "<p>Economics has two main branches. Both study the same world, but from different zoom levels — like Google Maps zoomed into your street vs zoomed out to the whole continent.</p><table><tbody><tr><td><p><strong>Microeconomics</strong></p><p>Studies INDIVIDUAL actors and markets.</p><ul><li><p>How consumers decide what to buy</p></li><li><p>How firms set prices</p></li><li><p>How supply &amp; demand determine prices</p></li><li><p>Competition between companies</p></li><li><p>Labor markets and wages</p></li></ul><p>Zoomed IN: one person, one firm, one market.</p></td><td><p><strong>Macroeconomics</strong></p><p>Studies the ENTIRE economy.</p><ul><li><p>GDP and economic growth</p></li><li><p>Inflation and price levels</p></li><li><p>Unemployment across the nation</p></li><li><p>Central bank policy (Unit 6)</p></li><li><p>International trade and exchange rates</p></li></ul><p>Zoomed OUT: the whole country or world.</p></td></tr></tbody></table><h2>How Both Affect You</h2><table><tbody><tr><th><p>Your Decision</p></th><th><p>Micro Lens</p></th><th><p>Macro Lens</p></th></tr><tr><td><p>Negotiate salary</p></td><td><p>Your skills vs market demand for them</p></td><td><p>Is unemployment low? You have leverage.</p></td></tr><tr><td><p>Buy a house</p></td><td><p>Price of THIS house vs alternatives</p></td><td><p>Are interest rates rising? Mortgages cost more.</p></td></tr><tr><td><p>Start a business</p></td><td><p>Your product vs competitors</p></td><td><p>Is the economy growing? People spend more.</p></td></tr><tr><td><p>Invest savings</p></td><td><p>Which stock/fund to pick</p></td><td><p>Is inflation high? Real returns shrink.</p></td></tr><tr><td><p>Take a loan</p></td><td><p>This bank's rate vs others</p></td><td><p>Is the central bank tightening? All rates rise.</p></td></tr></tbody></table><p><em><strong><em><strong>Level 2 covers both: Units 12-15 focus on micro, Units 16-22 focus on macro. Together they give you</strong></em> <em><strong>the complete picture.</strong></em></strong></em></p>"
+    },
+    {
+     "num": "11.5",
+     "title": "Economic Systems",
+     "html": "<p>Every society must answer three fundamental questions: WHAT to produce, HOW to produce it, and FOR WHOM to produce. Different economic systems answer these differently.</p><h2>The Three Economic Systems</h2><blockquote><p>→<strong> Market Economy (Capitalism)</strong></p><p>Private individuals and businesses make decisions based on supply and demand. Prices are set by markets, not governments. Pros: innovation, efficiency, consumer choice. Cons: inequality, market failures, boom-bust cycles. Examples: USA, UK, Hong Kong.</p><p>→<strong> Command Economy (Central Planning)</strong></p><p>The government controls what is produced, how much, and at what price. Pros: can mobilize resources quickly, reduce inequality. Cons: inefficiency, lack of innovation, shortages. Examples: North Korea, Cuba, former Soviet Union.</p><p>→<strong> Mixed Economy (Most Countries Today)</strong></p><p>Combines market forces with government intervention. Markets drive most production, but government regulates, provides public goods, and corrects market failures. Examples: most modern economies including Uzbekistan, Germany, Japan, Canada.</p><p><strong>REAL EXAMPLE — Mixed Economy in Action (Uzbekistan)</strong></p><p>Market forces: you choose your career, businesses set prices, consumers decide what to buy. Government role: sets tax rates (12% ), regulates banks through the Central Bank, provides public education and healthcare, builds infrastructure.</p><p><strong>The balance: too much government = inefficiency (Soviet era). Too little = inequality and</strong> <strong>instability. Uzbekistan is actively moving toward more market-driven policies while</strong> <strong>maintaining state involvement in strategic sectors.</strong></p></blockquote>"
+    },
+    {
+     "num": "11.6",
+     "title": "Why Economics Matters for YOU",
+     "html": "<p>Economics is not just for professors and politicians. Every personal financial decision you make is an economic decision. Here is how Level 2 connects directly to your wallet.</p><h2>Economic Thinking = Better Financial Decisions</h2><table><tbody><tr><th><p>Economic Concept</p></th><th><p>Personal Application</p></th><th><p>Unit Connection</p></th></tr><tr><td><p>Scarcity &amp; Choice</p></td><td><p>Budget wisely — can't have everything</p></td><td><p>Unit 3: Budget</p></td></tr><tr><td><p>Opportunity Cost E</p></td><td><p>very dollar spent is a dollar not investe</p></td><td><p>d Unit 4: Savings</p></td></tr><tr><td><p>Supply &amp; Demand</p></td><td><p>Scarce skills = higher salary</p></td><td><p>Unit 7: Income</p></td></tr><tr><td><p>Inflation Y</p></td><td><p>our savings lose value if return &lt; inflatio</p></td><td><p>n Unit 4, 9: Savings, Tax</p></td></tr><tr><td><p>Interest Rates Aff</p></td><td><p>ects your mortgage, deposits, investme</p></td><td><p>nts Unit 5, 6: Credit, Banking</p></td></tr><tr><td><p>GDP Growth Gr</p></td><td><p>owing economy = more jobs, higher wa</p></td><td><p>ges Unit 7: Income</p></td></tr><tr><td><p>Trade Impo</p></td><td><p>rted goods cost depends on exchange</p></td><td><p>rates Unit 9: Taxes (customs)</p></td></tr><tr><td><p>Incentives T</p></td><td><p>ax deductions motivate certain behavio</p></td><td><p>rs Unit 9: Taxes</p></td></tr></tbody></table><h2>The 5 Economic Principles That Change Everything</h2><blockquote><p><strong>1. People respond to incentives</strong></p><p>Change the reward or penalty, change the behavior. This explains pricing, wages, taxes, and policy.</p><p><strong>2. Every choice has a cost</strong></p><p>There is no free lunch. Every yes is a no to something else. Think in trade-offs, not absolutes.</p><p><strong>3. Trade makes everyone better off</strong></p><p>When each person specializes in what they do best, total output increases. This is why countries trade.</p><p><strong>4. Markets are powerful but imperfect</strong></p><p>Markets allocate resources efficiently most of the time, but fail in some situations (pollution, monopolies, public goods).</p><p><strong>5. Government can help or hurt</strong></p><p>Good policy corrects market failures. Bad policy creates new ones. The key is evidence-based, not ideological.</p><p><strong>Core Takeaway — Unit 11</strong></p></blockquote><p><em><strong><em><strong>Economics is not abstract theory — it is the operating system your money runs on. Scarcity</strong></em> <em><strong>forces choices. Opportunity cost reveals the true price of every decision. Micro and macro</strong></em> <em><strong>economics are two lenses for understanding the same world. Markets are powerful but</strong></em> <em><strong>imperfect, which is why governments intervene. Understanding these fundamentals</strong></em> <em><strong>transforms you from someone who reacts to financial events into someone who anticipates</strong></em> <em><strong>them. Level 2 will give you the tools to read the economy like a dashboard — and make</strong></em> <em><strong>decisions accordingly. ZInvest AI can help you apply economic thinking to your specific</strong></em> <em><strong>situation.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Key Terms Glossary",
+    "html": "<blockquote><p>All important terms from Unit 11</p></blockquote><table><tbody><tr><th><p>Economics</p></th><th><p>The study of how individuals, businesses, and governments allocate scarce resources to satisfy unlimited wants.</p></th></tr><tr><td><p>Scarcity</p></td><td><p>The fundamental economic problem: resources are limited, but human wants are unlimited. Forces every society to make choices.</p></td></tr><tr><td><p>Opportunity Cost</p></td><td><p>The value of the next best alternative given up when making a choice. The true cost of any decision.</p></td></tr><tr><td><p>Microeconomics</p></td><td><p>The branch studying individual actors: consumers, firms, and specific markets. Zoomed-in view of the economy.</p></td></tr><tr><td><p>Macroeconomics</p></td><td><p>The branch studying the economy as a whole: GDP, inflation, unemployment, monetary policy. Zoomed-out view.</p></td></tr><tr><td><p>Market Economy</p></td><td><p>An economic system where private actors make decisions based on supply and demand. Prices set by markets.</p></td></tr><tr><td><p>Command Economy</p></td><td><p>An economic system where the government controls production, prices, and resource allocation.</p></td></tr><tr><td><p>Mixed Economy</p></td><td><p>Combines market forces with government regulation. Most modern economies, including Uzbekistan.</p></td></tr><tr><td><p>Incentive</p></td><td><p>A reward or penalty that motivates behavior. People respond to incentives — this drives markets and policy.</p></td></tr><tr><td><p>Trade-off</p></td><td><p>The exchange of one thing for another. Choosing more of A means less of B when resources are limited.</p></td></tr><tr><td><p>Production Possibilities Frontier</p></td><td><p>A model showing the maximum output combinations an economy can produce with its available resources.</p></td></tr><tr><td><p>Comparative Advantage</p></td><td><p>The ability to produce something at a lower opportunity cost than others. The basis for trade.</p></td></tr><tr><td><p>GDP (Gross Domestic Product)</p></td><td><p>The total value of all goods and services produced in a country in a given period. The broadest measure of economic output.</p></td></tr><tr><td><p>Inflation</p></td><td><p>A sustained increase in the general price level. Reduces the purchasing power of money over time.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "What does economics primarily study?",
+     "choices": [
+      "How to get rich quickly",
+      "How societies allocate scarce resources to satisfy unlimited wants",
+      "Only stock markets and trading",
+      "Government budgets exclusively"
+     ],
+     "answer_index": 1,
+     "explanation": "Economics studies how societies allocate scarce resources to satisfy unlimited wants. Scarcity is the fundamental problem."
+    },
+    {
+     "n": 2,
+     "prompt": "What is opportunity cost?",
+     "choices": [
+      "The price tag on an item",
+      "The money you save with a discount",
+      "The value of the next best alternative you give up when making a choice",
+      "The cost of doing business"
+     ],
+     "answer_index": 2,
+     "explanation": "Opportunity cost is what you give up when choosing one option over another. Every decision has a trade-off."
+    },
+    {
+     "n": 3,
+     "prompt": "What is the difference between micro and macro economics?",
+     "choices": [
+      "Micro is about small businesses, macro is about big ones",
+      "Micro studies individual decisions (consumers, firms); macro studies the whole economy (GDP, inflation)",
+      "There is no difference",
+      "Micro is theory, macro is practice"
+     ],
+     "answer_index": 1,
+     "explanation": "Microeconomics studies individual decisions — consumers, firms, markets. Macroeconomics studies the whole economy — GDP, inflation, unemployment."
+    },
+    {
+     "n": 4,
+     "prompt": "What does 'scarcity' mean in economics?",
+     "choices": [
+      "There is not enough money in the world",
+      "Only poor people face resource limitations",
+      "Resources are limited but human wants are unlimited, forcing choices",
+      "Governments intentionally limit resources"
+     ],
+     "answer_index": 2,
+     "explanation": "Scarcity means resources are limited but human wants are unlimited. This forces every person and society to make choices."
+    },
+    {
+     "n": 5,
+     "prompt": "Why are incentives important in economics?",
+     "choices": [
+      "They are not important",
+      "People respond to rewards and penalties — understanding this predicts market behavior",
+      "Only businesses care about incentives",
+      "Incentives only matter in sports"
+     ],
+     "answer_index": 1,
+     "explanation": "Incentives drive behavior. People respond to rewards and penalties. Understanding this predicts how markets and people behave."
+    },
+    {
+     "n": 6,
+     "prompt": "What does the Production Possibilities Frontier (PPF) show?",
+     "choices": [
+      "The best stocks to buy",
+      "How much tax to pay",
+      "The maximum output combinations an economy can produce with available resources",
+      "The price of production"
+     ],
+     "answer_index": 2,
+     "explanation": "The production possibilities frontier shows the maximum output combinations an economy can produce with available resources."
+    },
+    {
+     "n": 7,
+     "prompt": "In a command economy, who decides what to produce?",
+     "choices": [
+      "Consumers through their spending",
+      "The government controls production decisions",
+      "International organizations",
+      "Random chance"
+     ],
+     "answer_index": 1,
+     "explanation": "A command economy has government control of production. A market economy lets supply and demand decide. Mixed economies combine both."
+    },
+    {
+     "n": 8,
+     "prompt": "Why does trade make both parties better off?",
+     "choices": [
+      "One side always wins and the other loses",
+      "Trade is always equal",
+      "Each party specializes in what they do best (comparative advantage), increasing total output",
+      "Trade only benefits large countries"
+     ],
+     "answer_index": 2,
+     "explanation": "Trade creates value because each party specializes in what they do best (comparative advantage), making both better off."
+    },
+    {
+     "n": 9,
+     "prompt": "GDP measures:",
+     "choices": [
+      "Only the stock market's value",
+      "The total value of all goods and services produced in a country in a given period",
+      "Only government spending",
+      "Only exports"
+     ],
+     "answer_index": 1,
+     "explanation": "GDP measures the total value of all goods and services produced in a country in a given period. The broadest measure of economic output."
+    },
+    {
+     "n": 10,
+     "prompt": "How does inflation affect your savings?",
+     "choices": [
+      "Inflation increases the value of savings",
+      "Inflation has no effect on savings",
+      "Inflation reduces purchasing power — the same money buys less over time",
+      "Inflation only affects businesses"
+     ],
+     "answer_index": 2,
+     "explanation": "Inflation reduces purchasing power — the same money buys less over time. Understanding this is critical for saving and investing."
+    },
+    {
+     "n": 11,
+     "prompt": "How does economic thinking help you personally?",
+     "choices": [
+      "It doesn't — economics is only for governments",
+      "It helps make better career, investment, and spending decisions by understanding how markets work",
+      "It guarantees you will become wealthy",
+      "It only helps if you study it at university"
+     ],
+     "answer_index": 1,
+     "explanation": "Economic thinking helps you make better personal decisions: career choices, investments, business strategy, and understanding policy impacts."
+    },
+    {
+     "n": 12,
+     "prompt": "How does Level 2 (Economics) build on Level 1 (Financial Foundations)?",
+     "choices": [
+      "It doesn't — they are unrelated",
+      "Level 2 replaces everything from Level 1",
+      "Level 2 explains the economic ENVIRONMENT your money operates in — why prices change and what drives growth",
+      "Level 2 is only for professional economists"
+     ],
+     "answer_index": 2,
+     "explanation": "Level 2 builds on Level 1 by explaining the economic ENVIRONMENT your money operates in — why prices change, how markets work, and what drives growth."
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "clips": {
+  "03bbe1b16aed40": {
+   "src": "/voice/ru/voice-clear.mp3",
+   "lang": "ru",
+   "line": "voice.clear",
+   "d": 0.85
+  },
+  "15c1f2d9cddaf1": {
+   "src": "/voice/ru/mascot-praise1.mp3",
+   "lang": "ru",
+   "line": "mascot.praise1",
+   "d": 0.96
+  },
+  "18cecf8e4be1e3": {
+   "src": "/voice/ru/mascot-praise2.mp3",
+   "lang": "ru",
+   "line": "mascot.praise2",
+   "d": 0.99
+  },
+  "153845dd72c112": {
+   "src": "/voice/ru/mascot-praise3.mp3",
+   "lang": "ru",
+   "line": "mascot.praise3",
+   "d": 0.69
+  },
+  "0ee8c0cc0e100d": {
+   "src": "/voice/ru/mascot-praise4.mp3",
+   "lang": "ru",
+   "line": "mascot.praise4",
+   "d": 0.83
+  },
+  "0366ec3730dc4b": {
+   "src": "/voice/ru/mascot-praise5.mp3",
+   "lang": "ru",
+   "line": "mascot.praise5",
+   "d": 1.26
+  },
+  "18b5f47e2fc316": {
+   "src": "/voice/ru/mascot-encourage1.mp3",
+   "lang": "ru",
+   "line": "mascot.encourage1",
+   "d": 1.55
+  },
+  "1d798eec60d9d8": {
+   "src": "/voice/ru/mascot-encourage2.mp3",
+   "lang": "ru",
+   "line": "mascot.encourage2",
+   "d": 1.84
+  },
+  "1210b05eaa6ffa": {
+   "src": "/voice/ru/mascot-encourage3.mp3",
+   "lang": "ru",
+   "line": "mascot.encourage3",
+   "d": 2.58
+  },
+  "1bd7cd588db329": {
+   "src": "/voice/ru/mascot-encourage4.mp3",
+   "lang": "ru",
+   "line": "mascot.encourage4",
+   "d": 1.68
+  },
+  "174cc3ad791351": {
+   "src": "/voice/ru/bear-congratulations.mp3",
+   "lang": "ru",
+   "line": "bear.congratulations",
+   "d": 1.68
+  },
+  "01f5d7a03e1beb": {
+   "src": "/voice/ru/checkpoint-label.mp3",
+   "lang": "ru",
+   "line": "checkpoint.label",
+   "d": 1.12
+  },
+  "0b3057d94248f9": {
+   "src": "/voice/ru/hero-secret.mp3",
+   "lang": "ru",
+   "line": "hero.secret",
+   "d": 2.99
+  },
+  "058a4414beecb1": {
+   "src": "/voice/ru/voice-testPassed.mp3",
+   "lang": "ru",
+   "line": "voice.testPassed",
+   "d": 2.32
+  },
+  "0a5f4749d2b962": {
+   "src": "/voice/ru/voice-testFailed.mp3",
+   "lang": "ru",
+   "line": "voice.testFailed",
+   "d": 3.32
+  },
+  "0c100a5ec164c3": {
+   "src": "/voice/en/voice-clear.mp3",
+   "lang": "en",
+   "line": "voice.clear",
+   "d": 1.04
+  },
+  "0f0680c50a4814": {
+   "src": "/voice/en/mascot-praise1.mp3",
+   "lang": "en",
+   "line": "mascot.praise1",
+   "d": 0.67
+  },
+  "1b1f419e27455a": {
+   "src": "/voice/en/mascot-praise2.mp3",
+   "lang": "en",
+   "line": "mascot.praise2",
+   "d": 1.24
+  },
+  "056ffd8618a84c": {
+   "src": "/voice/en/mascot-praise3.mp3",
+   "lang": "en",
+   "line": "mascot.praise3",
+   "d": 0.83
+  },
+  "19a4efe2ba7abf": {
+   "src": "/voice/en/mascot-praise4.mp3",
+   "lang": "en",
+   "line": "mascot.praise4",
+   "d": 0.95
+  },
+  "0feab0e428dd59": {
+   "src": "/voice/en/mascot-praise5.mp3",
+   "lang": "en",
+   "line": "mascot.praise5",
+   "d": 0.71
+  },
+  "0aecb4a1ef5834": {
+   "src": "/voice/en/mascot-encourage1.mp3",
+   "lang": "en",
+   "line": "mascot.encourage1",
+   "d": 1.9
+  },
+  "196e61bc95d800": {
+   "src": "/voice/en/mascot-encourage2.mp3",
+   "lang": "en",
+   "line": "mascot.encourage2",
+   "d": 1.85
+  },
+  "0143be26abca22": {
+   "src": "/voice/en/mascot-encourage3.mp3",
+   "lang": "en",
+   "line": "mascot.encourage3",
+   "d": 1.83
+  },
+  "0e1309b9a45fa5": {
+   "src": "/voice/en/mascot-encourage4.mp3",
+   "lang": "en",
+   "line": "mascot.encourage4",
+   "d": 1.28
+  },
+  "165a4752292fd6": {
+   "src": "/voice/en/bear-congratulations.mp3",
+   "lang": "en",
+   "line": "bear.congratulations",
+   "d": 2.1
+  },
+  "1078ace30e553f": {
+   "src": "/voice/en/checkpoint-label.mp3",
+   "lang": "en",
+   "line": "checkpoint.label",
+   "d": 0.64
+  },
+  "0afada3a53978d": {
+   "src": "/voice/en/hero-secret.mp3",
+   "lang": "en",
+   "line": "hero.secret",
+   "d": 3.02
+  },
+  "06c1b9f8377fee": {
+   "src": "/voice/en/voice-testPassed.mp3",
+   "lang": "en",
+   "line": "voice.testPassed",
+   "d": 2.56
+  },
+  "1a92b6c48c002d": {
+   "src": "/voice/en/voice-testFailed.mp3",
+   "lang": "en",
+   "line": "voice.testFailed",
+   "d": 2.95
+  }
+ },
+ "v": 1,
+ "voices": {
+  "ru": "Alexey (ElevenLabs via Higgsfield)",
+  "en": "Julian (ElevenLabs via Higgsfield)"
+ }
+}

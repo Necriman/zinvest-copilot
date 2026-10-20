@@ -1,0 +1,1335 @@
+{
+  "common": {
+    "appName": "Zinvest",
+    "coins": "Tangalar",
+    "streak": "Seriya",
+    "streakDays": "Kunlik seriya",
+    "soon": "Tez orada",
+    "loading": "Yuklanmoqda…",
+    "open": "Ochish",
+    "back": "Orqaga",
+    "setGoal": "Maqsad qo‘yish",
+    "viewPlan": "Rejani ochish",
+    "unranked": "Reytingsiz",
+    "nothingYet": "Bu yerda hozircha bo‘sh.",
+    "comingSoon": "Tez orada",
+    "delete": "O‘chirish",
+    "cancel": "Bekor qilish",
+    "save": "Saqlash",
+    "close": "Yopish",
+    "weekday": {
+      "mo": "Du",
+      "tu": "Se",
+      "we": "Ch",
+      "th": "Pa",
+      "fr": "Ju",
+      "sa": "Sh",
+      "su": "Ya"
+    },
+    "darkMode": "Tungi rejimga o‘tish",
+    "lightMode": "Kunduzgi rejimga o‘tish",
+    "changeLanguage": "Tilni o‘zgartirish",
+    "progress": "Natijalar",
+    "clearSearch": "Qidiruvni tozalash",
+    "add": "Qo‘shish"
+  },
+  "nav": {
+    "howItWorks": "Qanday ishlaydi",
+    "learning": "O‘qish",
+    "learningPaths": "Yo‘nalishlar",
+    "whoItsFor": "Kim uchun",
+    "zinvestAI": "Zinvest AI",
+    "main": "Asosiy",
+    "practice": "Amaliyot",
+    "tools": "Vositalar",
+    "progress": "Natijalar",
+    "today": "Bugun",
+    "studyPlan": "O‘quv reja",
+    "units": "Bo‘limlar",
+    "drills": "Mashqlar",
+    "mockTests": "Sinov testlar",
+    "myStartup": "Mening startapim",
+    "cashFlow": "Pul oqimi",
+    "scoreMap": "Ball xaritasi",
+    "leaderboard": "Reyting",
+    "plans": "Tariflar",
+    "profile": "Profil",
+    "keepStreakTitle": "Seriyani saqlang",
+    "keepStreakSub": "Bugun bitta marshrut.",
+    "login": "Kirish",
+    "register": "Ro‘yxatdan o‘tish",
+    "dashboard": "Kabinet",
+    "logout": "Chiqish",
+    "notes": "Qaydlar",
+    "lessons": "Darslar",
+    "settings": "Sozlamalar",
+    "menu": "Menyu",
+    "closeMenu": "Menyuni yopish",
+    "backHome": "Zinvestga qaytish",
+    "collapseSidebar": "Menyuni yig‘ish",
+    "expandSidebar": "Menyuni yoyish",
+    "learn": "O‘rganish",
+    "try": "Sinab ko‘rish",
+    "faq": "Savollar"
+  },
+  "landing": {
+    "titlePre": "Moliya",
+    "titleAccent": "oddiy tilda.",
+    "subtitle": "Investitsiya, byudjet va startap moliyasi. Yo‘lboshchi har qadamni tushuntiradi, so‘ng uni siz bilan birga mashq qiladi.",
+    "startPreparation": "Rejamni tuzish",
+    "seePlatform": "Platformani ko‘rish",
+    "scrollHint": "Bu qanday ishlaydi",
+    "how": {
+      "eyebrow": "Qanday ishlaydi",
+      "title": "Sizga mos rejagacha to‘rt qadam",
+      "subtitle": "Hech narsani sozlash va darajangizni taxmin qilish shart emas. Bir necha savolga javob bering — tartibni Zinvest o‘zi tuzadi.",
+      "step": "{n}-qadam",
+      "s1": {
+        "title": "O‘nta savol",
+        "body": "Beshtasi siz haqingizda, beshtasi bilimni tekshirish uchun. Taxminan besh daqiqa, istalgan savolni o‘tkazib yuborish mumkin."
+      },
+      "s2": {
+        "title": "AI reja tuzadi",
+        "body": "Zinvest darajangizni aniqlaydi va darslarni topilgan bo‘shliqlar atrofida tartiblaydi — har birida nega shu yerdaligi yozilgan."
+      },
+      "s3": {
+        "title": "Kanvasda o‘rganing",
+        "body": "Har bir dars — bo‘lingan ekran: bir tomonda tushuntirish, ikkinchisida sizning ish maydoningiz. Qaydlar yozayotganda saqlanadi."
+      },
+      "s4": {
+        "title": "Ketma-ketlikni saqlang",
+        "body": "Darsni tugating yoki modul testidan o‘ting — kun hisoblanadi. Tangalar, ketma-ketlik va progress birga o‘sadi."
+      }
+    },
+    "plan": {
+      "eyebrow": "O‘quv rejasi",
+      "title": "Faqat siz uchun tuzilgan reja",
+      "subtitle": "Hamma turli bilim bilan keladi. Rejangiz qat’iy dastur atrofida emas, sizda yetishmayotgani atrofida tuziladi.",
+      "b1": {
+        "title": "Bo‘shliqlaringiz atrofida",
+        "body": "Risk va daromad savolida adashsangiz — mavzu yuqoriga chiqadi. Balansni bilsangiz — orqaga suriladi."
+      },
+      "b2": {
+        "title": "Har qadamning sababi bor",
+        "body": "Rejadagi har bir dars yonida AI uni nega shu yerga qo‘ygani oddiy tilda yozilgan."
+      },
+      "b3": {
+        "title": "Istagan payt qayta tuzing",
+        "body": "Sozlamalar → O‘quv rejasi testni qaytadan o‘tkazadi va yo‘nalish o‘sishingizga moslashadi."
+      },
+      "b4": {
+        "title": "Yoki rejadan chiqing",
+        "body": "Butun kutubxona birinchi kundan ochiq. Reja — bu tavsiya, qulf emas."
+      },
+      "mockTitle": "Sizning rejangiz",
+      "mockLevel": "O‘rta",
+      "mockDone": "Tugatilgan",
+      "mockCurrent": "Siz shu yerdasiz",
+      "mockWhy": "Nega keyingisi shu",
+      "mockReason": "Murakkab foiz bo‘yicha ikkala savolga ham xato javob berdingiz, shuning uchun bu indeks fondlaridan oldin keladi.",
+      "cta": "Rejamni tuzish"
+    },
+    "curriculum": {
+      "eyebrow": "Nimani o‘rganasiz",
+      "title": "Pul, bozorlar va ular ortidagi raqamlar",
+      "subtitle": "O‘n bitta blok kerakli tartibda: moliya nima, pulning vaqt bo‘yicha qiymati, byudjet, jamg‘arma, kredit, banklar, daromad, sug‘urta, soliqlar, maqsadlar va iqtisodiyotga kirish.",
+      "u1": {
+        "title": "Moliya nima?",
+        "body": "Asosiy tushunchalar va moliyaning uch ustuni.",
+        "l": "Moliyaning Ta'rifi · Moliyaning Uch Ustuni · Moliya Nima Uchun Muhim? · Moliya, Iqtisodiyot va Buxgalteriya"
+      },
+      "u2": {
+        "title": "Aktivlarni baholash va pulning vaqt qiymati",
+        "body": "Nega bugungi pul ertangidan qimmatroq.",
+        "l": "Pulning vaqt qiymati · Joriy qiymat (PV) · Kelajak qiymati (FV) · Kapital alternativ xarajatlari · Aktivlarni baholash · Risk va daromad"
+      },
+      "u3": {
+        "title": "Shaxsiy byudjet va pul oqimi",
+        "body": "Pulingiz qayerga ketayotganini nazorat qiling.",
+        "l": "Byudjet nima? · Daromad va xarajatlarni tasniflash · 50/30/20 qoidasi · Favqulodda fond · Qarz va kredit tuzog'i · Shaxsiy byudjet tizimini qurish"
+      },
+      "u4": {
+        "title": "Pulni jamg‘arish va ko‘paytirish",
+        "body": "Depozitlar, murakkab foiz va jamg‘arma tizimi.",
+        "l": "Faqat tejash yetarlimi? · Bank depozitlari · Murakkab foiz amalda · Bankdan tashqari tejash vositalari · Tejash tizimini qurish · Keng tarqalgan xatolar"
+      },
+      "more": {
+        "title": "Yana yettita blok",
+        "body": "Kredit va qarzlar, bank tizimi, daromad, sug‘urta, soliqlar, moliyaviy maqsadlar va iqtisodiyotga kirish.",
+        "cta": "Mavzu taklif qilish"
+      }
+    },
+    "who": {
+      "eyebrow": "Kimlar uchun",
+      "title": "Maktabda buni o‘rgatishmaganlar uchun",
+      "subtitle": "To‘rtta boshlanish nuqtasi, har biriga alohida reja. Test qaysi biriga yaqinligingizni aniqlaydi.",
+      "w1": {
+        "title": "Talabalarga",
+        "body": "Buni sizga hech qachon o‘rgatishmagan. «Pul nima?» dan boshlang va yuqoriga chiqing — oldindan bilim talab qilinmaydi."
+      },
+      "w2": {
+        "title": "Birinchi maosh",
+        "body": "Pul keldi, lekin u bilan nima qilishni hech kim aytmadi. Byudjet, zaxira jamg‘arma, indeksdagi birinchi pozitsiya."
+      },
+      "w3": {
+        "title": "Asoschilar va operatorlarga",
+        "body": "Runway, burn, yunit-iqtisod va uchta hisobot — investor qo‘ng‘iroqda so‘raydigan raqamlar."
+      },
+      "w4": {
+        "title": "Mustaqil investorlarga",
+        "body": "Yarmini allaqachon bilasiz. Test bo‘shliqlarni topadi va bilganingizni o‘tkazib yuboradi."
+      }
+    },
+    "ai": {
+      "eyebrow": "Zinvest AI",
+      "title": "Progressingizni ko‘rib turgan maslahatchi",
+      "subtitle": "Zinvest AI o‘quv rejangizni tuzadi va darslar hamda startapingiz raqamlari bo‘yicha savollarga javob beradi.",
+      "f1": {
+        "title": "Reja tuzadi",
+        "body": "Testni baholaydi, darajangizni belgilaydi va darslarni shunga qarab tartiblaydi."
+      },
+      "f2": {
+        "title": "Kontekst bilan javob beradi",
+        "body": "O‘tgan har qanday mavzuni so‘rang — murakkab foiz, burn rate, esda qolmayotgan koeffitsiyent."
+      },
+      "f3": {
+        "title": "So‘rovga ko‘ra qayta tuzadi",
+        "body": "Ro‘yxatdan o‘tganingizdan beri o‘sdingizmi? Testni qayta oling — yo‘nalish qayta tuziladi."
+      },
+      "chatQ": "Nega runway men hisoblaganimdan qisqa?",
+      "chatA": "Chunki burn faqat maosh emas. Xizmatlar, pudratchilar va to‘lov komissiyalarini qo‘shing — birinchi hisob-kitoblarda odatda uchalasi ham tushib qoladi va birgalikda bir-ikki oyni yeb qo‘yadi.",
+      "quota": "Bepul, oylik limit bilan"
+    },
+    "faq": {
+      "eyebrow": "Savollar",
+      "title": "Ro‘yxatdan o‘tishdan oldin",
+      "q1": {
+        "q": "Moliyaviy bilim kerakmi?",
+        "a": "Yo‘q. 01-modul pul nima va nega qiymatga ega ekanidan boshlanadi. Test aynan yangi boshlovchi kurs o‘rtasiga tushib qolmasligi uchun bor."
+      },
+      "q2": {
+        "q": "AI darajani xato aniqlasa-chi?",
+        "a": "Sozlamalar → O‘quv rejasi bo‘limida testni qayta topshiring, reja qaytadan tuziladi. Modullar tartibi o‘zgarmaydi: keyingisi oldingi modul testidan o‘tganingizda ochiladi."
+      },
+      "q3": {
+        "q": "Test uzoqmi?",
+        "a": "O‘nta savol: beshtasi siz haqingizda, beshtasi bilimni tekshirish uchun. Taxminan besh daqiqa, istalgan savolni yoki butun testni o‘tkazib yuborish mumkin."
+      },
+      "q4": {
+        "q": "Ketma-ketlik nimani sanaydi?",
+        "a": "Kun darsni tugatganingizda yoki modul testidan o‘tganingizda hisoblanadi. Shunchaki ilovani ochish yetarli emas."
+      },
+      "q5": {
+        "q": "Qayd yuritsam bo‘ladimi?",
+        "a": "Ha — qaydlar dars yonida ochiladi, yozayotganingizda hisobingizga saqlanadi va alohida sahifada to‘planadi."
+      },
+      "q6": {
+        "q": "Qaysi tillarda?",
+        "a": "Interfeys ingliz, rus va o‘zbek tillarida. Yuqoridagi paneldan istagan payt almashtirasiz."
+      }
+    },
+    "cta": {
+      "title": "Nima yetishmayotganini bilib oling",
+      "subtitle": "Bir necha savol, besh daqiqa — va aynan siz turgan joydan boshlanadigan o‘quv rejasi.",
+      "primary": "Bepul boshlash",
+      "secondary": "Hisobim bor",
+      "note": "Karta kerak emas. Sinov taymeri yo‘q."
+    },
+    "footer": {
+      "tagline": "Moliyaviy savodxonlik — hali bilmaganingiz atrofida tuzilgan.",
+      "product": "Mahsulot",
+      "learn": "O‘qish",
+      "company": "Kompaniya",
+      "about": "Biz haqimizda",
+      "contact": "Aloqa",
+      "privacy": "Maxfiylik",
+      "terms": "Shartlar",
+      "rights": "© {year} Zinvest. Barcha huquqlar himoyalangan."
+    },
+    "includes": {
+      "plan": "Shaxsiy reja",
+      "lessons": "Amaliy mashq",
+      "progress": "Progress ko‘rinadi"
+    },
+    "stage": {
+      "lesson": {
+        "label": "Bugungi dars",
+        "title": "ETF asoslari",
+        "meta": "8 daqiqa"
+      },
+      "streak": {
+        "value": "7",
+        "label": "kun ketma-ket"
+      },
+      "portfolio": {
+        "label": "Portfel",
+        "value": "+4,8%",
+        "meta": "Mashq"
+      }
+    }
+  },
+  "dashboard": {
+    "learningProgress": "O‘quv progressi",
+    "lessonsCompleted": "Darslar tugatildi",
+    "unitsCompleted": "Bo‘limlar tugatildi",
+    "allLessonsInUnit": "Bo‘limdagi barcha darslar",
+    "quizzesDone": "Testlar bajarildi",
+    "unitTestsFinished": "Yakunlangan testlar",
+    "bestScore": "Eng yaxshi natija",
+    "highestAcrossUnits": "Bo‘limlar bo‘yicha eng yuqori",
+    "route04": "Zinvest AI dan so‘rash",
+    "myStartup": "Mening startapim",
+    "spendingFinances": "Xarajat va moliya",
+    "revenue": "Daromad",
+    "spending": "Xarajat",
+    "net": "Sof",
+    "noEntries": "Hozircha yozuv yo‘q — startapingizni kuzating.",
+    "cashFlowTitle": "Pul oqimi",
+    "studioForecast": "Studiya va prognoz",
+    "cashFlowDesc": "Zaxira muddatini rejalashtiring, ssenariylarni modellashtiring va AI risk tahlilini oling.",
+    "selectUnit": "Bo‘limni tanlash",
+    "allTopics": "Barcha mavzular",
+    "startUnitTest": "Testni boshlash",
+    "coinsEarned": "Yig‘ilgan tangalar",
+    "weeklyProgress": "Haftalik progress",
+    "myNotes": "Mening eslatmalarim",
+    "financialGoal": "Moliyaviy maqsad",
+    "setTargetScore": "Maqsadli ballni belgilash",
+    "goalHint": "Buni haqiqiy progress kuzatuviga aylantirish uchun maqsad tanlang.",
+    "todaysTasks": "Bugungi vazifalar",
+    "viewPlan": "Rejani ochish",
+    "taskUnitTest": "Bo‘lim testini bajarish",
+    "taskStudyLesson": "Dars o‘rganish",
+    "taskStudyPlan": "O‘quv reja tuzish",
+    "tabProgress": "Natijalar",
+    "tabTasks": "Vazifalar",
+    "noTasks": "Hozircha vazifa yo‘q — quyida qo‘shing.",
+    "addTask": "Vazifa qo‘shish",
+    "addTaskPlaceholder": "Vazifa qo‘shing…",
+    "goalComingSoon": "Maqsadlarni kuzatish tez orada. Hozircha ketma-ketligingizni saqlang.",
+    "streakBest": "Rekord {n}",
+    "streakEarnedToday": "Bugungi kun hisobga olindi.",
+    "streakPendingToday": "Ketma-ketlikni saqlash uchun darsni tugating."
+  },
+  "study": {
+    "title": "O‘quv reja",
+    "subtitle": "Yo‘ldan boring — tugun ortidan tugun.",
+    "unitTest": "Bo‘lim testi",
+    "locked": "Qulflangan",
+    "start": "Boshlash",
+    "review": "Takrorlash",
+    "scrollHint": "Aylantirishda davom eting — keyingi bo‘lim shundoq ortidan keladi.",
+    "unitLocked": "Ochish uchun oldingi bo‘lim testini yakunlang",
+    "personaliseTitle": "Rejani moslashtiring",
+    "personaliseBody": "Bir nechta savolga javob bering — darslarni maqsadingizga moslaymiz."
+  },
+  "lesson": {
+    "back": "Orqaga",
+    "complete": "Bajarildi deb belgilash",
+    "completed": "Bajarildi",
+    "next": "Keyingi dars",
+    "previous": "Oldingi",
+    "contentSoon": "Dars mazmuni tez orada.",
+    "save": "Saqlash",
+    "saving": "Saqlanmoqda…",
+    "saved": "Saqlandi",
+    "unsaved": "Saqlanmagan o‘zgarishlar",
+    "leaveTitle": "Saqlanmagan o‘zgarishlar",
+    "leaveMessage": "Sizda saqlanmagan o‘zgarishlar bor. Saqlamasdan chiqishni xohlaysizmi?",
+    "leaveConfirm": "Chiqish",
+    "leaveCancel": "Qolish",
+    "author": {
+      "edit": "Darsni tahrirlash",
+      "editHint": "Dars matni va jadvallarini barcha o‘quvchilar uchun o‘zgartirish",
+      "banner": "Siz darsni hamma uchun tahrirlayapsiz · versiya: {lang}",
+      "titleLabel": "Dars nomi",
+      "cancel": "Bekor qilish",
+      "publish": "E’lon qilish",
+      "publishing": "E’lon qilinmoqda…",
+      "published": "Dars yangilandi",
+      "langs": {
+        "ru": "Русский",
+        "en": "English",
+        "uz": "O‘zbekcha"
+      }
+    }
+  },
+  "avatar": {
+    "comingSoon": "Audio va AI avatar integratsiyasi tez orada",
+    "subtitle": "Bu panel interaktiv murabbiy uchun ajratilgan."
+  },
+  "ai": {
+    "title": "Zinvest AI",
+    "subtitle": "Moliyaviy murabbiyingiz",
+    "placeholder": "Investitsiya, byudjet yoki startap moliyasi haqida so‘rang…",
+    "ask": "So‘rash",
+    "thinking": "O‘ylayapman…"
+  },
+  "errors": {
+    "generic": "Nimadir noto‘g‘ri ketdi.",
+    "locked": "Bu kontent qulflangan.",
+    "serverDown": "Server hozir javob bermayapti. Internetni tekshiring yoki bir daqiqadan so‘ng qayta urinib ko‘ring."
+  },
+  "notes": {
+    "preview": "Qaydni ko‘rish",
+    "previewEmpty": "Bu yerda ko‘rish uchun qayd tanlang.",
+    "allNotes": "Barcha qaydlar",
+    "newNote": "Yangi qayd",
+    "search": "Qaydlarni qidirish",
+    "openEditor": "Muharrirni ochish",
+    "edited": "{when} tahrirlangan",
+    "pin": "Qadash",
+    "unpin": "Qadashni bekor qilish",
+    "emptyBody": "Bu qayd bo‘sh.",
+    "emptyTitle": "Hozircha qayd yo‘q",
+    "emptyMessage": "Qaydlar darslar bilan bir xil muharrirdan foydalanadi — hammasini bir joyda yozing va formatlang.",
+    "noMatches": "Mos qayd topilmadi",
+    "noMatchesHint": "Boshqa so‘rovni sinab ko‘ring.",
+    "deleteTitle": "Qayd o‘chirilsinmi?",
+    "deleteMessage": "“{title}” butunlay o‘chiriladi. Buni qaytarib bo‘lmaydi.",
+    "untitled": "Nomsiz qayd",
+    "saved": "Saqlandi",
+    "saving": "Saqlanmoqda…",
+    "unsaved": "Saqlanmagan o‘zgarishlar",
+    "saveFailed": "Saqlab bo‘lmadi",
+    "notFound": "Bu qayd endi mavjud emas.",
+    "resize": "Sahifa kengligini o‘zgartirish uchun torting",
+    "newNoteTip": "Yangi qayd yaratib, yozishni boshlang",
+    "saveTip": "Qaydni saqlash (⌘S)",
+    "openHint": "Ochish uchun ikki marta bosing"
+  },
+  "lessons": {
+    "browseHint": "Barcha darslar, istalgan tartibda. O‘quv rejasi — yo‘naltirilgan marshrut.",
+    "search": "Darslarni qidirish",
+    "noMatches": "Mos dars topilmadi",
+    "minutes": "{n} daq"
+  },
+  "onboarding": {
+    "aboutYou": "Siz haqingizda",
+    "knowledgeCheck": "Bilim sinovi",
+    "next": "Davom etish",
+    "finish": "Rejamni tuzish",
+    "building": "Tuzilmoqda…",
+    "skip": "Hozircha o‘tkazib yuborish",
+    "readyTitle": "Rejangiz tayyor",
+    "readyBody": "Darajangiz {level} deb belgilandi — sinov natijasi {score}%.",
+    "planSummary": "Siz uchun tartiblangan {n} ta dars.",
+    "planDefault": "Hozircha kursning standart tartibiga amal qilamiz.",
+    "startLearning": "O‘qishni boshlash",
+    "level": {
+      "beginner": "boshlang‘ich",
+      "intermediate": "o‘rta",
+      "advanced": "yuqori"
+    },
+    "intro": "Sizga mos reja tuzish uchun 10 ta qisqa savol. Istalganini o‘tkazib yuborish mumkin.",
+    "introGoogle": "Xush kelibsiz! Sizga mos reja tuzish uchun 10 ta qisqa savol. Istalganini o‘tkazib yuborish mumkin.",
+    "skipAll": "Hammasini o‘tkazib yuborish",
+    "skipQuestion": "Savolni o‘tkazib yuborish",
+    "skipAndFinish": "O‘tkazib yuborib yakunlash",
+    "buildingTitle": "Rejangizni tuzyapman",
+    "steps": {
+      "s1": "Javoblaringizni o‘qiyapman",
+      "s2": "Darajangizni tanlayapman",
+      "s3": "Birinchi darslarni tanlayapman",
+      "s4": "Deyarli tayyor…"
+    },
+    "buildingNote": "Odatda 15 soniyagacha"
+  },
+  "settings": {
+    "studyPlan": "O‘quv rejasi",
+    "studyPlanHint": "Baholashni qayta o‘ting yoki oxirgi javoblaringiz asosida rejani qayta tuzing.",
+    "planAi": "Shaxsiylashtirilgan",
+    "planDefault": "Standart tartib",
+    "level": "Daraja",
+    "quizScore": "Sinov natijasi",
+    "lessons": "Darslar",
+    "takeAssessment": "Baholashni o‘tish",
+    "retakeAssessment": "Qayta o‘tish",
+    "regenerate": "Rejani qayta tuzish",
+    "profile": "Profil",
+    "account": "Hisob",
+    "appearance": "Ko‘rinish",
+    "firstName": "Ism",
+    "lastName": "Familiya",
+    "uploadPicture": "Rasm yuklash",
+    "changePicture": "Rasmni almashtirish",
+    "pictureHint": "PNG, JPEG, GIF yoki WebP — 2 MB gacha.",
+    "saving": "Saqlanmoqda…",
+    "saved": "Saqlandi",
+    "email": "Elektron pochta",
+    "changeEmail": "O‘zgartirish",
+    "newEmail": "Yangi pochta",
+    "updateEmail": "Pochtani yangilash",
+    "emailUpdated": "Pochta yangilandi.",
+    "emailPending": "{email} manziliga havola yubordik. Uni ochganingizda pochta o‘zgaradi, ungacha eski manzil bilan kirasiz.",
+    "emailMoved": "Tayyor: hisob endi {email} manzilida. Barcha seanslar yakunlandi — yangi manzil bilan kiring.",
+    "password": "Parol",
+    "currentPassword": "Joriy parol",
+    "newPassword": "Yangi parol",
+    "confirmPassword": "Yangi parolni tasdiqlang",
+    "updatePassword": "Parolni yangilash",
+    "passwordUpdated": "Parol yangilandi — boshqa qurilmalardan chiqildi.",
+    "passwordMismatch": "Parollar mos kelmadi.",
+    "passwordHint": "Parolni o‘zgartirish barcha boshqa qurilmalardan chiqaradi.",
+    "theme": "Mavzu",
+    "theme_light": "Yorug‘",
+    "theme_dark": "Tungi",
+    "theme_system": "Tizim",
+    "brandColor": "Asosiy rang",
+    "customColor": "O‘zim",
+    "resetColor": "Tiklash",
+    "color_blue": "Ko‘k",
+    "color_violet": "Binafsha",
+    "color_emerald": "Zumrad",
+    "color_amber": "Kahrabo",
+    "color_rose": "Pushti",
+    "color_slate": "Kulrang",
+    "privacy": "Maxfiylik va xavfsizlik",
+    "privacyHint": "Qayerdan kirganingizni ko‘ring va ma’lumotlaringizni boshqaring.",
+    "profileHint": "Zinvest bo‘ylab ko‘rinadigan rasm va ismingiz.",
+    "accountHint": "Kirish uchun pochta va parol.",
+    "appearanceHint": "Bu hisobda Zinvest qanday ko‘rinadi.",
+    "brandColorHint": "Tugma, havola va ajratmalar rangini hamma joyda o‘zgartiradi.",
+    "pendingBadge": "Yangi",
+    "discard": "Bekor qilish",
+    "sessions": "Qayerdan kirgansiz",
+    "thisDevice": "Shu qurilma",
+    "signedIn": "{when} kirilgan",
+    "signOut": "Chiqish",
+    "signOutOthers": "Boshqa {n} ta qurilmadan chiqish",
+    "deleteAccount": "Hisobni o‘chirish",
+    "deleteAccountHint": "Hisob, qaydlar, vazifalar va butun o‘quv taraqqiyotini butunlay o‘chiradi. Buni qaytarib bo‘lmaydi.",
+    "deleteAccountConfirm": "Tasdiqlash uchun parolni kiriting. Hammasi darhol o‘chiriladi.",
+    "deleteForever": "Butunlay o‘chirish",
+    "yourData": "Ma’lumotlaringiz",
+    "yourDataHint": "Zinvest siz haqingizda saqlaydigan hamma narsa bitta faylda: profil, natijalar, qaydlar, «Mening startapim» va Telegram ulanishi. AI bilan yozishmalar, chek rasmlari va ovozli xabarlarni saqlamaymiz, shuning uchun ular faylda yo‘q.",
+    "downloadData": "Ma’lumotlarimni yuklab olish",
+    "preparingData": "Fayl tayyorlanmoqda…",
+    "signIn": {
+      "title": "Kirish usullari",
+      "googleOn": "Ulangan: «Google orqali davom etish» tugmasi bilan kirish mumkin",
+      "googleOff": "Shu pochta bilan Google orqali kirganingizda o‘zi ulanadi",
+      "passwordOn": "O‘rnatilgan: pochta va parol bilan kirish mumkin",
+      "passwordOff": "O‘rnatilmagan: hisob Google orqali yaratilgan",
+      "oneAccount": "Parolli pochta va xuddi shu manzilli Google bitta hisobni ochadi.",
+      "setPasswordBody": "Parol bilan ham kirmoqchimisiz? Pochtangizga parol o‘rnatish havolasini yuboramiz.",
+      "setPassword": "Havolani yuborish",
+      "linkSent": "Havola {email} manziliga yuborildi."
+    },
+    "deleteAccountConfirmEmail": "Tasdiqlash uchun emailingizni ({email}) kiriting. Hammasi darhol o‘chiriladi.",
+    "yourEmail": "Emailingiz",
+    "signInAgain": "Qaytadan kirish"
+  },
+  "auth": {
+    "login": {
+      "title": "Xush kelibsiz",
+      "subtitle": "Rejangiz to‘xtagan joydan davom eting.",
+      "submit": "Kirish",
+      "submitting": "Kirilmoqda…",
+      "noAccount": "Zinvestda yangimisiz?",
+      "createOne": "Hisob yaratish",
+      "expired": "Sessiya tugadi. Iltimos, qayta kiring.",
+      "failed": "Email yoki parol noto‘g‘ri.",
+      "forgot": "Parolni unutdingizmi?",
+      "missing": "Pochta va parolni kiriting.",
+      "codeNote": "Paroldan keyin pochtangizga kod yuboramiz: shunda hisobingizga sizdan boshqa hech kim kira olmaydi.",
+      "googleHint": "Google orqali ro‘yxatdan o‘tganmisiz? Yuqoridagi «Google orqali davom etish» tugmasini bosing yoki parolni tiklang."
+    },
+    "register": {
+      "title": "Hisob yarating",
+      "subtitle": "Pochtaga kod, keyin o‘nta qisqa savol. Istalganini o‘tkazib yuborish mumkin.",
+      "submit": "Hisob yaratish",
+      "submitting": "Yaratilmoqda…",
+      "haveAccount": "Hisobingiz bormi?",
+      "signIn": "Kirish",
+      "failed": "Ro‘yxatdan o‘tib bo‘lmadi. Ma’lumotlarni tekshiring.",
+      "terms": "Hisob yaratish orqali Shartlar va Maxfiylik siyosatiga rozilik bildirasiz.",
+      "maybeTaken": "Yangi akkauntga kirib bo‘lmadi. Ehtimol, bu pochta allaqachon ro‘yxatdan o‘tgan — kiring yoki parolni tiklang.",
+      "missing": "Ism, pochta va parolni kiriting."
+    },
+    "fields": {
+      "firstName": "Ism",
+      "lastName": "Familiya",
+      "email": "Elektron pochta",
+      "password": "Parol",
+      "emailPlaceholder": "you{'@'}example.com",
+      "passwordHint": "Kamida 10 ta belgi.",
+      "firstNamePlaceholder": "Ada",
+      "lastNamePlaceholder": "Lovleys",
+      "passwordPlaceholder": "Parol o‘ylab toping",
+      "currentPasswordPlaceholder": "Parolingiz"
+    },
+    "showPassword": "Parolni ko‘rsatish",
+    "hidePassword": "Parolni yashirish",
+    "strength": {
+      "label": "Parol kuchi",
+      "weak": "Zaif",
+      "fair": "O‘rtacha",
+      "good": "Yaxshi",
+      "strong": "Kuchli"
+    },
+    "aside": {
+      "title": "O‘quv rejangiz sizni kutmoqda.",
+      "p1": "Siz uchun tuzilgan o‘quv rejasi",
+      "p2": "Pul asoslaridan yunit-iqtisodgacha",
+      "p3": "Qaydlar yozayotganingizda o‘zi saqlanadi",
+      "p4": "Ketma-ketlik, tangalar va progress"
+    },
+    "password": {
+      "tooShort": "Parol 10 ta belgidan qisqa.",
+      "tooCommon": "Bu parol juda keng tarqalgan — uni birinchi bo‘lib topishadi. Boshqasini o‘ylab toping.",
+      "numeric": "Parol faqat raqamlardan iborat bo‘lishi mumkin emas.",
+      "similar": "Parol pochtangiz yoki ismingizga juda o‘xshash.",
+      "rules": "Bu parol mos emas: kamida 10 ta belgi bo‘lishi, faqat raqamdan iborat bo‘lmasligi, juda oddiy bo‘lmasligi va pochta yoki ismga o‘xshamasligi kerak."
+    },
+    "tabs": {
+      "label": "Kirish yoki ro‘yxatdan o‘tish",
+      "login": "Kirish",
+      "register": "Ro‘yxatdan o‘tish"
+    },
+    "or": "yoki",
+    "google": {
+      "button": "Google orqali davom etish",
+      "cancelled": "Google orqali kirish bekor qilindi.",
+      "failed": "Google orqali kirib bo‘lmadi. Qayta urinib ko‘ring.",
+      "expired": "Google orqali kirish havolasi eskirdi. Tugmani yana bosing.",
+      "unavailable": "Google orqali kirish hali sozlanmagan.",
+      "closed": "Ro‘yxatdan o‘tish hozir yopiq.",
+      "disabled": "Bu hisob o‘chirilgan.",
+      "conflict": "Bu pochta boshqa Google hisobiga bog‘langan."
+    },
+    "code": {
+      "title": "Pochtangizni tekshiring",
+      "lead": "6 xonali kodni shu manzilga yubordik:",
+      "label": "Xatdagi kod",
+      "submit": "Tasdiqlash",
+      "checking": "Tekshirilmoqda…",
+      "wrong": "Kod noto‘g‘ri. Qolgan urinishlar: {n}.",
+      "expired": "Bu kod endi ishlamaydi. Yangisini yuboring.",
+      "failed": "Kodni tekshirib bo‘lmadi. Qayta urinib ko‘ring.",
+      "sent": "Yangi kod yuborildi.",
+      "startOver": "Vaqt tugadi. Orqaga qayting va qaytadan boshlang.",
+      "change": "Pochtani o‘zgartirish",
+      "noLetter": "Xat kelmadimi?",
+      "resend": "Qayta yuborish",
+      "resendIn": "{s} soniyadan keyin qayta yuborish",
+      "spam": "Xat bo‘lmasa, «Spam» jildini tekshiring."
+    },
+    "bear": {
+      "idleLogin": "Xush kelibsiz! Sizni kutayotgandim.",
+      "idleRegister": "Salom! Keling, tanishamiz.",
+      "reading": "Hmm, yozib olyapman…",
+      "shy": "Men qaramayapman!",
+      "peek": "Mayli, bir ko‘z bilan…",
+      "code": "Kod pochtada. Kutaman!",
+      "error": "Hmm, nimadir to‘g‘ri kelmayapti.",
+      "success": "Ura, kirdingiz!"
+    },
+    "consent": {
+      "terms": "Men {terms} va {privacy}ni qabul qilaman",
+      "termsLink": "Foydalanish shartlari",
+      "privacyLink": "Maxfiylik siyosati",
+      "age": "Men 16 yoshdaman yoki undan kattaman — yoki 13–15 yoshdaman va ota-onam yoki vasiyim Zinvest’dan foydalanishga ruxsat bergan",
+      "missing": "Ro‘yxatdan o‘tish uchun quyidagi ikkala bandni belgilang.",
+      "google": "Google bilan davom etib, siz {terms} va {privacy}ni qabul qilasiz hamda 16 yoshdan katta ekaningizni yoki ota-onangiz Zinvest’dan foydalanishga ruxsat berganini tasdiqlaysiz."
+    }
+  },
+  "startup": {
+    "onboarding": {
+      "eyebrow": "Startapingiz haqida",
+      "q1": "Kompaniyangiz bozordagi qaysi aniq muammoni hal qiladi yoki mijozning qanday ehtiyojini qondiradi?",
+      "q2": "Mahsulotingiz / kompaniyangiz hozir qaysi rivojlanish bosqichida?",
+      "q3": "Asosiy mijozlaringiz kim — asosan B2B, B2C yoki ikkalasi bilan ishlaysizmi?",
+      "q4": "Kompaniya aynan qanday daromad qiladi? (masalan, obunalar, mahsulot sotish, xizmat haqi, reklama)",
+      "q5": "Kompaniyangiz haqida iloji boricha ko‘proq gapiring — jarayonlar, jamoa va maqsadlar, batafsil.",
+      "stageIdea": "G‘oya",
+      "stageMvp": "MVP",
+      "stageOperational": "To‘liq ishlayapti",
+      "b2b": "B2B — biznesdan biznesga",
+      "b2c": "B2C — biznesdan iste’molchiga",
+      "both": "Ikkalasi",
+      "textPlaceholder": "Javobingizni yozing…",
+      "analyzing": "Tahlil qilinmoqda…",
+      "next": "Keyingi",
+      "finish": "Tugatish",
+      "assessmentTitle": "Startapingiz tahlili",
+      "enterWorkspace": "Ish maydoniga o‘tish"
+    },
+    "employees": {
+      "title": "Xodimlar",
+      "subtitle": "Jamoangiz va oyliklar",
+      "add": "Qo‘shish",
+      "namePlaceholder": "Ism-familiya",
+      "rolePlaceholder": "Nima ish qiladi…",
+      "salaryPlaceholder": "Oylik maosh",
+      "empty": "Hali xodimlar yo‘q. Birinchisini qo‘shing.",
+      "changePhoto": "Rasmni o‘zgartirish",
+      "salaryShort": "Oylik",
+      "totalPayroll": "Oylik maoshlar jami"
+    },
+    "products": {
+      "title": "Mahsulotlar",
+      "subtitle": "Nima sotasiz",
+      "add": "Qo‘shish",
+      "namePlaceholder": "Mahsulot, xizmat yoki obuna",
+      "pricePlaceholder": "Narxi",
+      "empty": "Hali mahsulot yo‘q. Sotadiganingizni qo‘shing.",
+      "changeImage": "Rasmni o‘zgartirish"
+    },
+    "tasks": {
+      "title": "Vazifalar taxtasi",
+      "subtitle": "Jamoaga vazifa bering",
+      "assign": "Biriktirish",
+      "needEmployees": "Vazifa berish uchun avval xodim qo‘shing.",
+      "selectEmployee": "Xodimni tanlang",
+      "titlePlaceholder": "Vazifa…",
+      "start": "Boshlanish sanasi",
+      "end": "Tugash sanasi",
+      "empty": "Hali vazifa biriktirilmagan."
+    },
+    "advisor": {
+      "title": "AI maslahatchi",
+      "subtitle": "Butun biznesingiz bo‘yicha maslahat",
+      "presetProblems": "Biznesimda qanday muammolar bor?",
+      "presetGrowth": "Biznesim rivojlanishi uchun yo‘nalishlar ber",
+      "presetPricing": "Mahsulotlarimga qanday narx qo‘yishim kerak?",
+      "placeholder": "Biznesingiz haqida so‘rang yoki yuqoridagi savolni tanlang.",
+      "thinking": "O‘ylayapman…",
+      "inputPlaceholder": "Maslahatchidan so‘rang…"
+    },
+    "finance": {
+      "title": "Oylik moliya",
+      "subtitle": "Daromad, xarajat va sof qoldiq",
+      "income": "Daromad",
+      "expense": "Xarajat",
+      "net": "Sof",
+      "categoryPlaceholder": "Turkum",
+      "amountPlaceholder": "Miqdor",
+      "empty": "Hali yozuv yo‘q. Daromad yoki xarajat qo‘shing."
+    },
+    "todo": {
+      "title": "Vazifalar ro‘yxati",
+      "subtitle": "Biznes vazifalari",
+      "empty": "Hali qiladigan ish yo‘q.",
+      "placeholder": "Vazifa qo‘shing…"
+    },
+    "intake": {
+      "skip": "O‘tkazib yuborish",
+      "name": {
+        "q": "Loyiha qanday nomlanadi?",
+        "hint": "Ishchi nom ham bo‘ladi — keyin o‘zgartirsa bo‘ladi.",
+        "placeholder": "Masalan: Zinvest"
+      },
+      "location": {
+        "q": "Qaysi davlat va shaharda ishga tushiryapsiz?",
+        "hint": "Sun’iy intellekt talab va raqobatchilarni shu joyda qidiradi.",
+        "placeholder": "Masalan: O‘zbekiston, Toshkent"
+      },
+      "problem": {
+        "q": "Qanday muammoni hal qilasiz va u kimda bor?",
+        "hint": "Aniq bir odam yoki kompaniyani va ularni hozir nima qiynayotganini yozing.",
+        "placeholder": "Masalan: Toshkentdagi talabalar byudjet yurita olmaydi va oy oxirida pulsiz qoladi"
+      },
+      "market": {
+        "q": "Kim pul to‘laydi?",
+        "hint": "Mijoz va raqobatchilarni qanday qidirish shunga bog‘liq.",
+        "b2c": "Oddiy odamlar (B2C)",
+        "b2b": "Kompaniyalar (B2B)",
+        "both": "Ikkalasi ham"
+      },
+      "description": {
+        "q": "Mahsulot qanday ishlaydi?",
+        "hint": "Mijoz qadamma-qadam nima qiladi va oxirida nima oladi.",
+        "placeholder": "Masalan: kuniga 5 daqiqada pul haqida dars o‘tib, ball yig‘adigan mobil ilova…"
+      },
+      "alternatives": {
+        "q": "Hozir odamlar sizning o‘rningizga nimadan foydalanadi?",
+        "hint": "Siz bilgan raqobatchilar, Excel, Telegram kanallar — yoki hech narsa. O‘tkazib yuborsangiz ham bo‘ladi, sun’iy intellekt o‘zi qidiradi.",
+        "placeholder": "Masalan: YouTube videolar, bank ilovalari, hech narsa"
+      },
+      "revenue_model": {
+        "q": "Loyiha qanday daromad qiladi?",
+        "hint": "Obuna, sotuv, komissiya, reklama — bilsangiz, taxminiy narx bilan.",
+        "placeholder": "Masalan: oyiga 29 000 so‘m obuna, birinchi ikki hafta bepul"
+      },
+      "stage": {
+        "q": "Qaysi bosqichdasiz?",
+        "hint": "Halol javob — aniqroq maslahat.",
+        "idea": "Hozircha g‘oya",
+        "mvp": "Prototip / MVP bor",
+        "operational": "Ishlayapmiz, mijozlar bor"
+      },
+      "team": {
+        "q": "Jamoada necha kishi?",
+        "hint": "O‘zingiz bilan birga.",
+        "solo": "Faqat men",
+        "small": "2–5 kishi",
+        "medium": "6–20 kishi",
+        "large": "20 dan ko‘p"
+      }
+    },
+    "research": {
+      "run": "Bozorni tekshirish",
+      "eyebrow": "Bozor tekshiruvi",
+      "loadingTitle": "Bozorni o‘rganyapman",
+      "step1": "O‘xshash loyihalarni qidiryapman: {place}",
+      "step2": "Raqobatchilarni tahlil qilyapman",
+      "step3": "Talabni baholayapman",
+      "step4": "Xulosalarni yig‘yapman…",
+      "loadingNote": "Internetda qidirish 40 soniyagacha davom etadi",
+      "demand": "Loyiha kerakmi: {place}",
+      "competitors": "Raqobatchilar",
+      "gap": "Sizning o‘rningiz",
+      "risks": "Xavflar",
+      "nextSteps": "Keyingi qadamlar",
+      "sources": "Manbalar",
+      "notSearched": "Internetda qidirish hozir ishlamayapti, baho usiz qilindi. Tekshiruvni keyinroq maslahatchida takrorlang.",
+      "disclaimer": "Bu ochiq manbalar asosidagi sun’iy intellekt bahosi, bozor tadqiqoti emas. Xulosalarni haqiqiy mijozlar bilan tekshiring.",
+      "verdict": {
+        "strong": "Kuchli g‘oya",
+        "promising": "Istiqbolli",
+        "uncertain": "Tekshirish kerak",
+        "weak": "Talab past"
+      }
+    }
+  },
+  "daily": {
+    "title": "Zinvest Daily",
+    "meta": "5 ta holat · taxminan 2 daqiqa · +{coins} gacha",
+    "progress": "{total} dan {done} tasi javoblandi",
+    "right": "To‘g‘ri",
+    "wrong": "Deyarli",
+    "next": "Keyingisi",
+    "doneTitle": "Bugun {total} dan {correct} ta",
+    "doneBody": "+{coins} hisoblandi. Ertaga yangi to‘plam bo‘ladi.",
+    "reward": "+{coins} tanga · {streak} kunlik seriya"
+  },
+  "v2": {
+    "hero": {
+      "secondary": "Sinab ko‘rish"
+    },
+    "problem": {
+      "eyebrow": "Nega bu qiyin tuyuladi",
+      "lead": "Moliya murakkab emas.",
+      "leadMuted": " Murakkab qilingani — u haqida gapiriladigan til.",
+      "s1": {
+        "title": "Ma’no o‘rniga so‘zlar",
+        "body": "“Diversifikatsiya”, “likvidlik”, “multiplikator”. Har birining ortida oddiy fikr turadi, faqat uni hech kim oddiy tilga o‘girmaydi."
+      },
+      "s2": {
+        "title": "Kontekstsiz maslahat",
+        "body": "“Indeks sotib ol” — bittasi uchun yaxshi maslahat, boshqasi uchun yomon. Farqi kamdan-kam tushuntiriladi, ammo butun gap o‘sha farqda."
+      },
+      "s3": {
+        "title": "Amaliyot yo‘q",
+        "body": "Risk haqida o‘qish va riskni his qilish — boshqa-boshqa narsa. Birinchisi bir kechada bo‘ladi, ikkinchisi odatda pulga tushadi."
+      },
+      "answer": "Zinvest teskari ishlaydi: avval qaror qabul qilasiz, keyin u nimaga olib kelishini birga ko‘rib chiqamiz.",
+      "answer2": "Har bir tushuncha aynan kerak bo‘lgan daqiqada paydo bo‘ladi — siz yetib bormagan bobning uchinchi xatboshisida emas."
+    },
+    "flow": {
+      "eyebrow": "Qanday ishlaydi",
+      "title": "To‘rt qadam va doim shu tartibda",
+      "learn": {
+        "word": "Tushuning",
+        "body": "Qisqa dars bitta fikrni oddiy so‘zlar bilan tushuntiradi — yo‘l-yo‘lakay qidirish kerak bo‘ladigan atamalarsiz."
+      },
+      "practice": {
+        "word": "Sinab ko‘ring",
+        "body": "Darhol shu fikrni qo‘llash kerak bo‘lgan masala. Bu yerda xato qilish arzon, gap ham shunda."
+      },
+      "understand": {
+        "word": "Anglang",
+        "body": "Ayiq javobingizni ajratib beradi: “noto‘g‘ri” emas, balki nega aynan shunday chiqqani."
+      },
+      "apply": {
+        "word": "Qo‘llang",
+        "body": "Modul testi va o‘quv portfeli bilim maslahatlarsiz ham qolganini tekshiradi."
+      }
+    },
+    "demo": {
+      "eyebrow": "Shu yerda sinab ko‘ring",
+      "title": "Sizda $10 000 bor. Nima qilasiz?",
+      "lede": "To‘g‘ri javob yo‘q — oqibatlar bor. Tanlang va o‘n yildan keyin qayerga olib kelishini ko‘ring.",
+      "now": "Bugun",
+      "later": "{years} yildan keyin",
+      "invest": {
+        "label": "Investitsiya",
+        "hint": "Keng indeks fondi — va tegmaslik.",
+        "after": "{years} yildan keyin, agar bozor odatdagidek yursa",
+        "says": "Bu o‘sish sovg‘a emas — tushishlarga chidaganingiz uchun to‘lov. O‘n yil ichida portfel ikki marta 20–30% ga tushgan bo‘lardi va asl savol “qancha bo‘ladi” emas, “eng past nuqtada sotasizmi”."
+      },
+      "save": {
+        "label": "Jamg‘arish",
+        "hint": "Jamg‘arma hisobi, pul qo‘l ostida.",
+        "after": "{years} yildan keyin, taxminan 4% stavkada",
+        "says": "Pul joyida, bu arzimas narsa emas: ertaga olsangiz bo‘ladi. Ammo inflyatsiya ham o‘sha o‘n yil davomida ishlaydi, shuning uchun savol ekrandagi raqamda emas, o‘shanga nima olish mumkinligida."
+      },
+      "spend": {
+        "label": "Sarflash",
+        "hint": "Hozir va hozir kerak bo‘lgan narsaga.",
+        "after": "{years} yildan keyin — pul sarflangan",
+        "says": "Bu o‘z-o‘zidan xato emas. 20% li qarzni yopish yoki nihoyat zaxira yig‘ish — ko‘pincha bu pul qila oladigan eng yaxshi ish. Xato — nimadan voz kechayotganingizni bilmay sarflash."
+      },
+      "forgone": "Uchtasining eng yaxshisidan farqi: {amount}.",
+      "again": "Boshqasini tanlash",
+      "assumption": "Taxminlar: indeks uchun yiliga 7%, hisob uchun 4%. Soliq va inflyatsiyasiz.",
+      "moralLead": "Zinvest qaysi tugma to‘g‘ri ekanini aytmaydi.",
+      "moralEmph": " U ularning farqini tushuntiradi."
+    },
+    "path": {
+      "eyebrow": "O‘quv rejasi",
+      "title": "Mundarija emas, marshrut",
+      "body": "Kirish testi qayerdan boshlashingizni aniqlaydi. Keyin tartib sizning bo‘shliqlaringiz atrofida quriladi: ishonch bilan javob bergan mavzular orqaga, zaiflari oldinga suriladi.",
+      "here": "siz shu yerda",
+      "legend": {
+        "done": {
+          "term": "Tugallangan",
+          "def": "dars yopilgan, istalgan vaqtda qaytish mumkin"
+        },
+        "now": {
+          "term": "Siz shu yerda",
+          "def": "keyingi qadam, u doim bitta"
+        },
+        "check": {
+          "term": "Nazorat",
+          "def": "modul testi, maslahatlarsiz"
+        },
+        "ahead": {
+          "term": "Oldinda",
+          "def": "ochiq, lekin hali erta"
+        }
+      },
+      "n1": {
+        "title": "Pul nima",
+        "meta": "Moliya asoslari · 6 daq"
+      },
+      "n2": {
+        "title": "Aktiv va passivlar",
+        "meta": "Moliya asoslari · 8 daq"
+      },
+      "n3": {
+        "title": "Risk va daromad",
+        "meta": "Investitsiya asoslari · 9 daq"
+      },
+      "n4": {
+        "title": "Modul testi",
+        "meta": "10 savol · maslahatsiz"
+      },
+      "n5": {
+        "title": "Indeks fondlari va ETF",
+        "meta": "Investitsiya asoslari · 11 daq"
+      },
+      "n6": {
+        "title": "Yunit-iqtisodiyot",
+        "meta": "Moliyaviy tahlil · 12 daq"
+      }
+    },
+    "ai": {
+      "eyebrow": "Zinvest AI",
+      "title": "Kerak bo‘lsa, yana bir bor tushuntiradi",
+      "body": "U qaysi darsda ekaningizni va o‘tgan safar qayerda xato qilganingizni biladi, shuning uchun o‘rtacha savolga emas, sizning savolingizga javob beradi.",
+      "nudge": "Javob ostidagi istalgan tugmani bosing — javob o‘zgaradi.",
+      "context": "04-dars · Indeks fondlari",
+      "q": "Nega alohida aksiya emas, ETF?",
+      "a": "Bitta ETF — bu bir vaqtning o‘zida yuzlab kompaniyadan iborat savat. Ulardan biri qulasa, siz butun mablag‘ni emas, o‘sha ulushni yo‘qotasiz. Siz “eng yaxshi kompaniya”ni emas, butun bozorni va uning o‘rtacha o‘sishini sotib olasiz.",
+      "a_simpler": "Tuxum patnisini tasavvur qiling. Alohida aksiya — bitta tuxum: sindi, nonushta yo‘q. ETF — butun patnis: bittasi sindi, qolgani joyida.",
+      "a_example": "2020-yil boshida bitta aviakompaniya aksiyasiga qo‘yilgan $1 000 ikki oyda taxminan $400 ga aylanardi. O‘sha $1 000 keng indeksda — taxminan $700, va yil oxiriga boshlang‘ich summadan ham yuqori qaytardi.",
+      "a_quiz": "Yaxshi. Siz 500 ta yirik kompaniya ETF sini oldingiz va ulardan biri bankrot bo‘ldi. Pulingizga nima bo‘ladi?",
+      "quizOpt1": "Qo‘ygan hamma pulimni yo‘qotaman",
+      "quizOpt2": "Faqat o‘sha ulushni yo‘qotaman",
+      "quizRight": "Ha. Uning indeksdagi og‘irligi foizning ulushi, fond esa uni keyingi kompaniya bilan almashtiradi.",
+      "quizWrong": "Unchalik emas: mablag' 500 ta kompaniyaga taqsimlangan, shuning uchun ulardan biri — butun mablag' emas, foizning ulushi.",
+      "thinking": "Yozmoqda",
+      "chip": {
+        "simpler": "Soddaroq",
+        "example": "Misol",
+        "quiz": "Meni sina"
+      }
+    },
+    "bear": {
+      "eyebrow": "Sizning yo‘lboshchingiz",
+      "title": "Haqiqatan tushuntiradigan ayiq",
+      "body": "U bosh sahifaga qo‘yilgan talisman emas. U testdan keyin javobingizni ajratib beradigan, Telegramda seriyani eslatadigan va modulni yopganingizda quvonadigan qahramon.",
+      "w1": "Darsda — fikrni tushuntiradi va yo‘l-yo‘lakay savol beradi.",
+      "w2": "Xatodan keyin — shunchaki “noto‘g‘ri” emas, nega shunday chiqqanini aytadi.",
+      "w3": "Telegramda — Daily yuboradi va qayerda to‘xtaganingizni eslaydi."
+    },
+    "progress": {
+      "eyebrow": "Natija",
+      "title": "Faqat haqiqatan qilgan ishingiz hisoblanadi",
+      "body": "Seriya, tangalar va liga tugallangan darslar, testlar va kunlik savollardan o‘sadi. Ularni sotib olib bo‘lmaydi.",
+      "streak": {
+        "label": "Seriya",
+        "value": "7 kun",
+        "note": "kuniga bitta dars yetarli"
+      },
+      "coins": {
+        "label": "Tangalar",
+        "value": "420",
+        "note": "darslar, testlar va Daily uchun"
+      },
+      "league": {
+        "label": "Liga",
+        "value": "Kumush",
+        "note": "haftalik, hamma bilan birga"
+      },
+      "unit": {
+        "label": "Modul",
+        "value": "72%",
+        "note": "Investitsiya asoslari"
+      }
+    }
+  },
+  "notFound": {
+    "title": "Bunday sahifa yo‘q",
+    "body": "Havolada xato bo‘lishi yoki sahifa o‘chirilgan bo‘lishi mumkin. Ayiq ham uni topa olmadi.",
+    "toHome": "Bosh sahifaga",
+    "toApp": "Kabinetga"
+  },
+  "titles": {
+    "tagline": "moliyaviy savodxonlik oddiy tilda"
+  },
+  "v3": {
+    "hero": {
+      "badge": "O‘quvchi va talabalar uchun moliyaviy savodxonlik",
+      "title": "Pulni tushunib oling —",
+      "accent": "har kuni ozgina",
+      "body": "Qisqa darslar, hayotiy misollardagi masalalar va javob nega aynan shunday ekanini tushuntiradigan ayiq-ustoz.",
+      "start": "Bepul boshlash",
+      "login": "Menda allaqachon hisob bor",
+      "trust1": "Kartasiz",
+      "trust2": "3 til",
+      "trust3": "Telegram bot",
+      "chipStreak": "7 kun ketma-ket",
+      "chipCoins": "+10 tanga",
+      "chipLessonLabel": "Dars",
+      "chipLesson": "Xavfsizlik yostig‘i"
+    },
+    "topics": {
+      "label": "Dars mavzulari",
+      "budget": "Byudjet",
+      "emergency": "Xavfsizlik yostig‘i",
+      "investing": "Investitsiyalar",
+      "credit": "Kredit va muddatli to‘lov",
+      "goals": "Moliyaviy maqsadlar",
+      "startup": "O‘z biznesingiz",
+      "inflation": "Inflyatsiya",
+      "saving": "Jamg‘arma"
+    },
+    "steps": {
+      "eyebrow": "Qanday ishlaydi",
+      "title": "Uch qadam — va fikr yodda qoladi",
+      "s1": {
+        "word": "Tushuning",
+        "body": "Qisqa dars bitta fikrni oddiy so‘zlar bilan tushuntiradi — qidirib o‘tirish kerak bo‘lgan atamalarsiz."
+      },
+      "s2": {
+        "word": "Sinab ko‘ring",
+        "body": "Darhol shu fikrni qo‘llash kerak bo‘lgan masala. Bu yerda xato arzon — butun gap shunda."
+      },
+      "s3": {
+        "word": "Anglab oling",
+        "body": "Ayiq javobingizni tahlil qiladi: shunchaki «noto‘g‘ri» emas, balki nega aynan shunday bo‘lganini."
+      }
+    },
+    "lesson": {
+      "eyebrow": "Shu yerda sinab ko‘ring",
+      "title": "Dars mana bunday bo‘ladi",
+      "body": "Haqiqiy darslardan uchta savol. Javob bering — ayiq hammasini tushuntiradi.",
+      "p1": "Hayotiy misollar — so‘mda",
+      "p2": "Har bir javobdan keyin tahlil",
+      "p3": "Darslar uchun tangalar va seriya",
+      "pick": "Javobni tanlang",
+      "check": "Tekshirish",
+      "next": "Davom etish",
+      "right": "Ajoyib!",
+      "wrong": "Unchalik emas",
+      "close": "Darsni qaytadan boshlash",
+      "progress": "{total} tadan {n}-savol",
+      "doneTitle": "Dars tugadi!",
+      "doneBody": "{total} tadan {n} tasi to‘g‘ri. Zinvestda bunday darslardan butun bir yo‘l bor.",
+      "again": "Qaytadan",
+      "cta": "Zinvestda davom etish",
+      "q1": {
+        "q": "Stipendiya oldingiz. Birinchi navbatda nima qilgan ma’qul?",
+        "a1": "Anchadan beri xohlagan narsaga sarflash",
+        "a2": "Bir qismini «xavfsizlik yostig‘i»ga ajratish",
+        "a3": "Do‘stga qarz berish — qaytaradi-ku",
+        "why": "Xavfsizlik yostig‘i — kutilmagan holatlar uchun pul: telefon buzilsa, kasal bo‘lsangiz. Avval bir qismini ajratamiz, keyin qolganini xotirjam sarflaymiz."
+      },
+      "q2": {
+        "q": "Telefon narxi 3 000 000 so‘m. Muddatli to‘lovda — 300 000 so‘mdan 12 marta. Qancha ortiqcha to‘laysiz?",
+        "a1": "Hech narsa, summa bir xil",
+        "a2": "300 000 so‘m",
+        "a3": "600 000 so‘m",
+        "why": "12 × 300 000 = 3 600 000 so‘m — narxdan 600 000 ko‘p. Muddatli to‘lovning «qulayligi» shuncha turadi."
+      },
+      "q3": {
+        "q": "Inflyatsiya nima?",
+        "a1": "Narxlar oshib, o‘sha pulga kamroq narsa olish mumkin bo‘ladi",
+        "a2": "Bank omonat uchun to‘laydigan foiz",
+        "a3": "Har bir xariddan olinadigan soliq",
+        "why": "Agar narxlar bir yilda 10% oshsa, bir yildan keyin 100 000 so‘mga bugun taxminan 91 000 turadigan narsani olasiz."
+      }
+    },
+    "path": {
+      "eyebrow": "Sizning yo‘lingiz",
+      "unit1": "1-bo‘lim · Moliya asoslari",
+      "unit2": "2-bo‘lim · Investitsiya asoslari",
+      "start": "Boshlash",
+      "p1": "Kirish testi qayerdan boshlashingizni belgilaydi",
+      "p2": "Zaif mavzular oldinga ko‘tariladi",
+      "p3": "Bo‘lim oxirida — yordamsiz test",
+      "done": "O‘tildi",
+      "now": "Keyingi dars",
+      "ahead": "Oldinda",
+      "test": "Bo‘lim testi"
+    },
+    "motivation": {
+      "eyebrow": "Motivatsiya",
+      "title": "Yig‘ish yoqimli bo‘lgan natija",
+      "streakTitle": "7 kun ketma-ket",
+      "streakNote": "Seriya dars va testlardan o‘sadi — shunchaki kirish yetmaydi.",
+      "coinsLabel": "tanga",
+      "coinsNote": "Darslar, testlar va kun savollari uchun. Sotib olib bo‘lmaydi.",
+      "leagueTitle": "Haftalik liga",
+      "leagueNote": "Har hafta — yangi hisob. Eng yaxshilar keyingi divizionga ko‘tariladi.",
+      "you": "Siz",
+      "pts": "ochko",
+      "dailyTitle": "Kun savoli",
+      "dailyNote": "Har kuni beshta qisqa savol — saytda va Telegramda.",
+      "days": "Du,Se,Ch,Pa,Ju,Sh,Ya"
+    },
+    "telegram": {
+      "eyebrow": "Telegram",
+      "title": "Ayiq Telegramda ham bor",
+      "body": "Seriyani yo‘qotmaslik uchun saytni ochish shart emas: bot eslatadi, kun savolini beradi va xarajatni bir soniyada yozib qo‘yadi.",
+      "p1": "Daromad va xarajatlarni matn, ovoz yoki chek surati bilan yozing",
+      "p2": "Kun savoli to‘g‘ridan-to‘g‘ri chatda",
+      "p3": "Seriya haqida eslatma — o‘zingizga qulay soatda",
+      "cta": "Botni ochish",
+      "botName": "Zinvest",
+      "botStatus": "bot",
+      "u1": "-18 000 qahva",
+      "b1": "Xarajat yozildi: qahva — 18 000 so‘m.",
+      "b2": "Seriya — 6 kun. Bugun bitta dars, va 7 bo‘ladi.",
+      "quizTitle": "Kun savoli",
+      "quizQ": "Narxlar oshganda nima tezroq qadrsizlanadi?",
+      "quizA1": "Uydagi naqd pul",
+      "quizA2": "Foizi inflyatsiyadan yuqori omonat"
+    },
+    "cta": {
+      "title": "Bugun boshlang — ayiq allaqachon kutmoqda",
+      "body": "Kirish testiga besh daqiqa — va shaxsiy yo‘lingiz tayyor."
+    }
+  },
+  "v4": {
+    "hero": {
+      "eyebrow": "Zinvest · moliyaviy savodxonlik",
+      "b1": "Pul uni tushunadiganlarni yaxshi ko‘radi",
+      "b1sub": "Byudjet, jamg‘arma, kreditlar va investitsiyalar. Qisqa va aniq.",
+      "b2": "Kuniga besh daqiqa.",
+      "b2sub": "Bitta mavzu, so‘mda bitta misol, bitta masala.",
+      "b3": "Bilim murakkab foiz kabi o‘sadi.",
+      "b3sub": "Har bir dars avvalgisiga tayanadi. Bir oyda sezilarli, bir yilda butunlay boshqa daraja.",
+      "settleTitle": "Siz bilan qoladigan moliyaviy savodxonlik",
+      "settleBody": "Qisqa darslar, real summalar bilan masalalar va tushunmaguningizcha tushuntiradigan AI-ustoz. Rus, o‘zbek va ingliz tillarida.",
+      "start": "O‘qishni boshlash",
+      "login": "Kirish",
+      "scroll": "Pastga suring"
+    },
+    "steps": {
+      "eyebrow": "Qanday ishlaydi",
+      "title": "Bitta dars, uch qadam",
+      "s1": {
+        "word": "Tushuning",
+        "body": "Qisqa matn bitta fikrni oddiy so‘zlar bilan tushuntiradi. Qidirib topish kerak bo‘lgan atamalarsiz."
+      },
+      "s2": {
+        "word": "Sinab ko‘ring",
+        "body": "Darhol shu fikrni qo‘llash kerak bo‘lgan masala. Bu yerda xato qilish hech narsaga tushmaydi, gap ham shunda."
+      },
+      "s3": {
+        "word": "Tahlil qiling",
+        "body": "Ustoz javobingizni tahlil qiladi: shunchaki «noto‘g‘ri» emas, nega aynan shunday chiqqanini tushuntiradi."
+      },
+      "m1": {
+        "tag": "3-dars · Inflyatsiya",
+        "title": "Nega pul qadrsizlanadi",
+        "text": "Agar narxlar bir yilda 10% oshsa, bir yildan keyin 100 000 so‘mga bugun taxminan 91 000 turadigan narsani olasiz."
+      },
+      "m2": {
+        "q": "Telefon 3 000 000 so‘m turadi. Bo‘lib to‘lashda 12 marta 300 000 so‘mdan. Qancha ortiqcha to‘laysiz?",
+        "a1": "Hech narsa",
+        "a2": "300 000 so‘m",
+        "a3": "600 000 so‘m"
+      },
+      "m3": {
+        "text": "12 × 300 000 = 3 600 000 so‘m. Bu narxdan 600 000 ko‘p: bo‘lib to‘lash qulayligi shuncha turadi."
+      }
+    },
+    "app": {
+      "eyebrow": "Zinvest ichida",
+      "title": "Odat uzilib qolmasligi uchun hammasi",
+      "c1": {
+        "kicker": "Yo‘nalish",
+        "title": "Darajangizga mos reja",
+        "body": "Kirish testi qayerdan boshlashingizni aniqlaydi. Zaif mavzular oldinga chiqadi, bo‘lim oxirida esa yordamsiz test kutadi."
+      },
+      "c2": {
+        "kicker": "Zinvest AI",
+        "title": "Kerakli marta tushuntiradi",
+        "body": "Qaysi darsdaligingizni va o‘tgan safar qayerda xato qilganingizni biladi. Soddaroq, misol yoki tekshiruv so‘rang."
+      },
+      "c3": {
+        "kicker": "Telegram",
+        "title": "Seriyangizni eslab turadigan bot",
+        "body": "Xarajatni bir qatorda yozadi, kun savolini yuboradi va o‘zingiz tanlagan soatda dars haqida eslatadi."
+      },
+      "c4": {
+        "kicker": "Natija",
+        "title": "Seriya, tangalar va liga",
+        "body": "Kun dars yoki test uchun hisoblanadi, shunchaki kirish yetarli emas. Tangalarni sotib olib bo‘lmaydi, faqat ishlab topish mumkin."
+      },
+      "path": {
+        "unit": "1-bo‘lim · Moliya asoslari",
+        "l1": "Pul nima",
+        "l2": "Oylik byudjet",
+        "l3": "Xavfsizlik yostig‘i",
+        "l4": "Inflyatsiya",
+        "l5": "Bo‘lim testi",
+        "done": "O‘tildi",
+        "now": "Keyingisi",
+        "ahead": "Oldinda"
+      },
+      "ai": {
+        "context": "4-dars · Indeks fondlari",
+        "q": "Nega alohida aksiyalar emas, ETF?",
+        "a": "Bir lagan tuxumni tasavvur qiling. Bitta aksiya bitta tuxum: sinsa, nonushta yo‘q. ETF butun lagan: bittasi sinsa, qolganlari butun.",
+        "chip1": "Soddaroq",
+        "chip2": "Misol",
+        "chip3": "Meni tekshir"
+      },
+      "tg": {
+        "status": "bot",
+        "u1": "-18 000 qahva",
+        "b1": "Xarajat yozildi: qahva, 18 000 so‘m.",
+        "b2": "Seriya 6 kun. Bugun bitta dars, va 7 bo‘ladi.",
+        "quizTitle": "Kun savoli",
+        "quizQ": "Narxlar oshganda nima tezroq qadrsizlanadi?",
+        "quizA1": "Uydagi naqd pul",
+        "quizA2": "Inflyatsiyadan yuqori foizli omonat"
+      },
+      "progress": {
+        "streak": "7 kun ketma-ket",
+        "coins": "tanga",
+        "league": "Haftalik liga",
+        "you": "Siz",
+        "pts": "ball",
+        "days": "Du,Se,Ch,Pa,Ju,Sh,Ya"
+      }
+    },
+    "who": {
+      "eyebrow": "Kim uchun",
+      "title": "Maktabda buni tushuntirmaganlar uchun",
+      "subtitle": "To‘rtta boshlanish nuqtasi. Kirish testi sizniki qaysi ekanini ko‘rsatadi.",
+      "w1": {
+        "title": "O‘quvchi va talabalarga",
+        "body": "Buni hech qachon o‘qitishmagan. Pul nima ekanidan boshlang va oldinga yuring. Oldindan hech narsa bilish shart emas."
+      },
+      "w2": {
+        "title": "Birinchi maosh",
+        "body": "Pul keldi, lekin u bilan nima qilishni hech kim tushuntirmadi. Byudjet, xavfsizlik yostig‘i, birinchi sarmoyalar."
+      },
+      "w3": {
+        "title": "Asoschilarga",
+        "body": "Runway, burn, unit-iqtisodiyot va uchta hisobot. Investor so‘raydigan raqamlar."
+      },
+      "w4": {
+        "title": "Mustaqil investorlarga",
+        "body": "Yarmini allaqachon bilasiz. Test bo‘shliqlarni topadi va o‘zlashtirganingizni o‘tkazib yuboradi."
+      }
+    },
+    "faq": {
+      "eyebrow": "Savollar",
+      "title": "Ro‘yxatdan o‘tishdan oldin",
+      "q1": {
+        "q": "Moliyadan bilim kerakmi?",
+        "a": "Yo‘q. Birinchi bo‘lim pul nima va nega qadrli ekanidan boshlanadi. Kirish testi yangi boshlovchi kursning o‘rtasiga tushib qolmasligi uchun kerak."
+      },
+      "q2": {
+        "q": "Test darajamni noto‘g‘ri aniqlasa-chi?",
+        "a": "Uni sozlamalarda qayta topshiring, reja qayta tuziladi. Bo‘limlar tartibi o‘zgarmaydi: keyingisi oldingisining testi topshirilganda ochiladi."
+      },
+      "q3": {
+        "q": "Test uzunmi?",
+        "a": "O‘nta savol: beshtasi siz haqingizda, beshtasi bilimni tekshirish uchun. Taxminan besh daqiqa, istalgan savolni yoki butun testni o‘tkazib yuborish mumkin."
+      },
+      "q4": {
+        "q": "Seriya nimani hisoblaydi?",
+        "a": "Dars tugatilganda yoki bo‘lim testi topshirilganda kun hisoblanadi. Shunchaki ilovaga kirish yetarli emas."
+      },
+      "q5": {
+        "q": "Qaydlar yozsa bo‘ladimi?",
+        "a": "Ha. Qaydlar dars yonida ochiq turadi, yozish davomida hisobingizga saqlanadi va alohida sahifada yig‘iladi."
+      },
+      "q6": {
+        "q": "Qaysi tillarda?",
+        "a": "Rus, o‘zbek va ingliz. Yuqori paneldan istalgan vaqtda almashtirish mumkin."
+      }
+    },
+    "final": {
+      "title": "Birinchi dars besh daqiqa oladi",
+      "body": "Ro‘yxatdan o‘ting, kirish testini topshiring va darajangizga mos reja oling.",
+      "start": "O‘qishni boshlash",
+      "login": "Hisobim bor"
+    },
+    "compound": {
+      "eyebrow": "Murakkab foiz",
+      "title": "Tugmani bosib turing, yillar o‘tadi",
+      "body": "Har oy qancha chetga qo‘yishingizni tanlang. Ustunlar qancha jamg‘arilganini va foizga foiz qancha qo‘shganini ko‘rsatadi.",
+      "amountLabel": "Oyiga",
+      "hold": "Bosib turing",
+      "holding": "Yillar o‘tmoqda…",
+      "again": "Qo‘yib yuboring va boshqa summani tanlang",
+      "years": "Yil",
+      "saved": "Jamg‘arildi",
+      "grown": "Foizga foiz bilan",
+      "diff": "Foizga foiz",
+      "note": "Misol uchun yiliga 10% olindi. Bu prognoz ham, maslahat ham emas, faqat murakkab foiz qanday ishlashini ko‘rsatadi. Bunday stavkalar qayerda bo‘lishi va ularning xatarlari darslarda ko‘rib chiqiladi.",
+      "currency": "so‘m",
+      "reveal": "Ustunlar orasidagi farq murakkab foizning o‘zi."
+    }
+  },
+  "mascot": {
+    "tap": "Zinvest ayig‘i: siylash uchun bosing"
+  },
+  "legal": {
+    "nav": "Huquqiy hujjatlar",
+    "updated": "Yangilangan: {date}",
+    "contact": "Aloqa",
+    "service": "Xizmat",
+    "operator": "Operator",
+    "regNo": "Ro‘yxat raqami / STIR",
+    "address": "Manzil",
+    "email": "Email",
+    "inApp": "Ma’lumotlaringizni ilovada yuklab olish yoki o‘chirish mumkin: Sozlamalar → Maxfiylik va xavfsizlik.",
+    "docs": {
+      "privacy": "Maxfiylik",
+      "terms": "Shartlar",
+      "cookies": "Cookie",
+      "refund": "Qaytarish",
+      "licenses": "Litsenziyalar"
+    }
+  },
+  "cookies": {
+    "label": "Cookie",
+    "text": "Biz faqat hisobda qolishingiz uchun zarur cookie’lardan foydalanamiz. Reklama va analitika yo‘q.",
+    "more": "Batafsil",
+    "ok": "Tushunarli"
+  },
+  "a11y": {
+    "skip": "Asosiy qismga o‘tish"
+  }
+}

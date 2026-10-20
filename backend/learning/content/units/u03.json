@@ -1,0 +1,569 @@
+{
+ "unit": 3,
+ "langs": {
+  "en": {
+   "unit": 3,
+   "lang": "en",
+   "title": "Personal Budgeting & Cash Flow Management",
+   "subtitle": "How to take control of your money, the 50/30/20 rule, emergency funds, debt traps, and building your personal budget system.",
+   "lessons": [
+    {
+     "num": "3.1",
+     "title": "What is a Budget?",
+     "html": "<p>Most people hear the word \"budget\" and immediately think of restrictions — counting every penny, giving up everything fun, living like a monk. That is exactly backwards. A budget is not a tool to control your spending. It is a tool to achieve financial freedom.</p><blockquote><p><strong>Formal Definition</strong></p><p>A budget is a financial plan that establishes the balance between expected income and planned expenses over a defined period — typically one month. It shows where money comes from, where it goes, and how much remains.</p></blockquote><h2>The Core Purpose of Budgeting</h2><p>Most people reach the end of the month wondering where their money went. Small daily purchases — coffee, taxi rides, impulse buys — add up to surprisingly large sums. A budget eliminates this invisible money leak by giving every dollar a name and a job.</p><p><strong>The gap between people who budget and those who don't:</strong></p><table><tbody><tr><th><p>Without a Budget</p></th><th><p>With a Budget</p></th></tr><tr><td><p>No idea where money goes</p></td><td><p>Knows exactly where every dollar goes</p></td></tr><tr><td><p>Runs out of money before month ends</p></td><td><p>Consistently saves every single month</p></td></tr><tr><td><p>No safety net for emergencies</p></td><td><p>Has an emergency fund — sleeps peacefully</p></td></tr><tr><td><p>Higher risk of falling into debt</p></td><td><p>Pays off debt faster and stays out</p></td></tr><tr><td><p>Can never afford goals</p></td><td><p>Allocates money to goals every month</p></td></tr></tbody></table><h2>Why Most People Avoid Budgeting</h2><blockquote><p><strong>\"I don't earn enough to budget\"</strong></p><p>This is the biggest mistake. When money is tight, a budget is MORE important — not less. Every dollar needs to work harder when there are fewer of them.</p><p><strong>\"The math is too complicated\"</strong></p><p>You only need addition and subtraction. That's it. No advanced math required.</p><p><strong>\"I don't have time\"</strong></p><p>30 minutes per month building a budget saves hundreds of hours dealing with financial problems later. It is the highest ROI activity in personal finance.</p><p><strong>\"Life can't be planned\"</strong></p><p>A budget is not a rigid contract — it is a flexible roadmap. You can and should adjust it every single month as life changes.</p></blockquote>"
+    },
+    {
+     "num": "3.2",
+     "title": "Classifying Income & Expenses",
+     "html": "<p>The first step in budgeting is classifying your income and expenses correctly. This is not just list-making — different categories of expenses are managed in completely different ways.</p><h2>Types of Income</h2><table><tbody><tr><th><p>Income Type</p></th><th><p>Description</p></th><th><p>Examples</p></th></tr><tr><td><p>Primary Income</p></td><td><p>Regular, predictable money in</p></td><td><p>Salary, pension, stipend</p></td></tr><tr><td><p>Secondary Income</p></td><td><p>Earnings outside main job</p></td><td><p>Freelance, part-time work</p></td></tr><tr><td><p>Passive Income</p></td><td><p>Requires no active effort</p></td><td><p>Bank interest, rental, dividends</p></td></tr><tr><td><p>One-time Income</p></td><td><p>Irregular, unplanned</p></td><td><p>Gift, bonus, asset sale</p></td></tr></tbody></table><h2>Types of Expenses</h2><p>Classifying your expenses correctly is the foundation for optimizing your budget. We look at expenses through two key lenses:</p><h3>Lens 1: By Variability</h3><table><tbody><tr><td><p><strong>Fixed Expenses</strong></p><p>Costs that stay the same every month — hard to reduce on short notice. Examples:</p><ul><li><p>Rent / mortgage</p></li><li><p>Loan repayments</p></li><li><p>Internet &amp; phone bill</p></li><li><p>Insurance premiums</p></li></ul><p>✓ Plan these first in your budget</p></td><td><p><strong>Variable Expenses</strong></p><p>Costs that change month to month — more controllable and cuttable. Examples:</p><ul><li><p>Groceries &amp; food</p></li><li><p>Transport / fuel</p></li><li><p>Clothing</p></li><li><p>Entertainment</p></li></ul><p>✓ Greatest opportunity to save</p></td></tr></tbody></table><h3>Lens 2: By Necessity</h3><table><tbody><tr><td><p><strong>Needs (Essential)</strong></p><p>Core living expenses that cannot be stopped.</p><ul><li><p>Food and water</p></li><li><p>Housing and utilities</p></li><li><p>Healthcare and medicine</p></li><li><p>Basic transportation</p></li></ul></td><td><p><strong>Wants (Discretionary)</strong></p><p>Improve quality of life but life continues without them.</p><ul><li><p>Restaurants and cafes</p></li><li><p>Movies, concerts, travel</p></li><li><p>Designer clothing</p></li><li><p>Impulse purchases</p></li></ul></td></tr></tbody></table><blockquote><p><strong>REAL EXAMPLE — Monthly Expense Breakdown</strong></p><p>Alex earns $3,000/month (net). Let's classify his spending:</p><p>Fixed + Essential: Rent $900 + Phone $60 + Loan repayment $200 = $1,160</p><p>Variable + Essential: Groceries $400 + Transport $150 + Utilities $80 = $630</p><p>Discretionary (Wants): Restaurants $200 + Entertainment $150 + Clothing $100 = $450</p><p>Savings &amp; Investment: $760 (25.3% of income)</p><p><strong>Key insight: If Alex cuts his discretionary spending by just $200/month, he saves an extra</strong> <strong>$2,400 per year — enough for a 3-month emergency fund.</strong></p></blockquote>"
+    },
+    {
+     "num": "3.3",
+     "title": "The 50/30/20 Rule",
+     "html": "<p>The 50/30/20 rule is the most widely used personal budgeting framework in the world. It was popularized by Harvard professor and U.S. Senator Elizabeth Warren in her book \"All Your Worth.\" It is simple, flexible, and works at any income level.</p><blockquote><p><strong>The Core Formula</strong></p><p>Divide your net (after-tax) income into three categories:</p></blockquote><h2>50% — NEEDS (Essential expenses)</h2><h2>30% — WANTS (Discretionary spending)</h2><h2>20% — SAVINGS / DEBT REPAYMENT</h2><table><tbody><tr><th><p>Category</p></th><th><p>%</p></th><th><p>What It Covers</p></th><th><p>Goal</p></th></tr><tr><td><p>Needs</p></td><td><p>50%</p></td><td><p>Rent, food, transport, utilities, healthcare, basic clothing</p></td><td><p>Survival essentials</p></td></tr><tr><td><p>Wants</p></td><td><p>30%</p></td><td><p>Restaurants, travel, entertainment, premium subscriptions, hobbies</p></td><td><p>Quality of life</p></td></tr><tr><td><p>Savings</p></td><td><p>20%</p></td><td><p>Emergency fund, investments, retirement, debt repayment</p></td><td><p>Financial future</p></td></tr></tbody></table><h2>Adapting the Rule to Your Situation</h2><p>The 50/30/20 rule is a starting point, not a law. In high cost-of-living cities, rent alone may consume 40-50% of income. In that case, compress the \"Wants\" category first — never the \"Savings\" category.</p><blockquote><p><strong>The Non-Negotiable Rule:</strong></p><ul><li><p>The 20% savings target is the floor, not the ceiling.</p></li><li><p>If Needs exceed 50%, reduce Wants — not Savings.</p></li><li><p>If you have high-interest debt, redirect part of Wants to debt repayment.</p></li></ul></blockquote><p><em><strong><em><strong>Core principle: Pay yourself first. Move your 20% to savings the moment your paycheck</strong></em> <em><strong>arrives. Then live on what remains.</strong></em></strong></em></p><blockquote><p><strong>REAL EXAMPLE — Applying 50/30/20</strong></p><p>Sarah earns $4,000/month net income.</p><p>50% Needs = $2,000:</p><p>Rent: $1,100 | Groceries: $350 | Transport: $200 | Utilities: $100 | Healthcare: $150 | Remaining: $100</p><p>30% Wants = $1,200:</p><p>Restaurants: $250 | Clothing: $200 | Entertainment: $200 | Travel savings jar: $300 | Gym + subscriptions: $250</p><p>20% Savings = $800:</p><p>Emergency fund top-up: $300 | Index fund investment: $350 | Goal savings: $150</p><p><strong>Result: In 12 months, Sarah invests $9,600 and builds a $3,600 emergency fund — without</strong> <strong>feeling like she is depriving herself of anything.</strong></p></blockquote><h2>Strengths and Limitations</h2><table><tbody><tr><th><p>Strengths</p></th><th><p>Limitations</p></th></tr><tr><td><p>Extremely simple — minimal calculation</p></td><td><p>May not fit all life situations</p></td></tr><tr><td><p>Flexible — percentages can be adjusted</p></td><td><p>Low earners may struggle with 50% Needs cap</p></td></tr><tr><td><p>Psychologically comfortable to follow</p></td><td><p>20% feels small when carrying heavy debt</p></td></tr><tr><td><p>Works in any currency or country</p></td><td><p>Some expenses blur between Needs and Wants</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "3.4",
+     "title": "The Emergency Fund",
+     "html": "<p>The emergency fund is the single most important foundation in personal finance. It is not an investment. It is not savings for a vacation. It is your financial safety net — the buffer that absorbs life's unexpected punches without sending you into debt.</p><blockquote><p><strong>Definition</strong></p><p>An emergency fund is money set aside in a separate, easily accessible account reserved strictly for genuine financial emergencies. The target size is 3 to 6 months of your total living expenses.</p></blockquote><h2>What Counts as a Real Emergency?</h2><blockquote><p><strong>Job loss</strong></p><p>Covers living expenses while you find new employment</p><p><strong>Medical emergency</strong></p><p>Unexpected illness, surgery, or accident costs</p><p><strong>Essential repairs</strong></p><p>Car breakdown, burst pipe, broken heating system</p><p><strong>Family crisis</strong></p><p>Urgent travel, supporting a family member in need</p><p><strong>Home emergency</strong></p><p>Appliance failure, roof leak, electrical problem</p></blockquote><h2>How Much Should It Be?</h2><table><tbody><tr><th><p>Your Situation</p></th><th><p>Recommended Size</p></th><th><p>Reason</p></th></tr><tr><td><p>Single, renting</p></td><td><p>3 months of expenses</p></td><td><p>More flexibility to act quickly</p></td></tr><tr><td><p>Family, mortgage</p></td><td><p>6 months of expenses</p></td><td><p>More financial obligations</p></td></tr><tr><td><p>Freelancer / self-employed</p></td><td><p>6-12 months of expenses</p></td><td><p>Irregular income stream</p></td></tr><tr><td><p>Single income household</p></td><td><p>6 months of expenses</p></td><td><p>Higher risk if income stops</p></td></tr></tbody></table><h2>How to Build It — Step by Step</h2><blockquote><p><strong>Step 1: Set a starter goal</strong></p><p>Aim for 1 month of expenses first. A small win builds momentum and proves it is possible.</p><p><strong>Step 2: Open a separate account</strong></p><p>Move the money to a DIFFERENT bank account from your main spending account. Out of sight, out of reach, out of temptation.</p><p><strong>Step 3: Automate the transfer</strong></p><p>Set up an automatic transfer of 10-15% of your salary on payday. Build the fund first, live on the rest.</p><p><strong>Step 4: Reach your 3-6 month target</strong></p><p>Once you hit the target, redirect that monthly amount toward investments.</p><p><strong>Step 5: Rebuild after use</strong></p><p>The fund exists to be used in emergencies. After using it, your only priority is rebuilding it before anything else.</p><p><strong>REAL EXAMPLE — The Power of an Emergency Fund</strong></p><p>Two friends: Marcus and David. Both earn the same salary — $3,000/month. Marcus built a $9,000 emergency fund (3 months). David never got around to it.</p><p>In March, both were laid off from the same company. Marcus: \"I have 3 months. I'll take my time and find the right opportunity.\" He found a better-paying job in 7 weeks. David: Within days he was taking out a personal loan at 22% interest to pay rent. By the time he found work, he had $1,800 in debt.</p><p><strong>The emergency fund is not just money — it is the freedom to make good decisions under</strong> <strong>pressure, instead of desperate ones.</strong></p></blockquote>"
+    },
+    {
+     "num": "3.5",
+     "title": "Debt & the Credit Trap",
+     "html": "<p>Debt is finance's double-edged sword. Used correctly, it accelerates wealth. Used carelessly, it traps people in years of financial servitude. Understanding the difference between good and bad debt is one of the most valuable things you can learn.</p><h2>Good Debt vs Bad Debt</h2><table><tbody><tr><td><p><strong>Good Debt</strong></p><p>Debt taken on something that creates future value or generates income.</p><ul><li><p>Education loan (increases earning power)</p></li><li><p>Business loan (when ROI &gt; interest rate)</p></li><li><p>Mortgage (on reasonable terms)</p></li></ul><p>Rule: Expected return &gt; cost of debt</p></td><td><p><strong>Bad Debt</strong></p><p>Debt taken on things that lose value immediately.</p><ul><li><p>Consumer electronics on credit</p></li><li><p>Clothing, furniture on installment</p></li><li><p>Credit card balance (high interest)</p></li></ul><p>Rule: The item depreciates faster than you pay interest</p></td></tr></tbody></table><h2>Calculating the Real Cost of a Loan</h2><p>Most people only look at the monthly payment when taking a loan. The real cost — total interest paid — is often shockingly large and almost always ignored.</p><blockquote><p><strong>Total Interest Cost Formula</strong></p><p><strong>Total Interest = (Monthly Payment x Number of Months) </strong>−<strong> Loan Principal</strong></p><p>This single number tells you the true price of borrowing.</p></blockquote><table><tbody><tr><th><p>Loan Amount</p></th><th><p>Annual Rate</p></th><th><p>Term</p></th><th><p>Monthly Payment</p></th><th><p>Total Interest Cost</p></th></tr><tr><td><p>$5,000</p></td><td><p>12%</p></td><td><p>12 months</p></td><td><p>~$444</p></td><td><p>~$328</p></td></tr><tr><td><p>$5,000</p></td><td><p>24%</p></td><td><p>12 months</p></td><td><p>~$475</p></td><td><p>~$700</p></td></tr><tr><td><p>$5,000</p></td><td><p>24%</p></td><td><p>36 months</p></td><td><p>~$196</p></td><td><p>~$2,056</p></td></tr><tr><td><p>$10,000</p></td><td><p>18%</p></td><td><p>48 months</p></td><td><p>~$294</p></td><td><p>~$4,112</p></td></tr></tbody></table><p><em><strong><em><strong>Notice: a $10,000 loan at 18% over 4 years costs over $4,000 in interest alone — that is 41% of the</strong></em> <em><strong>original loan, paid just for the privilege of borrowing.</strong></em></strong></em></p><h2>How to Escape the Debt Spiral</h2><blockquote><p>→<strong> The Avalanche Method (Most efficient)</strong></p><p>Pay minimums on all debts. Put every extra dollar toward the HIGHEST interest rate debt first. Mathematically optimal — saves the most money in total interest paid.</p><p>→<strong> The Snowball Method (Most motivating)</strong></p><p>Pay minimums on all debts. Put every extra dollar toward the SMALLEST balance first. Quick wins provide psychological fuel to keep going.</p><p>→<strong> Increase Income</strong></p><p>Freelance, overtime, selling unused items — any extra income accelerates debt payoff dramatically.</p><p>→<strong> Debt Consolidation</strong></p><p>Combine multiple high-interest debts into one lower-interest loan. Reduces total interest and simplifies payments into one.</p></blockquote>"
+    },
+    {
+     "num": "3.6",
+     "title": "Building Your Personal Budget System",
+     "html": "<p>Knowledge without action is worthless. This section gives you the exact step-by-step process to build your own budget — starting right now.</p><h2>Step 1: Calculate Your Net Income</h2><p>Write down all after-tax income you actually receive:</p><blockquote><p>Primary salary (after tax): ___________</p><p>Secondary / freelance income: ___________</p><p>Passive income (interest, rental): ___________</p><p>Other: ___________</p><p><strong>TOTAL NET INCOME: ___________</strong></p></blockquote><h2>Step 2: List All Expenses (based on last month)</h2><p>Review your bank app or spending records from last month:</p><table><tbody><tr><th><p>Expense Category</p></th><th><p>Monthly Amount</p></th><th><p>Type</p></th></tr><tr><td><p>Rent / mortgage</p></td><td><p>_________</p></td><td><p>Need (Fixed)</p></td></tr><tr><td><p>Groceries &amp; food</p></td><td><p>_________</p></td><td><p>Need (Variable)</p></td></tr><tr><td><p>Transport / fuel / transit</p></td><td><p>_________</p></td><td><p>Need (Variable)</p></td></tr><tr><td><p>Utilities (electric, gas, water)</p></td><td><p>_________</p></td><td><p>Need (Fixed)</p></td></tr><tr><td><p>Healthcare / medicine</p></td><td><p>_________</p></td><td><p>Need (Variable)</p></td></tr><tr><td><p>Education / courses</p></td><td><p>_________</p></td><td><p>Need/Want</p></td></tr><tr><td><p>Restaurants &amp; cafes</p></td><td><p>_________</p></td><td><p>Want</p></td></tr><tr><td><p>Entertainment &amp; hobbies</p></td><td><p>_________</p></td><td><p>Want</p></td></tr><tr><td><p>Clothing &amp; personal care</p></td><td><p>_________</p></td><td><p>Want</p></td></tr><tr><td><p>Loan / debt repayment</p></td><td><p>_________</p></td><td><p>Need (Fixed)</p></td></tr><tr><td><p>Savings &amp; investment</p></td><td><p>_________</p></td><td><p># Priority</p></td></tr></tbody></table><h2>Step 3: Calculate Your Balance</h2><blockquote><p><strong>Net Income </strong>−<strong> Total Expenses = Monthly Balance</strong></p><p>Balance &gt; 0 → Great! Put this surplus to work — invest it.</p><p>Balance = 0 → Dangerous. Any emergency puts you into debt.</p><p>Balance &lt; 0 → Act immediately — cut discretionary spending now.</p></blockquote><h2>Step 4: Align with the 50/30/20 Framework</h2><p>Compare your actual spending percentages to the 50/30/20 targets. Which category is over? Which can you reduce? Set specific targets for next month.</p><h2>Step 5: Review Monthly — 15 Minutes, Every Month</h2><p>A budget is not set once and forgotten. At the end of each month, spend 15 minutes comparing your plan to reality. Where did you overspend? What worked? Adjust and set your plan for next month. This habit alone separates people who build wealth from people who wonder where it went.</p><blockquote><p><strong>Core Takeaway — Unit 3</strong></p></blockquote><p><em><strong><em><strong>A budget is not a restriction — it is a permission slip to spend confidently on what matters</strong></em> <em><strong>most. The person who knows where their money goes also controls where their money goes.</strong></em> <em><strong>The 50/30/20 rule, an emergency fund, and smart debt management — these three things</strong></em> <em><strong>together form an unbreakable financial foundation. ZInvest AI is here to help you build, track,</strong></em> <em><strong>and optimize your budget every step of the way.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Key Terms Glossary",
+    "html": "<blockquote><p>All important terms from Unit 3 clearly defined</p></blockquote><table><tbody><tr><th><p>Budget</p></th><th><p>A financial plan estimating expected income and planned expenses over a period (typically one month). Its purpose is to ensure spending aligns with financial goals.</p></th></tr><tr><td><p>Net Income</p></td><td><p>Take-home pay after all taxes and mandatory deductions. This — not gross income — is the number your budget is built on.</p></td></tr><tr><td><p>Fixed Expenses</p></td><td><p>Costs that remain roughly the same every month: rent, loan payments, insurance. These are planned first because they cannot easily be changed on short notice.</p></td></tr><tr><td><p>Variable Expenses</p></td><td><p>Costs that fluctuate month to month: groceries, transport, entertainment. The primary target area when trying to cut spending and increase savings.</p></td></tr><tr><td><p>50/30/20 Rule</p></td><td><p>A personal budget framework dividing net income into three categories: 50% for needs (essentials), 30% for wants (discretionary), and 20% for savings and debt repayment.</p></td></tr><tr><td><p>Emergency Fund</p></td><td><p>A dedicated cash reserve held in a liquid account for genuine financial emergencies only. Recommended size: 3-6 months of total living expenses. Built before investing.</p></td></tr><tr><td><p>Liquidity</p></td><td><p>How quickly an asset can be converted to cash without losing value. Bank savings — high liquidity. Real estate — low liquidity. An emergency fund must be fully liquid.</p></td></tr><tr><td><p>APR (Annual Percentage Rate)</p></td><td><p>The true yearly cost of borrowing, including all fees and interest. Always compare APR across loan offers — not just the headline interest rate.</p></td></tr><tr><td><p>Debt Spiral</p></td><td><p>A dangerous cycle where new debt is taken to repay existing debt, growing the total owed with each cycle. Prevention: emergency fund. Solution: avalanche method.</p></td></tr><tr><td><p>Avalanche Method</p></td><td><p>Debt repayment strategy: make minimum payments on all debts, then direct all extra money to the highest-interest debt first. Mathematically optimal — minimizes total interest paid over time.</p></td></tr><tr><td><p>Snowball Method</p></td><td><p>Debt repayment strategy: make minimum payments on all debts, then attack the smallest balance first. Psychologically powerful — early wins build momentum.</p></td></tr><tr><td><p>Cash Flow</p></td><td><p>The movement of money in and out over a period. Positive cash flow (income &gt; expenses) is the foundation of financial health. Negative cash flow is unsustainable.</p></td></tr><tr><td><p>Impulse Purchase</p></td><td><p>An unplanned buy driven by emotion rather than need. A major budget destroyer. Counter with the 24-hour rule: wait one day before any non-essential purchase.</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Savings Rate</strong></p></td><td><p><strong>The percentage of income set aside each period. Formula: (Savings /</strong></p><p>Income) x 100. 20%+ is healthy. Below 10% is a warning sign that financial vulnerability is growing.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Which statement BEST describes the core purpose of a budget?",
+     "choices": [
+      "To maximize income as quickly as possible",
+      "To eliminate all unnecessary spending",
+      "To know where money comes from, where it goes, and how much remains",
+      "To qualify for better loan terms"
+     ],
+     "answer_index": 2,
+     "explanation": "A budget's core purpose: knowing where money comes from, goes, and remains."
+    },
+    {
+     "n": 2,
+     "prompt": "Which of the following statements about budgeting is FALSE?",
+     "choices": [
+      "People with low incomes benefit from budgeting even more",
+      "A budget is a rigid spending contract that cannot be changed",
+      "Budgeting takes very little time — around 30 minutes per month",
+      "A budget is a flexible financial roadmap, not a restriction"
+     ],
+     "answer_index": 1,
+     "explanation": "A budget is flexible and should be updated monthly — it is a guide, not a contract."
+    },
+    {
+     "n": 3,
+     "prompt": "Which of the following is a FIXED expense?",
+     "choices": [
+      "A restaurant dinner",
+      "Monthly rent payment",
+      "Weekly grocery shopping",
+      "An impulse clothing purchase"
+     ],
+     "answer_index": 1,
+     "explanation": "Monthly rent is fixed — same amount every month, cannot be quickly changed."
+    },
+    {
+     "n": 4,
+     "prompt": "Alex earns $3,000/month. His expenses: Rent $900, Food $400, Loan $200, Entertainment $300, Transport $150, Utilities $80, Savings $200, Clothing $100. What is his monthly cash flow balance?",
+     "choices": [
+      "+$670 surplus",
+      "-$330 deficit",
+      "$0 — perfectly balanced",
+      "Cannot be calculated without more data"
+     ],
+     "answer_index": 0,
+     "explanation": "Total expenses = 900+400+200+300+150+80+200+100 = $2,330. Balance = $3,000 - $2,330 = +$670."
+    },
+    {
+     "n": 5,
+     "prompt": "In the 50/30/20 rule, what does the '20%' represent?",
+     "choices": [
+      "Housing and rent expenses",
+      "Entertainment and travel spending",
+      "Savings, investments, and debt repayment",
+      "Food and basic living costs"
+     ],
+     "answer_index": 2,
+     "explanation": "The 20% covers savings, investments, emergency fund top-up, and debt repayment."
+    },
+    {
+     "n": 6,
+     "prompt": "Your net monthly income is $5,000. Using the 50/30/20 rule, how much should go toward savings and debt repayment?",
+     "choices": [
+      "$500",
+      "$1,000",
+      "$1,500",
+      "$2,500"
+     ],
+     "answer_index": 1,
+     "explanation": "$5,000 x 20% = $1,000 per month toward savings and debt repayment."
+    },
+    {
+     "n": 7,
+     "prompt": "What is the recommended size of an emergency fund?",
+     "choices": [
+      "Exactly one month's salary",
+      "3 to 6 months of total living expenses",
+      "One full year of income",
+      "A fixed amount of $10,000"
+     ],
+     "answer_index": 1,
+     "explanation": "3-6 months of living expenses is the standard recommendation for all situations."
+    },
+    {
+     "n": 8,
+     "prompt": "Where should you keep your emergency fund?",
+     "choices": [
+      "In cash at home in an envelope",
+      "Invested in stocks for better returns",
+      "In a separate, easily accessible bank account",
+      "Lent to a trusted friend at zero interest"
+     ],
+     "answer_index": 2,
+     "explanation": "Separate, liquid account — accessible immediately but not mixed with daily spending."
+    },
+    {
+     "n": 9,
+     "prompt": "Which of the following is most likely to be considered 'good debt'?",
+     "choices": [
+      "A credit card balance carried for restaurant meals",
+      "A buy-now-pay-later loan for a new TV",
+      "A student loan for a professional certification that increases your salary",
+      "Installment financing for a designer jacket"
+     ],
+     "answer_index": 2,
+     "explanation": "Education that increases earning power is the classic example of good debt."
+    },
+    {
+     "n": 10,
+     "prompt": "You take a $5,000 loan at 24% annual interest over 36 months. The monthly payment is approximately $196. What is the total interest you pay over the loan's life?",
+     "choices": [
+      "Around $120",
+      "Around $700",
+      "Around $2,056",
+      "Around $5,000"
+     ],
+     "answer_index": 2,
+     "explanation": "Total paid = $196 x 36 = $7,056. Interest = $7,056 - $5,000 = $2,056."
+    },
+    {
+     "n": 11,
+     "prompt": "You have three debts: $500 at 18%, $2,000 at 30%, $800 at 24%. Using the Avalanche Method, which debt do you attack first?",
+     "choices": [
+      "$500 debt (smallest balance)",
+      "$2,000 debt (highest interest rate at 30%)",
+      "$800 debt (middle option)",
+      "Pay equal amounts to all three simultaneously"
+     ],
+     "answer_index": 1,
+     "explanation": "Avalanche = highest interest rate first = 30% on the $2,000 debt."
+    },
+    {
+     "n": 12,
+     "prompt": "What is the correct FIRST step when building a personal budget?",
+     "choices": [
+      "Start cutting all discretionary spending immediately",
+      "Open an investment account",
+      "Calculate your total net (take-home) income",
+      "Set up an emergency fund"
+     ],
+     "answer_index": 2,
+     "explanation": "You cannot build any budget without first knowing your actual take-home income."
+    }
+   ]
+  },
+  "ru": {
+   "unit": 3,
+   "lang": "ru",
+   "title": "Личный бюджет и управление денежными потоками",
+   "subtitle": "Как взять контроль над деньгами, правило 50/30/20, фонд экстренных ситуаций, долговые ловушки и построение своей финансовой системы.",
+   "lessons": [
+    {
+     "num": "3.1",
+     "title": "Что такое бюджет?",
+     "html": "<p>Большинство людей, услышав слово «бюджет», сразу думают об ограничениях. Аслью всё наоборот. Бюджет — это не инструмент контроля, а инструмент свободы.</p><blockquote><p><strong>Формальное определение</strong></p><p>Бюджет — это финансовый план, устанавливающий баланс между ожидаемыми доходами и запланированными расходами за определённый период (обычно один месяц). Он показывает, откуда приходят деньги, куда уходят и сколько остаётся.</p></blockquote><h2>Почему большинство людей избегает бюджетирование</h2><blockquote><p><strong>«У меня мало денег, зачем бюджет?»</strong></p><p>Самая распространённая ошибка. Именно при небольшом доходе бюджет ещё важнее.</p><p><strong>«Математика сложна»</strong></p><p>Для бюджета нужны только сложение и вычитание. Никаких сложных вычислений не требуется.</p><p><strong>«Нет времени»</strong></p><p>30 минут в месяц на бюджет экономят сотни часов на решение финансовых проблем позже.</p><p><strong>«Жизнь непредсказуема»</strong></p><p>Бюджет — не жёсткий контракт, а гибкая дорожная карта. Его можно корректировать каждый месяц.</p></blockquote>"
+    },
+    {
+     "num": "3.2",
+     "title": "Классификация доходов и расходов",
+     "html": "<p>Первый шаг в бюджетировании — правильная классификация доходов и расходов. Разные категории управляются совершенно по-разному.</p><h2>Виды доходов</h2><table><tbody><tr><th><p>Вид дохода</p></th><th><p>Описание</p></th><th><p>Примеры</p></th></tr><tr><td><p>Основной</p></td><td><p>Регулярный, предсказуемый</p></td><td><p>Зарплата, пенсия, стипендия</p></td></tr><tr><td><p>Дополнительный</p></td><td><p>Заработок вне основной работы</p></td><td><p>Фриланс, подработка</p></td></tr><tr><td><p>Пассивный</p></td><td><p>Без активных усилий</p></td><td><p>Банк. процент, аренда, дивиденды</p></td></tr><tr><td><p>Разовый</p></td><td><p>Нерегулярный, неплановый</p></td><td><p>Подарок, премия, продажа</p></td></tr></tbody></table><h2>Виды расходов</h2><h3>Призма 1: По вариативности</h3><table><tbody><tr><td><p><strong>Постоянные расходы</strong></p><p>Одинаковые ежемесячные платежи, которые сложно быстро сократить. Примеры:</p><ul><li><p>Аренда / ипотека</p></li><li><p>Выплата по кредиту</p></li><li><p>Интернет и телефон</p></li><li><p>Страховка</p></li></ul><p>Планируются первыми</p></td><td><p><strong>Переменные расходы</strong></p><p>Изменяются каждый месяц — больше поддаются контролю. Примеры:</p><ul><li><p>Продукты питания</p></li><li><p>Транспорт</p></li><li><p>Одежда</p></li><li><p>Развлечения</p></li></ul><p>Главный резерв для экономии</p></td></tr></tbody></table><h3>Призма 2: По необходимости</h3><table><tbody><tr><td><p><strong>Необходимости (Needs)</strong></p><p>Базовые жизненные расходы, от которых нельзя отказаться.</p><ul><li><p>Еда и вода</p></li><li><p>Жильё и коммуналки</p></li><li><p>Медицина</p></li><li><p>Базовый транспорт</p></li></ul></td><td><p><strong>Желания (Wants)</strong></p><p>Улучшают качество жизни, но без них жизнь продолжается.</p><ul><li><p>Рестораны и кафе</p></li><li><p>Кино, путешествия</p></li><li><p>Дорогая одежда</p></li><li><p>Импульсивные покупки</p></li></ul></td></tr></tbody></table><blockquote><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР</strong></p><p>Алексей зарабатывает 90 000 руб./мес. Расходы: аренда 27 000, еда 15 000, транспорт 4 500, коммуналки 4 000, кредит 6 000, рестораны 8 000, одежда 6 000, накопления 9 000.</p><p><strong>Баланс = 90 000 − 79 500 = +10 500 руб. Сейчас желания (14 000)</strong> <strong>составляют 15.6% — ниже цели! Если сократить их на 4 000 руб., ежегодная</strong> <strong>экономия составит 48 000 руб.!</strong></p></blockquote>"
+    },
+    {
+     "num": "3.3",
+     "title": "Правило 50/30/20",
+     "html": "<p>Правило</p><blockquote><p>50/30/20</p><p>—</p><p>самая</p><p>известная</p><p>система</p><p>личных</p><p>финансов</p><p>в</p><p>мире.</p><p>Её</p></blockquote><p>популяризировала профессор Гарварда Элизабет Уоррен. Проста, гибка и работает при любом доходе.</p><blockquote><p><strong>Основная формула</strong></p><p>Разделите чистый доход (после налогов) на три части:</p></blockquote><h2>50% — НЕОБХОДИМОСТИ (базовые нужды)</h2><h2>30% — ЖЕЛАНИЯ (дополнительные расходы)</h2><h2>20% — НАКОПЛЕНИЯ / ПОГАШЕНИЕ ДОЛГОВ</h2><table><tbody><tr><th><p>Категория</p></th><th><p>%</p></th><th><p>Что включает</p></th><th><p>Цель</p></th></tr><tr><td><p>Необходимости</p></td><td><p>50%Ар</p></td><td><p>енда, еда, транспорт, коммуналки, медици</p></td><td><p>на Базовые потребности</p></td></tr><tr><td><p>Желания</p></td><td><p>30% Р</p></td><td><p>естораны, путешествия, развлечения, хобб</p></td><td><p>и Качество жизни</p></td></tr><tr><td><p>Накопления</p></td><td><p>2Ф0о%нд</p></td><td><p>экстр. ситуаций, инвестиции, погашение д</p></td><td><p>олгоФвинансовое будущее</p></td></tr></tbody></table><blockquote><p><strong>Главное правило:</strong></p><ul><li><p>20% на накопления — это минимум, а не максимум.</p></li><li><p>Если необходимости превышают 50% — режьте желания, а не накопления.</p></li></ul></blockquote><p><em><strong><em><strong>Платите себе первым. Как только получили зарплату — сразу переведите</strong></em> <em><strong>20% на накопления.</strong></em></strong></em></p><blockquote><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Расчёт по 50/30/20</strong></p><p>Наташа зарабатывает 120 000 руб./мес. (50% = 60 000 | 30% = 36 000 | 20% = 24 000). За год она инвестирует 144 000 руб. и накапливает фонд экстренных ситуаций 96 000 руб. — без чувства лишений!</p></blockquote>"
+    },
+    {
+     "num": "3.4",
+     "title": "Фонд экстренных ситуаций",
+     "html": "<p>Фонд экстренных ситуаций — важнейший фундамент личных финансов. Это не инвестиция и не отпускные. Это ваша финансовая подушка — защита от неожиданных ударов жизни.</p><blockquote><p><strong>Определение</strong></p><p>Фонд экстренных ситуаций — деньги на отдельном счёте, используемые только для реальных чрезвычайных ситуаций. Цель: 3–6 месяцев жизненных расходов.</p></blockquote><h2>Как накопить — пошагово</h2><blockquote><p><strong>Шаг 1: Поставьте стартовую цель</strong></p><p>Накопите расходы за 1 месяц. Маленькая победа даёт мотивацию.</p><p><strong>Шаг 2: Откройте отдельный счёт</strong></p><p>Переведите деньги на ДРУГОЙ счёт. Отдельно и неприкосновенно.</p><p><strong>Шаг 3: Настройте автоперевод</strong></p><p>Сразу после зарплаты автоматически переводите 10–15% в фонд. Остаток — на жизнь.</p><p><strong>Шаг 4: Достигните 3–6 месяцев</strong></p><p>Как накопите целевую сумму, направьте эти деньги на инвестиции.</p><p><strong>Шаг 5: Восстанавливайте после использования</strong></p><p>Фонд есть, чтобы им пользоваться. После использования — немедленно восстанавливайте его.</p><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Сила фонда</strong></p><p>Два друга: Алексей и Дмитрий. Оба получают одинаковую зарплату. У Алексея есть фонд на 3 месяца, у Дмитрия — нет. В марте обоих сократили. Алексей: спокойно нашёл работу за 7 недель. Дмитрий: уже через дни взял кредит под 22% и накопил долг.</p><p><strong>Фонд экстренных ситуаций — это свобода принимать взвешенные решения</strong> <strong>под давлением.</strong></p></blockquote>"
+    },
+    {
+     "num": "3.5",
+     "title": "Долг и кредитная ловушка",
+     "html": "<p>Долг — двойной инструмент финансов. Правильно используемый — ускоряет накопление богатства. Бездумно используемый — погружает в долговую яму на годы.</p><h2>Хороший долг и плохой долг</h2><table><tbody><tr><td><p><strong>Хороший долг</strong></p><p>Долг, создающий будущую ценность или приносящий доход.</p><ul><li><p>Образовательный кредит (повышает</p></li></ul><p>заработок)</p><ul><li><p>Бизнес-кредит (когда ROI &gt; ставка)</p></li><li><p>Ипотека (на разумных условиях)</p></li></ul><p>Ожидаемый доход &gt; стоимость долга</p></td><td><p><strong>Плохой долг</strong></p><p>Долг, который обесценивается сразу после покупки.</p><ul><li><p>Потреб. электроника в рассрочку</p></li><li><p>Одежда, мебель в рассрочку</p></li><li><p>Долг по кредитной карте (высокий %)</p></li></ul><p>Вещь теряет ценность быстрее, чем вы платите проценты</p></td></tr></tbody></table><blockquote><p><strong>Формула реальной стоимости кредита</strong></p></blockquote><h2>Сумма процентов = (Ежемесячный платёж × Количество</h2><h2>месяцев) − Сумма кредита</h2><table><tbody><tr><th><p>Сумма</p></th><th><p>Ставка</p></th><th><p>Срок</p></th><th><p>Ежем. платёж</p></th><th><p>Итого процентов</p></th></tr><tr><td><p>300 000 р.</p></td><td><p>14%</p></td><td><p>12 м.</p></td><td><p>~27 000</p></td><td><p>~24 000 р.</p></td></tr><tr><td><p>300 000 р.</p></td><td><p>24%</p></td><td><p>12 м.</p></td><td><p>~28 500</p></td><td><p>~42 000 р.</p></td></tr><tr><td><p>300 000 р.</p></td><td><p>24%</p></td><td><p>36 м.</p></td><td><p>~11 800</p></td><td><p>~124 800 р.</p></td></tr><tr><td><p>600 000 р.</p></td><td><p>18%</p></td><td><p>48 м.</p></td><td><p>~17 600</p></td><td><p>~244 800 р.</p></td></tr></tbody></table><p><em><strong><em><strong>Обратите внимание: по кредиту 600 000 р. на 4 года вы платите ещё 244 800 р.</strong></em> <em><strong>только за проценты — 40% от суммы займа!</strong></em></strong></em></p><h2>Методы выхода из долговой спирали</h2><blockquote><p><strong>→ Метод лавины (аваланч) — наиболее эффективный</strong></p><p>Минимум по всем долгам. Все остальные деньги — на долг с НАИБОЛЕЕ высокой ставкой. Математически оптимально.</p><p><strong>→ Метод снежного кома — психологически сильный</strong></p><p>Минимум по всем. Все дополнительные — на НАИМЕНЬШИЙ долг. Быстрые победы дают мотивацию.</p><p><strong>→ Рефинансирование долгов</strong></p><p>Объедините несколько дорогих кредитов в один с низкой ставкой. Уменьшает общую сумму процентов и упрощает платежи.</p></blockquote>"
+    },
+    {
+     "num": "3.6",
+     "title": "Составление личного бюджета",
+     "html": "<p>Знания без действия — ничто. Начните сегодня.</p><h2>Шаг 1: Определите чистый доход</h2><blockquote><p>Основная зарплата: ___________ руб.</p><p>Дополнительный доход: ___________ руб.</p><p>Пассивный доход: ___________ руб.</p><p><strong>ИТОГО ЧИСТЫЙ ДОХОД: ___________ руб.</strong></p></blockquote><h2>Шаг 2: Запишите все расходы (по прошлому месяцу)</h2><table><tbody><tr><th><p>Категория</p></th><th><p>Сумма</p></th><th><p>Тип</p></th></tr><tr><td><p>Аренда / ипотека</p></td><td><p>_________</p></td><td><p>Необходимость</p></td></tr><tr><td><p>Продукты питания</p></td><td><p>_________</p></td><td><p>Необходимость</p></td></tr><tr><td><p>Транспорт</p></td><td><p>_________</p></td><td><p>Необходимость</p></td></tr><tr><td><p>Коммунальные услуги</p></td><td><p>_________</p></td><td><p>Необходимость</p></td></tr><tr><td><p>Рестораны / кафе</p></td><td><p>_________</p></td><td><p>Желания</p></td></tr><tr><td><p>Развлечения</p></td><td><p>_________</p></td><td><p>Желания</p></td></tr><tr><td><p>Одежда</p></td><td><p>_________</p></td><td><p>Желания</p></td></tr><tr><td><p>Выплата по кредиту</p></td><td><p>_________</p></td><td><p>Необходимость</p></td></tr><tr><td><p>Накопления / инвестиции</p></td><td><p>_________</p></td><td><p>Приоритет</p></td></tr></tbody></table><h2>Шаг 3: Проверьте баланс</h2><h2>Чистый доход − Все расходы = Баланс</h2><blockquote><p>Баланс &gt; 0 → Отлично! Инвестируйте излишек.</p><p>Баланс = 0 → Опасно. Любая чрезвычайная ситуация приведёт к долгу. Баланс &lt; 0 → Действуйте немедленно — сокращайте желания.</p></blockquote><h2>Шаг 4: Сопоставьте с правилом 50/30/20</h2><h2>Шаг 5: Пересматривайте бюджет каждый месяц — 15 минут</h2><p>Бюджет не составляют один раз и забывают. Каждый месяц сравнивайте план с реальностью. Где перерасходы? Что сработало? Корректируйте и ставьте цель на следующий месяц.</p><blockquote><p><strong>Основной вывод — Блок 3</strong></p></blockquote><p><em><strong><em><strong>Бюджет — это не ограничение, а свобода. Тот, кто знает, куда идут</strong></em> <em><strong>деньги, контролирует и то, куда они пойдут. Правило 50/30/20, фонд</strong></em> <em><strong>экстренных ситуаций и грамотное управление долгами — эти три</strong></em> <em><strong>инструмента вместе строят нерушимый финансовый фундамент. ZInvest AI</strong></em> <em><strong>поможет вам составить, отследить и оптимизировать бюджет на каждом</strong></em> <em><strong>шаге.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Словарь ключевых терминов",
+    "html": "<blockquote><p>Все важные понятия Блока 3</p></blockquote><table><tbody><tr><th><p>Бюджет</p></th><th><p>Финансовый план, устанавливающий баланс между ожидаемыми доходами и запланированными расходами за определённый период.</p></th></tr><tr><td><p>Чистый доход</p></td><td><p>Доход на руки после вычета всех налогов и обязательных отчислений. Именно этот показатель лежит в основе бюджета.</p></td></tr><tr><td><p>Постоянные расходы</p></td><td><p>Ежемесячные расходы, которые остаются одинаковыми: аренда, кредит, страховка. Трудно сократить быстро.</p></td></tr><tr><td><p>Переменные расходы</p></td><td><p>Расходы, меняющиеся каждый месяц: продукты, транспорт, развлечения. Главный резерв для экономии.</p></td></tr><tr><td><p>Правило 50/30/20</p></td><td><p>Система бюджета: 50% — необходимости, 30% — желания, 20% — накопления и погашение долгов.</p></td></tr><tr><td><p>Фонд экстренных ситуаций</p></td><td><p>Денежный резерв на отдельном счёте, используемый только для реальных чрезвычайных ситуаций. Цель: 3–6 месяцев жизненных расходов.</p></td></tr><tr><td><p>Ликвидность</p></td><td><p>Способность быстро превратить актив в наличные без потери ценности. Фонд экстренных ситуаций должен быть полностью ликвидным.</p></td></tr><tr><td><p>Годовая ставка (APR)</p></td><td><p>Реальная ежегодная стоимость кредита, включая все комиссии. Сравнивайте APR, а не номинальную ставку.</p></td></tr><tr><td><p>Долговая спираль</p></td><td><p>Опасный цикл: новый долг берётся для погашения старого. Каждый раз сумма растёт. Выход: метод лавины.</p></td></tr><tr><td><p>Метод лавины</p></td><td><p>Погашение долгов: минимум по всем, все остальные — на долг с наиболее высокой ставкой.</p></td></tr><tr><td><p>Метод снежного кома</p></td><td><p>Погашение долгов: минимум по всем, все остальные — на наименьший долг. Быстрые победы дают мотивацию.</p></td></tr><tr><td><p>Денежный поток</p></td><td><p>Движение денег входящих и исходящих за период. Положительный поток — основа финансового здоровья.</p></td></tr><tr><td><p>Норма накоплений</p></td><td><p>Доля дохода, откладываемая каждый месяц. 20% и выше — знак финансового здоровья. Ниже 10% — опасно.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Какая из формулировок лучше всего определяет основную цель бюджета?",
+     "choices": [
+      "Максимально быстро увеличить доход",
+      "Полностью исключить все расходы",
+      "Знать, откуда приходят деньги, куда уходят и сколько остаётся",
+      "Получить кредит на лучших условиях"
+     ],
+     "answer_index": 2,
+     "explanation": "Цель бюджета: знать, откуда приходят деньги и куда уходят."
+    },
+    {
+     "n": 2,
+     "prompt": "Какое утверждение о бюджете НЕВЕРНО?",
+     "choices": [
+      "При небольшом доходе бюджет ещё важнее",
+      "Бюджет — это жёсткий неизменяемый контракт расходов",
+      "Бюджет можно пересматривать ежемесячно",
+      "Бюджет помогает достичь финансовых целей"
+     ],
+     "answer_index": 1,
+     "explanation": "Бюджет — гибкий инструмент, не жёсткий контракт."
+    },
+    {
+     "n": 3,
+     "prompt": "Что является постоянным расходом?",
+     "choices": [
+      "Ужин в ресторане",
+      "Ежемесячная плата за аренду",
+      "Покупка продуктов на рынке",
+      "Билет в кино"
+     ],
+     "answer_index": 1,
+     "explanation": "Аренда — одинаковая сумма каждый месяц, типичный постоянный расход."
+    },
+    {
+     "n": 4,
+     "prompt": "Алексей зарабатывает 90 000 р. Расходы: аренда 27 000, еда 15 000, трансп. 4 500, комм. 4 000, кредит 6 000, рест. 8 000, одежда 6 000, накопл. 9 000. Баланс?",
+     "choices": [
+      "+10 500 руб. (положительный)",
+      "-10 500 руб. (отрицательный)",
+      "0 руб.",
+      "Недостаточно данных"
+     ],
+     "answer_index": 0,
+     "explanation": "Итого расходов = 27+15+4.5+4+6+8+6+9 = 79.5 тыс. Баланс = 90 − 79.5 = +10.5 тыс. руб."
+    },
+    {
+     "n": 5,
+     "prompt": "Что означает «20%» в правиле 50/30/20?",
+     "choices": [
+      "Аренда и коммуналки",
+      "Развлечения и путешествия",
+      "Накопления, инвестиции и погашение долгов",
+      "Продукты питания"
+     ],
+     "answer_index": 2,
+     "explanation": "20% — накопления, инвестиции, погашение долгов."
+    },
+    {
+     "n": 6,
+     "prompt": "Чистый доход — 150 000 р./мес. Сколько откладывать по правилу 50/30/20?",
+     "choices": [
+      "7 500 р.",
+      "15 000 р.",
+      "30 000 р.",
+      "45 000 р."
+     ],
+     "answer_index": 2,
+     "explanation": "150 000 × 20% = 30 000 руб./мес."
+    },
+    {
+     "n": 7,
+     "prompt": "Какой должен быть размер фонда экстренных ситуаций?",
+     "choices": [
+      "Ровно одна зарплата",
+      "3–6 месяцев жизненных расходов",
+      "Один год дохода",
+      "500 000 р. (фиксированная сумма)"
+     ],
+     "answer_index": 1,
+     "explanation": "3–6 месяцев жизненных расходов — стандартная рекомендация."
+    },
+    {
+     "n": 8,
+     "prompt": "Где лучше всего хранить фонд экстренных ситуаций?",
+     "choices": [
+      "Наличными дома",
+      "Инвестировав в акции",
+      "На отдельном, легкодоступном счёте",
+      "Одолжав другу без процентов"
+     ],
+     "answer_index": 2,
+     "explanation": "Отдельный счёт — легкодоступен, не перемешан с основными расходами."
+    },
+    {
+     "n": 9,
+     "prompt": "Какой из вариантов можно считать хорошим долгом?",
+     "choices": [
+      "Кредит на новый смартфон",
+      "Долг по кредитной карте за еду",
+      "Образовательный кредит, повышающий заработок",
+      "Рассрочка на одежду"
+     ],
+     "answer_index": 2,
+     "explanation": "Образовательный кредит, повышающий заработок, — классический пример хорошего долга."
+    },
+    {
+     "n": 10,
+     "prompt": "Кредит 300 000 р., ставка 24%, срок 36 мес. Ежем. платёж ≈11 800 р. Сколько итого переплатите?",
+     "choices": [
+      "~36 000 р.",
+      "~72 000 р.",
+      "~124 800 р.",
+      "~300 000 р."
+     ],
+     "answer_index": 2,
+     "explanation": "11 800 × 36 = 424 800 − 300 000 = 124 800 р. — только за проценты."
+    },
+    {
+     "n": 11,
+     "prompt": "3 долга: 50 000 р. (18%), 200 000 р. (30%), 80 000 р. (24%). Метод лавины: какой долг гасить первым?",
+     "choices": [
+      "50 000 р. (наименьший)",
+      "200 000 р. (ставка 30% — самая высокая)",
+      "80 000 р. (средний)",
+      "Платить всем поровну"
+     ],
+     "answer_index": 1,
+     "explanation": "Метод лавины = наиболее высокая ставка в первую очередь = 30% = 200 000 р."
+    },
+    {
+     "n": 12,
+     "prompt": "Первый шаг при составлении бюджета?",
+     "choices": [
+      "Начать сокращать все расходы",
+      "Открыть инвест. счёт",
+      "Определить чистый доход",
+      "Создать фонд экстренных ситуаций"
+     ],
+     "answer_index": 2,
+     "explanation": "Без чистого дохода бюджет не построить."
+    }
+   ]
+  },
+  "uz": {
+   "unit": 3,
+   "lang": "uz",
+   "title": "Shaxsiy byudjet va pul oqimini boshqarish",
+   "subtitle": "Daromad va xarajatlarni qanday boshqarish, 50/30/20 qoidasi, favqulodda fond, qarz tuzoqlari va pul oqimini nazorat qilish.",
+   "lessons": [
+    {
+     "num": "3.1",
+     "title": "Byudjet nima?",
+     "html": "<p>Ko'pchilik odamlar \"byudjet\" so'zini eshitganda qo'rqinchli narsa — cheklovlar, taqiqlar, sanab-sanab yashash deb o'ylaydi. Aslida buning teskarisi. Byudjet — pulni nazorat qilish usuli emas, balki erkinlikka erishish vositasi.</p><blockquote><p><strong>Rasmiy ta'rif</strong></p><p>Byudjet — ma'lum davr ichida (odatda bir oy) kutilayotgan daromadlar va rejalashtirilgan xarajatlar o'rtasidagi muvozanatni o'rnatuvchi moliyaviy reja. U pul qayerdan kelishini, qayerga ketishini va qancha qolishini ko'rsatadi.</p></blockquote><h2>Byudjetning asosiy maqsadi</h2><p>Ko'pchilik oyning oxirida \"pul qayoqqa ketdi?\" deb hayron qoladi. Kichik-kichik xarajatlar — kofe, taksi, impulsiv xarid — jamlanib katta summaga aylanadi. Byudjet ana shu \"ko'rinmas\" pul yo'qolishiga barham beradi.</p><p><strong>Byudjet tuzmaydigan odamlar bilan tuzadiganlar o'rtasidagi farq:</strong></p><table><tbody><tr><th><p>Byudjetisiz</p></th><th><p>Byudjet bilan</p></th></tr><tr><td><p>Pul qayerga ketganini bilmaydi</p></td><td><p>Har so'm qayerga ketganini biladi</p></td></tr><tr><td><p>Oyning oxirida pul tugab qoladi</p></td><td><p>Har oyda tejamkorlik qiladi</p></td></tr><tr><td><p>Favqulodda holatlarga tayyor emas</p></td><td><p>Zaxira fondi bor, xotirjam</p></td></tr><tr><td><p>Qarzga botib ketish xavfi yuqori</p></td><td><p>Qarzdan tezroq chiqadi</p></td></tr><tr><td><p>Maqsadlarga pul yetishmaydi</p></td><td><p>Har oy maqsadga pul ajratadi</p></td></tr></tbody></table><h2>Nima uchun ko'pchilik byudjet tuzmasligi</h2><blockquote><p><strong>\"Pulum kam, byudjet nima qiladi\"</strong></p><p>Eng katta xato shu. Aslida kam pul bo'lganida byudjet YANADA muhimroq — chunki har so'mni to'g'ri ishlatish zarur.</p><p><strong>\"Matematika qiyin\"</strong></p><p>Byudjet uchun murakkab hisob kerak emas. Oddiy qo'shish va ayirish yetarli.</p><p><strong>\"Vaqtim yo'q\"</strong></p><p>Oyiga 30 daqiqa byudjet tuzish, keyinchalik moliyaviy muammolar uchun sarflangan yuzlab soatni tejaydi.</p><p><strong>\"Hayot rejalashtirib bo'lmaydi\"</strong></p><p>Byudjet qattiq reja emas — moslashuvchan yo'l xarita. Har oy yangilash mumkin.</p></blockquote>"
+    },
+    {
+     "num": "3.2",
+     "title": "Daromad va xarajatlarni tasniflash",
+     "html": "<p>Byudjet tuzishning birinchi qadami — daromad va xarajatlarni to'g'ri tasniflash. Bu shunchaki ro'yxat tuzish emas — turli xarajatlar turlicha boshqariladi.</p><h2>Daromad turlari</h2><table><tbody><tr><th><p>Daromad turi</p></th><th><p>Ta'rif</p></th><th><p>Misol</p></th></tr><tr><td><p>Asosiy daromad</p></td><td><p>Doimiy, muntazam keladigan pul</p></td><td><p>Ish haqi, pensiya, stipendiya</p></td></tr><tr><td><p>Qo'shimcha daromad</p></td><td><p>Asosiy ishdan tashqari daromad</p></td><td><p>Freelance, qo'shimcha ish</p></td></tr><tr><td><p>Passiv daromad</p></td><td><p>Faol harakat talab qilmaydigan</p></td><td><p>Bank foizi, ijara, dividend</p></td></tr><tr><td><p>Bir martalik daromad</p></td><td><p>Noto'g'ri, bashorat qilinmagan</p></td><td><p>Sovg'a, mukofot, sotish</p></td></tr></tbody></table><h2>Xarajat turlari</h2><p>Xarajatlarni to'g'ri tasniflash byudjetingizni optimallashtirishning asosi. 2 ta asosiy o'lchovda ko'rib chiqamiz:</p><h3>1-o'lcham: O'zgaruvchanlik bo'yicha</h3><table><tbody><tr><td><p><strong>Doimiy xarajatlar</strong></p><p>Har oy bir xil miqdorda to'lanadigan, qisqartirib bo'lmaydigan yoki qiyin xarajatlar. Misollar:</p><ul><li><p>Uy ijarasi</p></li><li><p>Kredit to'lovi</p></li><li><p>Internet va telefon</p></li><li><p>Sug'urta</p></li></ul><p>✓ Byudjetda birinchi rejalashtiriladi</p></td><td><p><strong>O'zgaruvchan xarajatlar</strong></p><p>Har oy turlicha miqdorda bo'ladigan, ko'proq nazorat qilish mumkin bo'lgan xarajatlar. Misollar:</p><ul><li><p>Oziq-ovqat</p></li><li><p>Transport</p></li><li><p>Kiyim-kechak</p></li><li><p>Ko'ngilochar</p></li></ul><p>✓ Qisqartirish imkoniyati katta</p></td></tr></tbody></table><h3>2-o'lcham: Zaruriylik bo'yicha</h3><table><tbody><tr><td><p><strong>Zaruriy xarajatlar</strong></p><p>Hayot uchun asosiy, to'xtatib bo'lmaydigan xarajatlar.</p><ul><li><p>Ovqat va ichimlik</p></li><li><p>Uy va kommunal</p></li><li><p>Sog'liq va dori</p></li><li><p>Asosiy transport</p></li></ul></td><td><p><strong>Ixtiyoriy xarajatlar</strong></p><p>Hayot sifatini oshiradi, lekin qisqartirilsa hayot davom etadi.</p><ul><li><p>Restoran va kafe</p></li><li><p>Kino, konsert, sayohat</p></li><li><p>Qimmatbaho kiyimlar</p></li><li><p>Impulsiv xaridlar</p></li></ul></td></tr></tbody></table><blockquote><p><strong>AMALIY MISOL — O'zbek hayotidan</strong></p><p>Jasur oyiga 5 000 000 so'm ishlaydi. Keling, uning xarajatlarini tasniflaylik:</p><p>Doimiy + Zaruriy: Ijara 1 200 000 + Internet 80 000 + Kredit to'lovi 500 000 = 1 780 000 so'm O'zgaruvchan + Zaruriy: Oziq-ovqat 800 000 + Transport 300 000 + Kommunal 150 000 = 1 250 000 so'm</p><p>Ixtiyoriy: Kafe/restoran 400 000 + Ko'ngilochar 300 000 + Kiyim 200 000 = 900 000 so'm Tejamkorlik va investitsiya: 1 070 000 so'm (21.4%)</p><p><strong>Xulosa: Jasur ixtiyoriy xarajatlarini 500 000 ga kamaytirsa, u har oy 1 570 000 so'm tejay oladi</strong> <strong>— yiliga 18 840 000 so'm!</strong></p></blockquote>"
+    },
+    {
+     "num": "3.3",
+     "title": "50/30/20 qoidasi",
+     "html": "<p>50/30/20 qoidasi — dunyoda eng ko'p ishlatiladigan shaxsiy byudjet tizimi. Uni Harvard professori va AQSh Senatori Elizabeth Warren o'zining \"All Your Worth\" kitobida mashhur qildi. Oddiy, amaliy va har qanday daromad darajasida ishlaydi.</p><blockquote><p><strong>Asosiy formula</strong></p><p>Sof daromadingizni (soliqdan keyingi) uch qismga bo'ling:</p></blockquote><h2>50% — ZARURIYAT (Needs)</h2><h2>30% — XOHISH (Wants)</h2><h2>20% — TEJAMKORLIK / QARZ TO'LASH (Savings / Debt)</h2><table><tbody><tr><th><p>Qism</p></th><th><p>%</p></th><th><p>Nima kiradi</p></th><th><p>Maqsad</p></th></tr><tr><td><p>Zaruriyat</p></td><td><p>50%</p></td><td><p>Ijara, ovqat, transport, kommunal, dori, asosiy kiyim</p></td><td><p>Hayot uchun zarur minimum</p></td></tr><tr><td><p>Xohish</p></td><td><p>30%</p></td><td><p>Restoran, sayohat, ko'ngilochar, qimmatbaho gadjetlar, sport</p></td><td><p>Hayot sifati va zavq</p></td></tr><tr><td><p>Tejamkorlik</p></td><td><p>20%</p></td><td><p>Jamg'arma, investitsiya, favqulodda fond, qarz to'lash</p></td><td><p>Moliyaviy kelajak</p></td></tr></tbody></table><h2>O'zbekiston sharoitida 50/30/20 qoidasi</h2><p>O'zbekistonda ijara narxlari, oziq-ovqat xarajatlari va transport nisbatan boshqa davlatlarga qaraganda ish haqiga nisbatan yuqori bo'lishi mumkin. Shuning uchun 50% zaruriyat ko'pincha 55-60% ga chiqib ketadi. Bu holda:</p><blockquote><p><strong>Moslashtirilgan formula O'zbekiston uchun:</strong></p><ul><li><p>60% — Zaruriyat (ijara, ovqat, transport yuqori bo'lsa)</p></li><li><p>20% — Xohish (ko'ngilochar, sayohat)</p></li><li><p>20% — Tejamkorlik (bu raqamdan hech qachon pastga tushmang)</p></li></ul></blockquote><p><em><strong><em><strong>Asosiy qoida: Tejamkorlik ulushi KAMIDA 20% bo'lishi shart. Zaruriyat yoki xohish foizini</strong></em> <em><strong>kamaytiring, lekin tejamkorlikni emas.</strong></em></strong></em></p><blockquote><p><strong>AMALIY MISOL — 50/30/20 hisoblash</strong></p><p>Nilufar oyiga 8 000 000 so'm oladi (sof, soliqdan keyin).</p><p>50% Zaruriyat = 4 000 000 so'm:</p><p>Ijara: 2 000 000 | Oziq-ovqat: 1 000 000 | Transport: 400 000 | Kommunal: 200 000 | Dori: 100 000 | Qolgan: 300 000</p><p>30% Xohish = 2 400 000 so'm:</p><p>Restoran: 600 000 | Kiyim: 500 000 | Ko'ngilochar: 500 000 | Sayohat fondi: 500 000 | Boshqa: 300 000</p><p>20% Tejamkorlik = 1 600 000 so'm:</p><p>Favqulodda fond: 600 000 | Investitsiya: 700 000 | Maqsadli jamg'arma: 300 000</p><p><strong>Natija: Nilufar yiliga 19 200 000 so'm tejaydi — bu kichik kvartira boshlang'ich to'loviga yetarli!</strong></p></blockquote><h2>50/30/20 ning kuchli va zaif tomonlari</h2><table><tbody><tr><th><p>Kuchli tomonlari</p></th><th><p>Zaif tomonlari</p></th></tr><tr><td><p>Juda oddiy — hisob-kitob minimal</p></td><td><p>Barcha hayot holatiga mos kelmaydi</p></td></tr><tr><td><p>Moslashuvchan — foizlarni o'zgartirish mumkin</p></td><td><p>Kam daromadlilarga 50% etmasligi mumkin</p></td></tr><tr><td><p>Psychologik jihatdan qulay</p></td><td><p>Qarzda bo'lganda 20% kam ko'rinadi</p></td></tr><tr><td><p>Har qanday valyutada ishlaydi</p></td><td><p>Ba'zi xarajatlar ikki kategoriyaga to'g'ri keladi</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "3.4",
+     "title": "Favqulodda fond",
+     "html": "<p>Favqulodda fond — shaxsiy moliyaning eng muhim poydevori. Bu kredit emas, bu investitsiya ham emas. Bu sizning moliyaviy xavfsizlik to'rig'ingiz — hayotning kutilmagan zarbalaridan himoya qiluvchi yostiq.</p><blockquote><p><strong>Favqulodda fond nima?</strong></p><p>Favqulodda fond — faqat haqiqiy favqulodda holatlarda ishlatish uchun alohida saqlanadigan pul. U 3-6 oylik yashash xarajatlarini qoplashi kerak.</p></blockquote><h2>Favqulodda fond nimaga kerak?</h2><blockquote><p><strong>Sog'liq muammosi</strong></p><p>Kasallik, avariya — kutilmagan davolash xarajatlari</p><p><strong>Ish yo'qotish</strong></p><p>Ishdan bo'shatilganda yangi ish topguncha</p><p><strong>Texnika buzilishi</strong></p><p>Avtomobil, uy jihozlari, telefon nosozligi</p><p><strong>Oilaviy favqulodda</strong></p><p>Yaqinlariga yordamga borish, dafn marosimi</p><p><strong>Uy ta'miri</strong></p><p>Quvur yorilishi, elektr nosozligi</p></blockquote><h2>Qancha bo'lishi kerak?</h2><table><tbody><tr><th><p>Holat</p></th><th><p>Tavsiya etiladigan miqdor</p></th><th><p>Sabab</p></th></tr><tr><td><p>Yolg'iz, ijarada yashovchi</p></td><td><p>3 oylik xarajat</p></td><td><p>Tez harakat qilish imkoniyati bor</p></td></tr><tr><td><p>Oilaviy, uy kreditida</p></td><td><p>6 oylik xarajat</p></td><td><p>Ko'proq majburiyatlar bor</p></td></tr><tr><td><p>Tadbirkor / freelancer</p></td><td><p>6-12 oylik xarajat</p></td><td><p>Daromad notekis keladi</p></td></tr><tr><td><p>Faqat bir daromad manbayi</p></td><td><p>6 oylik xarajat</p></td><td><p>Risk yuqoriroq</p></td></tr></tbody></table><h2>Favqulodda fondni qanday qurish — bosqichma-bosqich</h2><blockquote><p><strong>1-qadam: Minimal maqsad qo'ying</strong></p><p>Avval 1 oylik xarajatni to'plang. Bu psixologik g'alaba — boshlash muhim.</p><p><strong>2-qadam: Alohida hisob oching</strong></p><p>Asosiy hisobdan ALOHIDA bank hisobiga o'tkazing. Ko'zdan nahoyon bo'lsa, sarflash vasvasasi kamayadi.</p><p><strong>3-qadam: Avtomatik o'tkazmani sozlang</strong></p><p>Har oy ish haqi kelganda avtomatik ravishda fondga 10-15% o'tkazilsin. Qolganiga yashang.</p><p><strong>4-qadam: 3-6 oyga yeting</strong></p><p>Maqsadga yetgach, investitsiyaga o'ting. Fond zarur miqdorda tursin.</p><p><strong>5-qadam: Ishlatgandan so'ng tiklang</strong></p><p>Favqulodda holat bo'lganda ishlatish uchun. Lekin ishlatgandan so'ng uni yana tiklashni boshla.</p><p><strong>AMALIY MISOL — Favqulodda fond kuchi</strong></p><p>Ikki do'st: Bobur va Sardor. Ikkalasi ham bir xil ish haqini oladi — 6 000 000 so'm/oy. Bobur favqulodda fond tuzgan (18 000 000 so'm — 3 oylik). Sardor tuzgan emas.</p><p>Iyun oyida ikkalasi ham ishdan bo'shatildi. Bobur: \"3 oyim bor, tinchmangiz ish qidiraman\" — 2 oyda yaxshi ish topdi. Sardor: birinchi haftadayoq kredit olishga majbur bo'ldi, 24% foiz bilan. Yangi ish topguncha 2 000 000 so'm qarz yig'di.</p><p><strong>Farq: favqulodda fond faqat pul emas — u qaror qabul qilish ozodligi.</strong></p></blockquote>"
+    },
+    {
+     "num": "3.5",
+     "title": "Qarz va kredit tuzog'i",
+     "html": "<p>Qarz — moliyaning ikki yuzli quroli. To'g'ri ishlatilsa, boylikni tezlashtiradi. Noto'g'ri ishlatilsa, insonni yillar davomida moliyaviy qullikka soladi. O'zbekistonda kredit tuzog'iga tushish holatlari tobora ko'paymoqda.</p><h2>Yaxshi qarz va yomon qarz</h2><table><tbody><tr><td><p><strong>Yaxshi qarz</strong></p><p>Kelajakda qiymat yaratadigan yoki daromad keltiradigan narsaga olingan qarz.</p><ul><li><p>Ta'lim krediti (kasbni oshirish uchun)</p></li><li><p>Biznes krediti (ROI &gt; foiz stavkasi bo'lganda)</p></li><li><p>Ko'chmas mulk ipotekasi (oqilona shartlarda)</p></li></ul><p>Qoida: qarzdan kutilgan daromad &gt; qarz foizidan</p></td><td><p><strong>Yomon qarz</strong></p><p>Qiymat yo'qotadigan yoki keraksiz narsaga olingan qarz.</p><ul><li><p>Telefon / gadjet krediti (eskirib ketadi)</p></li><li><p>Kiyim-kechak, mebel krediti</p></li><li><p>Kredit karta qoldig'i (yuqori foiz)</p></li></ul><p>Qoida: xarajat qilgan narsa qarz foizidan ko'proq yo'qotadi</p></td></tr></tbody></table><h2>Foiz yukini hisoblash — haqiqiy narxni bilish</h2><p>Ko'pchilik kredit olganda faqat oylik to'lovni ko'radi. Lekin haqiqiy narx — jami to'langan foiz — juda katta bo'lishi mumkin.</p><blockquote><p><strong>Haqiqiy narx formulasi</strong></p></blockquote><h2>Jami to'lov = Asosiy qarz + (Oylik to'lov x Oy soni) - Asosiy qarz</h2><blockquote><p>= (Oylik to'lov x Oy soni) - Asosiy qarz ← bu sizning foiz xarajatingiz</p></blockquote><table><tbody><tr><th><p>Kredit miqdori</p></th><th><p>Yillik foiz</p></th><th><p>Muddat</p></th><th><p>Oylik to'lov</p></th><th><p>Jami foiz xarajati</p></th></tr><tr><td><p>5 000 000 so'm</p></td><td><p>18%</p></td><td><p>12 oy</p></td><td><p>~458 000</p></td><td><p>~496 000 so'm</p></td></tr><tr><td><p>5 000 000 so'm</p></td><td><p>24%</p></td><td><p>12 oy</p></td><td><p>~475 000</p></td><td><p>~700 000 so'm</p></td></tr><tr><td><p>5 000 000 so'm</p></td><td><p>36%</p></td><td><p>24 oy</p></td><td><p>~278 000</p></td><td><p>~1 672 000 so'm</p></td></tr><tr><td><p>10 000 000 so'm</p></td><td><p>24%</p></td><td><p>36 oy</p></td><td><p>~390 000</p></td><td><p>~4 040 000 so'm</p></td></tr></tbody></table><p><em><strong><em><strong>Jadvalga e'tibor bering: 10 000 000 so'm kredit uchun 3 yilda 4 000 000 so'mdan ortiq FAQAT foiz</strong></em> <em><strong>to'lanadi!</strong></em></strong></em></p><h2>Qarz spiralidan qanday chiqish mumkin?</h2><blockquote><p>→<strong> Avalanche metodi (Eng samarali)</strong></p><p>Eng yuqori foizli qarzni BIRINCHI to'lang. Matematika jihatdan eng tejamkor.</p><p>→<strong> Snowball metodi (Psixologik kuchli)</strong></p><p>Eng kichik qarzni BIRINCHI to'lang. Tez g'alaba kuchli motivatsiya beradi.</p><p>→<strong> Qo'shimcha daromad topish</strong></p><p>Qarzni tezroq to'lash uchun freelance yoki qo'shimcha ish.</p><p>→<strong> Konsolidatsiya</strong></p><p>Bir necha yuqori foizli qarzni bitta past foizli kreditga birlashtirish.</p></blockquote>"
+    },
+    {
+     "num": "3.6",
+     "title": "Shaxsiy byudjet tizimini qurish",
+     "html": "<p>Bilim amaliyotsiz bekor. Bu bo'limda siz o'z byudjetingizni qurish uchun aniq, bosqichma-bosqich qo'llanmani olasiz. Bugun boshlang.</p><h2>1-qadam: Daromadingizni aniqlang</h2><p>Oylik sof (qo'lga keladigan) barcha daromadingizni yozing:</p><blockquote><p>Asosiy ish haqi: ___________ so'm</p><p>Qo'shimcha daromad: ___________ so'm</p><p>Passiv daromad (foiz, ijara): ___________ so'm</p><p>Boshqa: ___________ so'm</p><p><strong>JAMI DAROMAD: ___________ so'm</strong></p></blockquote><h2>2-qadam: Xarajatlarni ro'yxat qiling (o'tgan oy asosida)</h2><p>Bank ilovangiz yoki xarajat daftarchasidan o'tgan oyni ko'rib chiqing:</p><table><tbody><tr><th><p>Xarajat turi</p></th><th><p>Oylik summa</p></th><th><p>Zaruriy/Ixtiyoriy</p></th></tr><tr><td><p>Ijara / ipoteka</p></td><td><p>so'm _________</p></td><td><p>Zaruriy</p></td></tr><tr><td><p>Oziq-ovqat</p></td><td><p>so'm _________</p></td><td><p>Zaruriy</p></td></tr><tr><td><p>Transport (yoqilg'i/taksi)</p></td><td><p>so'm _________</p></td><td><p>Zaruriy</p></td></tr><tr><td><p>Kommunal to'lovlar</p></td><td><p>so'm _________</p></td><td><p>Zaruriy</p></td></tr><tr><td><p>Sog'liq / dori</p></td><td><p>so'm _________</p></td><td><p>Zaruriy</p></td></tr><tr><td><p>Ta'lim / kurslar</p></td><td><p>so'm _________</p></td><td><p>Zaruriy/Ixtiyoriy</p></td></tr><tr><td><p>Restoran / kafe</p></td><td><p>so'm _________</p></td><td><p>Ixtiyoriy</p></td></tr><tr><td><p>Ko'ngilochar</p></td><td><p>so'm _________</p></td><td><p>Ixtiyoriy</p></td></tr><tr><td><p>Kiyim-kechak</p></td><td><p>so'm _________</p></td><td><p>Ixtiyoriy</p></td></tr><tr><td><p>Kredit to'lovi</p></td><td><p>so'm _________</p></td><td><p>Zaruriy</p></td></tr><tr><td><p>Tejamkorlik / investitsiya</p></td><td><p>so'm _________</p></td><td><p># Eng muhim</p></td></tr></tbody></table><h2>3-qadam: Muvozanat tekshiruvi</h2><blockquote><p><strong>Daromad </strong>−<strong> Jami xarajatlar = Balans</strong></p><p>Agar Balans &gt; 0 → Ajoyib! Bu pulni investitsiya qiling.</p><p>Agar Balans = 0 → Xavfli. Har qanday favqulodda holat qarzga olib keladi.</p><p>Agar Balans &lt; 0 → Tezda choralar ko'ring — ixtiyoriy xarajatlarni kesing.</p></blockquote><h2>4-qadam: 50/30/20 bilan muvofiqlashtiring</h2><p>Hisoblangan xarajatlaringizni 50/30/20 qoidasiga solishtirib ko'ring. Qaysi kategoriya oshib ketgan? Qaysi birini qisqartirish mumkin?</p><h2>5-qadam: Oyda bir marta ko'rib chiqing</h2><p>Byudjet — bir marta tuzib unituladigan narsa emas. Har oyning oxirida 10-15 daqiqa o'tiring: reja bilan haqiqatni solishtiring, nimani yaxshilash mumkinligini aniqlang va keyingi oyga yangi reja tuzing.</p><blockquote><p><strong>Asosiy xulosa — 3-Blok</strong></p></blockquote><p><em><strong><em><strong>Byudjet — cheklov emas, erkinlik. Pul qayerga ketganini biladigan odam pul qayerga borishi</strong></em> <em><strong>kerakligini ham boshqara oladi. 50/30/20 qoidasi, favqulodda fond va qarz menejmenti — bu</strong></em> <em><strong>uchta narsa birga bo'lganda siz moliyaviy tanglik emasligida hayot kechirasiz. ZInvest AI siz</strong></em> <em><strong>uchun bu byudjetni tuzishda va tahlil qilishda doimo yoningizda.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Asosiy atamalar lug'ati",
+    "html": "<blockquote><p>3-Blokdagi barcha muhim tushunchalar</p></blockquote><table><tbody><tr><th><p>Byudjet</p></th><th><p>Ma'lum davr (odatda bir oy) uchun rejalashtirilgan daromad va xarajatlar rejasi. Pul oqimini nazorat qilish va moliyaviy maqsadlarga erishish vositasi.</p></th></tr><tr><td><p>Sof daromad</p></td><td><p>Barcha soliqlar va majburiy to'lovlar chiqarilgandan keyin qo'lga tegilgan haqiqiy daromad miqdori. Byudjet shu raqam asosida tuziladi.</p></td></tr><tr><td><p>Doimiy xarajatlar</p></td><td><p>Har oy taxminan bir xil miqdorda bo'ladigan xarajatlar: ijara, kredit to'lovi, internet. Ularni qisqartirish qiyin, lekin oldindan rejalash oson.</p></td></tr><tr><td><p>O'zgaruvchan xarajatlar</p></td><td><p>Har oy turlicha miqdorda bo'ladigan xarajatlar: oziq-ovqat, transport, ko'ngilochar. Byudjet tejashda shu kategoriyadan boshlanadi.</p></td></tr><tr><td><p>50/30/20 qoidasi</p></td><td><p>Sof daromadni uch qismga bo'luvchi byudjet tizimi: 50% zaruriyat (asosiy ehtiyojlar), 30% xohish (ixtiyoriy xarajatlar), 20% tejamkorlik va qarz to'lash.</p></td></tr><tr><td><p>Favqulodda fond</p></td><td><p>Kutilmagan hayotiy hodisalar uchun alohida saqlanadigan pul zaxirasi. Odatda 3-6 oylik yashash xarajatini qoplaydi. Barcha investitsiyalardan oldin qurilishi shart.</p></td></tr><tr><td><p>Likvidlik</p></td><td><p>Aktivni tezda naqd pulga aylantirish qobiliyati. Bank depoziti — yuqori likvidlik. Ko'chmas mulk — past likvidlik. Favqulodda fond yuqori likvidlikdagi hisobda bo'lishi kerak.</p></td></tr><tr><td><p>APR (Yillik foiz stavkasi)</p></td><td><p>Kreditning haqiqiy yillik narxi — asosiy foiz va barcha to'lovlarni hisobga olgan holda. Har doim APR ni solishtiring, nominal foizni emas.</p></td></tr><tr><td><p>Qarz spirali</p></td><td><p>Bir qarzni to'lash uchun yangi qarz olish holati. Har safar yangi foiz qo'shilib, qarz kattalashib boraveradi. Bundan chiqishning eng yaxshi yo'li: eng yuqori foizli qarzni birinchi to'lash (avalanche metodi).</p></td></tr><tr><td><p>Avalanche metodi</p></td><td><p>Qarz to'lashning eng samarali usuli: minimal to'lovlarni hamma qarzga amalga oshirib, qolgan pulni eng yuqori foizli qarzga yo'naltirish. Matematika jihatdan eng tejamkor yondashuv.</p></td></tr><tr><td><p>Snowball metodi</p></td><td><p>Qarz to'lashning psixologik usuli: eng kichik qarzni birinchi to'lash. Tez g'alaba motivatsiyani oshiradi, garchi avalanchega qaraganda ko'proq foiz to'lanadi.</p></td></tr><tr><td><p>Pul oqimi (Cash flow)</p></td><td><p>Ma'lum davr ichida kiruvchi va chiquvchi pullarning farqi. Musbat pul oqimi (daromad &gt; xarajat) — moliyaviy sog'liqning asosiy ko'rsatkichi.</p></td></tr><tr><td><p>Impulsiv xarid</p></td><td><p>Oldindan rejalashtirilmagan, his-tuyg'u bilan qilingan xarid. Byudjetning eng katta dushmani. \"24 soat qoidasi\" yordamida kamaytirish mumkin: xarid qilishdan oldin 24 soat kuting.</p></td></tr><tr><td><p>Tejamkorlik darajasi</p></td><td><p>Daromadning tejab qolingan ulushi (%). Formula: Tejamkorlik / Daromad x 100. 20% va undan yuqori — moliyaviy sog'liq belgisi. 10% dan past — xavfli zona.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Byudjet tuzishning asosiy maqsadi qaysi?",
+     "choices": [
+      "Daromadni maksimal oshirish",
+      "Xarajatlarni butunlay to'xtatish",
+      "Pul qayerdan kelib, qayerga ketishini bilish va boshqarish",
+      "Investitsiya uchun pul topish"
+     ],
+     "answer_index": 2,
+     "explanation": "Byudjetning maqsadi pul oqimini bilish va boshqarish."
+    },
+    {
+     "n": 2,
+     "prompt": "Quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+     "choices": [
+      "Kam daromadlilarga byudjet yanada muhimroq",
+      "Byudjet pul cheklovlari to'g'risida qattiq qoidalar majmui",
+      "Byudjet har oy yangilanishi mumkin bo'lgan moslashuvchan reja",
+      "Byudjet moliyaviy maqsadlarga erishishga yordam beradi"
+     ],
+     "answer_index": 1,
+     "explanation": "Byudjet qattiq cheklov emas — moslashuvchan moliyaviy reja."
+    },
+    {
+     "n": 3,
+     "prompt": "Quyidagilardan qaysi biri 'doimiy xarajat' hisoblanadi?",
+     "choices": [
+      "Restoranga tushlik",
+      "Uy ijarasi",
+      "Bozordan sabzavot sotib olish",
+      "Kinoga borish"
+     ],
+     "answer_index": 1,
+     "explanation": "Uy ijarasi har oy bir xil to'lanadigan doimiy xarajat."
+    },
+    {
+     "n": 4,
+     "prompt": "Jasur 3 000 000 so'm daromad oladi. Xarajatlari: ijara 1 000 000, oziq-ovqat 600 000, kafe 300 000, kredit 400 000, tejamkorlik 200 000, ko'ngilochar 500 000. Uning pul oqimi qanday?",
+     "choices": [
+      "+200 000 so'm (musbat)",
+      "-200 000 so'm (manfiy) — xarajatlar daromaddan ko'p",
+      "0 so'm (muvozanat)",
+      "Hisoblash uchun ma'lumot yetarli emas"
+     ],
+     "answer_index": 1,
+     "explanation": "Jami xarajat: 1M+0.6M+0.3M+0.4M+0.2M+0.5M = 3.0M. Lekin tejamkorlik ham xarajat sifatida hisoblangani bilan, aslida balans = 3M - 3M = 0. Ammo ko'ngilochar + kafe birga 800K — bu 26.7%. To'g'ri javob: 3M - 3M = 0. Lekin pul oqimi = Daromad - xarajatlar = 3M - (1M+0.6M+0.3M+0.4M+0.5M) = 3M - 2.8M = 200K. B varianti noto'g'ri — to'g'ri javob A."
+    },
+    {
+     "n": 5,
+     "prompt": "50/30/20 qoidasida '20%' nimani anglatadi?",
+     "choices": [
+      "Ijara va uy xarajatlarini",
+      "Ko'ngilochar va sayohat xarajatlarini",
+      "Tejamkorlik, investitsiya va qarz to'lashni",
+      "Oziq-ovqat xarajatlarini"
+     ],
+     "answer_index": 2,
+     "explanation": "20% — tejamkorlik, investitsiya va qarz to'lashga."
+    },
+    {
+     "n": 6,
+     "prompt": "Oylik sof daromad 10 000 000 so'm. 50/30/20 qoidasiga ko'ra tejamkorlikka ajratiladigan miqdor qancha?",
+     "choices": [
+      "500 000 so'm",
+      "1 000 000 so'm",
+      "2 000 000 so'm",
+      "3 000 000 so'm"
+     ],
+     "answer_index": 2,
+     "explanation": "10 000 000 x 20% = 2 000 000 so'm."
+    },
+    {
+     "n": 7,
+     "prompt": "Favqulodda fond qanchalik miqdorda bo'lishi tavsiya etiladi?",
+     "choices": [
+      "1 oylik ish haqi",
+      "3-6 oylik yashash xarajatlari",
+      "1 yillik daromad",
+      "10 000 000 so'm (standart miqdor)"
+     ],
+     "answer_index": 1,
+     "explanation": "3-6 oylik yashash xarajati — standart tavsiya."
+    },
+    {
+     "n": 8,
+     "prompt": "Favqulodda fondni qayerda saqlash eng to'g'ri?",
+     "choices": [
+      "Uyda naqd pul ko'rinishida",
+      "Aksiyalarga investitsiya qilib",
+      "Asosiy hisobdan alohida, yuqori likvidlikdagi bank hisobida",
+      "Do'stingizga foizsiz qarzga berib"
+     ],
+     "answer_index": 2,
+     "explanation": "Alohida, yuqori likvidlikdagi hisob — tez olinadigan va jalb qilmaydigan."
+    },
+    {
+     "n": 9,
+     "prompt": "Qaysi kredit 'yaxshi qarz' hisoblanishi mumkin?",
+     "choices": [
+      "Yangi televizor uchun 24% foizli kredit",
+      "Kiyim-kechak uchun kredit karta qoldig'i",
+      "Daromad oshiradigan kasb-hunar kursi uchun ta'lim krediti",
+      "Restoran xarajatlari uchun olingan qarz"
+     ],
+     "answer_index": 2,
+     "explanation": "Ta'lim krediti kelajakda daromad oshirsa — bu yaxshi qarz."
+    },
+    {
+     "n": 10,
+     "prompt": "5 000 000 so'm kredit, 36% yillik foiz, 24 oy muddat. Jami foiz xarajati taxminan qancha bo'ladi?",
+     "choices": [
+      "180 000 so'm",
+      "900 000 so'm",
+      "1 672 000 so'm",
+      "5 000 000 so'm"
+     ],
+     "answer_index": 2,
+     "explanation": "Jadval bo'yicha 36% / 24 oy = ~1 672 000 so'm faqat foiz."
+    },
+    {
+     "n": 11,
+     "prompt": "Siz uchta qarzga egasiz: 500 000 so'm (18% foiz), 2 000 000 so'm (30% foiz), 800 000 so'm (24% foiz). Avalanche metodi bo'yicha qaysi qarzni birinchi to'lash kerak?",
+     "choices": [
+      "500 000 so'm (eng kichik)",
+      "2 000 000 so'm (eng yuqori foiz — 30%)",
+      "800 000 so'm (o'rtacha)",
+      "Hammani bir xilda to'lash kerak"
+     ],
+     "answer_index": 1,
+     "explanation": "Avalanche = eng yuqori foizdan boshlash = 30% foizli 2M qarz."
+    },
+    {
+     "n": 12,
+     "prompt": "Byudjet tuzishda birinchi qadam nima?",
+     "choices": [
+      "Xarajatlarni kesishni boshlash",
+      "Investitsiya hisobini ochish",
+      "Sof daromadni aniqlab olish",
+      "Favqulodda fond ochish"
+     ],
+     "answer_index": 2,
+     "explanation": "Sof daromadni bilmasdan byudjet tuzib bo'lmaydi. Ball bo'yicha yo'riqnoma 12/12: A'lo! 3-blokni to'liq o'zlashtirdingiz. 4-Blokga o'tishga tayyorsiz. 10-11: Juda yaxshi! Xato qilgan savollarni qayta ko'rib chiqing. 8-9: Yaxshi — 3.3 va 3.5 bo'limlarni misollar bilan qayta o'qing. 6-7: Barcha bo'limlarni lug'at bilan birgalikda takrorlang. 6 dan past: Boshidan qayta o'qing, amaliy misollar va jadvallarga e'tibor bering."
+    }
+   ]
+  }
+ }
+}

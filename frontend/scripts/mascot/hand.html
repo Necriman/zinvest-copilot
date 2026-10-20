@@ -1,0 +1,90 @@
+<!doctype html>
+<!-- Dev-only page (served by `npm run dev`): inspect the resting wrist.
+     The slider twists the paw around its forearm axis without bending it.
+     The right-hand view is the same bear, zoomed on the paw. -->
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <title>Поворот лапы</title>
+    <style>
+      :root { color-scheme: dark; }
+      body { margin: 0; background: #0b1020; color: #e6edf7;
+             font: 15px/1.5 system-ui, sans-serif; padding: 16px; }
+      h1 { font-size: 17px; margin: 0 0 4px; }
+      .hint { color: #93a4c0; font-size: 13px; margin: 0 0 14px; }
+      .row { display: flex; gap: 16px; flex-wrap: wrap; }
+      .card { background: #121a30; border-radius: 14px; padding: 10px; }
+      .stage { width: 380px; height: 380px; }
+      .zoomwrap { width: 380px; height: 380px; overflow: hidden; border-radius: 10px; }
+      /* The same 380px render, magnified about the paw. */
+      .zoomwrap .stage { transform: scale(3.2); transform-origin: 38% 71%; }
+      .caption { text-align: center; color: #93a4c0; font-size: 13px; padding-top: 6px; }
+      .controls { margin-top: 16px; max-width: 600px; }
+      label { display: block; margin: 12px 0 4px; }
+      b { color: #6aa3ff; font-variant-numeric: tabular-nums; }
+      input[type=range] { width: 100%; }
+      .presets { margin-top: 12px; display: flex; gap: 8px; flex-wrap: wrap; }
+      button { background: #1d2947; color: #e6edf7; border: 1px solid #2c3c66;
+               border-radius: 8px; padding: 6px 12px; font: inherit; cursor: pointer; }
+      button:hover { background: #26345c; }
+    </style>
+  </head>
+  <body>
+    <h1>Поворот опущенной лапы</h1>
+    <p class="hint">Локоть слегка согнут, ладонь развёрнута к бедру. Справа — крупный план.</p>
+
+    <div class="row">
+      <div class="card"><div class="stage" id="full"></div><div class="caption">целиком</div></div>
+      <div class="card"><div class="zoomwrap"><div class="stage" id="zoom"></div></div><div class="caption">лапа вблизи</div></div>
+    </div>
+
+    <div class="controls">
+      <label>Разворот вдоль предплечья: <b id="twistLabel">-40°</b></label>
+      <input type="range" id="twist" min="-180" max="180" step="5" value="-40" />
+      <label>Поворот медведя (посмотреть с другого угла): <b id="turnLabel">0.35</b></label>
+      <input type="range" id="turn" min="-1" max="1" step="0.05" value="0.35" />
+      <div class="presets">
+        <button data-twist="-60">-60°</button>
+        <button data-twist="-40">-40° (сейчас)</button>
+        <button data-twist="0">0°</button>
+        <button data-twist="40">40°</button>
+      </div>
+    </div>
+
+    <script type="module">
+      import { MOODS, createBear } from '/src/mascot/engine.js'
+
+      const deg = Math.PI / 180
+      const state = { twist: -40, turn: 0.35 }
+
+      // A mood that does nothing but hold the paw at the angle being tried.
+      MOODS.s_pick = (t, p) => {
+        p.handTwistL = state.twist * deg
+        p.turn = state.turn
+      }
+
+      await createBear(document.getElementById('full'), { mood: 's_pick' })
+      await createBear(document.getElementById('zoom'), { mood: 's_pick' })
+
+      const twist = document.getElementById('twist')
+      const turn = document.getElementById('turn')
+      const twistLabel = document.getElementById('twistLabel')
+      const turnLabel = document.getElementById('turnLabel')
+
+      function apply() {
+        state.twist = Number(twist.value)
+        state.turn = Number(turn.value)
+        twistLabel.textContent = `${state.twist}°`
+        turnLabel.textContent = state.turn.toFixed(2)
+        document.title = `лапа ${state.twist}°`
+      }
+      twist.addEventListener('input', apply)
+      turn.addEventListener('input', apply)
+      for (const button of document.querySelectorAll('[data-twist]')) {
+        button.addEventListener('click', () => { twist.value = button.dataset.twist; apply() })
+      }
+      twist.value = state.twist
+      apply()
+    </script>
+  </body>
+</html>

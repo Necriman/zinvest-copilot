@@ -1,0 +1,43 @@
+<!doctype html>
+<!-- Dev-only: every mood side by side, two moments each, for looking a model over
+     after src/mascot/models.js switches to it. ?t=0.3,0.9 picks the moments,
+     ?framing=bust&cols=2 looks at the faces up close. -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Bear moods</title>
+    <style>
+      body{margin:0;background:#e9eef6;font:600 13px/1.2 system-ui,sans-serif;color:#334155}
+      #grid{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;padding:6px}
+      .m{background:#fff;border-radius:12px;padding:4px 4px 8px}
+      .m p{margin:4px 6px}
+      .pair{display:flex}
+      .f{width:50%;aspect-ratio:3/4}
+    </style>
+  </head>
+  <body>
+    <div id="grid"></div>
+    <script type="module">
+      import { MOODS, createBear } from '/src/mascot/engine.js'
+      const q = new URLSearchParams(location.search)
+      const times = (q.get('t') || '0.3,0.9').split(',').map(Number)
+      const grid = document.getElementById('grid')
+      const framing = q.get('framing') || 'full'
+      if (q.get('cols')) grid.style.gridTemplateColumns = `repeat(${q.get('cols')},1fr)`
+      // ?moods=idle,wave limits the list: a browser keeps ~16 live WebGL canvases.
+      const only = q.get('moods')?.split(',')
+      for (const mood of Object.keys(MOODS).filter((m) => !only || only.includes(m))) {
+        const card = document.createElement('div'); card.className = 'm'
+        card.innerHTML = `<p>${mood}</p><div class="pair"></div>`
+        grid.appendChild(card)
+        for (const t of times) {
+          const el = document.createElement('div'); el.className = 'f'; card.lastChild.appendChild(el)
+          const bear = await createBear(el, { mood, framing, still: true, preserveDrawingBuffer: true })
+          bear.renderOnce(t)
+        }
+      }
+      const h = document.createElement('h1'); h.textContent = 'done'; h.style.display = 'none'; document.body.appendChild(h)
+      window.__done = true
+    </script>
+  </body>
+</html>

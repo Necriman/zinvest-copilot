@@ -1,0 +1,569 @@
+{
+ "unit": 10,
+ "langs": {
+  "en": {
+   "unit": 10,
+   "lang": "en",
+   "title": "Financial Goal Setting",
+   "subtitle": "SMART goals, short/medium/long-term planning, life-stage financial planning, and connecting everything from Level 1 into a complete system.",
+   "lessons": [
+    {
+     "num": "10.1",
+     "title": "Why Goals Matter",
+     "html": "<p>You have learned to budget, save, manage debt, understand banking, earn more, insure against risk, and minimize taxes. But without clear goals, all of this knowledge is a car without a destination.</p><p><strong>The Fundamental Truth</strong></p><p>People with written financial goals are 42% more likely to achieve them than people without. Not because writing is magic — but because clarity creates action. A goal of 'save more money' fails. A goal of 'save $12,000 for an emergency fund by December 2026 by setting aside $500/month' succeeds.</p><table><tbody><tr><td><p><strong>Without Goals</strong></p><p>✗ Save 'some money' (how much? by when?)</p><p>✗ Invest 'when I can' (you never can)</p><p>✗ Retire 'someday' (someday never comes)</p><p>✗ Random decisions, no progress tracking Result: 20 years of earning with nothing to show for it.</p></td><td><p><strong>With Clear Goals</strong></p><p>✓ Save $12,000 by Dec 2026 ($500/mo)</p><p>✓ Invest $200/month in index fund from Jan</p><p>✓ Retire at 55 with $800K portfolio</p><p>✓ Every decision measured against targets Result: compound progress year after year.</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "10.2",
+     "title": "The SMART Framework",
+     "html": "<p>SMART is the most proven goal-setting framework in the world. It turns fuzzy intentions into concrete targets.</p><p><strong>S — Specific</strong></p><p>What EXACTLY do you want? Not 'save money' but 'save $12,000 for an emergency fund.' The more specific, the more actionable.</p><p><strong>M — Measurable</strong></p><p>How will you track progress? '$500 saved per month' is measurable. 'Save more' is not. If you can't measure it, you can't manage it.</p><p><strong>A — Achievable</strong></p><p>Is it realistic given your income and expenses? $500/month on a $4,000 salary is achievable. $3,000/month is not. Stretch but don't break.</p><p><strong>R — Relevant</strong></p><p>Does it align with your life priorities? Saving for a sports car when you need a house down payment is not relevant. Goals should serve your actual life.</p><p><strong>T — Time-bound</strong></p><p>By WHEN? 'Save $12,000' without a deadline is a wish. 'Save $12,000 by December 2026' is a plan. Deadlines create urgency and accountability.</p><p><strong>REAL EXAMPLE — Turning a Wish into a SMART Goal</strong></p><p>Wish: 'I want to save for a house.'</p><p>SMART Goal: 'Save $36,000 for a house down payment by June 2029 by setting aside $1,000/month in a high-yield savings account earning 5%.'</p><p>Specific: $36K for down payment. Measurable: $1K/month. Achievable: 25% of $4K salary. Relevant: housing is a top priority. Time-bound: June 2029.</p><p><strong>Now you know exactly what to do every single month. That is the power of SMART goals.</strong></p>"
+    },
+    {
+     "num": "10.3",
+     "title": "Short-Term Goals (0-2 Years)",
+     "html": "<p>Short-term goals are the foundation. They create momentum, build confidence, and establish the financial habits that make bigger goals possible.</p><h2>The Essential Short-Term Goals</h2><table><tbody><tr><th><p>Goal</p></th><th><p>Target</p></th><th><p>Monthly Amount</p></th><th><p>Vehicle</p></th><th><p>Priority</p></th></tr><tr><td><p>Emergency Fund</p></td><td><p>3-6 months expenses</p></td><td><p>$300-800</p></td><td><p>High-yield savings</p></td><td><p>#1 — Critical</p></td></tr><tr><td><p>y Off High-Interest DA</p></td><td><p>elbl tdebt above 15% AP</p></td><td><p>RMaximum possibleA</p></td><td><p>valanche method (Unit 5</p></td><td><p>) #2 — Critical</p></td></tr><tr><td><p>Small Savings Goal</p></td><td><p>$1,000-5,000</p></td><td><p>$100-300</p></td><td><p>Savings account</p></td><td><p>#3 — Motivation</p></td></tr><tr><td><p>Skill Investment 1</p></td><td><p>-2 courses/certification</p></td><td><p>s $50-200</p></td><td><p>Direct payment</p></td><td><p>#4 — Career growth</p></td></tr><tr><td><p>Insurance Setup</p></td><td><p>All essential coverage</p></td><td><p>Budget for premiums</p></td><td><p>Proper policies (Unit 8)</p></td><td><p>#5 — Protection</p></td></tr></tbody></table><h2>Key Rules for Short-Term Goals</h2><p><strong>Use SAFE vehicles only</strong></p><p>Savings accounts, short-term deposits. NO stocks, NO crypto. You cannot afford to lose money you need in 1-2 years.</p><p><strong>Automate everything</strong></p><p>Set up automatic transfers on payday. Remove willpower from the equation entirely.</p><p><strong>Celebrate small wins</strong></p><p>Hitting $1,000 in your emergency fund matters. Acknowledge progress — it fuels the next goal.</p><p><strong>Revisit monthly</strong></p><p>Short-term goals need monthly check-ins. Are you on track? Adjust if needed.</p>"
+    },
+    {
+     "num": "10.4",
+     "title": "Medium & Long-Term Goals",
+     "html": "<p>These are the goals that transform your life. A house, your children's education, early retirement, financial independence — all require years of consistent action.</p><h2>Medium-Term Goals (2-7 Years)</h2><table><tbody><tr><th><p>Goal</p></th><th><p>Typical Target</p></th><th><p>Monthly Savings</p></th><th><p>Best Vehicle</p></th><th><p>Inflation Adjusted?</p></th></tr><tr><td><p>House Down Paymen</p></td><td><p>t $30,000-80,000</p></td><td><p>$500-2,000</p></td><td><p>Mix: savings + bonds</p></td><td><p>Yes — add 3-4% yearly</p></td></tr><tr><td><p>Car Purchase</p></td><td><p>$10,000-30,000</p></td><td><p>$200-800</p></td><td><p>Fixed deposit</p></td><td><p>Optional</p></td></tr><tr><td><p>Wedding Fund</p></td><td><p>$5,000-30,000</p></td><td><p>$200-800</p></td><td><p>Savings account</p></td><td><p>No</p></td></tr><tr><td><p>Education Fund</p></td><td><p>$10,000-50,000</p></td><td><p>$300-1,000</p></td><td><p>Index fund + bonds</p></td><td><p>Yes — tuition inflates faster</p></td></tr><tr><td><p>Start a Business</p></td><td><p>$5,000-50,000</p></td><td><p>$200-1,500 S</p></td><td><p>avings + some index fun</p></td><td><p>d Yes</p></td></tr></tbody></table><h2>Long-Term Goals (7+ Years)</h2><table><tbody><tr><th><p>Goal</p></th><th><p>Typical Target</p></th><th><p>Monthly Investmen</p></th><th><p>t Best Vehicle</p></th><th><p>Time Needed</p></th></tr><tr><td><p>Retirement</p></td><td><p>$500K-2M+</p></td><td><p>$300-2,000</p></td><td><p>Index funds, real estate</p></td><td><p>20-40 years</p></td></tr><tr><td><p>inancial Independenc</p></td><td><p>e $600K-1.5M</p></td><td><p>$500-3,000</p></td><td><p>Diversified portfolio</p></td><td><p>15-25 years</p></td></tr><tr><td><p>Children's Education</p></td><td><p>$50K-200K</p></td><td><p>$200-800</p></td><td><p>Education fund + index</p></td><td><p>15-20 years</p></td></tr><tr><td><p>Generational Wealth</p></td><td><p>$1M+</p></td><td><p>$500-2,000</p></td><td><p>Diversified assets</p></td><td><p>20-30+ years</p></td></tr><tr><td><p>Dream Home (paid off</p></td><td><p>) $200K-500K</p></td><td><p>$500-1,500 M</p></td><td><p>ortgage + extra paymen</p></td><td><p>ts 15-25 years</p></td></tr></tbody></table><p><strong>REAL EXAMPLE — The Power of Starting Early</strong></p><p>Goal: Retire at 55 with $800,000.</p><p>Start at age 25: need to invest $370/month at 8% for 30 years. Very achievable.</p><p>Start at age 35: need to invest $880/month at 8% for 20 years. Tough but possible.</p><p>Start at age 45: need to invest $2,370/month at 8% for 10 years. Extremely difficult.</p><p><strong>Same goal. Same return. But starting 10 years earlier cuts the required monthly amount by</strong> <strong>more than HALF. Time is the most powerful financial tool you have — and it only works if you</strong> <strong>start NOW.</strong></p>"
+    },
+    {
+     "num": "10.5",
+     "title": "Life-Stage Financial Planning",
+     "html": "<p>Your financial goals should evolve with your life. What matters at 22 is different from what matters at 45. Here is the roadmap.</p><p><strong>20s: Build the Foundation</strong></p><p>Emergency fund (3 months) • Pay off student debt • Start investing (even $50/month) • Build career capital • Get basic insurance • Develop the savings habit</p><p><strong>30s: Accelerate &amp; Grow</strong></p><p>Emergency fund (6 months) • Max retirement contributions • Save for house down payment • Increase income aggressively • Life insurance if married/kids • Start building passive income</p><p><strong>40s: Optimize &amp; Protect</strong></p><p>Maximize investment returns • Fully fund children's education • Pay off mortgage faster • Diversify income streams • Review all insurance • Begin estate planning</p><p><strong>50s: Prepare for Transition</strong></p><p>Catch up on retirement if behind • Reduce risk in portfolio • Plan for healthcare costs • Consider downsizing • Finalize estate plan • Build bridge to retirement income</p><p><strong>60s+: Enjoy &amp; Preserve</strong></p><p>Begin drawing retirement income • Manage portfolio withdrawals (4% rule) • Healthcare planning • Legacy and estate execution • Enjoy what you built • Share knowledge with next generation</p><p><em><strong><em><strong>The key insight: you are not behind if you start now. Every decade has its own optimal strategy. The</strong></em> <em><strong>worst plan is no plan.</strong></em></strong></em></p>"
+    },
+    {
+     "num": "10.6",
+     "title": "Your Financial Action Plan",
+     "html": "<p>This is where everything from Level 1 comes together. Each unit taught you a piece. This section shows you how they connect into a complete financial system.</p><h2>The Level 1 Integration Map</h2><p><strong>Unit 3 — Budget</strong></p><p>Create your monthly budget using 50/30/20. Know where every dollar goes.</p><p><strong>Unit 4 — Save</strong></p><p>Pay yourself first. Automate 20% into savings. Choose the right vehicle for each goal.</p><p><strong>Unit 5 — Debt</strong></p><p>Eliminate high-interest debt using avalanche method. Keep credit score high.</p><p><strong>Unit 6 — Bank</strong></p><p>Choose the right bank. Optimize your account structure. Keep deposits insured.</p><p><strong>Unit 7 — Earn</strong></p><p>Maximize salary. Launch a side hustle. Build toward passive income.</p><p><strong>Unit 8 — Insure</strong></p><p>Get health insurance first. Protect income, life (if dependents), property, auto.</p><p><strong>Unit 9 — Tax</strong></p><p>Understand your effective rate. Maximize deductions. Invest tax-efficiently.</p><p><strong>Unit 10 — Goals</strong></p><p>Set SMART goals for short, medium, and long-term. Review quarterly. Adjust as life changes.</p><p><strong>LEVEL 1 COMPLETE — What You've Achieved</strong></p><p>You now have a complete financial foundation. You understand money, time value, budgeting, saving, debt, banking, income, insurance, taxes, and goal setting. You are financially literate — and ahead of 80% of the population.</p><p>Level 2 awaits: Economics — understanding HOW the economy works, WHY prices change, and what drives the world that your money lives in. The journey from financially literate to financially powerful begins now.</p><p><em><strong><em><strong>ZInvest AI is your permanent companion on this journey. Use it to budget, analyze</strong></em> <em><strong>investments, compare products, plan goals, and make every financial decision with</strong></em> <em><strong>confidence. You've built the foundation. Now build your future.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Key Terms Glossary",
+    "html": "<blockquote><p>All important terms from Unit 10</p></blockquote><table><tbody><tr><th><p>SMART Goals</p></th><th><p>Specific, Measurable, Achievable, Relevant, Time-bound. The framework that turns wishes into actionable plans.</p></th></tr><tr><td><p>Short-Term Goal</p></td><td><p>A financial target to be achieved within 0-2 years. Uses safe, liquid vehicles. Builds momentum.</p></td></tr><tr><td><p>Medium-Term Goal</p></td><td><p>A target for 2-7 years out. Uses moderate growth vehicles like bonds and index fund mixes.</p></td></tr><tr><td><p>Long-Term Goal</p></td><td><p>A target 7+ years away. Can use growth-oriented investments because time reduces volatility risk.</p></td></tr><tr><td><p>Financial Independence</p></td><td><p>When passive and portfolio income covers all living expenses. Work becomes optional.</p></td></tr><tr><td><p>Emergency Fund</p></td><td><p>3-6 months of expenses in a liquid account. The #1 short-term goal and foundation of all planning.</p></td></tr><tr><td><p>Inflation Adjustment</p></td><td><p>Increasing your goal amount to account for rising prices. $100K in 10 years needs ~$148K at 4% inflation.</p></td></tr><tr><td><p>Net Worth</p></td><td><p>Total assets minus total liabilities. The single best measure of overall financial health.</p></td></tr><tr><td><p>Asset Allocation</p></td><td><p>How you divide investments among stocks, bonds, cash, and alternatives. Changes with goals and age.</p></td></tr><tr><td><p>Compound Growth</p></td><td><p>Reinvested returns generating their own returns. The mechanism that makes long-term goals achievable.</p></td></tr><tr><td><p>Life-Stage Planning</p></td><td><p>Adapting financial goals and strategies to match your current life phase (20s, 30s, 40s, etc.).</p></td></tr><tr><td><p>Milestone</p></td><td><p>A checkpoint within a larger goal. Breaking $36K goal into quarterly $9K milestones makes it trackable.</p></td></tr><tr><td><p>Financial Plan</p></td><td><p>A comprehensive document outlining your income, expenses, goals, investments, insurance, and tax strategy.</p></td></tr><tr><td><p>Opportunity Cost</p></td><td><p>What you give up by choosing one goal over another. Every dollar has only one job at a time.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Why are financial goals important?",
+     "choices": [
+      "Banks require them to open accounts",
+      "They give money direction — without goals, saving and investing have no target",
+      "They guarantee wealth",
+      "Goals are only for wealthy people"
+     ],
+     "answer_index": 1,
+     "explanation": "Financial goals give your money direction and purpose. Without them, saving and investing have no target to aim for."
+    },
+    {
+     "n": 2,
+     "prompt": "What does SMART stand for in goal setting?",
+     "choices": [
+      "Save More And Retire Tomorrow",
+      "Simple, Moderate, Adjusted, Ranked, Tested",
+      "Specific, Measurable, Achievable, Relevant, Time-bound",
+      "Strategic, Managed, Automated, Realistic, Tracked"
+     ],
+     "answer_index": 2,
+     "explanation": "SMART goals are Specific, Measurable, Achievable, Relevant, and Time-bound. This framework turns vague wishes into actionable plans."
+    },
+    {
+     "n": 3,
+     "prompt": "Which vehicle is BEST for a short-term goal (under 2 years)?",
+     "choices": [
+      "Individual stocks",
+      "High-yield savings account or short-term deposit",
+      "Cryptocurrency",
+      "Real estate"
+     ],
+     "answer_index": 1,
+     "explanation": "Short-term goals (under 2 years) should use safe, liquid vehicles — savings accounts and short-term deposits. No market risk."
+    },
+    {
+     "n": 4,
+     "prompt": "For a medium-term goal of 5 years, which investment approach is most appropriate?",
+     "choices": [
+      "100% in a checking account",
+      "All in cryptocurrency",
+      "A mix of index funds and bonds",
+      "All in a single stock"
+     ],
+     "answer_index": 2,
+     "explanation": "Medium-term goals (2-7 years) balance growth and safety. A mix of index funds and bonds provides moderate returns with manageable risk."
+    },
+    {
+     "n": 5,
+     "prompt": "Why can long-term goals (7+ years) use more aggressive investments?",
+     "choices": [
+      "Long-term investments are risk-free",
+      "Time smooths out short-term volatility — even bad years average out over decades",
+      "The stock market always goes up",
+      "Long-term investments are guaranteed by the government"
+     ],
+     "answer_index": 1,
+     "explanation": "Long-term goals (7+ years) can tolerate market volatility because time smooths out short-term drops. Use growth-oriented investments."
+    },
+    {
+     "n": 6,
+     "prompt": "You have: credit card debt at 24%, no emergency fund, and want to save for vacation. What order?",
+     "choices": [
+      "Vacation first — you deserve it",
+      "Emergency fund, vacation, then debt",
+      "Emergency fund first, then pay off 24% debt, then vacation",
+      "Debt, vacation, emergency fund"
+     ],
+     "answer_index": 2,
+     "explanation": "Prioritize by urgency and impact: emergency fund first, then high-interest debt, then medium and long-term goals simultaneously."
+    },
+    {
+     "n": 7,
+     "prompt": "Turn this into a SMART goal: 'I want to save for a car.' Which version is SMART?",
+     "choices": [
+      "Save money for a car someday",
+      "Save $18,000 for a car by March 2028 by setting aside $500/month in a fixed deposit",
+      "Buy the most expensive car possible",
+      "Save as much as I can whenever I can"
+     ],
+     "answer_index": 1,
+     "explanation": "Breaking a large goal into monthly savings targets makes it concrete and trackable. $36,000 in 3 years = $1,000/month."
+    },
+    {
+     "n": 8,
+     "prompt": "What life event should trigger a REVIEW of your financial goals?",
+     "choices": [
+      "Only bankruptcy",
+      "Nothing — goals should never change",
+      "Marriage, children, job change, home purchase, health change",
+      "Only reaching age 65"
+     ],
+     "answer_index": 2,
+     "explanation": "Life events (marriage, children, job change) require reviewing and adjusting your financial goals to match new circumstances."
+    },
+    {
+     "n": 9,
+     "prompt": "What is the most important habit for achieving financial goals?",
+     "choices": [
+      "Checking your investments every hour",
+      "Automating savings so money moves before you can spend it",
+      "Never spending any money on enjoyment",
+      "Changing goals every week"
+     ],
+     "answer_index": 1,
+     "explanation": "Automating savings removes willpower from the equation. The money moves before you can spend it."
+    },
+    {
+     "n": 10,
+     "prompt": "How often should you review your financial goals?",
+     "choices": [
+      "Every day",
+      "Once per decade",
+      "Quarterly (every 3 months) — enough to stay on track without obsessing",
+      "Never — set and forget"
+     ],
+     "answer_index": 2,
+     "explanation": "Reviewing goals quarterly keeps you on track without creating anxiety from daily checking. Adjust as needed every 3 months."
+    },
+    {
+     "n": 11,
+     "prompt": "You set a goal of $100,000 in 10 years. Inflation is 4%. What should your REAL target be?",
+     "choices": [
+      "$100,000 — inflation doesn't matter",
+      "$148,000 — to maintain the same purchasing power",
+      "$50,000 — inflation reduces your target",
+      "$200,000 — always double for safety"
+     ],
+     "answer_index": 1,
+     "explanation": "Inflation erodes the real value of your goal. A goal of $100K in 10 years needs to be $148K to maintain the same purchasing power at 4% inflation."
+    },
+    {
+     "n": 12,
+     "prompt": "How does Unit 10 connect to Units 3-9?",
+     "choices": [
+      "It doesn't — each unit is independent",
+      "Unit 10 replaces all other units",
+      "Goals give direction to budgeting (U3), saving (U4), debt (U5), banking (U6), earning (U7), insurance (U8), and taxes (U9)",
+      "Unit 10 is only about retirement"
+     ],
+     "answer_index": 2,
+     "explanation": "Unit 10 completes Level 1 by connecting all previous units into a unified system: budget (U3), save (U4), manage debt (U5), bank wisely (U6), earn more (U7), insure (U8), minimize taxes (U9), and aim everything at clear goals (U10)."
+    }
+   ]
+  },
+  "ru": {
+   "unit": 10,
+   "lang": "ru",
+   "title": "Финансовые цели",
+   "subtitle": "SMART-цели, краткосрочное/среднесрочное/долгосрочное планирование, финансовое планирование по этапам жизни и объединение всего Уровня 1 в систему.",
+   "lessons": [
+    {
+     "num": "10.1",
+     "title": "Зачем нужны цели",
+     "html": "<p>Вы научились составлять бюджет, копить, управлять долгами, понимать банки, больше зарабатывать, страховать риски и минимизировать налоги. Но без чётких целей все эти знания — машина без пункта назначения.</p><p><strong>Фундаментальная истина</strong></p><p>Люди с записанными финансовыми целями на 42% чаще их достигают. Не потому что запись — магия, а потому что ясность порождает действие. Цель «копить больше» провальна. Цель «накопить 1 200 000 руб. на фонд экстренных ситуаций к декабрю 2026, откладывая 50 000/мес.» — работает.</p><table><tbody><tr><td><p><strong>Без целей</strong></p><p>Копить «сколько-то» (сколько? к когда?) Инвестировать «когда смогу» (не сможете) Выйти на пенсию «когда-нибудь» Случайные решения, без отслеживания Результат: 20 лет заработка без результата.</p></td><td><p><strong>С чёткими целями</strong></p><p>1 200 000 к дек. 2026 (50 000/мес.) 20 000/мес. в индексный фонд с января Пенсия в 55 с портфелем 60 млн Каждое решение сверяется с целями Результат: накопительный прогресс год за годом.</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "10.2",
+     "title": "Система SMART",
+     "html": "<p>SMART — самая проверенная система постановки целей в мире. Она превращает расплывчатые намерения в конкретные ориентиры.</p><p><strong>S — Конкретная (Specific)</strong></p><p>Что ИМЕННО вы хотите? Не «копить деньги», а «накопить 1 200 000 руб. на фонд экстренных ситуаций». Чем конкретнее — тем действеннее.</p><p><strong>M — Измеримая (Measurable)</strong></p><p>Как отслеживать прогресс? «50 000 в месяц» — измеримо. «Копить больше» — нет. Нельзя управлять тем, что нельзя измерить.</p><p><strong>A — Достижимая (Achievable)</strong></p><p>Реалистично при вашем доходе? 50 000/мес. при зарплате 150 000 — достижимо. 120 000/мес. — нет. Тянитесь, но не рвите.</p><p><strong>R — Релевантная (Relevant)</strong></p><p>Соответствует жизненным приоритетам? Копить на спорткар, когда нужен первый взнос на жильё — не релевантно.</p><p><strong>T — Ограниченная во времени (Time-bound)</strong></p><p>К КОГДА? «Накопить 1 200 000» без дедлайна — мечта. «К декабрю 2026» — план. Дедлайны создают срочность и ответственность.</p><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Превращение мечты в SMART-цель</strong></p><p>Мечта: «Хочу накопить на квартиру.»</p><p>SMART-цель: «Накопить 3 600 000 руб. на первоначальный взнос к июню 2029, откладывая 100 000/мес. на накопительный счёт под 7%.»</p><p>Конкретная: 3 600 000 на первый взнос. Измеримая: 100 000/мес. Достижимая: 25% от зарплаты 400 000. Релевантная: жильё — главный приоритет. Ограниченная: июнь 2029.</p><p><strong>Теперь вы точно знаете, что делать каждый месяц. В этом сила</strong></p><p><strong>SMART-целей.</strong></p>"
+    },
+    {
+     "num": "10.3",
+     "title": "Краткосрочные цели (0-2 года)",
+     "html": "<p>Краткосрочные цели — фундамент. Они создают инерцию, укрепляют уверенность и формируют финансовые привычки, делающие большие цели возможными.</p><h2>Основные краткосрочные цели</h2><table><tbody><tr><th><p>Цель</p></th><th><p>Ориентир</p></th><th><p>Ежемесячно</p></th><th><p>Инструмент</p></th><th><p>Приоритет</p></th></tr><tr><td><p>экстренных ситу</p></td><td><p>а3ц-и6й мес. расходов</p></td><td><p>20-60К руб.</p></td><td><p>Накопительный счёт</p></td><td><p>№1 — Критично</p></td></tr><tr><td><p>асить дорогие доВ</p></td><td><p>лсгеи долги выше М18ак</p></td><td><p>%симум возможМн</p></td><td><p>оегтоод лавины (Блок 5</p></td><td><p>) №2 — Критично</p></td></tr><tr><td><p>лая цель накопле</p></td><td><p>ния50-300К руб.</p></td><td><p>5-20К руб.</p></td><td><p>Вклад</p></td><td><p>№3 — Мотивация</p></td></tr><tr><td><p>нвестиция в нав1ы-</p></td><td><p>к2и курса/сертифика</p></td><td><p>та 3-15К руб.</p></td><td><p>Оплата обучения</p></td><td><p>№4 — Карьера</p></td></tr><tr><td><p>астройка страховВ</p></td><td><p>ксие основные полиБс</p></td><td><p>юыджет на прПерма</p></td><td><p>иви льные полисы (Бло</p></td><td><p>к 8) №5 — Защита</p></td></tr></tbody></table><h2>Ключевые правила краткосрочных целей</h2><p><strong>Только БЕЗОПАСНЫЕ инструменты</strong></p><p>Накопительные счета, краткосрочные вклады. БЕЗ акций, БЕЗ крипто. Вы не можете позволить потерять деньги, нужные через 1-2 года.</p><p><strong>Автоматизируйте всё</strong></p><p>Настройте автоматические переводы в день зарплаты. Уберите силу воли из процесса.</p><p><strong>Празднуйте маленькие победы</strong></p><p>Первые 100 000 руб. в фонде — это важно. Признавайте прогресс — он питает следующую цель.</p><p><strong>Ежемесячная проверка</strong></p><p>Краткосрочные</p><blockquote><p>цели</p><p>требуют</p><p>ежемесячного</p><p>контроля.</p><p>На</p><p>верном</p><p>пути?</p></blockquote><p>Скорректируйте при необходимости.</p>"
+    },
+    {
+     "num": "10.4",
+     "title": "Среднесрочные и долгосрочные цели",
+     "html": "<p>Это цели, которые меняют жизнь. Квартира, образование детей, ранняя пенсия, финансовая независимость — всё требует лет последовательных действий.</p><h2>Среднесрочные цели (2-7 лет)</h2><table><tbody><tr><th><p>Цель</p></th><th><p>Ориентир</p></th><th><p>Ежемесячно</p></th><th><p>Инструмент</p></th><th><p>Инфляция?</p></th></tr><tr><td><p>рвый взнос на жи</p></td><td><p>льё2-6 млн руб.</p></td><td><p>40-150К М</p></td><td><p>икс: вклад + облигаци</p></td><td><p>и Да — +4% ежегодно</p></td></tr><tr><td><p>Покупка авто</p></td><td><p>800К-2.5 млн</p></td><td><p>15-60К</p></td><td><p>Срочный вклад</p></td><td><p>По желанию</p></td></tr><tr><td><p>Фонд свадьбы</p></td><td><p>300К-2 млн</p></td><td><p>15-60К</p></td><td><p>Накопительный счёт</p></td><td><p>Нет</p></td></tr><tr><td><p>Фонд образования</p></td><td><p>800К-4 млн</p></td><td><p>20-80КИнд</p></td><td><p>ексный фонд + облигДа</p></td><td><p>ца и—и образование дорожае</p></td></tr><tr><td><p>Запуск бизнеса</p></td><td><p>500К-4 млн</p></td><td><p>15-100К Вк</p></td><td><p>лад + часть индексно</p></td><td><p>го Да</p></td></tr></tbody></table><h2>Долгосрочные цели (7+ лет)</h2><table><tbody><tr><th><p>Цель</p></th><th><p>Ориентир</p></th><th><p>Ежемесячно</p></th><th><p>Инструмент</p></th><th><p>Срок</p></th></tr><tr><td><p>Пенсия</p></td><td><p>40-150 млн+</p></td><td><p>20-150ИКндек</p></td><td><p>сные фонды, недвижи</p></td><td><p>мость 20-40 лет</p></td></tr><tr><td><p>нсовая независим</p></td><td><p>ост5ь0-120 млн</p></td><td><p>40-250ДКивер</p></td><td><p>сифицированный пор</p></td><td><p>тфель 15-25 лет</p></td></tr><tr><td><p>бразование дете</p></td><td><p>й 4-15 млн</p></td><td><p>15-60К Об</p></td><td><p>разоват. фонд + инде</p></td><td><p>кс 15-20 лет</p></td></tr><tr><td><p>м мечты (выплаче</p></td><td><p>н) 15-40 млн</p></td><td><p>40-120К И</p></td><td><p>потека + доп. платеж</p></td><td><p>и 15-25 лет</p></td></tr></tbody></table><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Сила раннего старта</strong></p><p>Цель: пенсия в 55 с капиталом 60 000 000 руб.</p><p>Старт в 25 лет: нужно инвестировать 28 000 руб./мес. при 8% на 30 лет. Вполне достижимо.</p><p>Старт в 35 лет: нужно 67 000 руб./мес. при 8% на 20 лет. Тяжело, но возможно. Старт в 45 лет: нужно 180 000 руб./мес. при 8% на 10 лет. Крайне сложно.</p><p><strong>Одна цель. Одна доходность. Но старт на 10 лет раньше сокращает</strong> <strong>ежемесячную сумму БОЛЕЕ ЧЕМ ВДВОЕ. Время — ваш самый мощный</strong> <strong>финансовый инструмент, и он работает только если вы начнёте СЕЙЧАС.</strong></p>"
+    },
+    {
+     "num": "10.5",
+     "title": "Планирование по этапам жизни",
+     "html": "<p>Ваши финансовые цели должны эволюционировать с жизнью. Что важно в 22 — отличается от того, что важно в 45. Вот дорожная карта.</p><p><strong>20-е: Построить фундамент</strong></p><p>Фонд экстренных ситуаций (3 мес.) • Погасить студенческие долги • Начать инвестировать (хоть 5 000/мес.) • Развивать навыки • Базовая страховка • Привычка копить</p><p><strong>30-е: Ускорить и расти</strong></p><p>Фонд (6 мес.) • Максимальные взносы на пенсию • Первый взнос на жильё • Агрессивно растить доход • Страхование жизни если семья • Пассивный доход</p><p><strong>40-е: Оптимизировать и защитить</strong></p><p>Максимизировать доходность • Полностью профинансировать образование детей</p><ul><li><p>Ускорить выплату ипотеки • Диверсифицировать доход • Пересмотреть</p></li></ul><p>страховки • Начать планирование наследства</p><p><strong>50-е: Подготовиться к переходу</strong></p><p>Наверстать пенсию если отстаёте • Снизить риск в портфеле • Планировать медицинские расходы • Рассмотреть уменьшение жилья • Финализировать план наследства</p><p><strong>60+: Наслаждаться и сохранять</strong></p><p>Начать получать пенсионный доход • Управлять изъятиями (правило 4%) • Планирование здоровья • Реализация наследства • Наслаждайтесь тем, что построили • Делитесь знаниями</p><p><em><strong><em><strong>Ключевая мысль: вы не опоздали, если начинаете сейчас. У каждого</strong></em> <em><strong>десятилетия своя оптимальная стратегия. Худший план — отсутствие плана.</strong></em></strong></em></p>"
+    },
+    {
+     "num": "10.6",
+     "title": "Ваш финансовый план действий",
+     "html": "<p>Здесь всё из Уровня 1 объединяется. Каждый блок научил вас части системы. Этот раздел показывает, как они соединяются в единое целое.</p><h2>Карта интеграции Уровня 1</h2><p><strong>Блок 3 — Бюджет</strong></p><p>Составьте ежемесячный бюджет 50/30/20. Знайте, куда уходит каждый рубль.</p><p><strong>Блок 4 — Накопления</strong></p><p>Платите</p><blockquote><p>себе</p><p>первому.</p><p>Автоматизируйте</p><p>20%</p><p>в</p><p>накопления.</p><p>Выбирайте</p></blockquote><p>правильный инструмент.</p><p><strong>Блок 5 — Долги</strong></p><p>Устраните дорогие долги методом лавины. Поддерживайте высокий кредитный рейтинг.</p><p><strong>Блок 6 — Банк</strong></p><p>Выберите правильный банк. Оптимизируйте структуру счетов. Застрахуйте вклады.</p><p><strong>Блок 7 — Доход</strong></p><p>Максимизируйте зарплату. Запустите подработку. Стройте пассивный доход.</p><p><strong>Блок 8 — Страховка</strong></p><p>Медстраховка первой. Защитите доход, жизнь (иждивенцы), имущество, авто.</p><p><strong>Блок 9 — Налоги</strong></p><p>Знайте</p><blockquote><p>эффективную</p><p>ставку.</p><p>Максимизируйте</p><p>вычеты.</p><p>Инвестируйте</p></blockquote><p>налогоэффективно.</p><p><strong>Блок 10 — Цели</strong></p><p>SMART-цели:</p><blockquote><p>краткосрочные,</p><p>среднесрочные,</p><p>долгосрочные.</p><p>Обзор</p></blockquote><p>ежеквартально.</p><p><strong>УРОВЕНЬ 1 ЗАВЕРШЁН — Что вы достигли</strong></p><p>У вас теперь полный финансовый фундамент. Вы понимаете деньги, временную стоимость, бюджетирование, накопления, долги, банки, доход, страховку, налоги и целеполагание. Вы финансово грамотны — и впереди 80% населения. Уровень 2 ждёт: Экономика — понимание КАК работает экономика, ПОЧЕМУ меняются цены и что движет миром, в котором живут ваши деньги. Путь от финансово грамотного к финансово мощному начинается сейчас.</p><p><em><strong><em><strong>ZInvest AI — ваш постоянный помощник на этом пути. Используйте его для</strong></em> <em><strong>бюджета, анализа инвестиций, сравнения продуктов, планирования целей</strong></em> <em><strong>и принятия каждого финансового решения с уверенностью. Вы построили</strong></em> <em><strong>фундамент. Теперь стройте будущее.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Словарь ключевых терминов",
+    "html": "<blockquote><p>Все важные понятия Блока 10</p></blockquote><table><tbody><tr><th><p>SMART-цели</p></th><th><p>Конкретная, Измеримая, Достижимая, Релевантная, Ограниченная во времени. Система, превращающая мечты в планы.</p></th></tr><tr><td><p>Краткосрочная цель</p></td><td><p>Финансовый ориентир на 0-2 года. Безопасные, ликвидные инструменты. Создаёт инерцию.</p></td></tr><tr><td><p>Среднесрочная цель</p></td><td><p>Ориентир на 2-7 лет. Умеренно растущие инструменты — облигации и микс индексных фондов.</p></td></tr><tr><td><p>Долгосрочная цель</p></td><td><p>Ориентир на 7+ лет. Можно использовать ростовые инвестиции — время снижает риск волатильности.</p></td></tr><tr><td><p>Финансовая независимость</p></td><td><p>Когда пассивный и портфельный доход покрывает все расходы. Работа становится выбором.</p></td></tr><tr><td><p>Фонд экстренных ситуаций</p></td><td><p>3-6 месяцев расходов на ликвидном счёте. Цель №1 и фундамент всего планирования.</p></td></tr><tr><td><p>Корректировка на инфляцию</p></td><td><p>Увеличение целевой суммы с учётом роста цен. 10 млн через 10 лет = ~14,8 млн при 4% инфляции.</p></td></tr><tr><td><p>Чистый капитал (net worth)</p></td><td><p>Все активы минус все обязательства. Лучший единый показатель финансового здоровья.</p></td></tr><tr><td><p>Распределение активов</p></td><td><p>Как вы делите инвестиции между акциями, облигациями, наличностью. Меняется с целями и возрастом.</p></td></tr><tr><td><p>Сложный рост</p></td><td><p>Реинвестированные доходы генерируют собственные доходы. Механизм, делающий долгосрочные цели достижимыми.</p></td></tr><tr><td><p>Планирование по этапам</p></td><td><p>Адаптация финансовых целей к текущему жизненному этапу (20-е, 30-е, 40-е и т.д.).</p></td></tr><tr><td><p>Контрольная точка</p></td><td><p>Промежуточный чекпойнт крупной цели. 3 600 000 разбить на квартальные 900 000 — становится отслеживаемым.</p></td></tr><tr><td><p>Финансовый план</p></td><td><p>Комплексный документ: доходы, расходы, цели, инвестиции, страховка, налоговая стратегия.</p></td></tr><tr><td><p>Альтернативная стоимость</p></td><td><p>Что вы теряете, выбирая одну цель вместо другой. У каждого рубля только одна работа одновременно.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Зачем нужны финансовые цели?",
+     "choices": [
+      "Банки требуют для открытия счёта",
+      "Они придают деньгам направление — без целей накопления и инвестиции бессмысленны",
+      "Гарантируют богатство",
+      "Цели только для богатых"
+     ],
+     "answer_index": 1,
+     "explanation": "Финансовые цели придают деньгам направление и смысл. Без них накопления и инвестиции не имеют ориентира."
+    },
+    {
+     "n": 2,
+     "prompt": "Что означает SMART в постановке целей?",
+     "choices": [
+      "Сохраняй Много, Активно Расти, Трудись",
+      "Простая, Умеренная, Адаптированная, Ранжированная, Тестированная",
+      "Конкретная, Измеримая, Достижимая, Релевантная, Ограниченная во времени",
+      "Стратегическая, Управляемая, Автоматическая, Реалистичная, Отслеживаемая"
+     ],
+     "answer_index": 2,
+     "explanation": "SMART — Конкретная, Измеримая, Достижимая, Релевантная, Ограниченная во времени. Эта система превращает мечты в планы."
+    },
+    {
+     "n": 3,
+     "prompt": "Какой инструмент ЛУЧШИЙ для краткосрочной цели (до 2 лет)?",
+     "choices": [
+      "Отдельные акции",
+      "Накопительный счёт или краткосрочный вклад",
+      "Криптовалюта",
+      "Недвижимость"
+     ],
+     "answer_index": 1,
+     "explanation": "Краткосрочные цели (до 2 лет) требуют безопасных, ликвидных инструментов — накопительные счета, краткосрочные вклады. Никакого рыночного риска."
+    },
+    {
+     "n": 4,
+     "prompt": "Для среднесрочной цели на 5 лет, какой подход наиболее подходящий?",
+     "choices": [
+      "100% на расчётном счёте",
+      "Всё в криптовалюту",
+      "Микс индексных фондов и облигаций",
+      "Всё в одну акцию"
+     ],
+     "answer_index": 2,
+     "explanation": "Среднесрочные цели (2-7 лет) балансируют рост и безопасность. Микс индексных фондов и облигаций даёт умеренную доходность с управляемым риском."
+    },
+    {
+     "n": 5,
+     "prompt": "Почему долгосрочные цели (7+ лет) могут использовать более агрессивные инвестиции?",
+     "choices": [
+      "Долгосрочные инвестиции безрисковые",
+      "Время сглаживает краткосрочную волатильность — плохие годы усредняются за десятилетия",
+      "Фондовый рынок всегда растёт",
+      "Государство гарантирует долгосрочные вложения"
+     ],
+     "answer_index": 1,
+     "explanation": "Долгосрочные цели (7+ лет) могут терпеть волатильность рынка, потому что время сглаживает краткосрочные падения."
+    },
+    {
+     "n": 6,
+     "prompt": "У вас: кредитка под 28%, нет фонда экстренных ситуаций, хотите на отпуск. Порядок?",
+     "choices": [
+      "Отпуск сначала — вы заслужили",
+      "Фонд, отпуск, потом долг",
+      "Фонд экстренных ситуаций, затем погасить 28% долг, затем отпуск",
+      "Долг, отпуск, фонд"
+     ],
+     "answer_index": 2,
+     "explanation": "Приоритет по срочности: фонд экстренных ситуаций первым, затем дорогие долги, затем средне- и долгосрочные цели одновременно."
+    },
+    {
+     "n": 7,
+     "prompt": "Превратите в SMART: «Хочу накопить на машину.» Какой вариант SMART?",
+     "choices": [
+      "Копить на машину когда-нибудь",
+      "Накопить 1 800 000 руб. на машину к марту 2028, откладывая 50 000/мес. на срочный вклад",
+      "Купить самую дорогую машину",
+      "Копить сколько получится когда получится"
+     ],
+     "answer_index": 1,
+     "explanation": "Разбивка крупной цели на ежемесячные суммы делает её конкретной. 3 600 000 за 3 года = 100 000/мес."
+    },
+    {
+     "n": 8,
+     "prompt": "Какое жизненное событие должно ЗАПУСТИТЬ пересмотр целей?",
+     "choices": [
+      "Только банкротство",
+      "Ничего — цели не меняются",
+      "Свадьба, дети, смена работы, покупка жилья, изменение здоровья",
+      "Только достижение 65 лет"
+     ],
+     "answer_index": 2,
+     "explanation": "Жизненные события (свадьба, дети, смена работы) требуют пересмотра финансовых целей под новые обстоятельства."
+    },
+    {
+     "n": 9,
+     "prompt": "Самая важная привычка для достижения финансовых целей?",
+     "choices": [
+      "Проверять инвестиции каждый час",
+      "Автоматизация накоплений — деньги уходят до того, как вы успеете потратить",
+      "Никогда не тратить на удовольствия",
+      "Менять цели каждую неделю"
+     ],
+     "answer_index": 1,
+     "explanation": "Автоматизация накоплений убирает силу воли из уравнения. Деньги уходят до того, как вы успеете их потратить."
+    },
+    {
+     "n": 10,
+     "prompt": "Как часто пересматривать финансовые цели?",
+     "choices": [
+      "Каждый день",
+      "Раз в десятилетие",
+      "Ежеквартально (каждые 3 месяца) — достаточно для контроля без одержимости",
+      "Никогда — поставил и забыл"
+     ],
+     "answer_index": 2,
+     "explanation": "Квартальный обзор целей — достаточно для контроля без ежедневной тревоги. Корректировка каждые 3 месяца."
+    },
+    {
+     "n": 11,
+     "prompt": "Цель 10 000 000 руб. через 10 лет. Инфляция 4%. Какой должен быть РЕАЛЬНЫЙ ориентир?",
+     "choices": [
+      "10 000 000 — инфляция не важна",
+      "~14 800 000 — для сохранения покупательной способности",
+      "5 000 000 — инфляция уменьшает цель",
+      "20 000 000 — всегда удваивайте для безопасности"
+     ],
+     "answer_index": 1,
+     "explanation": "Инфляция разъедает реальную стоимость. Цель 10 млн через 10 лет при 4% инфляции должна быть ~14,8 млн для той же покупательной способности."
+    },
+    {
+     "n": 12,
+     "prompt": "Как Блок 10 связан с Блоками 3-9?",
+     "choices": [
+      "Никак — каждый блок независим",
+      "Блок 10 заменяет все остальные",
+      "Цели направляют бюджет (Б3), накопления (Б4), долги (Б5), банк (Б6), доход (Б7), страховку (Б8) и налоги (Б9)",
+      "Блок 10 только о пенсии"
+     ],
+     "answer_index": 2,
+     "explanation": "Блок 10 объединяет все предыдущие блоки: бюджет (Б3), накопления (Б4), долги (Б5), банк (Б6), доход (Б7), страховка (Б8), налоги (Б9) — и направляет всё к конкретным целям (Б10)."
+    }
+   ]
+  },
+  "uz": {
+   "unit": 10,
+   "lang": "uz",
+   "title": "Moliyaviy maqsadlar",
+   "subtitle": "SMART maqsadlar, qisqa/o'rta/uzoq muddatli rejalashtirish, hayot bosqichlari bo'yicha rejalashtirish va 1-Darajaning butun tizimini birlashtirish.",
+   "lessons": [
+    {
+     "num": "10.1",
+     "title": "Maqsadlar nima uchun muhim",
+     "html": "<p>Siz byudjet tuzishni, tejashni, qarzlarni boshqarishni, banklarni tushunishni, ko'proq ishlashni, xavflarni sug'urtalashni va soliqlarni kamaytirishni o'rgandingiz. Lekin aniq maqsadlarsiz bu bilimlar — manzilsiz mashina.</p><p><strong>Asosiy haqiqat</strong></p><p>Yozma moliyaviy maqsadlari bo'lgan odamlar ularga 42% ko'proq erishadi. Yozish sehrli bo'lgani uchun emas — aniqlik harakat yaratgani uchun. 'Ko'proq pul tejash' maqsadi muvaffaqiyatsiz. '2026 dekabrgacha favqulodda fond uchun 12 000 000 so'm tejash, oyiga 500 000 dan' — ishlaydi.</p><table><tbody><tr><td><p><strong>Maqsadsiz</strong></p><p>✗ 'Bir oz' tejash (qancha? qachongacha?)</p><p>✗ 'Imkonim bo'lganda' investitsiya (bo'lmaydi)</p><p>✗ 'Bir kun' pensiyaga chiqish</p><p>✗ Tasodifiy qarorlar, kuzatuvsiz Natija: 20 yil ishlash — ko'rsatadigan narsa yo'q.</p></td><td><p><strong>Aniq maqsadlar bilan</strong></p><p>✓ 12M dek. 2026 gacha (500K/oy)</p><p>✓ Yanvardan indeks fondga 200K/oy</p><p>✓ 55 yoshda 600M portfel bilan pensiya</p><p>✓ Har bir qaror maqsadlarga nisbatan o'lchanadi Natija: yildan yilga jamlangan ilgarilash.</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "10.2",
+     "title": "SMART tizimi",
+     "html": "<p>SMART — dunyodagi eng tasdiqlangan maqsad qo'yish tizimi. Noaniq niyatlarni aniq nishonlarga aylantiradi.</p><p><strong>S — Aniq (Specific)</strong></p><p>AYNAN nimani xohlaysiz? 'Pul tejash' emas, 'favqulodda fond uchun 12 000 000 so'm tejash'. Qanchalik aniq bo'lsa, shunchalik amaliy.</p><p><strong>M — O'lchovli (Measurable)</strong></p><p>Ilgarilashni qanday kuzatasiz? 'Oyiga 500 000 so'm' — o'lchovli. 'Ko'proq tejash' — yo'q. O'lchab bo'lmaydigan narsani boshqarib bo'lmaydi.</p><p><strong>A — Erishiladigan (Achievable)</strong></p><p>Daromad va xarajatlaringizga nisbatan realmi? 8M ish haqida 500K/oy — erishiladigan. 6M/oy — yo'q. Cho'zing, lekin uzilmang.</p><p><strong>R — Tegishli (Relevant)</strong></p><p>Hayot ustuvorliklaringizga mosmi? Uy uchun birinchi to'lov kerak bo'lganda sport mashinaga tejash — tegishli emas.</p><p><strong>T — Muddatli (Time-bound)</strong></p><p>QACHONGACHA? '12 000 000 tejash' muddatsiz — bu orzu. '2026 dekabrgacha' — bu reja. Muddatlar shoshilinchlik va javobgarlik yaratadi.</p><p><strong>AMALIY MISOL — Orzuni SMART maqsadga aylantirish</strong></p><p>Orzu: 'Uy uchun pul tejagim keladi.'</p><p>SMART maqsad: '2029 iyungacha uy uchun birinchi to'lov sifatida 36 000 000 so'm tejash, oyiga 1 000 000 dan 7% jamg'arma hisobiga qo'yish.'</p><p>Aniq: 36M birinchi to'lov. O'lchovli: 1M/oy. Erishiladigan: 8M ish haqining 12.5%. Tegishli: uy — asosiy ustuvorlik. Muddatli: 2029 iyun.</p><p><strong>Endi har oy aynan nima qilish kerakligini bilasiz. SMART maqsadlarning kuchi shunda.</strong></p>"
+    },
+    {
+     "num": "10.3",
+     "title": "Qisqa muddatli maqsadlar (0-2 yil)",
+     "html": "<p>Qisqa muddatli maqsadlar — poydevor. Ular inersiya yaratadi, ishonchni mustahkamlaydi va kattaroq maqsadlarni mumkin qiladigan moliyaviy odatlar shakllantiradi.</p><h2>Asosiy qisqa muddatli maqsadlar</h2><table><tbody><tr><th><p>Maqsad</p></th><th><p>Nishon</p></th><th><p>Oylik</p></th><th><p>Vosita</p></th><th><p>Ustuvorlik</p></th></tr><tr><td><p>Favqulodda fond</p></td><td><p>3-6 oy xarajat</p></td><td><p>500K-2M so'm</p></td><td><p>Jamg'arma hisobi</p></td><td><p>I1 — Juda muhim</p></td></tr><tr><td><p>immat qarzlarni to'la1s</p></td><td><p>h8% dan yuqori qarzla</p></td><td><p>r Imkoni boricha</p></td><td><p>Lavina usuli (5-Blok)</p></td><td><p>I2 — Juda muhim</p></td></tr><tr><td><p>Kichik tejash maqsadi</p></td><td><p>1-5 mln so'm</p></td><td><p>100-500K so'm</p></td><td><p>Omonat</p></td><td><p>I3 — Motivatsiya</p></td></tr><tr><td><p>Ko'nikma investitsiyas</p></td><td><p>i 1-2 kurs/sertifikat</p></td><td><p>50-200K so'm</p></td><td><p>To'g'ridan-to'g'ri to'lov</p></td><td><p>I4 — Martaba</p></td></tr><tr><td><p>Sug'urta sozlash</p></td><td><p>Barcha asosiy polislar</p></td><td><p>Premiya byudjeti</p></td><td><p>To'g'ri polislar (8-Blok)</p></td><td><p>I5 — Himoya</p></td></tr></tbody></table><h2>Qisqa muddatli maqsadlar uchun asosiy qoidalar</h2><p><strong>Faqat XAVFSIZ vositalar</strong></p><p>Jamg'arma hisobi, qisqa muddatli depozit. Aksiya YO'Q, kripto YO'Q. 1-2 yilda kerak bo'lgan pulni yo'qotishga imkoningiz yo'q.</p><p><strong>Hammasini avtomatlashtiring</strong></p><p>Ish haqi kunida avtomatik o'tkazmalar o'rnating. Iroda kuchini jarayondan butunlay chiqaring.</p><p><strong>Kichik g'alabalarni nishonlang</strong></p><p>Favqulodda fondda birinchi 1 000 000 so'm — muhim. Ilgarilashni tan oling — u keyingi maqsadni yoqilg'ilaydi.</p><p><strong>Oylik tekshirish</strong></p><p>Qisqa muddatli maqsadlar oylik nazorat talab qiladi. Yo'ldamisiz? Kerak bo'lsa sozlang.</p>"
+    },
+    {
+     "num": "10.4",
+     "title": "O'rta va uzoq muddatli maqsadlar",
+     "html": "<p>Bu hayotingizni o'zgartiradigan maqsadlar. Uy, bolalar ta'limi, erta pensiya, moliyaviy mustaqillik — barchasi yillar davomidagi izchil harakatni talab qiladi.</p><h2>O'rta muddatli maqsadlar (2-7 yil)</h2><table><tbody><tr><th><p>Maqsad</p></th><th><p>Nishon</p></th><th><p>Oylik</p></th><th><p>Vosita</p></th><th><p>Inflyatsiya?</p></th></tr><tr><td><p>y uchun birinchi to'lo</p></td><td><p>v 30-80 mln so'm</p></td><td><p>500K-2M Ara</p></td><td><p>lashma: omonat + obligats</p></td><td><p>iya Ha — +4% yillik</p></td></tr><tr><td><p>Avtomobil sotib olish</p></td><td><p>10-30 mln</p></td><td><p>200-800K</p></td><td><p>Muddatli depozit</p></td><td><p>Ixtiyoriy</p></td></tr><tr><td><p>To'y fondi</p></td><td><p>5-30 mln</p></td><td><p>200-800K</p></td><td><p>Jamg'arma hisobi</p></td><td><p>Yo'q</p></td></tr><tr><td><p>Ta'lim fondi</p></td><td><p>10-50 mln</p></td><td><p>300K-1M</p></td><td><p>Indeks fond + obligatsiya</p></td><td><p>Ha</p></td></tr><tr><td><p>Biznes boshlash</p></td><td><p>5-50 mln</p></td><td><p>200K-1.5M</p></td><td><p>Omonat + indeks fond</p></td><td><p>Ha</p></td></tr></tbody></table><h2>Uzoq muddatli maqsadlar (7+ yil)</h2><table><tbody><tr><th><p>Maqsad</p></th><th><p>Nishon</p></th><th><p>Oylik investitsiya</p></th><th><p>Vosita</p></th><th><p>Muddat</p></th></tr><tr><td><p>Pensiya</p></td><td><p>400M-1.5 mlrd+</p></td><td><p>2-15M In</p></td><td><p>deks fondlar, ko'chmas mu</p></td><td><p>lk 20-40 yil</p></td></tr><tr><td><p>Moliyaviy mustaqillik</p></td><td><p>500M-1.2 mlrd</p></td><td><p>3-25M</p></td><td><p>Diversifikatsiya portfel</p></td><td><p>15-25 yil</p></td></tr><tr><td><p>Bolalar ta'limi</p></td><td><p>40-150M</p></td><td><p>1.5-6M</p></td><td><p>Ta'lim fondi + indeks</p></td><td><p>15-20 yil</p></td></tr><tr><td><p>Orzu uyi (to'langan)</p></td><td><p>150-400M</p></td><td><p>3-12M</p></td><td><p>Ipoteka + qo'shimcha to'lov</p></td><td><p>15-25 yil</p></td></tr></tbody></table><p><strong>AMALIY MISOL — Erta boshlashning kuchi</strong></p><p>Maqsad: 55 yoshda 600 000 000 so'm kapital bilan pensiya.</p><p>25 yoshda boshlash: oyiga 2 800 000 so'm investitsiya kerak 8% da 30 yil. Juda mumkin. 35 yoshda boshlash: oyiga 6 700 000 so'm kerak 8% da 20 yil. Qiyin, lekin mumkin.</p><p>45 yoshda boshlash: oyiga 18 000 000 so'm kerak 8% da 10 yil. O'ta qiyin.</p><p><strong>Bir xil maqsad. Bir xil daromadlilik. Lekin 10 yil erta boshlash kerakli oylik summani IKKI</strong> <strong>BARAVARDAN KO'P kamaytiradi. Vaqt — sizning eng kuchli moliyaviy vositangiz, va u faqat</strong> <strong>HOZIR boshlasangiz ishlaydi.</strong></p>"
+    },
+    {
+     "num": "10.5",
+     "title": "Hayot bosqichlari bo'yicha rejalashtirish",
+     "html": "<p>Moliyaviy maqsadlaringiz hayotingiz bilan evolyutsiya qilishi kerak. 22 yoshda muhim narsa 45 yoshda muhim narsadan farq qiladi.</p><p><strong>20-lar: Poydevor qurish</strong></p><p>Favqulodda fond (3 oy) • Talaba qarzini to'lash • Investitsiya boshlash (hatto 50K/oy) • Ko'nikmalar rivojlantirish • Asosiy sug'urta • Tejash odatini shakllantirish</p><p><strong>30-lar: Tezlashtirish va o'sish</strong></p><p>Fond (6 oy) • Pensiya to'lovlarini maksimallash • Uy uchun tejash • Daromadni aggressiv oshirish • Hayot sug'urtasi agar oila • Passiv daromad boshlash</p><p><strong>40-lar: Optimallashtirish va himoya</strong></p><p>Investitsiya daromadini maksimallash • Bolalar ta'limini to'liq moliyalashtirish • Ipotekani tezroq to'lash</p><ul><li><p>Daromad manbalarini diversifikatsiya • Meros rejalashtirish boshlash</p></li></ul><p><strong>50-lar: O'tishga tayyorlanish</strong></p><p>Pensiya uchun qolganini to'plash • Portfeldagi xavfni kamaytirish • Tibbiy xarajatlarni rejalashtirish • Kichikroq uyga ko'chishni o'ylash • Meros rejasini yakunlash</p><p><strong>60+: Rohatlaning va saqlang</strong></p><p>Pensiya daromadini olishni boshlash • Portfel yechimlarini boshqarish (4% qoida) • Sog'liq rejalashtirish • Meros amalga oshirish • Qurganingizdan rohatlaning • Bilimlarni keyingi avlodga ulashing</p><p><em><strong><em><strong>Asosiy tushuncha: hozir boshlasangiz kech emas. Har bir o'n yillikning o'z optimal strategiyasi bor.</strong></em> <em><strong>Eng yomon reja — rejaning yo'qligi.</strong></em></strong></em></p>"
+    },
+    {
+     "num": "10.6",
+     "title": "Moliyaviy harakat rejangiz",
+     "html": "<p>1-Darajadagi hamma narsa shu yerda birlashadi. Har bir blok sizga tizimning bir qismini o'rgatdi. Bu bo'lim ularning qanday yaxlit tizimga birlashishini ko'rsatadi.</p><h2>1-Daraja integratsiya xaritasi</h2><p><strong>3-Blok — Byudjet</strong></p><p>50/30/20 bo'yicha oylik byudjet tuzing. Har bir so'm qayerga ketayotganini biling.</p><p><strong>4-Blok — Tejash</strong></p><p>Avval o'zingizga to'lang. 20% ni tejashga avtomatlashtiring. Har bir maqsad uchun to'g'ri vosita tanlang.</p><p><strong>5-Blok — Qarz</strong></p><p>Qimmat qarzlarni lavina usuli bilan yo'q qiling. Kredit reytingni yuqori saqlang.</p><p><strong>6-Blok — Bank</strong></p><p>To'g'ri bankni tanlang. Hisob tuzilmasini optimallashtiring. Omonatlarni sug'urtalang.</p><p><strong>7-Blok — Daromad</strong></p><p>Ish haqini maksimallang. Qo'shimcha ish boshlang. Passiv daromadga qarab yuring.</p><p><strong>8-Blok — Sug'urta</strong></p><p>Avval tibbiy sug'urta. Daromad, hayot (qaramog'da odam bo'lsa), mol-mulk, avtoni himoyalang.</p><p><strong>9-Blok — Soliq</strong></p><p>Samarali stavkani biling. Chegirmalarni maksimallang. Soliq samarali investitsiya qiling.</p><p><strong>10-Blok — Maqsadlar</strong></p><p>Qisqa, o'rta, uzoq muddatli SMART maqsadlar. Har chorak ko'rib chiqing. Hayot o'zgarganda sozlang.</p><p><strong>1-DARAJA TUGALLANDI — Nimaga erishdingiz</strong></p><p>Endi sizda to'liq moliyaviy poydevor bor. Siz pulni, vaqt qiymatini, byudjetni, tejashni, qarzni, banklarni, daromadni, sug'urtani, soliqlarni va maqsad qo'yishni tushunasiz. Siz moliyaviy savodxonsiz — va aholining 80% idan oldidasiz.</p><p>2-Daraja kutmoqda: Iqtisodiyot — iqtisodiyot QANDAY ishlashini, narxlar NIMA UCHUN o'zgarishini va pulingiz yashaydigan dunyoni nima boshqarishini tushunish. Moliyaviy savodxondan moliyaviy kuchlika sayohat hozir boshlanadi.</p><p><em><strong><em><strong>ZInvest AI bu sayohatda sizning doimiy hamrohing. Byudjet, investitsiya tahlili, mahsulotlarni</strong></em> <em><strong>solishtirish, maqsadlarni rejalashtirish va har bir moliyaviy qarorni ishonch bilan qabul qilish</strong></em> <em><strong>uchun foydalaning. Poydevor qurildi. Endi kelajagingizni quring.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Atamalar lug'ati",
+    "html": "<blockquote><p>10-blokdagi barcha muhim tushunchalar</p></blockquote><table><tbody><tr><th><p>SMART maqsadlar</p></th><th><p>Aniq, O'lchovli, Erishiladigan, Tegishli, Muddatli. Orzularni amaliy rejalarga aylantiruvchi tizim.</p></th></tr><tr><td><p>Qisqa muddatli maqsad</p></td><td><p>0-2 yil ichida erishiladigan moliyaviy nishon. Xavfsiz, likvidli vositalar. Inersiya yaratadi.</p></td></tr><tr><td><p>O'rta muddatli maqsad</p></td><td><p>2-7 yil ichidagi nishon. O'rtacha o'sish vositalari — obligatsiyalar va indeks fond aralashmasi.</p></td></tr><tr><td><p>Uzoq muddatli maqsad</p></td><td><p>7+ yil uzoqdagi nishon. O'sishga yo'naltirilgan investitsiyalar ishlatish mumkin — vaqt xavfni kamaytiradi.</p></td></tr><tr><td><p>Moliyaviy mustaqillik</p></td><td><p>Passiv va portfel daromad barcha xarajatlarni qoplaganda. Ishlash ixtiyoriy bo'ladi.</p></td></tr><tr><td><p>Favqulodda fond</p></td><td><p>3-6 oy xarajatlar likvidli hisobda. I1 qisqa muddatli maqsad va barcha rejalashtirishning poydevori.</p></td></tr><tr><td><p>Inflyatsiya tuzatishi</p></td><td><p>Narx o'sishini hisobga olgan holda maqsad summasini oshirish. 10 yilda 100M 4% inflyatsiyada ~148M bo'lishi kerak.</p></td></tr><tr><td><p>Sof kapital (net worth)</p></td><td><p>Barcha aktivlar minus barcha majburiyatlar. Umumiy moliyaviy sog'likning eng yaxshi ko'rsatkichi.</p></td></tr><tr><td><p>Aktiv taqsimoti</p></td><td><p>Investitsiyalarni aksiya, obligatsiya, naqd pul va alternativlar o'rtasida qanday bo'lishingiz. Maqsad va yosh bilan o'zgaradi.</p></td></tr><tr><td><p>Murakkab o'sish</p></td><td><p>Qayta investitsiya qilingan daromadlar o'z daromadlarini ishlab chiqaradi. Uzoq muddatli maqsadlarni erishiladigan qiluvchi mexanizm.</p></td></tr><tr><td><p>Hayot bosqichi rejalashtirish</p></td><td><p>Moliyaviy maqsadlarni joriy hayot bosqichiga (20-lar, 30-lar, 40-lar va h.k.) moslashtirish.</p></td></tr><tr><td><p>Nazorat nuqtasi</p></td><td><p>Katta maqsad ichidagi tekshirish nuqtasi. 36M maqsadni choraklik 9M ga bo'lish — kuzatiladigan qiladi.</p></td></tr><tr><td><p>Moliyaviy reja</p></td><td><p>Keng qamrovli hujjat: daromadlar, xarajatlar, maqsadlar, investitsiyalar, sug'urta, soliq strategiyasi.</p></td></tr><tr><td><p>Imkoniyat xarajati</p></td><td><p>Bitta maqsadni boshqasi o'rniga tanlashda yo'qotadigan narsa. Har bir so'mning faqat bitta ishi bor.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Moliyaviy maqsadlar nima uchun muhim?",
+     "choices": [
+      "Banklar hisob ochish uchun talab qiladi",
+      "Pulga yo'nalish beradi — maqsadsiz tejash va investitsiyaning nishoni yo'q",
+      "Boylikni kafolatlaydi",
+      "Maqsadlar faqat boylar uchun"
+     ],
+     "answer_index": 1,
+     "explanation": "Moliyaviy maqsadlar pulga yo'nalish va maqsad beradi. Ularsiz tejash va investitsiya qilishning nishoni yo'q."
+    },
+    {
+     "n": 2,
+     "prompt": "SMART maqsad qo'yishda nimani anglatadi?",
+     "choices": [
+      "Tejash Ko'p Va Erta Pensiya",
+      "Oddiy, O'rtacha, Moslashtirilgan, Tartiblangan, Tekshirilgan",
+      "Aniq, O'lchovli, Erishiladigan, Tegishli, Muddatli",
+      "Strategik, Boshqariladigan, Avtomatlashtirilgan, Real, Kuzatiladigan"
+     ],
+     "answer_index": 2,
+     "explanation": "SMART — Aniq, O'lchovli, Erishiladigan, Tegishli, Muddatli. Bu tizim orzularni amaliy rejalarga aylantiradi."
+    },
+    {
+     "n": 3,
+     "prompt": "Qisqa muddatli maqsad (2 yilgacha) uchun qaysi vosita ENG YAXSHI?",
+     "choices": [
+      "Alohida aksiyalar",
+      "Jamg'arma hisobi yoki qisqa muddatli depozit",
+      "Kriptovalyuta",
+      "Ko'chmas mulk"
+     ],
+     "answer_index": 1,
+     "explanation": "Qisqa muddatli maqsadlar (2 yilgacha) xavfsiz, likvidli vositalarni talab qiladi — jamg'arma hisobi, qisqa muddatli depozit."
+    },
+    {
+     "n": 4,
+     "prompt": "5 yillik o'rta muddatli maqsad uchun qaysi yondashuv eng mos?",
+     "choices": [
+      "100% joriy hisobda",
+      "Hammasini kriptovalyutaga",
+      "Indeks fondlar va obligatsiyalar aralashmasi",
+      "Hammasini bitta aksiyaga"
+     ],
+     "answer_index": 2,
+     "explanation": "O'rta muddatli maqsadlar (2-7 yil) o'sish va xavfsizlikni muvozanatlaydi. Indeks fond va obligatsiyalar aralashmasi mos."
+    },
+    {
+     "n": 5,
+     "prompt": "Uzoq muddatli maqsadlar (7+ yil) nima uchun aggressivroq investitsiya ishlatishi mumkin?",
+     "choices": [
+      "Uzoq muddatli investitsiyalar xavfsiz",
+      "Vaqt qisqa muddatli o'zgaruvchanlikni tekislaydi — yomon yillar o'n yillar davomida o'rtachalanadi",
+      "Aksiya bozori har doim ko'tariladi",
+      "Davlat uzoq muddatli investitsiyalarni kafolatlaydi"
+     ],
+     "answer_index": 1,
+     "explanation": "Uzoq muddatli maqsadlar (7+ yil) bozor o'zgaruvchanligiga bardosh bera oladi, chunki vaqt qisqa muddatli tushkunliklarni tekislaydi."
+    },
+    {
+     "n": 6,
+     "prompt": "Sizda: 28% kredit karta qarzi, favqulodda fond yo'q, ta'tilga tejagingiz keladi. Tartib?",
+     "choices": [
+      "Avval ta'til — siz bunga loyiqsiz",
+      "Fond, ta'til, keyin qarz",
+      "Avval favqulodda fond, keyin 28% qarzni to'lash, keyin ta'til",
+      "Qarz, ta'til, fond"
+     ],
+     "answer_index": 2,
+     "explanation": "Shoshilinchlik va ta'sir bo'yicha: avval favqulodda fond, keyin qimmat qarzlar, so'ng o'rta va uzoq muddatli maqsadlar."
+    },
+    {
+     "n": 7,
+     "prompt": "Buni SMART qiling: 'Mashina uchun pul tejagim keladi.' Qaysi variant SMART?",
+     "choices": [
+      "Bir kun mashina uchun pul tejash",
+      "2028 martgacha mashina uchun 18 000 000 so'm tejash, oyiga 500 000 dan muddatli depozitga",
+      "Eng qimmat mashinani sotib olish",
+      "Imkonim boricha tejash"
+     ],
+     "answer_index": 1,
+     "explanation": "Katta maqsadni oylik summaga bo'lish aniq va kuzatiladigan qiladi. 36M 3 yilda = 1M/oy."
+    },
+    {
+     "n": 8,
+     "prompt": "Qaysi hayot voqeasi moliyaviy maqsadlarni QAYTA KO'RIB CHIQISHni boshlashi kerak?",
+     "choices": [
+      "Faqat bankrotlik",
+      "Hech narsa — maqsadlar o'zgarmaydi",
+      "Nikoh, bolalar, ish o'zgarishi, uy sotib olish, sog'liq o'zgarishi",
+      "Faqat 65 yoshga yetish"
+     ],
+     "answer_index": 2,
+     "explanation": "Hayot voqealari (nikoh, bolalar, ish o'zgarishi) moliyaviy maqsadlarni yangi sharoitga moslashtirish talab qiladi."
+    },
+    {
+     "n": 9,
+     "prompt": "Moliyaviy maqsadlarga erishish uchun eng muhim odat?",
+     "choices": [
+      "Investitsiyalarni har soatda tekshirish",
+      "Tejashni avtomatlashtirish — pul sarflashga ulgurmasdan ko'chadi",
+      "Hech qachon zavqlanish uchun sarflamaslik",
+      "Har hafta maqsadlarni o'zgartirish"
+     ],
+     "answer_index": 1,
+     "explanation": "Tejashni avtomatlashtirish iroda kuchini tenglamadan chiqaradi. Pul sarflashga ulgurmasdan ko'chadi."
+    },
+    {
+     "n": 10,
+     "prompt": "Moliyaviy maqsadlarni qanchalik tez-tez ko'rib chiqish kerak?",
+     "choices": [
+      "Har kuni",
+      "O'n yilda bir marta",
+      "Har chorakda (har 3 oyda) — obsessiyasiz yo'lda qolish uchun yetarli",
+      "Hech qachon — qo'yib unuting"
+     ],
+     "answer_index": 2,
+     "explanation": "Har chorakda ko'rib chiqish — kundalik tekshirishdan tashvishsiz yo'lda qolish uchun yetarli. Har 3 oyda sozlang."
+    },
+    {
+     "n": 11,
+     "prompt": "10 yilda 100 000 000 so'm maqsad qo'ydingiz. Inflyatsiya 4%. HAQIQIY nishon qancha bo'lishi kerak?",
+     "choices": [
+      "100 000 000 — inflyatsiya muhim emas",
+      "~148 000 000 — bir xil sotib olish qobiliyatini saqlash uchun",
+      "50 000 000 — inflyatsiya maqsadni kamaytiradi",
+      "200 000 000 — har doim xavfsizlik uchun ikki baravar"
+     ],
+     "answer_index": 1,
+     "explanation": "Inflyatsiya maqsadning real qiymatini yemiradi. 10 yilda 100M maqsad 4% inflyatsiyada ~148M bo'lishi kerak."
+    },
+    {
+     "n": 12,
+     "prompt": "10-Blok 3-9 Bloklarga qanday bog'langan?",
+     "choices": [
+      "Bog'lanmagan — har bir blok mustaqil",
+      "10-Blok barcha boshqa bloklarni almashtiradi",
+      "Maqsadlar byudjet (B3), tejash (B4), qarz (B5), bank (B6), daromad (B7), sug'urta (B8), soliq (B9) ga yo'nalish beradi",
+      "10-Blok faqat pensiya haqida"
+     ],
+     "answer_index": 2,
+     "explanation": "10-Blok barcha oldingi bloklarni birlashtiradi: byudjet (B3), tejash (B4), qarz (B5), bank (B6), daromad (B7), sug'urta (B8), soliq (B9) — hammasini aniq maqsadlarga yo'naltiradi (B10). Ball bo'yicha yo'riqnoma 12/12: A'lo! 1-DARAJA TUGALLANDI. 2-Darajaga tayyorsiz — Iqtisodiyot! 10-11: Juda yaxshi — xatolarni ko'rib chiqing, keyin 2-Darajaga o'ting. 8-9: Yaxshi — 10.3 va 10.5 bo'limlarni misollar bilan qayta o'qing. 6-7: Barcha bo'limlarni lug'at bilan birgalikda takrorlang. 6 dan past: Avval 3-9 Bloklarni takrorlang, keyin 10-Blokni qayta o'ting."
+    }
+   ]
+  }
+ }
+}

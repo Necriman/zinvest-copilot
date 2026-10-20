@@ -1,0 +1,381 @@
+{
+ "unit": 6,
+ "langs": {
+  "en": {
+   "unit": 6,
+   "lang": "en",
+   "title": "The Banking System",
+   "subtitle": "How banks actually work, central banks, deposit insurance, payment systems, digital banking, and choosing the right bank.",
+   "lessons": [
+    {
+     "num": "6.1",
+     "title": "How Banks Work",
+     "html": "<p>Banks are the infrastructure of the financial system. Every salary, every purchase, every investment flows through banks. Understanding how they work gives you an edge in every financial decision.</p><p><strong>The Core Business Model</strong></p><p>Banks make money from the SPREAD — the difference between interest they pay you on deposits and interest they charge borrowers on loans. You deposit at 3%. They lend at 8%. The 5% difference is their profit.</p><h2>Where Banks Get Money &amp; How They Use It</h2><table><tbody><tr><th><p>Source</p></th><th><p>How It Works</p></th><th><p>Cost to Bank</p></th></tr><tr><td><p>Customer Deposits</p></td><td><p>You put money in savings/checking</p></td><td><p>Low (1-4% paid to you)</p></td></tr><tr><td><p>Interbank Loans</p></td><td><p>Banks borrow from each other</p></td><td><p>Medium (central bank rate)</p></td></tr><tr><td><p>Central Bank</p></td><td><p>Emergency lending facility</p></td><td><p>Higher (penalty rate)</p></td></tr><tr><td><p>Bonds Issued</p></td><td><p>Bank sells its own bonds</p></td><td><p>Medium-High (coupon)</p></td></tr></tbody></table><h2>Fractional Reserve Banking</h2><p>Banks do NOT keep all your money in a vault. They keep only a fraction (typically 5-15%) as reserves. The rest is lent out.</p><p><strong>How $100 Becomes $1,000</strong></p><p>You deposit $100. Bank keeps $10 (10% reserve), lends $90 to Person B.</p><p>Person B spends $90 — it gets deposited elsewhere. That bank keeps $9, lends $81 to Person C. This continues. Your $100 creates roughly $1,000 in total money supply. This is the money multiplier — how the banking system literally creates money.</p><p><em><strong><em><strong>This works until too many people withdraw at once (a bank run). That is why deposit</strong></em> <em><strong>insurance exists.</strong></em></strong></em></p>"
+    },
+    {
+     "num": "6.2",
+     "title": "The Central Bank",
+     "html": "<p>The central bank is the most powerful financial institution in any country. Its decisions directly affect every loan rate, deposit rate, and price you pay.</p><p><strong>What is a Central Bank?</strong></p><p>The institution that manages a country's money supply, sets interest rates, regulates commercial banks, and maintains stability. US: Federal Reserve (Fed). EU: ECB. Uzbekistan: CBU.</p><h2>Key Functions</h2><p>→<strong> 1. Setting Interest Rates</strong></p><p>The base rate influences ALL borrowing costs. When raised: mortgages, car loans, cards all get more expensive. When lowered: borrowing becomes cheaper. This is the primary tool for controlling the economy.</p><p>→<strong> 2. Controlling Inflation</strong></p><p>Targets a specific inflation rate (usually 2-4%). Raises rates to slow spending when prices rise too fast. Lowers rates to stimulate the economy when growth stalls.</p><p>→<strong> 3. Regulating Banks</strong></p><p>Sets reserve requirements, capital ratios, lending standards. Conducts inspections and can shut down unsafe banks.</p><p>→<strong> 4. Lender of Last Resort</strong></p><p>When a bank faces a liquidity crisis, the central bank provides emergency loans. Prevents bank runs from collapsing the system.</p><p><strong>REAL EXAMPLE — How Rate Changes Affect You</strong></p><p>Central bank raises the key rate from 5% to 7%:</p><ul><li><p>Your variable mortgage: monthly payment increases $150-300.</p></li><li><p>Your savings: interest earned increases slightly (banks are slow to pass this on).</p></li><li><p>Stock market: typically drops — higher rates make bonds more attractive.</p></li><li><p>Housing market: cools down — mortgages become more expensive.</p></li></ul><p><strong>One decision ripples through your mortgage, savings, investments, and the price of</strong> <strong>everything.</strong></p>"
+    },
+    {
+     "num": "6.3",
+     "title": "Types of Banks & Accounts",
+     "html": "<p>Not all banks are the same. Different types serve different purposes.</p><h2>Types of Financial Institutions</h2><table><tbody><tr><th><p>Type</p></th><th><p>What They Do</p></th><th><p>Who They Serve</p></th></tr><tr><td><p>Commercial Banks</p></td><td><p>Deposits, loans, payments</p></td><td><p>Everyone</p></td></tr><tr><td><p>Investment Banks</p></td><td><p>M&amp;A, IPOs, trading</p></td><td><p>Corporations</p></td></tr><tr><td><p>Online/Neo Banks</p></td><td><p>Digital-only banking</p></td><td><p>Tech-savvy individuals</p></td></tr><tr><td><p>Credit Unions</p></td><td><p>Member-owned, non-profit</p></td><td><p>Members only</p></td></tr><tr><td><p>Central Bank</p></td><td><p>Monetary policy, regulation</p></td><td><p>Banks &amp; government</p></td></tr></tbody></table><h2>Types of Bank Accounts</h2><table><tbody><tr><th><p>Account</p></th><th><p>Purpose</p></th><th><p>Access</p></th><th><p>Interest</p></th><th><p>Best For</p></th></tr><tr><td><p>Checking</p></td><td><p>Daily transactions</p></td><td><p>Instant</p></td><td><p>0-0.5%</p></td><td><p>Salary, bills, spending</p></td></tr><tr><td><p>Savings</p></td><td><p>Short-term saving</p></td><td><p>1-2 days</p></td><td><p>1-5%</p></td><td><p>Emergency fund</p></td></tr><tr><td><p>Fixed Deposit</p></td><td><p>Medium-term</p></td><td><p>At maturity</p></td><td><p>4-12%</p></td><td><p>Goals 1-2 years</p></td></tr><tr><td><p>Money Market</p></td><td><p>Higher yield</p></td><td><p>Limited</p></td><td><p>2-5%</p></td><td><p>Large balances</p></td></tr><tr><td><p>Investment</p></td><td><p>Stocks/bonds</p></td><td><p>1-3 days</p></td><td><p>Variable</p></td><td><p>Long-term wealth</p></td></tr></tbody></table><p><strong>REAL EXAMPLE — The Right Account for Each Purpose</strong></p><p>Sarah earns $4,000/month. Her optimal setup:</p><ul><li><p>Checking: salary deposits, bills, daily spending. Keep ~1 month expenses.</p></li><li><p>High-Yield Savings: emergency fund ($12K = 3 months). Earns 4% vs 0% in checking.</p></li><li><p>Fixed Deposit: $5K for vacation in 18 months. Locked at 5.5%.</p></li><li><p>Investment Account: $400/month auto-invested in index funds.</p></li></ul><p><strong>4 accounts, 4 purposes. Each dollar in the optimal place for its job.</strong></p>"
+    },
+    {
+     "num": "6.4",
+     "title": "Deposit Insurance",
+     "html": "<p>What happens if your bank goes bankrupt? Banks fail every year. Deposit insurance stands between you and losing everything.</p><p><strong>What is Deposit Insurance?</strong></p><p>A government-backed guarantee: if your bank fails, you get deposits back up to a limit. US: $250,000 (FDIC). EU: €100,000. Russia: 1.4M rubles. Uzbekistan: 100M UZS.</p><h2>What IS Covered</h2><p><strong>Checking accounts — fully covered up to the limit</strong></p><p><strong>Savings accounts — fully covered up to the limit</strong></p><p><strong>Fixed deposits (CDs) — covered including accrued interest</strong></p><p><strong>Money market deposit accounts — covered (not money market FUNDS)</strong></p><h2>What is NOT Covered</h2><p><strong>Stocks and bonds — investment products are NOT insured</strong></p><p><strong>Mutual funds and ETFs — even if bought through your bank</strong></p><p><strong>Cryptocurrency — no government insurance on crypto</strong></p><p><strong>Amounts above the limit — split large sums across banks</strong></p><p><strong>Strategy: Insuring More Than the Limit</strong></p><p>Have $500K? Split it: $250K in Bank A, $250K in Bank B = fully insured. Couples: each person $250K + $250K joint = $750K covered at one bank.</p>"
+    },
+    {
+     "num": "6.5",
+     "title": "Payment Systems & Digital Banking",
+     "html": "<p>The way money moves is changing faster than any other part of finance.</p><h2>Types of Payment Systems</h2><table><tbody><tr><th><p>System</p></th><th><p>Speed</p></th><th><p>Cost</p></th><th><p>Best For</p></th></tr><tr><td><p>Cash</p></td><td><p>Instant</p></td><td><p>Free</p></td><td><p>Small local transactions</p></td></tr><tr><td><p>Debit Card</p></td><td><p>Instant</p></td><td><p>Free/Low</p></td><td><p>Daily purchases</p></td></tr><tr><td><p>Credit Card</p></td><td><p>Instant</p></td><td><p>0% if paid in full</p></td><td><p>Online, travel, rewards</p></td></tr><tr><td><p>Bank Transfer</p></td><td><p>1-3 days</p></td><td><p>$5-50</p></td><td><p>Large sums, international</p></td></tr><tr><td><p>Mobile Payment</p></td><td><p>Instant</p></td><td><p>Free</p></td><td><p>Contactless purchases</p></td></tr><tr><td><p>Digital Wallets</p></td><td><p>Instant</p></td><td><p>Free-3%</p></td><td><p>P2P transfers</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Traditional Banks</strong></p><ul><li><p>Physical branches available</p></li><li><p>In-person service</p></li><li><p>Lower savings rates</p></li><li><p>Full product range</p></li></ul><p>Best for: complex needs, large loans</p></td><td><p><strong>Digital/Online Banks</strong></p><ul><li><p>No physical branches</p></li><li><p>24/7 app-based support</p></li><li><p>Higher savings rates</p></li><li><p>Limited product range</p></li></ul><p>Best for: daily banking, savings</p></td></tr></tbody></table><h2>Digital Banking Security Essentials</h2><p><strong>Enable two-factor authentication (2FA)</strong></p><p>Blocks 99% of unauthorized access. Use an authenticator app, not SMS.</p><p><strong>Never share passwords or PINs</strong></p><p>No bank will ever ask for your full password. Anyone who does is a scammer.</p><p><strong>Use unique passwords per bank</strong></p><p>If one is breached, others stay safe. Use a password manager.</p><p><strong>Monitor transactions weekly</strong></p><p>Set alerts for transactions above a threshold. Catch fraud early.</p>"
+    },
+    {
+     "num": "6.6",
+     "title": "Choosing the Right Bank",
+     "html": "<p>Most people bank wherever is closest or where their parents banked. This passive choice costs thousands in fees and missed interest over a lifetime.</p><h2>The 8-Point Bank Comparison Checklist</h2><p><strong>1. Interest Rates</strong></p><p>Compare APY. A 1% difference on $20K = $200/year. Over 10 years: $2,000+ free money.</p><p><strong>2. Fee Structure</strong></p><p>Monthly fees, ATM fees, transfer fees, overdraft. $12/month = $144/year for nothing.</p><p><strong>3. ATM Network</strong></p><p>Free ATMs available? $3/withdrawal × 4/month = $144/year wasted.</p><p><strong>4. Digital Experience</strong></p><p>Mobile app quality, online banking, ease of transfers. You use it daily.</p><p><strong>5. Deposit Insurance</strong></p><p>Is the bank covered? What is the limit? NEVER bank with an uninsured institution.</p><p><strong>6. Customer Service</strong></p><p>24/7 support? Phone, chat, in-person? Read real customer reviews.</p><p><strong>7. Product Range</strong></p><p>Checking, savings, deposits, investment accounts, credit cards — all you need?</p><p><strong>8. Reputation &amp; Stability</strong></p><p>How long operating? Financial health? Check independent ratings.</p><p><strong>Core Takeaway — Unit 6</strong></p><p><em><strong><em><strong>Banks are not just storage — they are the infrastructure every financial decision flows</strong></em> <em><strong>through. Understanding fractional reserve banking, central bank policy, deposit insurance,</strong></em> <em><strong>and digital payments gives you a fundamental advantage. Choose deliberately using the</strong></em> <em><strong>8-point checklist, keep deposits insured, and embrace digital banking for better rates and</strong></em> <em><strong>lower fees. ZInvest AI can help compare banks, calculate real interest, and optimize your</strong></em> <em><strong>account structure.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Key Terms Glossary",
+    "html": "<blockquote><p>All important terms from Unit 6</p></blockquote><table><tbody><tr><th><p>Commercial Bank</p></th><th><p>Accepts deposits, makes loans, provides payments to the public.</p></th></tr><tr><td><p>Central Bank</p></td><td><p>Manages money supply, sets interest rates, regulates banks. Fed, ECB, CBU.</p></td></tr><tr><td><p>Fractional Reserve</p></td><td><p>Banks keep only a fraction of deposits in reserve, lend out the rest. Creates money via multiplier.</p></td></tr><tr><td><p>Reserve Requirement</p></td><td><p>% of deposits a bank must keep and not lend. Set by central bank. Typically 5-15%.</p></td></tr><tr><td><p>Key Interest Rate</p></td><td><p>Rate set by central bank influencing all other rates. Also called policy rate or base rate.</p></td></tr><tr><td><p>Deposit Insurance</p></td><td><p>Government guarantee depositors are repaid (up to limit) if bank fails. FDIC in US.</p></td></tr><tr><td><p>Money Supply</p></td><td><p>Total money circulating in economy. Controlled via interest rates and reserves.</p></td></tr><tr><td><p>Bank Run</p></td><td><p>Many depositors withdraw simultaneously fearing bank failure. Can be self-fulfilling.</p></td></tr><tr><td><p>Debit Card</p></td><td><p>Payment card drawing directly from checking. No borrowing involved.</p></td></tr><tr><td><p>Credit Card</p></td><td><p>Payment card borrowing from bank. Interest-free if paid in full; expensive if not.</p></td></tr><tr><td><p>Wire Transfer</p></td><td><p>Electronic transfer between banks. Used for large or international transfers.</p></td></tr><tr><td><p>Neobank</p></td><td><p>Digital-only bank, no branches. Better rates and lower fees than traditional banks.</p></td></tr><tr><td><p>Two-Factor Auth (2FA)</p></td><td><p>Security requiring two verification forms. Essential for safe digital banking.</p></td></tr><tr><td><p>SWIFT</p></td><td><p>Global messaging system enabling international bank transfers. 11,000+ banks worldwide.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "How do banks primarily make money?",
+     "choices": [
+      "Monthly account fees",
+      "The spread between deposit rates (low) and loan rates (high)",
+      "Printing money",
+      "Cryptocurrency trading"
+     ],
+     "answer_index": 1,
+     "explanation": "Banks earn the spread: pay depositors 3%, charge borrowers 8%, keep the 5% difference."
+    },
+    {
+     "n": 2,
+     "prompt": "Reserve requirement is 10%, you deposit $1,000. How much total money can be created?",
+     "choices": [
+      "$1,000",
+      "$2,000",
+      "$10,000",
+      "$100,000"
+     ],
+     "answer_index": 2,
+     "explanation": "$1,000 / 10% reserve = $10,000 total money created through the multiplier effect."
+    },
+    {
+     "n": 3,
+     "prompt": "When the central bank RAISES the key rate, what happens?",
+     "choices": [
+      "Borrowing becomes cheaper",
+      "Borrowing becomes more expensive, spending slows",
+      "Nothing changes for consumers",
+      "Stock prices always rise"
+     ],
+     "answer_index": 1,
+     "explanation": "Higher rates = more expensive borrowing = less spending = economy slows."
+    },
+    {
+     "n": 4,
+     "prompt": "The central bank's primary goal in setting rates is to:",
+     "choices": [
+      "Maximize bank profits",
+      "Control inflation and maintain economic stability",
+      "Help people get cheap mortgages",
+      "Increase stock prices"
+     ],
+     "answer_index": 1,
+     "explanation": "The central bank's primary mandate is price stability (controlling inflation) and economic stability."
+    },
+    {
+     "n": 5,
+     "prompt": "Which bank type typically offers the HIGHEST savings rates?",
+     "choices": [
+      "Traditional banks with many branches",
+      "Investment banks",
+      "Online/digital banks (neobanks)",
+      "Central banks"
+     ],
+     "answer_index": 2,
+     "explanation": "Online banks have lower costs (no branches) so they offer higher savings rates."
+    },
+    {
+     "n": 6,
+     "prompt": "Sarah needs: emergency fund, vacation savings, long-term investing. Minimum accounts?",
+     "choices": [
+      "1 — put everything in checking",
+      "2 — checking and savings",
+      "3 — high-yield savings, fixed deposit, investment",
+      "5 — one per purpose plus extras"
+     ],
+     "answer_index": 2,
+     "explanation": "Three accounts minimum: high-yield savings (emergency), fixed deposit (vacation), investment (long-term)."
+    },
+    {
+     "n": 7,
+     "prompt": "US FDIC deposit insurance covers how much per depositor per bank?",
+     "choices": [
+      "$50,000",
+      "$100,000",
+      "$250,000",
+      "Unlimited"
+     ],
+     "answer_index": 2,
+     "explanation": "FDIC insures up to $250,000 per depositor per insured bank."
+    },
+    {
+     "n": 8,
+     "prompt": "Which is NOT covered by deposit insurance?",
+     "choices": [
+      "Checking balance",
+      "Savings balance",
+      "Stock investments held through the bank",
+      "Fixed deposit balance"
+     ],
+     "answer_index": 2,
+     "explanation": "Stocks and investment products are NOT covered by deposit insurance, even if held at an insured bank."
+    },
+    {
+     "n": 9,
+     "prompt": "The SINGLE most important digital banking security measure?",
+     "choices": [
+      "Same password everywhere",
+      "Two-factor authentication (2FA)",
+      "Only desktop banking",
+      "Writing passwords on paper"
+     ],
+     "answer_index": 1,
+     "explanation": "Two-factor authentication blocks 99% of unauthorized access. The single most important security step."
+    },
+    {
+     "n": 10,
+     "prompt": "Main advantage of digital banks over traditional?",
+     "choices": [
+      "More branches",
+      "Higher rates and lower fees due to lower costs",
+      "Safer because newer",
+      "Free loans"
+     ],
+     "answer_index": 1,
+     "explanation": "Lower operating costs (no branches) let digital banks offer higher rates and lower fees."
+    },
+    {
+     "n": 11,
+     "prompt": "Which fee should you watch MOST when comparing banks?",
+     "choices": [
+      "Card color",
+      "Monthly maintenance fees — $12/month = $144/year",
+      "Logo design",
+      "App icon design"
+     ],
+     "answer_index": 1,
+     "explanation": "Monthly maintenance fees of $12/month = $144/year wasted. Always check fee structures."
+    },
+    {
+     "n": 12,
+     "prompt": "You have $500K savings. FDIC limit is $250K. What should you do?",
+     "choices": [
+      "Keep all in one bank",
+      "Split across two banks — $250K each, fully insured",
+      "Convert to cash at home",
+      "It doesn't matter"
+     ],
+     "answer_index": 1,
+     "explanation": "Split across two banks: $250K each = fully insured. Never keep more than the FDIC limit at one bank."
+    }
+   ]
+  },
+  "uz": {
+   "unit": 6,
+   "lang": "uz",
+   "title": "Bank tizimi",
+   "subtitle": "Banklar qanday ishlaydi, markaziy bankning roli, omonat sug'urtasi, to'lov tizimlari, raqamli banking va to'g'ri bankni tanlash.",
+   "lessons": [
+    {
+     "num": "6.1",
+     "title": "Banklar qanday ishlaydi",
+     "html": "<p>Banklar moliya tizimining infratuzilmasi. Har bir ish haqi, har bir xarid, har bir investitsiya banklar orqali o'tadi. Ularning ishlash tartibini tushunish har bir moliyaviy qarorda sizga ustunlik beradi.</p><blockquote><p><strong>Asosiy biznes modeli</strong></p><p>Banklar SPREDDAN pul ishlaydi — sizga omonat uchun to'laydigan foiz va qarz oluvchilardan oladigan foiz o'rtasidagi farq. Siz 5% bilan qo'yasiz. Ular 16% bilan kreditlaydi. 11% farq — ularning foydasi.</p></blockquote><h2>Banklar pulni qayerdan oladi</h2><table><tbody><tr><th><p>Manba</p></th><th><p>Qanday ishlaydi</p></th><th><p>Bank uchun xarajati</p></th></tr><tr><td><p>Mijoz omonatlari</p></td><td><p>Siz pulni hisobga qo'yasiz</p></td><td><p>Past (5-8% sizga)</p></td></tr><tr><td><p>Banklar arasi qarzlar</p></td><td><p>Banklar bir-biridan qarz oladi</p></td><td><p>O'rtacha (kalit stavka)</p></td></tr><tr><td><p>Markaziy bank</p></td><td><p>Favqulodda kreditlash</p></td><td><p>Yuqori (jarima stavkasi)</p></td></tr><tr><td><p>Obligatsiyalar chiqarish</p></td><td><p>Bank o'z obligatsiyalarini sotadi</p></td><td><p>O'rtacha-yuqori</p></td></tr></tbody></table><h2>Qisman zaxira bankligi</h2><p>Banklar sizning barcha pulingizni seyfda SAQLAMAYDI. Ular faqat bir qismini (odatda 5-15%) zaxira sifatida saqlaydi. Qolganini kreditga beradi.</p><blockquote><p><strong>100 000 so'm qanday 1 000 000 ga aylanadi</strong></p><p>Siz 100 000 so'm qo'yasiz. Bank 10 000 ni saqlaydi (10% zaxira), 90 000 ni Alishga kreditga beradi. Alish 90 000 ni sarflaydi — u boshqa bankka tushadi. U bank 9 000 ni saqlaydi, 81 000 ni Malika ga beradi.</p><p>Bu davom etadi. Sizning 100 000 so'mingiz pul massasida ~1 000 000 so'm yaratadi. Bu pul multiplikatori — bank tizimi tom ma'noda pul yaratadi.</p></blockquote><p><em><strong><em><strong>Bu tizim ishlaydi — juda ko'p odam bir vaqtda pul olishga harakat qilmaguncha (bank</strong></em> <em><strong>hujumi). Shuning uchun omonat sug'urtasi mavjud.</strong></em></strong></em></p>"
+    },
+    {
+     "num": "6.2",
+     "title": "Markaziy bank",
+     "html": "<p>Markaziy bank har qanday mamlakatdagi eng kuchli moliya muassasasi. Uning qarorlari bevosita har bir kredit stavkasiga, omonat stavkasiga va narxlarga ta'sir qiladi.</p><blockquote><p><strong>Markaziy bank nima?</strong></p><p>Mamlakatning pul massasini boshqaruvchi, foiz stavkalarini belgilovchi, tijorat banklarini tartibga soluvchi va barqarorlikni ta'minlovchi muassasa. O'zbekistonda — O'zbekiston Respublikasi Markaziy banki (MBRUz).</p></blockquote><h2>Asosiy vazifalari</h2><blockquote><p>→<strong> 1. Foiz stavkalarini belgilash</strong></p><p>Kalit stavka BARCHA kreditlarga ta'sir qiladi. Ko'tarilsa — ipoteka, avtokredit, kartalar qimmatlashadi. Tushirilsa — kreditlar arzonlashadi. Bu iqtisodiyotni boshqarishning asosiy vositasi.</p><p>→<strong> 2. Inflyatsiyani nazorat qilish</strong></p><p>Odatda 4-5% maqsadli inflyatsiya. Narxlar tez ko'tarilsa — stavka oshiriladi. Iqtisodiyot sekinlashsa — tushiriladi, xarajatlarni rag'batlantirish uchun.</p><p>→<strong> 3. Banklarni tartibga solish</strong></p><p>Zaxira me'yorlarini, kapital yetarlilik standartlarini belgilaydi. Tekshiruvlar o'tkazadi va xavfli bankni yopishi mumkin.</p><p>→<strong> 4. Oxirgi chora kreditchisi</strong></p><p>Bank likvidlik inqiroziga duch kelganda, Markaziy bank favqulodda qarz beradi. Bu zanjir bankrotliklarning oldini oladi.</p><p><strong>AMALIY MISOL — Stavka o'zgarishi sizga qanday ta'sir qiladi</strong></p><p>Markaziy bank kalit stavkani 14% dan 18% ga ko'tardi:</p><ul><li><p>Sizning ipotekangiz (o'zgaruvchan stavka): oylik to'lov 200-500 ming so'mga oshadi.</p></li><li><p>Sizning omonatingiz: stavkalar ko'tariladi (lekin banklar sekin o'tkazadi).</p></li><li><p>Fond bozori: odatda tushadi — obligatsiyalar jozibadorroq bo'ladi.</p></li><li><p>Uy-joy bozori: soviydi — ipoteka qimmatlashadi, talab pasayadi.</p></li></ul><p><strong>Bitta qaror sizning ipotekangiz, omonatingiz, investitsiyalaringiz va barcha narxlarga ta'sir</strong> <strong>qiladi.</strong></p></blockquote>"
+    },
+    {
+     "num": "6.3",
+     "title": "Bank va hisob turlari",
+     "html": "<p>Barcha banklar bir xil emas. Turli xil turlar turli maqsadlarga xizmat qiladi.</p><h2>Moliya tashkilotlari turlari</h2><table><tbody><tr><th><p>Turi</p></th><th><p>Nima qiladi</p></th><th><p>Kim uchun</p></th></tr><tr><td><p>Tijorat banki</p></td><td><p>Omonatlar, kreditlar, to'lovlar</p></td><td><p>Hamma</p></td></tr><tr><td><p>Investitsiya banki</p></td><td><p>M&amp;A, IPO, treyding</p></td><td><p>Korporatsiyalar</p></td></tr><tr><td><p>Onlayn-bank (neobank)</p></td><td><p>To'liq raqamli banking</p></td><td><p>Yoshlar, IT-mutaxassislar</p></td></tr><tr><td><p>Kredit kooperativi</p></td><td><p>A'zolarga tegishli, notijorat</p></td><td><p>Faqat a'zolar</p></td></tr><tr><td><p>Markaziy bank</p></td><td><p>Pul siyosati, tartibga solish</p></td><td><p>Banklar va davlat</p></td></tr></tbody></table><h2>Bank hisoblari turlari</h2><table><tbody><tr><th><p>Hisob</p></th><th><p>Maqsad</p></th><th><p>Foydalanish</p></th><th><p>Foiz</p></th><th><p>Eng yaxshi</p></th></tr><tr><td><p>Joriy hisob</p></td><td><p>Kundalik operatsiyalar</p></td><td><p>Darhol</p></td><td><p>0-1%</p></td><td><p>Ish haqi, to'lovlar</p></td></tr><tr><td><p>Jamg'arma hisobi</p></td><td><p>Qisqa muddatli tejash</p></td><td><p>1-2 kun</p></td><td><p>4-8%</p></td><td><p>Favqulodda fond</p></td></tr><tr><td><p>Muddatli depozit</p></td><td><p>O'rta muddatli maqsadlar</p></td><td><p>Muddatda</p></td><td><p>8-16%</p></td><td><p>1-2 yillik maqsadlar</p></td></tr><tr><td><p>Investitsiya hisobi</p></td><td><p>Aksiya/obligatsiya olish</p></td><td><p>1-3 kun</p></td><td><p>Turli xil</p></td><td><p>Uzoq muddatli kapital</p></td></tr></tbody></table><blockquote><p><strong>AMALIY MISOL — Har bir maqsad uchun to'g'ri hisob</strong></p><p>Sardor oyiga 8 000 000 so'm oladi. Optimal tuzilma:</p><ul><li><p>Joriy: ish haqi, to'lovlar, kundalik xarajatlar. ~1 oylik xarajat saqlash.</p></li><li><p>Jamg'arma: favqulodda fond (24 mln so'm = 3 oy). 7% bilan — joriy hisobdagi 0% o'rniga.</p></li><li><p>Muddatli depozit: 10 mln so'm 1.5 yildan keyin ta'tilga. 14% bilan bloklangan.</p></li><li><p>Investitsiya hisobi: oyiga 1 600 000 so'm avtomatik investitsiya.</p></li></ul><p><strong>4 hisob, 4 maqsad. Har bir so'm o'z ishi uchun optimal joyda.</strong></p></blockquote>"
+    },
+    {
+     "num": "6.4",
+     "title": "Omonat sug'urtasi",
+     "html": "<p>Bankingiz bankrot bo'lsa nima bo'ladi? Banklar har yili bankrot bo'ladi. Omonat sug'urtasi sizni hamma narsani yo'qotishdan himoya qiladi.</p><blockquote><p><strong>Omonat sug'urtasi nima?</strong></p><p>Davlat kafolati: bank bankrot bo'lsa, omonatingiz belgilangan limitgacha qaytariladi. O'zbekistonda: 100 000 000 so'mgacha. Rossiyada: 1 400 000 rubl. AQShda: $250 000 (FDIC).</p></blockquote><h2>Nima SUG'URTALANGAN</h2><blockquote><p><strong>Joriy hisoblar — limitgacha to'liq himoyalangan</strong></p><p><strong>Jamg'arma hisoblar — limitgacha to'liq himoyalangan</strong></p><p><strong>Muddatli depozitlar — hisoblangan foiz bilan birga</strong></p><p><strong>Valyuta omonatlari — bankrotlik kuni kursiga qayta hisoblanadi</strong></p></blockquote><h2>Nima SUG'URTALANMAGAN</h2><blockquote><p><strong>Aksiyalar va obligatsiyalar — investitsiya mahsulotlari sug'urtalanmaydi</strong></p><p><strong>Payli fondlar va ETF — bank orqali sotib olinsa ham</strong></p><p><strong>Kriptovalyuta — davlat himoyasi yo'q</strong></p><p><strong>Limitdan ortiq summalar — bir bankda 100 mln so'mdan ortiq sug'urtasiz</strong></p><p><strong>Strategiya: limitdan ortiqni qanday sug'urtalash</strong></p><p>300 mln so'mingiz bormi? Hammasini bir bankka qo'ymang. Bo'ling: 100 mln A bankda, 100 mln B bankda, 100 mln V bankda. Hammasi to'liq sug'urtalangan.</p></blockquote>"
+    },
+    {
+     "num": "6.5",
+     "title": "To'lov tizimlari va raqamli banking",
+     "html": "<p>Pulning harakatlanish usullari moliya dunyosida eng tez o'zgarayotgan soha.</p><h2>To'lov tizimlari turlari</h2><table><tbody><tr><th><p>Tizim</p></th><th><p>Tezlik</p></th><th><p>Xarajat</p></th><th><p>Eng yaxshi</p></th></tr><tr><td><p>Naqd pul</p></td><td><p>Darhol</p></td><td><p>Bepul</p></td><td><p>Kichik mahalliy xaridlar</p></td></tr><tr><td><p>Debet kartasi</p></td><td><p>Darhol</p></td><td><p>Bepul/Past</p></td><td><p>Kundalik xaridlar</p></td></tr><tr><td><p>Kredit kartasi</p></td><td><p>Darhol</p></td><td><p>0% to'liq qaytarilsa</p></td><td><p>Onlayn, sayohat</p></td></tr><tr><td><p>Bank o'tkazmasi</p></td><td><p>1-3 kun</p></td><td><p>5-50 ming so'm</p></td><td><p>Katta summalar</p></td></tr><tr><td><p>Mobil to'lov</p></td><td><p>Darhol</p></td><td><p>Bepul</p></td><td><p>Kontaktsiz xaridlar</p></td></tr><tr><td><p>Click/Payme</p></td><td><p>Darhol</p></td><td><p>Bepul/Past</p></td><td><p>P2P o'tkazmalar</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>An'anaviy banklar</strong></p><ul><li><p>Jismoniy filiallar mavjud</p></li><li><p>Yuzma-yuz xizmat</p></li><li><p>Pastroq omonat stavkalari</p></li><li><p>To'liq mahsulot qatori</p></li></ul><p>Eng yaxshi: murakkab ehtiyojlar, katta kreditlar</p></td><td><p><strong>Raqamli/onlayn-banklar</strong></p><ul><li><p>Jismoniy filiallar yo'q</p></li><li><p>24/7 ilova orqali qo'llab-quvvatlash</p></li><li><p>Yuqoriroq omonat stavkalari</p></li><li><p>Cheklangan mahsulot qatori</p></li></ul><p>Eng yaxshi: kundalik banking, tejamkorlik</p></td></tr></tbody></table><h2>Raqamli banking xavfsizligi</h2><blockquote><p><strong>Ikki bosqichli autentifikatsiyani yoqing</strong></p><p>Ruxsatsiz kirishlarning 99% ini bloklaydi. SMS emas, autentifikator ilovasidan foydalaning.</p><p><strong>Parollarni hech kim bilan bo'lishmang</strong></p><p>Hech bir bank to'liq parolingizni so'ramaydi. So'ragan odam — firibgar.</p><p><strong>Har bir bank uchun alohida parol</strong></p><p>Bitta hisob buzilsa, qolganlari xavfsiz. Parol menejeri ishlating.</p><p><strong>Tranzaksiyalarni haftalik tekshiring</strong></p><p>Belgilangan summadan yuqori tranzaksiyalar uchun bildirishnomalar o'rnating.</p></blockquote>"
+    },
+    {
+     "num": "6.6",
+     "title": "To'g'ri bankni tanlash",
+     "html": "<p>Ko'pchilik eng yaqin bankda yoki ota-onasi bo'lgan bankda hisob ochadi. Bu passiv tanlov umr bo'yi minglab so'mlik foizlar va keraksiz komissiyalarga tushadi.</p><h2>Banklarni solishtirish uchun 8 balliq chek-list</h2><blockquote><p><strong>1. Foiz stavkalari</strong></p><p>Samarali stavkani solishtiring. 10 mln so'mda 1% farq = yiliga 100 000 so'm. 10 yilda 1 mln+ so'm bepul pul.</p><p><strong>2. Komissiyalar</strong></p><p>Xizmat, bankomat, o'tkazma, overdraft to'lovlari. 50 000 so'm/oy = 600 000 so'm/yil hech narsa uchun.</p><p><strong>3. Bankomat tarmog'i</strong></p><p>Bepul bankomatlar soni? Har yechishda 5 000 so'm x 4 marta/oy = 240 000 so'm/yil isrof.</p><p><strong>4. Raqamli tajriba</strong></p><p>Ilova sifati, onlayn-banking, o'tkazmalar qulayligi. Har kuni foydalanasiz — yaxshi ishlashi kerak.</p><p><strong>5. Omonat sug'urtasi</strong></p><p>Bank sug'urtalanadimi? Limit qancha? Sug'urtalanmagan bankda HECH QACHON pul saqlamang.</p><p><strong>6. Mijozlar xizmati</strong></p><p>24/7? Telefon, chat, ofis? Muammolar qanchalik tez hal bo'ladi? Haqiqiy sharhlarni o'qing.</p><p><strong>7. Mahsulot qatori</strong></p><p>Joriy, jamg'arma, depozit, investitsiya, kartalar — kerakli hamma narsa bormi?</p><p><strong>8. Obro' va barqarorlik</strong></p><p>Bank qancha vaqt ishlaydi? Moliyaviy sog'ligi? Mustaqil reyting agentliklarini tekshiring.</p><p><strong>Asosiy xulosa — 6-Blok</strong></p></blockquote><p><em><strong><em><strong>Banklar faqat pul saqlash joyi emas — ular har bir moliyaviy qaror o'tadigan infratuzilma.</strong></em> <em><strong>Zaxira bankligi, Markaziy bank siyosati, omonat sug'urtasi va raqamli to'lovlarni tushunish</strong></em> <em><strong>fundamental ustunlik beradi. 8 balliq chek-list bo'yicha ongli tanlang, omonatlarni</strong></em> <em><strong>sug'urtalang va yaxshi stavkalar uchun raqamli bankingdan foydalaning. ZInvest AI banklarni</strong></em> <em><strong>solishtirish, real daromadni hisoblash va hisob tuzilmasini optimallashtirish da yordam</strong></em> <em><strong>beradi.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Atamalar lug'ati",
+    "html": "<blockquote><p>6-blokdagi barcha muhim tushunchalar</p></blockquote><table><tbody><tr><th><p>Tijorat banki</p></th><th><p>Omonat qabul qiladi, kredit beradi, to'lovlarni amalga oshiradi.</p></th></tr><tr><td><p>Markaziy bank</p></td><td><p>Pul massasini boshqaradi, stavkalarni belgilaydi, banklarni tartibga soladi. O'zbekistonda — MBRUz.</p></td></tr><tr><td><p>Qisman zaxira bankligi</p></td><td><p>Banklar omonatlarning faqat bir qismini saqlaydi, qolganini kreditga beradi. Multiplikator orqali pul yaratadi.</p></td></tr><tr><td><p>Zaxira me'yori</p></td><td><p>Bankning saqlashi va kreditga bermasligi kerak bo'lgan omonatlar ulushi. MB tomonidan belgilanadi. Odatda 5-15%.</p></td></tr><tr><td><p>Kalit stavka</p></td><td><p>Markaziy bank belgilaydigan, iqtisodiyotdagi barcha boshqa stavkalarga ta'sir qiluvchi stavka.</p></td></tr><tr><td><p>Omonat sug'urtasi</p></td><td><p>Bank bankrot bo'lganda omonatchilarning pullari (limitgacha) qaytarilishi kafolati.</p></td></tr><tr><td><p>Pul massasi</p></td><td><p>Iqtisodiyotdagi umumiy pul hajmi. Stavkalar va zaxira me'yorlari orqali nazorat qilinadi.</p></td></tr><tr><td><p>Bank hujumi</p></td><td><p>Ko'p omonatchilarning bankrotlikdan qo'rqib bir vaqtda pul olishga harakat qilishi.</p></td></tr><tr><td><p>Debet kartasi</p></td><td><p>Joriy hisobdan to'g'ridan-to'g'ri pul yechuvchi to'lov kartasi. Qarz olish yo'q.</p></td></tr><tr><td><p>Kredit kartasi</p></td><td><p>Bankdan qarz olish orqali to'lov kartasi. To'liq qaytarilsa foizsiz; aks holda juda qimmat.</p></td></tr><tr><td><p>Click/Payme</p></td><td><p>O'zbekistondagi mashhur mobil to'lov tizimlari. Tezkor P2P o'tkazmalar.</p></td></tr><tr><td><p>Neobank</p></td><td><p>Filiallarsiz to'liq raqamli bank. Odatda yuqoriroq stavkalar va pastroq komissiyalar.</p></td></tr><tr><td><p>Ikki bosqichli autentifikatsiya</p></td><td><p>Ikki tekshirish shaklini talab qiluvchi xavfsizlik usuli. Raqamli banking uchun zarur.</p></td></tr><tr><td><p>SWIFT</p></td><td><p>Xalqaro bank o'tkazmalarini amalga oshiruvchi global tizim. Dunyo bo'ylab 11 000+ bank ishlatadi.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Banklar asosan nimadan pul ishlaydi?",
+     "choices": [
+      "Oylik xizmat komissiyalaridan",
+      "Omonat stavkalari (past) va kredit stavkalari (yuqori) o'rtasidagi spreddan",
+      "Pul bosib chiqarishdan",
+      "Kriptovalyuta savdosidan"
+     ],
+     "answer_index": 1,
+     "explanation": "Banklar spreddan pul ishlaydi: omonatchilarni 5% bilan, qarz oluvchilarni 16% bilan — 11% farq ularning foydasi."
+    },
+    {
+     "n": 2,
+     "prompt": "Zaxira me'yori 10%, siz 100 000 so'm qo'ydingiz. Tizim jami qancha pul yarataishi mumkin?",
+     "choices": [
+      "100 000 so'm",
+      "200 000 so'm",
+      "1 000 000 so'm",
+      "10 000 000 so'm"
+     ],
+     "answer_index": 2,
+     "explanation": "100 000 / 10% zaxira = 1 000 000 so'm multiplikativ effekt orqali yaratiladi."
+    },
+    {
+     "n": 3,
+     "prompt": "Markaziy bank kalit stavkani KO'TARGA nima bo'ladi?",
+     "choices": [
+      "Kreditlar arzonlashadi, xarajatlar oshadi",
+      "Kreditlar qimmatlashadi, xarajatlar kamayadi",
+      "Iste'molchilar uchun hech narsa o'zgarmaydi",
+      "Aksiyalar har doim ko'tariladi"
+     ],
+     "answer_index": 1,
+     "explanation": "Stavka ko'tarilsa = qarz qimmatlashadi = xarajatlar kamayadi = iqtisodiyot sekinlashadi."
+    },
+    {
+     "n": 4,
+     "prompt": "Markaziy bankning stavka belgilashdagi asosiy maqsadi:",
+     "choices": [
+      "Bank foydasini maksimallash",
+      "Inflyatsiyani nazorat qilish va iqtisodiy barqarorlik",
+      "Odamlarga arzon ipoteka olishga yordam berish",
+      "Fond bozorini ko'tarish"
+     ],
+     "answer_index": 1,
+     "explanation": "Markaziy bankning asosiy vazifasi — inflyatsiyani nazorat qilish va iqtisodiy barqarorlik."
+    },
+    {
+     "n": 5,
+     "prompt": "Qaysi bank turi odatda ENG YUQORI omonat stavkalarini taklif qiladi?",
+     "choices": [
+      "Filiallari ko'p an'anaviy banklar",
+      "Investitsiya banklari",
+      "Onlayn-banklar (neobanklar)",
+      "Markaziy bank"
+     ],
+     "answer_index": 2,
+     "explanation": "Onlayn-banklar ofissiz bo'lgani uchun kam xarajatli va yuqoriroq stavkalar taklif qiladi."
+    },
+    {
+     "n": 6,
+     "prompt": "Sardorga kerak: favqulodda fond, ta'til uchun tejash, uzoq muddatli investitsiya. Minimum hisoblar?",
+     "choices": [
+      "1 — hammasini joriy hisobga",
+      "2 — joriy va jamg'arma",
+      "3 — jamg'arma, muddatli depozit, investitsiya",
+      "5 — har bir maqsad uchun alohida"
+     ],
+     "answer_index": 2,
+     "explanation": "Kamida 3 hisob: jamg'arma (fond), muddatli depozit (ta'til), investitsiya (uzoq muddat)."
+    },
+    {
+     "n": 7,
+     "prompt": "O'zbekistonda omonat sug'urtasi qancha miqdorgacha himoyalaydi?",
+     "choices": [
+      "10 000 000 so'm",
+      "50 000 000 so'm",
+      "100 000 000 so'm",
+      "Cheklanmagan"
+     ],
+     "answer_index": 2,
+     "explanation": "O'zbekistonda omonatlar 100 000 000 so'mgacha sug'urtalangan."
+    },
+    {
+     "n": 8,
+     "prompt": "Quyidagilardan qaysi biri omonat sug'urtasi bilan himoyalanMAYDI?",
+     "choices": [
+      "Joriy hisob",
+      "Jamg'arma hisobi",
+      "Bank orqali sotib olingan aksiyalar",
+      "Muddatli depozit"
+     ],
+     "answer_index": 2,
+     "explanation": "Aksiyalar va investitsiya mahsulotlari sug'urtalanmaydi, hatto bank orqali sotib olinsa ham."
+    },
+    {
+     "n": 9,
+     "prompt": "Raqamli banking uchun ENG MUHIM xavfsizlik chorasi?",
+     "choices": [
+      "Hamma joyda bir xil parol — qulay",
+      "Ikki bosqichli autentifikatsiya (2FA)",
+      "Faqat kompyuterdan banking qilish",
+      "Parolni qog'ozga yozib qo'yish"
+     ],
+     "answer_index": 1,
+     "explanation": "Ikki bosqichli autentifikatsiya ruxsatsiz kirishlarning 99% ini bloklaydi."
+    },
+    {
+     "n": 10,
+     "prompt": "Raqamli banklarning an'anaviy banklardan asosiy ustunligi?",
+     "choices": [
+      "Ko'proq filiallar",
+      "Kam xarajat tufayli yuqoriroq stavkalar va pastroq komissiyalar",
+      "Yangi bo'lgani uchun xavfsizroq",
+      "Bepul kreditlar"
+     ],
+     "answer_index": 1,
+     "explanation": "Kam xarajat (ofis yo'q) = yuqoriroq omonat stavkalari va pastroq komissiyalar."
+    },
+    {
+     "n": 11,
+     "prompt": "Bank tanlashda ENG BIRINCHI nimaga e'tibor berish kerak?",
+     "choices": [
+      "Debet kartasining rangiga",
+      "Oylik xizmat to'lovi — 50 000 so'm/oy = 600 000/yil hech narsa uchun",
+      "Logotip dizayniga",
+      "Ilova ikonkasi dizayniga"
+     ],
+     "answer_index": 1,
+     "explanation": "Oylik 50 000 so'm xizmat to'lovi = yiliga 600 000 so'm hech narsa uchun. Doim tekshiring."
+    },
+    {
+     "n": 12,
+     "prompt": "300 mln so'm jamg'armangiz bor. Sug'urta limiti 100 mln. Nima qilish kerak?",
+     "choices": [
+      "Hammasini bir bankda saqlash — soddaroq",
+      "Har bir bankda 100 mln so'mdan bo'lish — to'liq sug'urta",
+      "Hammasini naqd qilib uyda saqlash",
+      "Farqi yo'q — barcha omonatlar sug'urtalangan"
+     ],
+     "answer_index": 1,
+     "explanation": "Bo'ling: har bir bankda 100 mln so'mdan = to'liq sug'urta. Ball bo'yicha yo'riqnoma 12/12: A'lo! 6-Blokni to'liq o'zlashtirdingiz. 7-Blokga tayyorsiz! 10-11: Juda yaxshi — xato qilgan bo'limlarni qayta ko'ring. 8-9: Yaxshi — 6.1 va 6.2 bo'limlarni misollar bilan qayta o'qing. 6-7: Barcha bo'limlarni lug'at bilan birgalikda takrorlang. 6 dan past: Boshidan qayta o'qing, misollar va jadvallarga e'tibor bering."
+    }
+   ]
+  }
+ }
+}

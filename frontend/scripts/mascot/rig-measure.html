@@ -1,0 +1,46 @@
+<!doctype html>
+<!-- Dev-only: orthographic front view of the bear with a coordinate grid, for measuring face landmarks. -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Rig measure</title>
+    <style>body{margin:0;background:#fff}#wrap{position:relative;width:1000px;height:1000px}canvas{position:absolute;left:0;top:0}</style>
+  </head>
+  <body>
+    <div id="wrap"></div>
+    <script type="module">
+      import * as THREE from 'three'
+      import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js'
+      import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js'
+      const q = new URLSearchParams(location.search)
+      const [x0, x1, y0, y1] = (q.get('box') || '-0.5,0.5,0.75,1.75').split(',').map(Number)
+      const gltf = await new GLTFLoader().setMeshoptDecoder(MeshoptDecoder).loadAsync(q.get('model') || '/models/zinvest-bear-v6.glb')
+      const wrap = document.getElementById('wrap')
+      const r = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true })
+      r.setSize(1000, 1000); r.outputColorSpace = THREE.SRGBColorSpace
+      wrap.appendChild(r.domElement)
+      const scene = new THREE.Scene(); scene.background = new THREE.Color(0xffffff)
+      scene.add(new THREE.AmbientLight(0xffffff, 3))
+      scene.add(gltf.scene)
+      const yaw = Number(q.get('yaw') || 0)
+      gltf.scene.rotation.y = yaw * Math.PI / 180
+      const cam = new THREE.OrthographicCamera(x0, x1, y1, y0, 0.01, 20)
+      cam.position.set(0, 0, 5); cam.lookAt(0, 0, 0)
+      r.render(scene, cam)
+      const over = document.createElement('canvas'); over.width = over.height = 1000; wrap.appendChild(over)
+      const g = over.getContext('2d'); g.font = '11px monospace'
+      const step = Number(q.get('step') || 0.05)
+      for (let x = Math.ceil(x0 / step) * step; x <= x1 + 1e-9; x += step) {
+        const px = (x - x0) / (x1 - x0) * 1000
+        g.strokeStyle = Math.abs(x) < 1e-6 ? 'rgba(255,0,0,.6)' : 'rgba(0,120,255,.35)'; g.beginPath(); g.moveTo(px, 0); g.lineTo(px, 1000); g.stroke()
+        g.fillStyle = '#06c'; g.fillText(x.toFixed(2), px + 2, 12)
+      }
+      for (let y = Math.ceil(y0 / step) * step; y <= y1 + 1e-9; y += step) {
+        const py = (y1 - y) / (y1 - y0) * 1000
+        g.strokeStyle = 'rgba(0,120,255,.35)'; g.beginPath(); g.moveTo(0, py); g.lineTo(1000, py); g.stroke()
+        g.fillStyle = '#06c'; g.fillText(y.toFixed(2), 2, py - 2)
+      }
+      window.__done = true
+    </script>
+  </body>
+</html>

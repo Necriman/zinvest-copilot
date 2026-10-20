@@ -1,0 +1,28 @@
+# Dependencies & build output
+node_modules/
+dist/
+dist-ssr/
+.vite/
+
+# Env & secrets — nothing here is safe to publish
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.njsproj
+*.sln
+*.sw?
+
+.vercel
+.env*

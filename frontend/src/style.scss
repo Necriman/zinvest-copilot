@@ -1,0 +1,718 @@
+// -----------------------------------------------------------------------------
+// Zinvest design tokens (SCSS).
+// These emit CSS custom properties that Tailwind's @theme maps onto its tokens
+// (see tailwind.css). Because they are runtime CSS variables, the brand color
+// and the light/dark surfaces can be swapped live from JS.
+// -----------------------------------------------------------------------------
+
+// Brand scales. Light theme: Zinvest purple on white. Dark theme keeps the
+// electric blue it was designed with. $*-600 is the primary in each.
+$brand-light: (
+  50:  #f5f1fd,
+  100: #ece5fb,
+  200: #d9ccf6,
+  300: #bca7ee,
+  400: #9b7be2,
+  500: #7d57d6,
+  600: #6943cc,
+  700: #5332a8,
+  800: #432a86,
+  900: #34216a,
+);
+
+$brand: (
+  50:  #eff6ff,
+  100: #dbeafe,
+  200: #bfdbfe,
+  300: #93c5fd,
+  400: #60a5fa,
+  500: #3b82f6,
+  600: #2563eb,
+  700: #1d4ed8,
+  800: #1e40af,
+  900: #1e3a8a,
+);
+
+:root {
+  // Brand
+  @each $shade, $hex in $brand-light {
+    --brand-#{$shade}: #{$hex};
+  }
+
+  // Light surfaces: warm white with a hint of lavender
+  --bg: #f5f5f8;          // app canvas
+  --surface: #fdfdfe;     // cards
+  --surface-2: #f0eff4;   // insets / hovers
+  --border: #e7e5ed;      // hairlines
+  --text: #282435;        // ink
+  // 4.97:1 on --bg. The old #767383 measured 4.24:1 there, so secondary text
+  // sat below the readable floor on the light canvas.
+  --text-muted: #6b6879;  // secondary ink
+  --text-faint: #716e80;  // meta: timestamps, counts, captions (4.8:1 on white, AA for small text)
+  --lavender: #efebfa;    // hero wash
+  --mint: #d9f0e6;        // done / success wash
+  --mint-ink: #287656;
+}
+
+// Soft dark theme — deliberately NOT pure black, to avoid the eye strain of a
+// near-#000 background. Each step is a distinct value: `surface-2` and `border`
+// used to share one colour, so an inset and the hairline around it were
+// indistinguishable and every dark surface read as one flat slab.
+.dark {
+  @each $shade, $hex in $brand {
+    --brand-#{$shade}: #{$hex};
+  }
+  --lavender: #1f1d2a;
+  --mint: #16302a;
+  --mint-ink: #7ad3ad;
+  --bg: #141417;          // page
+  --surface: #1d1d21;     // cards
+  --surface-2: #27272c;   // insets / hovers
+  --border: #32323a;      // hairlines — one step above surface-2 so edges read
+  --text: #e7e7ea;        // ink
+  --text-muted: #a1a1aa;  // secondary ink — 6.56:1 on --surface
+  --text-faint: #86868f;  // meta: timestamps, counts, captions (3:1 class)
+}
+
+html {
+  font-family: var(--font-sans);
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+// -----------------------------------------------------------------------------
+// Tiptap editor × Tailwind Typography overrides
+// -----------------------------------------------------------------------------
+// The editor content area carries `.prose`, whose defaults force large em-based
+// margins on media and a fixed line-height. Those would fight the per-block
+// spacing / line-height our custom Tiptap extensions render as inline styles
+// (and, for images, stack on top of the NodeView's own margin). Reset the media
+// baselines to 0 / normal so our inline styles are the single source of truth —
+// the image NodeView (`my-4`) and the block-math outer supply the real defaults.
+.prose {
+  img,
+  table,
+  .tiptap-mathematics-render[data-type='block-math'] {
+    margin: 0;
+    line-height: normal;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Markdown blocks: inline code · code block · blockquote · task list · mermaid
+// -----------------------------------------------------------------------------
+$mono: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;
+
+// --- Inline code -------------------------------------------------------------
+// Typography wraps inline <code> in literal backtick glyphs + its own bg; swap in
+// a clean pill and drop the pseudo-quotes. `:not(pre) > code` leaves code blocks
+// (pre > code) untouched.
+.prose :not(pre) > code {
+  font-family: $mono;
+  font-size: 0.86em;
+  font-weight: 500;
+  color: #db2777; // pink-600 (default — overridden by an inline `color` when set)
+  background: var(--surface-2); // default fill — overridden by an inline background-color
+  // Border tracks the text color so a custom tint stays cohesive on any background.
+  border: 1px solid color-mix(in srgb, currentColor, transparent 84%);
+  border-radius: 0.35rem;
+  padding: 0.12em 0.4em;
+}
+.prose :not(pre) > code::before,
+.prose :not(pre) > code::after {
+  content: none;
+}
+.dark .prose :not(pre) > code {
+  color: #f9a8d4; // pink-300
+}
+
+// --- Code block (syntax highlighted, custom NodeView) ------------------------
+// A dark code surface in both themes (reads as "code" regardless of app mode).
+.prose .code-block {
+  margin: 1.25rem 0;
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  overflow: hidden;
+  background: #0f172a; // slate-900
+}
+.code-block-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.35rem 0.6rem 0.35rem 0.75rem;
+  background: rgb(148 163 184 / 0.12);
+  border-bottom: 1px solid rgb(148 163 184 / 0.18);
+}
+.code-block-lang {
+  appearance: none;
+  color: #cbd5e1;
+  background-color: rgb(15 23 42 / 0.6);
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23cbd5e1' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'><path d='m6 9 6 6 6-6'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 0.45rem center;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  border: 1px solid rgb(148 163 184 / 0.25);
+  border-radius: 0.4rem;
+  padding: 0.2rem 1.4rem 0.2rem 0.5rem;
+  cursor: pointer;
+}
+.code-block-copy {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: #cbd5e1;
+  border: 1px solid rgb(148 163 184 / 0.25);
+  border-radius: 0.4rem;
+  padding: 0.2rem 0.55rem;
+  transition: background 0.15s ease;
+}
+.code-block-copy:hover {
+  background: rgb(148 163 184 / 0.18);
+}
+.prose .code-block pre {
+  margin: 0;
+  padding: 0.9rem 1rem;
+  background: transparent;
+  border-radius: 0;
+  overflow-x: auto;
+}
+.prose .code-block pre code {
+  font-family: $mono;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: #e2e8f0;
+  background: none;
+  border: 0;
+  padding: 0;
+}
+
+// highlight.js token palette (tuned for the dark code surface → same in both themes)
+.hljs {
+  color: #e2e8f0;
+}
+.hljs-comment,
+.hljs-quote {
+  color: #8b949e;
+  font-style: italic;
+}
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-literal,
+.hljs-doctag,
+.hljs-formula {
+  color: #ff7b72;
+}
+.hljs-string,
+.hljs-regexp,
+.hljs-addition,
+.hljs-meta .hljs-string {
+  color: #a5d6ff;
+}
+.hljs-number,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-attr,
+.hljs-attribute,
+.hljs-link {
+  color: #79c0ff;
+}
+.hljs-title,
+.hljs-title.function_,
+.hljs-section,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class {
+  color: #d2a8ff;
+}
+.hljs-type,
+.hljs-title.class_,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-params {
+  color: #7ee787;
+}
+.hljs-symbol,
+.hljs-bullet,
+.hljs-meta {
+  color: #ffa657;
+}
+.hljs-emphasis {
+  font-style: italic;
+}
+.hljs-strong {
+  font-weight: 700;
+}
+.hljs-deletion {
+  color: #ffa198;
+}
+
+// --- Blockquote (accent color via --quote-color) -----------------------------
+.prose blockquote {
+  --quote-color: var(--brand-500);
+  margin: 1.25rem 0;
+  padding: 0.6rem 1rem;
+  border-left: 4px solid var(--quote-color);
+  border-radius: 0 0.5rem 0.5rem 0;
+  background: color-mix(in srgb, var(--quote-color), transparent 92%);
+  font-style: normal;
+  font-weight: 400;
+  color: var(--text);
+}
+.prose blockquote p:first-of-type::before,
+.prose blockquote p:last-of-type::after {
+  content: none; // remove typography's smart-quote glyphs
+}
+.prose blockquote p {
+  margin: 0.25rem 0;
+}
+// A heading (or single paragraph) inside a quote keeps its large prose margins,
+// which balloons the callout with empty space (and pushes the text down). Collapse
+// the first/last child's outer margins so the box hugs its content tightly.
+.prose blockquote > :first-child {
+  margin-top: 0;
+}
+.prose blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+// --- Task list (checkboxes) --------------------------------------------------
+.prose ul[data-type='taskList'] {
+  list-style: none;
+  margin: 1rem 0;
+  padding-left: 0.25rem;
+}
+.prose ul[data-type='taskList'] li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.55rem;
+  margin: 0.28rem 0;
+  padding-left: 0;
+}
+.prose ul[data-type='taskList'] li::before {
+  content: none; // no marker on a task item
+}
+.prose ul[data-type='taskList'] li > label {
+  flex-shrink: 0;
+  margin-top: 0.18rem;
+  user-select: none;
+}
+.prose ul[data-type='taskList'] li > div {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.prose ul[data-type='taskList'] li > div > p {
+  margin: 0;
+}
+.prose ul[data-type='taskList'] input[type='checkbox'] {
+  width: 1rem;
+  height: 1rem;
+  accent-color: var(--brand-600);
+  cursor: pointer;
+}
+.prose ul[data-type='taskList'] li[data-checked='true'] > div {
+  color: var(--text-muted);
+  text-decoration: line-through;
+}
+.prose ul[data-type='taskList'] ul[data-type='taskList'] {
+  margin: 0.28rem 0 0.28rem 0.4rem;
+}
+
+// --- Mermaid diagram ---------------------------------------------------------
+.prose .mermaid-block {
+  display: flex;
+  justify-content: center;
+  margin: 1.25rem 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  background: var(--surface-2);
+  transition: outline-color 0.15s ease;
+}
+.prose .mermaid-block.mermaid-selected {
+  outline: 2px solid var(--brand-500);
+  outline-offset: 2px;
+}
+.mermaid-canvas {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.mermaid-canvas svg {
+  max-width: 100%;
+  height: auto;
+}
+.mermaid-empty {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+.mermaid-error {
+  width: 100%;
+  text-align: left;
+}
+.mermaid-error-title {
+  color: #dc2626;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 0 0 0.4rem;
+}
+.mermaid-error-source {
+  font-family: $mono;
+  font-size: 0.8rem;
+  white-space: pre-wrap;
+  color: var(--text-muted);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  padding: 0.5rem 0.7rem;
+  margin: 0;
+}
+.mermaid-error-hint {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  margin: 0.4rem 0 0;
+}
+// Mermaid preview pane inside the editor modal.
+.mermaid-preview svg {
+  max-width: 100%;
+  height: auto;
+}
+
+// -----------------------------------------------------------------------------
+// Overlay scrollbar theme (OverlayScrollbars)
+// -----------------------------------------------------------------------------
+// The page scroll uses an overlay scrollbar (see main.js): it paints on top of
+// the content instead of reserving a gutter — no sideways jitter, no permanent
+// empty strip — and fades out when idle. This themes the handle for light/dark.
+.os-theme-zinvest {
+  --os-size: 12px;
+  --os-padding-perpendicular: 3px;
+  --os-padding-axis: 3px;
+  --os-handle-border-radius: 8px;
+  --os-handle-min-size: 40px;
+  --os-handle-interactive-area-offset: 4px; // easier to grab than the visible width
+  --os-handle-bg: rgb(100 116 139 / 0.45); // slate-500
+  --os-handle-bg-hover: rgb(100 116 139 / 0.65);
+  --os-handle-bg-active: rgb(100 116 139 / 0.8);
+}
+.dark .os-theme-zinvest {
+  --os-handle-bg: rgb(148 163 184 / 0.4); // slate-400
+  --os-handle-bg-hover: rgb(148 163 184 / 0.6);
+  --os-handle-bg-active: rgb(148 163 184 / 0.85);
+}
+
+// -----------------------------------------------------------------------------
+// Global transitions
+// -----------------------------------------------------------------------------
+
+// Route change: fade + gentle vertical slide. For content that sits *inside* a
+// shell — the /app pages, the auth panel, the right rail — never for a whole
+// shell; see .shell-fade below.
+.fade-slide-enter-active,
+.fade-slide-leave-active {
+  transition: opacity 0.22s ease, transform 0.22s ease;
+}
+.fade-slide-enter-from {
+  opacity: 0;
+  transform: translateY(8px);
+}
+.fade-slide-leave-to {
+  opacity: 0;
+  transform: translateY(-8px);
+}
+
+// Top-level shell swap (landing ↔ app ↔ lesson), used by <router-view> in
+// App.vue. Deliberately opacity-only: a transform on the element being swapped
+// makes it the containing block for every `position: fixed` descendant inside
+// it, so for the length of the transition the dashboard's navbar, sidebar and
+// right rail would position against the document instead of the viewport. On a
+// page restored partway down that parks them a full scroll offset above the
+// viewport, and they visibly fly into place when the transform is removed.
+// Opacity creates a stacking context but never a containing block, so the
+// chrome stays pinned.
+.shell-fade-enter-active,
+.shell-fade-leave-active {
+  transition: opacity 0.22s ease;
+}
+.shell-fade-enter-from,
+.shell-fade-leave-to {
+  opacity: 0;
+}
+
+// Dropdowns / popovers: snap open from 95% → 100% scale (color picker, menus).
+// transform-origin comes from the panel's `origin-top-*` utility class.
+.pop-enter-active {
+  transition: opacity 0.16s ease, transform 0.16s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.pop-leave-active {
+  transition: opacity 0.12s ease, transform 0.12s ease;
+}
+.pop-enter-from,
+.pop-leave-to {
+  opacity: 0;
+  transform: scale(0.95);
+}
+
+// -----------------------------------------------------------------------------
+// Tooltips (see plugins/tooltip.js — one shared bubble, positioned in JS).
+// Always in the DOM at opacity 0 so it can be measured before being placed.
+// -----------------------------------------------------------------------------
+.zx-tooltip {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  max-width: 18rem;
+  padding: 0.3rem 0.55rem;
+  border-radius: 0.5rem;
+  font-size: 0.75rem;
+  line-height: 1.3;
+  font-weight: 500;
+  white-space: pre-line;
+  color: #fff;
+  background: rgb(15 23 42 / 94%);
+  box-shadow: 0 8px 24px rgb(15 23 42 / 18%);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.12s ease;
+
+  &.is-open {
+    opacity: 1;
+  }
+}
+
+// Not the light bubble inverted: a bright slab is exactly what a dark UI should
+// not throw at you, and it reads as a leftover from the other theme. Dark mode
+// gets an elevated dark surface with a hairline edge, the same language as every
+// other floating panel (menus, popovers, the comment cards).
+.dark .zx-tooltip {
+  color: #e7e7ea;
+  background: rgb(46 46 53 / 97%);
+  box-shadow: inset 0 0 0 1px rgb(255 255 255 / 9%), 0 10px 28px rgb(0 0 0 / 55%);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .zx-tooltip {
+    transition: none;
+  }
+}
+
+// Plain cross-fade — general-purpose (mode="out-in").
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.18s ease;
+}
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+// The right rail and the auth forms both use `fade-slide` above — the same
+// transition <router-view> runs between /app routes. Swapping a tab or moving
+// between sign-in and sign-up should feel like the page changing, not like a
+// separate effect, so they deliberately share one definition.
+
+// Settings category panels. The category rail is vertical, so the panel travels
+// on the same axis: picking something further down slides the new panel up from
+// below, and the outgoing one leaves upward (mode="out-in", so they never
+// overlap). The card's height is animated separately in Settings.vue, otherwise
+// swapping a tall section for a short one would collapse and snap.
+.settings-down-enter-active,
+.settings-down-leave-active,
+.settings-up-enter-active,
+.settings-up-leave-active {
+  transition: opacity 0.16s ease, transform 0.26s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.settings-down-enter-from,
+.settings-up-leave-to {
+  opacity: 0;
+  transform: translateY(16px) scale(0.99);
+}
+.settings-down-leave-to,
+.settings-up-enter-from {
+  opacity: 0;
+  transform: translateY(-16px) scale(0.99);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .settings-down-enter-from,
+  .settings-down-leave-to,
+  .settings-up-enter-from,
+  .settings-up-leave-to {
+    transform: none;
+    filter: none;
+  }
+}
+
+// Math-editor modal: ONE transition on the wrapper. The backdrop and the card are
+// its children, so a single opacity fade brings them in (and out) at exactly the
+// same moment — no separate per-element transitions to fall out of sync.
+.ml-modal-enter-active,
+.ml-modal-leave-active {
+  transition: opacity 0.2s ease;
+}
+.ml-modal-enter-from,
+.ml-modal-leave-to {
+  opacity: 0;
+}
+
+// --- landing -------------------------------------------------------------
+// Scroll-reveal. The content is always in the DOM and only opacity/transform
+// move, so a blocked IntersectionObserver leaves it visible rather than blank
+// (Reveal.vue also opts straight to the shown state under reduced motion).
+.zx-reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.55s ease, transform 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.zx-reveal-in {
+  opacity: 1;
+  transform: none;
+}
+
+// Soft brand glow behind the hero and the closing CTA. Sits under the content
+// and never intercepts pointer events.
+.zx-glow {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(90px);
+  opacity: 0.5;
+  pointer-events: none;
+}
+// Dark needs a *brighter* glow, not a dimmer one: colour lifts off a dark page
+// far less than it does off white, and at the old 0.22 it vanished entirely,
+// which is what made the dark landing read as empty.
+.dark .zx-glow {
+  opacity: 0.42;
+  filter: blur(110px);
+}
+// On a panel that is dark in both themes the glow is the only thing giving the
+// surface depth, so it stays strong regardless of the page theme.
+.zx-glow-strong,
+.dark .zx-glow-strong {
+  opacity: 0.6;
+}
+
+// Faint grid used as section backdrop. Two gradients rather than an image so it
+// re-tints with the theme.
+.zx-grid {
+  background-image:
+    linear-gradient(to right, var(--border) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--border) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: radial-gradient(ellipse 70% 60% at 50% 40%, #000 40%, transparent 100%);
+}
+// Grid for panels that are dark in BOTH themes (the auth aside, the closing
+// CTA). `zx-grid` draws in var(--border), which is invisible on those — this
+// one is always a white hairline.
+.zx-grid-invert {
+  background-image:
+    linear-gradient(to right, rgb(255 255 255 / 0.07) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(255 255 255 / 0.07) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: radial-gradient(ellipse 80% 70% at 40% 40%, #000 20%, transparent 100%);
+}
+
+// The hero backdrop runs to the very top of the page, behind the floating
+// navbar, so the grid has to fade out at the top edge as well — otherwise the
+// mask's hard boundary reads as a seam straight across the header.
+.zx-grid-hero {
+  mask-image:
+    radial-gradient(ellipse 75% 55% at 50% 30%, #000 35%, transparent 100%),
+    linear-gradient(to bottom, transparent 0, #000 22%);
+  mask-composite: intersect;
+  -webkit-mask-composite: source-in;
+}
+
+// Marquee for the logo/topic strip. Duplicated content inside means the
+// translate can loop at exactly -50% with no visible seam.
+@keyframes zx-marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.zx-marquee {
+  animation: zx-marquee 32s linear infinite;
+}
+
+// Slow drift for the ambient dots on the auth aside.
+@keyframes zx-drift {
+  0%, 100% { transform: translate3d(0, 0, 0); }
+  50% { transform: translate3d(12px, -18px, 0); }
+}
+.zx-drift {
+  animation: zx-drift 14s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .zx-reveal { opacity: 1; transform: none; transition: none; }
+  .zx-marquee, .zx-drift { animation: none; }
+}
+
+// The mobile nav sheet animates its height in JS (see FloatingNavbar's onSheet*
+// hooks) rather than through a CSS `grid-template-rows` transition — iPad Safari
+// doesn't interpolate `fr` tracks smoothly, which snapped the panel open.
+
+// FAQ disclosure. Native <details> snaps open with no way to ease it, so the
+// panel is a one-row grid animating 0fr → 1fr; the single child clips. Content
+// stays in the DOM either way, so find-in-page still reaches it.
+.zx-disclosure {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.32s cubic-bezier(0.22, 1, 0.36, 1),
+    opacity 0.24s ease;
+  opacity: 0;
+}
+.zx-disclosure > * {
+  overflow: hidden;
+  min-height: 0; // grid items floor at min-content without this, so 0fr never closes
+}
+.zx-disclosure-open {
+  grid-template-rows: 1fr;
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .zx-disclosure {
+    transition: opacity 0.2s ease;
+  }
+}
+
+// --- Accessibility ------------------------------------------------------------
+// Keyboard focus: every control shows where it is. :where() keeps this at zero
+// specificity, so a component's own focus style still wins.
+:where(a[href], button, summary, select, [role='button'], [role='tab'], [role='radio'], [role='checkbox'], [tabindex]:not([tabindex='-1'])):focus-visible {
+  outline: 2px solid var(--brand-500);
+  outline-offset: 2px;
+}
+
+// Tailwind's slate-400 is 2.6:1 on white, too faint for the hints and counts it
+// is used for. In the light theme it reads as slate-500 (4.8:1); dark surfaces
+// (the dark theme, and the always-dark V4 landing) keep the light grey.
+:root:not(.dark) .text-slate-400:not(.dark *) {
+  color: #64748b;
+}
+
+// "Skip to content": hidden until a keyboard user tabs onto it.
+.zx-skip {
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 300;
+  padding: 0.6rem 1rem;
+  border-radius: 0.75rem;
+  background: var(--brand-600);
+  color: #fff;
+  font-weight: 700;
+  transform: translateY(-200%);
+}
+.zx-skip:focus {
+  transform: none;
+}
+#main:focus {
+  outline: none;
+}

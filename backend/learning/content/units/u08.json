@@ -1,0 +1,569 @@
+{
+ "unit": 8,
+ "langs": {
+  "en": {
+   "unit": 8,
+   "lang": "en",
+   "title": "Insurance Basics",
+   "subtitle": "Why insurance exists, how it works, the 5 types everyone needs, what to avoid, and how to choose the right coverage without overpaying.",
+   "lessons": [
+    {
+     "num": "8.1",
+     "title": "Why Insurance Exists",
+     "html": "<p>Insurance is not an investment. It is not a savings plan. It is a shield. Its purpose is simple: prevent one catastrophic event from destroying years of financial progress.</p><p><strong>The Core Idea</strong></p><p>You pay a small, predictable amount (the premium) so that if something terrible happens, the insurance company pays the massive, unpredictable cost. You trade certainty of a small loss for protection against a devastating one.</p><table><tbody><tr><td><p><strong>Life WITHOUT Insurance</strong></p><p>✗ Car accident: $15,000 repair + $50,000 medical</p><p>✗ House fire: $200,000 to rebuild</p><p>✗ Serious illness: $100,000+ in treatment</p><p>✗ Breadwinner dies: family has $0 income Any ONE of these destroys decades of saving.</p></td><td><p><strong>Life WITH Insurance</strong></p><p>✓ Car accident: you pay $500 deductible</p><p>✓ House fire: insurer pays to rebuild</p><p>✓ Serious illness: insurer covers treatment</p><p>✓ Breadwinner dies: family receives payout The cost? $100-500/month. The protection? Priceless.</p></td></tr></tbody></table><p><strong>REAL EXAMPLE — The Cost of Being Uninsured</strong></p><p>Two neighbors. Both earn $5,000/month. Both saved $40,000 over 3 years.</p><p>Michael has health insurance ($200/month). David does not — he saves that $200.</p><p>Year 3: Both get appendicitis. Emergency surgery + hospital stay = $35,000.</p><p>Michael: pays $1,500 deductible. Insurance covers $33,500. His savings intact.</p><p>David: pays $35,000 out of pocket. Nearly his ENTIRE savings wiped out in one week.</p><p><strong>David saved $7,200 by skipping insurance over 3 years. He lost $33,500 in one event. Net loss:</strong> <strong>$26,300. Insurance is not an expense — it is protection for everything else you build.</strong></p>"
+    },
+    {
+     "num": "8.2",
+     "title": "How Insurance Works",
+     "html": "<p>Understanding the mechanics of insurance helps you choose wisely and avoid paying for coverage you don't need.</p><h2>The 5 Key Terms You Must Know</h2><p>→<strong> Premium</strong></p><p>The amount you pay regularly (monthly/annually) to keep the insurance active. Think of it as a subscription for financial protection. Lower premium usually means higher deductible or less coverage.</p><p>→<strong> Deductible</strong></p><p>The amount YOU pay out of pocket before insurance kicks in. $1,000 deductible means you pay the first $1,000 of any claim. Higher deductible = lower premium. Choose based on your emergency fund size.</p><p>→<strong> Coverage Limit</strong></p><p>The maximum amount the insurer will pay. A $500,000 home insurance policy won't pay $600,000 in damages. Make sure your limit matches the actual value of what you're protecting.</p><p>→<strong> Claim</strong></p><p>Your formal request to the insurer to pay for a covered loss. You submit documentation, the insurer evaluates, and pays the approved amount minus your deductible.</p><p>→<strong> Exclusions</strong></p><p>What the policy does NOT cover. Every policy has them. A health policy might exclude cosmetic surgery. A home policy might exclude flood damage. READ THESE before buying.</p><h2>The Premium-Deductible Trade-Off</h2><table><tbody><tr><th><p>Scenario</p></th><th><p>Premium/Month</p></th><th><p>Deductible</p></th><th><p>Best For</p></th></tr><tr><td><p>Low deductible</p></td><td><p>$300</p></td><td><p>$500</p></td><td><p>Frequent claims, low savings</p></td></tr><tr><td><p>Medium deductible</p></td><td><p>$200</p></td><td><p>$1,500</p></td><td><p>Most people — balanced</p></td></tr><tr><td><p>High deductible</p></td><td><p>$120</p></td><td><p>$5,000</p></td><td><p>Healthy, large emergency fund</p></td></tr></tbody></table><p><em><strong><em><strong>Rule: your deductible should never exceed your emergency fund. If you can't afford to pay the</strong></em> <em><strong>deductible, the insurance is useless.</strong></em></strong></em></p>"
+    },
+    {
+     "num": "8.3",
+     "title": "Health Insurance",
+     "html": "<p>Health insurance is the single most important type of insurance. Medical costs are the #1 cause of personal bankruptcy worldwide. Without it, a single hospital visit can erase years of savings.</p><p><strong>Why Health Insurance is Non-Negotiable</strong></p><p>A</p><blockquote><p>broken</p><p>leg:</p><p>$10,000-40,000.</p><p>Cancer</p><p>treatment:</p><p>$100,000-500,000+.</p><p>Heart</p><p>surgery:</p></blockquote><p>$70,000-200,000. Even with a strong emergency fund, these numbers can destroy anyone's finances.</p><h2>What Health Insurance Typically Covers</h2><table><tbody><tr><th><p>Covered</p></th><th><p>Usually Covered</p></th><th><p>Often NOT Covered</p></th></tr><tr><td><p>Emergency room visits</p></td><td><p>Preventive checkups</p></td><td><p>Cosmetic procedures</p></td></tr><tr><td><p>Hospital stays</p></td><td><p>Prescription drugs</p></td><td><p>Experimental treatments</p></td></tr><tr><td><p>Surgery</p></td><td><p>Mental health (varies)</p></td><td><p>Dental (separate policy)</p></td></tr><tr><td><p>Specialist visits</p></td><td><p>Maternity (varies)</p></td><td><p>Vision (separate policy)</p></td></tr><tr><td><p>Lab tests/imaging</p></td><td><p>Rehabilitation</p></td><td><p>Pre-existing (check policy)</p></td></tr></tbody></table><h2>Types of Health Insurance Plans</h2><table><tbody><tr><th><p>Plan Type</p></th><th><p>How It Works</p></th><th><p>Flexibility</p></th><th><p>Cost</p></th></tr><tr><td><p>HMO</p></td><td><p>Must use network doctors, need referral</p></td><td><p>s Low</p></td><td><p>Lowest premiums</p></td></tr><tr><td><p>PPO Can</p></td><td><p>see any doctor, higher cost out-of-netw</p></td><td><p>ork High</p></td><td><p>Higher premiums</p></td></tr><tr><td><p>HDHP + HSA H</p></td><td><p>igh deductible + tax-free savings accou</p></td><td><p>nt Medium</p></td><td><p>Low premiums + savings</p></td></tr><tr><td><p>Government St</p></td><td><p>ate-provided coverage (varies by count</p></td><td><p>ry) Varies</p></td><td><p>Free to subsidized</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "8.4",
+     "title": "Life Insurance",
+     "html": "<p>Life insurance pays money to your dependents if you die. It is not about you — it is about protecting the people who depend on your income.</p><h2>Who Needs Life Insurance?</h2><p><strong>You NEED life insurance if:</strong></p><p>You have children or a spouse who depends on your income</p><p>You have a mortgage or significant debts that would burden your family</p><p>You are the sole or primary earner in your household</p><p><strong>You probably DON'T need it if:</strong></p><p>You are single with no dependents</p><p>Your spouse earns enough independently</p><p>Your children are financially independent adults</p><h2>Term Life vs Whole Life — The Critical Comparison</h2><table><tbody><tr><td><p><strong>Term Life Insurance</strong></p><p>Coverage for a set period (10-30 years). Pure protection — no savings/investment. Much cheaper: $20-50/month for $500K. Pays out ONLY if you die during the term. Best for: most people. Simple, cheap, effective.</p></td><td><p><strong>Whole Life Insurance</strong></p><p>Coverage for your entire life. Includes a 'cash value' savings component. Much more expensive: $200-500/month. Pays out whenever you die + builds cash value. Usually worse: expensive, low returns. Buy term and invest the difference.</p></td></tr></tbody></table><p><strong>REAL EXAMPLE — Term vs Whole Life Math</strong></p><p>John, age 30, wants $500,000 coverage:</p><p>Term life (20-year): $30/month = $360/year. Total over 20 years: $7,200.</p><p>Whole life: $350/month = $4,200/year. Total over 20 years: $84,000.</p><p><strong>Difference: $76,800. If John buys term and invests the $320/month difference at 8%, he has</strong> <strong>~$189,000 after 20 years. He got the same protection PLUS built real wealth.</strong></p>"
+    },
+    {
+     "num": "8.5",
+     "title": "Property & Auto Insurance",
+     "html": "<p>Your home and car are likely your most valuable physical assets. Insurance protects them from fire, theft, accidents, and natural disasters.</p><h2>Home/Property Insurance</h2><p><strong>What It Covers</strong></p><p>Structure damage (fire, storm, vandalism)</p><p>Personal belongings (furniture, electronics, clothing)</p><p>Liability (someone injured on your property)</p><p>Additional living expenses (hotel if home uninhabitable)</p><p><strong>What It Usually Does NOT Cover</strong></p><p>Flood damage (requires separate flood insurance)</p><p>Earthquake damage (requires separate policy)</p><p>Normal wear and tear</p><p>Pest damage (termites, rodents)</p><h2>Auto Insurance</h2><table><tbody><tr><th><p>Coverage Type</p></th><th><p>What It Pays For</p></th><th><p>Required?</p></th><th><p>Cost Impact</p></th></tr><tr><td><p>Liability</p></td><td><p>Damage YOU cause to others</p></td><td><p>Yes (by law)</p></td><td><p>Low-Medium</p></td></tr><tr><td><p>Collision</p></td><td><p>Damage to YOUR car from crashes</p></td><td><p>Often required</p></td><td><p>Medium</p></td></tr><tr><td><p>Comprehensive</p></td><td><p>Theft, fire, weather, animals</p></td><td><p>Optional</p></td><td><p>Low-Medium</p></td></tr><tr><td><p>Uninsured Motorist</p></td><td><p>If other driver has no insurance</p></td><td><p>Varies</p></td><td><p>Low</p></td></tr><tr><td><p>Medical/PIP</p></td><td><p>Your medical bills from accident</p></td><td><p>Varies</p></td><td><p>Medium</p></td></tr></tbody></table><p><strong>REAL EXAMPLE — Why Liability Coverage Matters Most</strong></p><p>You cause a car accident. The other driver needs $80,000 in medical treatment.</p><p>With liability coverage ($100K): insurance pays. Your savings untouched.</p><p>Without liability coverage: YOU owe $80,000. Savings destroyed. Possible wage garnishment for years.</p><p><strong>Liability coverage protects against the LARGEST potential cost — harming someone else. It is</strong> <strong>the most important auto coverage.</strong></p>"
+    },
+    {
+     "num": "8.6",
+     "title": "Choosing the Right Coverage",
+     "html": "<p>The goal is not to insure everything — it is to insure catastrophic risks that would destroy your finances. Small losses you can absorb. Large losses you cannot.</p><h2>The Insurance Priority Ladder</h2><p><strong>Priority 1: Health Insurance</strong></p><p>Non-negotiable. Medical costs can bankrupt anyone. Get this FIRST, even if you skip everything else.</p><p><strong>Priority 2: Income Protection</strong></p><p>If you cannot work due to illness/injury, this replaces 50-70% of your salary. Protects your earning power — your most valuable asset.</p><p><strong>Priority 3: Life Insurance (if dependents)</strong></p><p>Only if people depend on your income. Term life for 10-20x annual income. Skip if single with no dependents.</p><p><strong>Priority 4: Property Insurance</strong></p><p>Home and contents insurance if you own property. Renter's insurance if you rent — covers your belongings.</p><p><strong>Priority 5: Auto Insurance</strong></p><p>Required by law in most places. Get liability coverage at minimum. Add collision/comprehensive based on car value.</p><h2>What to AVOID</h2><p><strong>Extended warranties</strong></p><p>On electronics, appliances — statistically not worth it. The store profits, not you.</p><p><strong>Flight insurance</strong></p><p>Your credit card likely covers this. Standalone flight insurance is almost never needed.</p><p><strong>Pet insurance (for minor issues)</strong></p><p>May make sense for surgery coverage, but insuring routine vet visits usually costs more than paying directly.</p><p><strong>Overlapping coverage</strong></p><p>Two policies covering the same thing = wasted money. Audit annually for overlap.</p><h2>The 5-Point Coverage Checklist</h2><p><strong>1. What is the WORST CASE without this?</strong></p><p>If the answer is financial ruin — buy it. If it's an inconvenience — skip it.</p><p><strong>2. Can I self-insure?</strong></p><p>If you can afford to pay the loss from savings, you don't need insurance for it.</p><p><strong>3. Am I paying for peace of mind or actual risk?</strong></p><p>Fear is not a financial reason to buy insurance. Probability and impact are.</p><p><strong>4. Have I compared 3+ quotes?</strong></p><p>Never buy the first policy you see. Price differences of 30-50% are common for identical coverage.</p><p><strong>5. Do I review annually?</strong></p><p>Life changes. So should your coverage. Marriage, kids, home purchase — each triggers a review.</p><p><strong>Core Takeaway — Unit 8</strong></p><p><em><strong><em><strong>Insurance is not an expense — it is the foundation that protects everything else you build.</strong></em> <em><strong>Without it, a single event can destroy years of saving, investing, and wealth-building.</strong></em> <em><strong>Prioritize: health first, then income protection, then life (if dependents), then property and</strong></em> <em><strong>auto. Avoid over-insuring small risks and always compare quotes. The smartest approach:</strong></em> <em><strong>insure what can destroy you, self-insure what you can absorb. ZInvest AI can help you</strong></em> <em><strong>assess your coverage needs, compare policies, and find the optimal balance between</strong></em> <em><strong>protection and cost.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Key Terms Glossary",
+    "html": "<blockquote><p>All important terms from Unit 8</p></blockquote><table><tbody><tr><th><p>Insurance</p></th><th><p>A contract where you pay regular premiums in exchange for financial protection against specified losses.</p></th></tr><tr><td><p>Premium</p></td><td><p>The amount paid regularly to keep insurance active. Monthly or annual. Lower premium = higher deductible or less coverage.</p></td></tr><tr><td><p>Deductible</p></td><td><p>The amount you pay out of pocket before insurance begins paying. Higher deductible = lower premium.</p></td></tr><tr><td><p>Coverage Limit</p></td><td><p>The maximum amount an insurer will pay for a covered loss. Should match the value being protected.</p></td></tr><tr><td><p>Claim</p></td><td><p>A formal request to the insurer to pay for a covered loss. Submit documentation, insurer evaluates and pays.</p></td></tr><tr><td><p>Exclusion</p></td><td><p>What the policy specifically does NOT cover. Every policy has them. Read before buying.</p></td></tr><tr><td><p>Term Life Insurance</p></td><td><p>Life insurance for a set period (10-30 years). Pure protection, no savings component. Cheapest option.</p></td></tr><tr><td><p>Whole Life Insurance</p></td><td><p>Permanent life insurance with a savings component. More expensive, lower investment returns than alternatives.</p></td></tr><tr><td><p>Health Insurance</p></td><td><p>Coverage for medical expenses — hospital, surgery, medication, preventive care. The most important type.</p></td></tr><tr><td><p>Liability Insurance</p></td><td><p>Covers damage or injury YOU cause to OTHERS. Required for auto, recommended for home.</p></td></tr><tr><td><p>Collision Coverage</p></td><td><p>Auto insurance covering damage to YOUR vehicle from crashes, regardless of fault.</p></td></tr><tr><td><p>Comprehensive Coverage</p></td><td><p>Auto insurance covering non-crash damage: theft, fire, weather, animals, vandalism.</p></td></tr><tr><td><p>Self-Insurance</p></td><td><p>Setting aside money to cover potential losses yourself instead of buying a policy. Works for small risks.</p></td></tr><tr><td><p>Underinsured</p></td><td><p>Having insufficient coverage to meet actual potential losses. Dangerous for high-value assets.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "What is the fundamental purpose of insurance?",
+     "choices": [
+      "To make money through investing",
+      "To transfer catastrophic financial risk in exchange for small regular payments",
+      "To avoid paying taxes",
+      "To save money in a special account"
+     ],
+     "answer_index": 1,
+     "explanation": "Insurance transfers catastrophic financial risk to a company in exchange for small regular payments. Protection, not investment."
+    },
+    {
+     "n": 2,
+     "prompt": "David skips health insurance, saving $200/month. After 3 years, he needs $35,000 surgery. What is his net financial result?",
+     "choices": [
+      "He saved $7,200 so he's ahead",
+      "He broke even",
+      "He lost $26,300 net ($35K cost minus $7.2K saved)",
+      "Insurance would have cost more"
+     ],
+     "answer_index": 2,
+     "explanation": "Without insurance, a single medical emergency can destroy years of savings and wealth-building progress."
+    },
+    {
+     "n": 3,
+     "prompt": "What is the PREMIUM in insurance?",
+     "choices": [
+      "The maximum amount the insurer will pay",
+      "The regular payment you make to keep the policy active",
+      "The amount you pay before insurance kicks in",
+      "The profit the insurance company makes"
+     ],
+     "answer_index": 1,
+     "explanation": "The premium is the regular payment you make. The deductible is what you pay out of pocket before insurance kicks in."
+    },
+    {
+     "n": 4,
+     "prompt": "If you choose a HIGHER deductible, what happens to your premium?",
+     "choices": [
+      "Premium increases",
+      "Premium stays the same",
+      "Premium decreases because you accept more out-of-pocket risk",
+      "Premium doubles"
+     ],
+     "answer_index": 2,
+     "explanation": "Higher deductible = you pay more out of pocket per claim, but monthly premiums are lower. Good for healthy/low-risk people."
+    },
+    {
+     "n": 5,
+     "prompt": "Which type of insurance should be your #1 priority?",
+     "choices": [
+      "Pet insurance",
+      "Health insurance — medical costs are the leading cause of bankruptcy",
+      "Flight insurance",
+      "Extended warranty on electronics"
+     ],
+     "answer_index": 1,
+     "explanation": "Health insurance is the #1 priority — medical costs are the leading cause of personal bankruptcy worldwide."
+    },
+    {
+     "n": 6,
+     "prompt": "What is the main advantage of TERM life insurance over WHOLE life?",
+     "choices": [
+      "Term life builds more cash value",
+      "Term life lasts forever",
+      "Term life is much cheaper — buy term and invest the difference",
+      "Term life pays out even if you don't die"
+     ],
+     "answer_index": 2,
+     "explanation": "Term life is cheaper and provides pure protection. Whole life mixes insurance with investing — usually poorly."
+    },
+    {
+     "n": 7,
+     "prompt": "What does home/property insurance typically cover?",
+     "choices": [
+      "Only the structure, not contents",
+      "Structure damage, personal belongings, liability, and additional living expenses",
+      "Only fire damage",
+      "Everything including flood and earthquake"
+     ],
+     "answer_index": 1,
+     "explanation": "Covers damage to your home's structure and contents from fire, theft, natural disasters. Protects your largest asset."
+    },
+    {
+     "n": 8,
+     "prompt": "Which auto insurance coverage protects you if YOU cause an accident injuring someone?",
+     "choices": [
+      "Collision coverage",
+      "Comprehensive coverage",
+      "Liability coverage",
+      "Uninsured motorist coverage"
+     ],
+     "answer_index": 2,
+     "explanation": "Liability coverage protects you financially if you cause an accident injuring others — potentially the largest cost."
+    },
+    {
+     "n": 9,
+     "prompt": "What is 'income protection' insurance?",
+     "choices": [
+      "Insurance that increases your salary",
+      "Insurance that replaces 50-70% of your income if you can't work due to illness/injury",
+      "Insurance against losing your job",
+      "Insurance for your retirement savings"
+     ],
+     "answer_index": 1,
+     "explanation": "Income protection replaces 50-70% of salary if you cannot work due to illness or injury. Protects your earning power."
+    },
+    {
+     "n": 10,
+     "prompt": "What is the danger of OVER-insuring?",
+     "choices": [
+      "You get too much money if something happens",
+      "There is no danger — more insurance is always better",
+      "You waste money on premiums for coverage you don't need",
+      "Insurance companies refuse your claims"
+     ],
+     "answer_index": 2,
+     "explanation": "Over-insuring wastes money on premiums for coverage you don't need. Match insurance to actual risk."
+    },
+    {
+     "n": 11,
+     "prompt": "In the 5-point checklist, what should you do EVERY year?",
+     "choices": [
+      "Cancel all insurance and restart",
+      "Compare quotes and review if coverage still matches your life situation",
+      "Buy additional policies",
+      "Never change your insurance — loyalty saves money"
+     ],
+     "answer_index": 1,
+     "explanation": "Compare policies annually. Loyalty to one insurer without comparing costs thousands over time."
+    },
+    {
+     "n": 12,
+     "prompt": "What is the correct insurance PRIORITY ORDER?",
+     "choices": [
+      "Auto > Life > Health > Property",
+      "Life > Property > Auto > Health",
+      "Health > Income Protection > Life (if dependents) > Property > Auto",
+      "Property > Auto > Health > Life"
+     ],
+     "answer_index": 2,
+     "explanation": "The correct order: health first, then income protection, life if dependents, property, auto, then optional extras."
+    }
+   ]
+  },
+  "ru": {
+   "unit": 8,
+   "lang": "ru",
+   "title": "Основы страхования",
+   "subtitle": "Зачем нужна страховка, как она работает, 5 видов для каждого, чего избегать и как выбрать правильное покрытие без переплат.",
+   "lessons": [
+    {
+     "num": "8.1",
+     "title": "Зачем нужна страховка",
+     "html": "<p>Страховка — это не инвестиция. Не план накоплений. Это щит. Цель проста: не дать одному катастрофическому событию уничтожить годы финансового прогресса.</p><blockquote><p><strong>Основная идея</strong></p><p>Вы платите небольшую предсказуемую сумму (премию), чтобы в случае беды страховая</p><p>компания</p><p>покрыла</p><p>огромные</p><p>непредсказуемые</p><p>расходы.</p><p>Вы</p><p>обмениваете гарантированную маленькую потерю на защиту от разрушительной большой.</p></blockquote><table><tbody><tr><td><p><strong>Жизнь БЕЗ страховки</strong></p><p>ДТП: 300 000 руб. ремонт + 1 500 000 лечение Пожар: 5 000 000 на восстановление Серьёзная болезнь: 2 000 000+ на лечение Кормилец умирает: семья без дохода Любое ОДНО из этих событий уничтожает десятилетия накоплений.</p></td><td><p><strong>Жизнь СО страховкой</strong></p><p>ДТП: вы платите 15 000 руб. франшизу Пожар: страховщик оплачивает восстановление Болезнь: страховщик покрывает лечение Кормилец умирает: семья получает выплату Стоимость? 3 000-15 000 руб./мес. Защита? Бесценна.</p></td></tr></tbody></table><blockquote><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Цена отсутствия страховки</strong></p><p>Два соседа. Оба получают 150 000 руб./мес. Оба накопили 1 200 000 за 3 года. Михаил имеет медицинскую страховку (6 000 руб./мес.). Дмитрий — нет, экономит эти 6 000.</p><p>Год 3: у обоих аппендицит. Экстренная операция + госпитализация = 350 000 руб. Михаил: платит 15 000 франшизу. Страховка покрывает 335 000. Накопления целы.</p><p>Дмитрий: платит 350 000 из кармана. Почти ТРЕТЬ накоплений уничтожена за неделю.</p><p><strong>Дмитрий сэкономил 216 000 за 3 года. Потерял 335 000 за один случай.</strong> <strong>Чистый убыток: 119 000 руб.</strong></p></blockquote>"
+    },
+    {
+     "num": "8.2",
+     "title": "Как работает страхование",
+     "html": "<p>Понимание механики страхования помогает выбрать мудро и не платить за ненужное покрытие.</p><h2>5 ключевых терминов</h2><blockquote><p><strong>→ Премия (страховой взнос)</strong></p><p>Сумма, которую вы платите регулярно (ежемесячно/ежегодно) для поддержания полиса. Подписка на финансовую защиту. Ниже премия = выше франшиза или меньше покрытие.</p><p><strong>→ Франшиза</strong></p><p>Сумма, которую ВЫ платите из кармана до начала выплат страховщиком. Франшиза 15 000 = вы платите первые 15 000 любого убытка. Выше франшиза = ниже премия.</p><p><strong>→ Лимит покрытия</strong></p><p>Максимальная сумма, которую страховщик заплатит. Полис на 3 000 000 не выплатит 5 000 000 ущерба. Убедитесь, что лимит соответствует стоимости того, что защищаете.</p><p><strong>→ Страховой случай (выплата)</strong></p><p>Ваш формальный запрос к страховщику на оплату покрытого убытка. Подаёте документы, страховщик оценивает и выплачивает за вычетом франшизы.</p><p><strong>→ Исключения</strong></p><p>Что полис НЕ покрывает. Есть у каждого полиса. Медполис может исключать косметическую хирургию. Полис на дом — наводнение. ЧИТАЙТЕ перед покупкой.</p></blockquote><h2>Баланс премия-франшиза</h2><table><tbody><tr><th><p>Сценарий</p></th><th><p>Премия/мес.</p></th><th><p>Франшиза</p></th><th><p>Для кого</p></th></tr><tr><td><p>Низкая франшиза</p></td><td><p>9 000 руб.</p></td><td><p>15 000 руб.</p></td><td><p>Частые обращения, мало накоплений</p></td></tr><tr><td><p>Средняя франшиза</p></td><td><p>6 000 руб.</p></td><td><p>50 000 руб.</p></td><td><p>Большинство людей — баланс</p></td></tr><tr><td><p>Высокая франшиза</p></td><td><p>3 500 руб.</p></td><td><p>150 000 руЗбд.ор</p></td><td><p>овые, крупный фонд экстренных ситу</p></td></tr></tbody></table><p><em><strong><em><strong>Правило: франшиза никогда не должна превышать ваш фонд экстренных</strong></em> <em><strong>ситуаций.</strong></em></strong></em></p>"
+    },
+    {
+     "num": "8.3",
+     "title": "Медицинская страховка",
+     "html": "<p>Медицинская страховка — самый важный вид. Медицинские расходы — причина №1 личного банкротства. Без неё одна госпитализация может стереть годы накоплений.</p><blockquote><p><strong>Почему медстраховка обязательна</strong></p><p>Перелом ноги: 50 000-200 000 руб. Онкология: 1-5 000 000+ руб. Операция на сердце: 500 000-2 000 000 руб. Даже сильный фонд экстренных ситуаций не выдержит такие суммы.</p></blockquote><h2>Что покрывает медстраховка</h2><table><tbody><tr><th><p>Покрывает</p></th><th><p>Обычно покрывает</p></th><th><p>Часто НЕ покрывает</p></th></tr><tr><td><p>Скорая помощь</p></td><td><p>Профилактические осмотры</p></td><td><p>Косметические процедуры</p></td></tr><tr><td><p>Госпитализация</p></td><td><p>Лекарства по рецепту</p></td><td><p>Экспериментальное лечение</p></td></tr><tr><td><p>Операции</p></td><td><p>Психическое здоровье (зависит)</p></td><td><p>Стоматология (отдельный полис</p></td></tr><tr><td><p>Приём специалистов</p></td><td><p>Беременность (зависит) О</p></td><td><p>фтальмология (отдельный поли</p></td></tr><tr><td><p>Анализы и диагностика</p></td><td><p>Реабилитация</p></td><td><p>Хронические (проверяйте полис)</p></td></tr></tbody></table><h2>Виды медицинских полисов</h2><table><tbody><tr><th><p>Вид</p></th><th><p>Как работает</p></th><th><p>Стоимость</p></th></tr><tr><td><p>ОМС (обязательноБее)с</p></td><td><p>платное базовое покрытие от государс</p></td><td><p>тва Бесплатно</p></td></tr><tr><td><p>ДМС (добровоРлаьсншоеи)ре</p></td><td><p>нное покрытие через работодателя и</p></td><td><p>ли лично 3 000-20 000/мес.</p></td></tr><tr><td><p>Частная стПроалхноывйка до</p></td><td><p>ступ к частным клиникам, быстрое обс</p></td><td><p>луживани5е 000-50 000/мес.</p></td></tr><tr><td><p>раховка путешественни</p></td><td><p>ка Покрытие за рубежом</p></td><td><p>500-3 000/поездка</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "8.4",
+     "title": "Страхование жизни",
+     "html": "<p>Страхование жизни выплачивает деньги вашим близким в случае вашей смерти. Это не о вас — это о защите людей, которые зависят от вашего дохода.</p><h2>Кому нужно страхование жизни?</h2><blockquote><p><strong>Вам НУЖНО, если:</strong></p><p>У вас есть дети или супруг, зависящий от вашего дохода</p><p>У вас ипотека или крупные долги, которые лягут на семью</p><p>Вы единственный или основной кормилец</p><p><strong>Вам, вероятно, НЕ нужно, если:</strong></p><p>Вы одиноки без иждивенцев</p><p>Ваш супруг зарабатывает достаточно самостоятельно</p><p>Ваши дети финансово независимые взрослые</p></blockquote><h2>Срочное vs Накопительное — ключевое сравнение</h2><table><tbody><tr><td><p><strong>Срочное страхование жизни</strong></p><p>Покрытие на определённый срок (10-30 лет). Чистая защита — без накоплений. Дёшево: 1 000-3 000 руб./мес. за 5 млн. Выплата ТОЛЬКО при смерти в течение срока. Лучше для: большинства. Просто, дёшево, эффективно.</p></td><td><p><strong>Накопительное (пожизненное)</strong></p><p>Покрытие на всю жизнь. Включает «накопительную часть». Дорого: 8 000-25 000 руб./мес. Выплата при смерти + накопления. Обычно хуже: дорого, низкая доходность. Берите срочное и инвестируйте разницу.</p></td></tr></tbody></table><blockquote><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Математика сравнения</strong></p><p>Иван, 30 лет, хочет покрытие 5 000 000 руб.:</p><p>Срочное (20 лет): 2 000 руб./мес. = 24 000/год. За 20 лет: 480 000 руб.</p><p>Накопительное: 15 000 руб./мес. = 180 000/год. За 20 лет: 3 600 000 руб. <strong>Разница: 3 120 000 руб. Если Иван берёт срочное и инвестирует разницу 13</strong> <strong>000 руб./мес. под 8%, через 20 лет у него ~7 600 000 руб. Та же защита</strong> <strong>ПЛЮС реальный капитал.</strong></p></blockquote>"
+    },
+    {
+     "num": "8.5",
+     "title": "Имущество и автострахование",
+     "html": "<p>Ваш дом и автомобиль — вероятно, самые ценные физические активы. Страховка защищает их от пожара, кражи, аварий и стихийных бедствий.</p><h2>Страхование имущества</h2><blockquote><p><strong>Что покрывает</strong></p><p>Повреждение конструкции (пожар, ураган, вандализм)</p><p>Личные вещи (мебель, электроника, одежда)</p><p>Ответственность (если кто-то пострадал на вашей территории)</p><p>Доп. расходы на проживание (отель, если дом непригоден)</p><p><strong>Что обычно НЕ покрывает</strong></p><p>Наводнение (требует отдельный полис)</p><p>Землетрясение (отдельный полис)</p><p>Нормальный износ</p></blockquote><h2>Автострахование</h2><table><tbody><tr><th><p>Вид покрытия</p></th><th><p>Что оплачивает</p></th><th><p>Обязательно?</p></th><th><p>Стоимость</p></th></tr><tr><td><p>ОСАГО</p></td><td><p>Ущерб ДРУГИМ от вас</p></td><td><p>Да (по закону)</p></td><td><p>3-20 тыс./год</p></td></tr><tr><td><p>КАСКО</p></td><td><p>Ущерб ВАШЕМУ автоНет (</p></td><td><p>часто для кредит</p></td><td><p>ных) 30-150 тыс./год</p></td></tr><tr><td><p>ДСАГО Р</p></td><td><p>асширенная ответственност</p></td><td><p>ь Нет</p></td><td><p>2-10 тыс./год</p></td></tr><tr><td><p>GAP-страховка Р</p></td><td><p>азница кредит-стоимость авт</p></td><td><p>о Нет</p></td><td><p>5-15 тыс./год</p></td></tr></tbody></table><blockquote><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Почему ОСАГО недостаточно</strong></p><p>Вы устроили ДТП. Другому водителю нужно лечение на 800 000 руб. Лимит ОСАГО — 500 000 руб.</p><p>С</p><p>ДСАГО</p><p>(расширенная</p><p>ответственность):</p><p>страховка</p><p>покроет</p><p>всё.</p><p>Ваши</p><p>накопления целы.</p><p>Без ДСАГО: вы должны 300 000 руб. из своего кармана.</p><p><strong>Цена ДСАГО: 3 000-8 000 руб./год. Экономия при одном случае: 300 000+</strong> <strong>руб.</strong></p></blockquote>"
+    },
+    {
+     "num": "8.6",
+     "title": "Выбор правильного покрытия",
+     "html": "<p>Цель — не страховать всё подряд, а страховать катастрофические риски, способные уничтожить ваши финансы. Маленькие потери вы переживёте. Большие — нет.</p><h2>Лестница приоритетов страхования</h2><blockquote><p><strong>Приоритет 1: Медицинская страховка</strong></p><p>Обязательна. Медицинские расходы могут обанкротить любого. Получите ЭТО ПЕРВЫМ, даже если откажетесь от всего остального.</p><p><strong>Приоритет 2: Защита дохода</strong></p><p>Если не можете работать из-за болезни/травмы — замещает 50-70% зарплаты. Защищает ваш самый ценный актив — способность зарабатывать.</p><p><strong>Приоритет 3: Страхование жизни (если иждивенцы)</strong></p><p>Только если люди зависят от вашего дохода. Срочное на 10-20 годовых доходов. Пропустите, если одиноки.</p><p><strong>Приоритет 4: Имущество</strong></p><p>Страховка дома и содержимого если владеете. Если снимаете — страховка арендатора (покрывает ваши вещи).</p><p><strong>Приоритет 5: Автострахование</strong></p><p>ОСАГО обязательно. Добавьте ДСАГО и КАСКО в зависимости от стоимости авто.</p></blockquote><h2>Чего ИЗБЕГАТЬ</h2><blockquote><p><strong>Расширенная гарантия на технику</strong></p><p>Статистически не стоит денег. Магазин зарабатывает, не вы.</p><p><strong>Страховка от невылета</strong></p><p>Ваша кредитка, вероятно, уже это покрывает. Отдельный полис почти никогда не нужен.</p><p><strong>Дублирующее покрытие</strong></p><p>Два полиса на одно и то же = впустую потраченные деньги. Проверяйте ежегодно на пересечения.</p><p><strong>Основной вывод — Блок 8</strong></p></blockquote><p><em><strong><em><strong>Страховка — не расход, а фундамент, защищающий всё остальное. Без</strong></em> <em><strong>неё одно событие может уничтожить годы накоплений, инвестиций и</strong></em> <em><strong>строительства </strong></em></strong></em></p><p><em><strong><em><strong>капитала. </strong></em></strong></em></p><p><em><strong><em><strong>Приоритет: </strong></em></strong></em></p><p><em><strong><em><strong>здоровье </strong></em></strong></em></p><p><em><strong><em><strong>→ </strong></em></strong></em></p><p><em><strong><em><strong>доход </strong></em></strong></em></p><p><em><strong><em><strong>→ </strong></em></strong></em></p><p><em><strong><em><strong>жизнь</strong></em></strong></em></p><p><em><strong><em><strong>(иждивенцы) → имущество → авто. Не перестраховывайте мелкие риски,</strong></em> <em><strong>всегда сравнивайте котировки. Самый мудрый подход: страхуйте то, что</strong></em> <em><strong>может вас уничтожить, самостоятельно покрывайте то, что можете</strong></em> <em><strong>пережить. ZInvest AI поможет оценить потребности, сравнить полисы и</strong></em> <em><strong>найти оптимальный баланс защиты и стоимости.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Словарь ключевых терминов",
+    "html": "<blockquote><p>Все важные понятия Блока 8</p></blockquote><table><tbody><tr><th><p>Страхование</p></th><th><p>Договор, по которому вы платите регулярные взносы в обмен на финансовую защиту от оговорённых убытков.</p></th></tr><tr><td><p>Премия (взнос)</p></td><td><p>Сумма, выплачиваемая регулярно для поддержания полиса. Ниже премия = выше франшиза или меньше покрытие.</p></td></tr><tr><td><p>Франшиза</p></td><td><p>Сумма, которую ВЫ платите до начала выплат страховщиком. Выше франшиза = ниже премия.</p></td></tr><tr><td><p>Лимит покрытия</p></td><td><p>Максимальная сумма выплаты страховщиком. Должен соответствовать стоимости защищаемого объекта.</p></td></tr><tr><td><p>Страховой случай</p></td><td><p>Формальный запрос к страховщику на оплату покрытого убытка.</p></td></tr><tr><td><p>Исключения</p></td><td><p>Что полис конкретно НЕ покрывает. Есть у каждого полиса. Читайте перед покупкой.</p></td></tr><tr><td><p>Срочное страхование жизни</p></td><td><p>Страхование на определённый срок (10-30 лет). Чистая защита, без накопительной части. Самый дешёвый вариант.</p></td></tr><tr><td><p>Накопительное страхование</p></td><td><p>Пожизненное страхование с накопительной частью. Дороже, доходность ниже альтернатив.</p></td></tr><tr><td><p>ОМС</p></td><td><p>Обязательное медицинское страхование — бесплатное базовое покрытие от государства.</p></td></tr><tr><td><p>ДМС</p></td><td><p>Добровольное медицинское страхование — расширенное покрытие, доступ к частным клиникам.</p></td></tr><tr><td><p>ОСАГО</p></td><td><p>Обязательное страхование автогражданской ответственности. Покрывает ущерб, причинённый ДРУГИМ.</p></td></tr><tr><td><p>КАСКО</p></td><td><p>Добровольное страхование автомобиля. Покрывает ущерб ВАШЕМУ авто — угон, ДТП, стихия.</p></td></tr><tr><td><p>Самострахование</p></td><td><p>Резервирование средств для самостоятельного покрытия потенциальных убытков вместо покупки полиса.</p></td></tr><tr><td><p>Недострахование</p></td><td><p>Недостаточное покрытие для реальных потенциальных убытков. Опасно для ценных активов.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "В чём фундаментальная цель страхования?",
+     "choices": [
+      "Заработать на инвестициях",
+      "Перенести катастрофический финансовый риск в обмен на небольшие регулярные платежи",
+      "Избежать налогов",
+      "Копить деньги на специальном счёте"
+     ],
+     "answer_index": 1,
+     "explanation": "Страхование переносит катастрофический финансовый риск на компанию в обмен на небольшие регулярные платежи."
+    },
+    {
+     "n": 2,
+     "prompt": "Дмитрий не покупает медстраховку, экономя 6 000 руб./мес. Через 3 года ему нужна операция за 350 000 руб. Чистый финансовый результат?",
+     "choices": [
+      "Он сэкономил 216 000 — в плюсе",
+      "Вышел в ноль",
+      "Потерял 119 000 руб. нетто (350К минус 216К сэкономленных)",
+      "Страховка обошлась бы дороже"
+     ],
+     "answer_index": 2,
+     "explanation": "Без страховки одна экстренная операция может уничтожить годы накоплений и прогресса."
+    },
+    {
+     "n": 3,
+     "prompt": "Что такое ПРЕМИЯ в страховании?",
+     "choices": [
+      "Максимальная сумма выплаты",
+      "Регулярный платёж для поддержания полиса",
+      "Сумма до начала выплат страховщиком",
+      "Прибыль страховой компании"
+     ],
+     "answer_index": 1,
+     "explanation": "Премия — регулярный платёж за поддержание полиса. Франшиза — то, что вы платите из кармана до начала выплат."
+    },
+    {
+     "n": 4,
+     "prompt": "Если вы выбираете БОЛЕЕ ВЫСОКУЮ франшизу, что происходит с премией?",
+     "choices": [
+      "Премия растёт",
+      "Не меняется",
+      "Премия снижается — вы принимаете больше риска на себя",
+      "Удваивается"
+     ],
+     "answer_index": 2,
+     "explanation": "Выше франшиза = больше платите сами, но ежемесячная премия ниже. Подходит здоровым людям с крупным фондом."
+    },
+    {
+     "n": 5,
+     "prompt": "Какой вид страхования должен быть приоритетом №1?",
+     "choices": [
+      "Страховка питомца",
+      "Медицинская — медрасходы главная причина банкротства",
+      "Страховка от невылета",
+      "Расширенная гарантия на технику"
+     ],
+     "answer_index": 1,
+     "explanation": "Медицинская страховка — приоритет №1. Медицинские расходы — главная причина личного банкротства."
+    },
+    {
+     "n": 6,
+     "prompt": "Главное преимущество СРОЧНОГО страхования жизни перед накопительным?",
+     "choices": [
+      "Срочное накапливает больше",
+      "Срочное длится вечно",
+      "Срочное намного дешевле — берите срочное, разницу инвестируйте",
+      "Срочное платит, даже если не умрёте"
+     ],
+     "answer_index": 2,
+     "explanation": "Срочное страхование дешевле и даёт чистую защиту. Накопительное смешивает страховку с инвестициями — обычно плохо."
+    },
+    {
+     "n": 7,
+     "prompt": "Что обычно покрывает страхование имущества?",
+     "choices": [
+      "Только конструкцию, не содержимое",
+      "Конструкцию, личные вещи, ответственность и доп. расходы на жильё",
+      "Только пожар",
+      "Всё включая наводнение и землетрясение"
+     ],
+     "answer_index": 1,
+     "explanation": "Покрывает повреждение конструкции, имущество, ответственность и дополнительные расходы на проживание."
+    },
+    {
+     "n": 8,
+     "prompt": "Какое автострахование защищает, если ВЫ причинили вред другому?",
+     "choices": [
+      "КАСКО",
+      "Страховка от угона",
+      "ОСАГО (ответственность)",
+      "Страховка пассажиров"
+     ],
+     "answer_index": 2,
+     "explanation": "Страхование ответственности защищает, если вы причинили вред другим — потенциально самый крупный расход."
+    },
+    {
+     "n": 9,
+     "prompt": "Что такое «страхование дохода»?",
+     "choices": [
+      "Страховка, повышающая зарплату",
+      "Страховка, замещающая 50-70% дохода при нетрудоспособности из-за болезни/травмы",
+      "Страховка от увольнения",
+      "Страховка пенсионных накоплений"
+     ],
+     "answer_index": 1,
+     "explanation": "Страхование дохода замещает 50-70% зарплаты при нетрудоспособности. Защищает вашу способность зарабатывать."
+    },
+    {
+     "n": 10,
+     "prompt": "В чём опасность ИЗБЫТОЧНОГО страхования?",
+     "choices": [
+      "Получите слишком много денег",
+      "Опасности нет — чем больше, тем лучше",
+      "Тратите деньги на премии за ненужное покрытие",
+      "Страховщики отказывают в выплатах"
+     ],
+     "answer_index": 2,
+     "explanation": "Избыточное страхование тратит деньги на покрытие, которое не нужно. Страхуйте по реальному риску."
+    },
+    {
+     "n": 11,
+     "prompt": "Что нужно делать КАЖДЫЙ ГОД со страховкой?",
+     "choices": [
+      "Отменять и начинать заново",
+      "Сравнивать котировки и проверять, соответствует ли покрытие жизненной ситуации",
+      "Покупать дополнительные полисы",
+      "Ничего не менять — лояльность экономит"
+     ],
+     "answer_index": 1,
+     "explanation": "Сравнивайте полисы ежегодно. Лояльность одному страховщику без сравнения стоит тысячи рублей."
+    },
+    {
+     "n": 12,
+     "prompt": "Правильный ПОРЯДОК приоритетов страхования?",
+     "choices": [
+      "Авто > Жизнь > Здоровье > Имущество",
+      "Жизнь > Имущество > Авто > Здоровье",
+      "Здоровье > Защита дохода > Жизнь (иждивенцы) > Имущество > Авто",
+      "Имущество > Авто > Здоровье > Жизнь"
+     ],
+     "answer_index": 2,
+     "explanation": "Правильный порядок: здоровье → защита дохода → жизнь (если иждивенцы) → имущество → авто → опционально."
+    }
+   ]
+  },
+  "uz": {
+   "unit": 8,
+   "lang": "uz",
+   "title": "Sug'urta asoslari",
+   "subtitle": "Sug'urta nima uchun kerak, qanday ishlaydi, hammaga kerak 5 turi, nimadan qochish kerak va ortiqcha to'lamasdan to'g'ri qoplamani tanlash.",
+   "lessons": [
+    {
+     "num": "8.1",
+     "title": "Sug'urta nima uchun kerak",
+     "html": "<p>Sug'urta investitsiya emas. Jamg'arma rejasi emas. Bu qalqon. Maqsadi oddiy: bitta katastrof hodisaning yillar davomidagi moliyaviy yutuqlaringizni yo'q qilishiga yo'l qo'ymaslik.</p><p><strong>Asosiy g'oya</strong></p><p>Siz kichik, oldindan ma'lum summani (premiya) to'laysiz, shunda dahshatli narsa sodir bo'lsa, sug'urta kompaniyasi katta, oldindan noma'lum xarajatni to'laydi. Siz kichik aniq yo'qotishni katta halokatli yo'qotishdan himoyaga almashtirasiz.</p><table><tbody><tr><td><p><strong>Sug'urtaSIZ hayot</strong></p><p>✗ YTH: 30 mln ta'mir + 150 mln davolash</p><p>✗ Yong'in: 500 mln qayta qurish</p><p>✗ Og'ir kasallik: 200 mln+ davolash</p><p>✗ Boqimanda vafot: oila 0 daromad Bu hodisalarning HAR BIRI o'n yillik jamg'armani yo'q qiladi.</p></td><td><p><strong>Sug'urta BILAN hayot</strong></p><p>✓ YTH: 1.5 mln franshiza to'laysiz</p><p>✓ Yong'in: sug'urtachi qayta quradi</p><p>✓ Kasallik: sug'urtachi davolashni qoplaydi</p><p>✓ Boqimanda vafot: oila to'lov oladi Narxi? 500K-3M so'm/oy. Himoya? Baholash mumkin emas.</p></td></tr></tbody></table><p><strong>AMALIY MISOL — Sug'urtasiz bo'lish narxi</strong></p><p>Ikki qo'shni. Ikkalasi 8 mln so'm/oy oladi. Ikkalasi 3 yilda 96 mln so'm tejadi.</p><p>Jasurda tibbiy sug'urta bor (500K so'm/oy). Sardorda yo'q — u 500K ni tejaydi.</p><p>3-yil: ikkalasida appenditsit. Shoshilinch operatsiya + kasalxona = 35 mln so'm.</p><p>Jasur: 1.5 mln franshiza to'laydi. Sug'urta 33.5 mln ni qoplaydi. Jamg'armasi butun.</p><p>Sardor: 35 mln o'z cho'ntagidan. Jamg'armasining UCHDAN BIRI bir haftada yo'q bo'ldi.</p><p><strong>Sardor 3 yilda 18 mln tejadi. Bitta holatda 33.5 mln yo'qotdi. Sof zarar: 15.5 mln so'm.</strong></p>"
+    },
+    {
+     "num": "8.2",
+     "title": "Sug'urta qanday ishlaydi",
+     "html": "<p>Sug'urta mexanikasini tushunish oqilona tanlashga va kerak bo'lmagan qoplama uchun pul to'lamaslikka yordam beradi.</p><h2>Bilishingiz kerak bo'lgan 5 ta asosiy atama</h2><p>→<strong> Premiya (sug'urta badaligi)</strong></p><p>Polisni faol saqlash uchun muntazam (oylik/yillik) to'lanadigan summa. Moliyaviy himoyaga obuna deb o'ylang. Past premiya = yuqori franshiza yoki kam qoplama.</p><p>→<strong> Franshiza</strong></p><p>Sug'urta to'lashni boshlashidan oldin SIZ to'laydigan summa. 1.5 mln franshiza = har qanday holatda birinchi 1.5 mln ni siz to'laysiz. Yuqori franshiza = past premiya.</p><p>→<strong> Qoplama limiti</strong></p><p>Sug'urtachi to'laydigan maksimal summa. 50 mln uy sug'urtasi 80 mln zararni to'lamaydi. Limitingiz himoyalayotgan narsaning haqiqiy qiymatiga mos kelishiga ishonch hosil qiling.</p><p>→<strong> Sug'urta hodisasi (to'lov)</strong></p><p>Sug'urtachiga qoplangan zarar uchun to'lash haqida rasmiy so'rov. Hujjatlarni topshirasiz, sug'urtachi baholaydi va franshizani chiqarib to'laydi.</p><p>→<strong> Istisno (qoplanmaydiganlar)</strong></p><p>Polis QO'LLAMAYDIGAN narsalar. Har bir polisda bor. Tibbiy polis kosmetik jarrohlikni istisno qilishi mumkin. Uy polisi suv toshqinini istisno qilishi mumkin. Sotib olishdan OLDIN O'QING.</p><h2>Premiya-Franshiza balansi</h2><table><tbody><tr><th><p>Ssenari</p></th><th><p>Premiya/oy</p></th><th><p>Franshiza</p></th><th><p>Kim uchun mos</p></th></tr><tr><td><p>Past franshiza</p></td><td><p>1.5 mln so'm</p></td><td><p>3 mln so'm</p></td><td><p>Tez-tez murojaat, kam jamg'arma</p></td></tr><tr><td><p>O'rtacha franshiza</p></td><td><p>800K so'm</p></td><td><p>10 mln so'm</p></td><td><p>Ko'pchilik — muvozanat</p></td></tr><tr><td><p>Yuqori franshiza</p></td><td><p>400K so'm</p></td><td><p>25 mln so'm</p></td><td><p>Sog'lom, katta favqulodda fond</p></td></tr></tbody></table><p><em><strong><em><strong>Qoida: franshizangiz hech qachon favqulodda fondingizdan oshmasligi kerak.</strong></em></strong></em></p>"
+    },
+    {
+     "num": "8.3",
+     "title": "Tibbiy sug'urta",
+     "html": "<p>Tibbiy sug'urta — eng muhim sug'urta turi. Tibbiy xarajatlar butun dunyoda shaxsiy bankrotlikning 1 sababi. Usiz bitta kasalxonaga yotish yillar jamg'armasini yo'q qilishi mumkin.</p><p><strong>Tibbiy sug'urta nima uchun majburiy</strong></p><p>Oyoq sinishi: 5-20 mln so'm. Saraton davolash: 100-500 mln+ so'm. Yurak operatsiyasi: 50-200 mln so'm. Kuchli favqulodda fond ham bunday raqamlarni ko'tara olmaydi.</p><h2>Tibbiy sug'urta nimani qoplaydi</h2><table><tbody><tr><th><p>Qoplaydi</p></th><th><p>Odatda qoplaydi</p></th><th><p>Ko'pincha QOPLAYMAYDI</p></th></tr><tr><td><p>Tez yordam</p></td><td><p>Profilaktik tekshiruvlar</p></td><td><p>Kosmetik protseduralar</p></td></tr><tr><td><p>Kasalxonada yotish</p></td><td><p>Retsept dori-darmonlari</p></td><td><p>Eksperimental davolash</p></td></tr><tr><td><p>Operatsiyalar</p></td><td><p>Ruhiy salomatlik (farq qiladi)</p></td><td><p>Stomatologiya (alohida polis)</p></td></tr><tr><td><p>Mutaxassisga murojaat</p></td><td><p>Homiladorlik (farq qiladi)</p></td><td><p>Ko'z (alohida polis)</p></td></tr><tr><td><p>Tahlillar va diagnostika</p></td><td><p>Reabilitatsiya</p></td><td><p>Surunkali kasalliklar (polisni tekshiring)</p></td></tr></tbody></table><h2>O'zbekistonda tibbiy sug'urta turlari</h2><table><tbody><tr><th><p>Turi</p></th><th><p>Qanday ishlaydi</p></th><th><p>Narxi</p></th></tr><tr><td><p>Davlat tibbiyoti</p></td><td><p>Bepul bazaviy tibbiy yordam</p></td><td><p>Bepul</p></td></tr><tr><td><p>Ixtiyoriy tibbiy sug'urta</p></td><td><p>Kengaytirilgan qoplama, xususiy klinikalar</p></td><td><p>300K-3M so'm/oy</p></td></tr><tr><td><p>Korporativ sug'urta</p></td><td><p>Ish beruvchi orqali</p></td><td><p>Bepul (ish beruvchi to'laydi)</p></td></tr><tr><td><p>Sayohat sug'urtasi</p></td><td><p>Chet elda qoplama</p></td><td><p>50-500K so'm/safar</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "8.4",
+     "title": "Hayot sug'urtasi",
+     "html": "<p>Hayot sug'urtasi vafotingizda yaqinlaringizga pul to'laydi. Bu siz haqingizda emas — bu daromadingizga bog'liq odamlarni himoya qilish haqida.</p><h2>Kimga hayot sug'urtasi kerak?</h2><p><strong>Sizga KERAK, agar:</strong></p><p>Daromadingizga bog'liq bolalar yoki turmush o'rtoq bor</p><p>Ipoteka yoki katta qarzlaringiz oilaga yuklanishi mumkin</p><p>Siz oiladagi yagona yoki asosiy boqimanda siz</p><p><strong>Sizga KERAK EMAS, agar:</strong></p><p>Yolg'izsiz, qaramog'ingizda hech kim yo'q</p><p>Turmush o'rtog'ingiz mustaqil daromad oladi</p><p>Bolalaringiz moliyaviy mustaqil kattaliklarda</p><h2>Muddatli vs Jamg'arma — muhim taqqoslash</h2><table><tbody><tr><td><p><strong>Muddatli hayot sug'urtasi</strong></p><p>Belgilangan muddatga (10-30 yil) qoplama. Toza himoya — jamg'arma yo'q. Arzon: 100-300K so'm/oy 500 mln uchun. FAQAT muddat ichida vafot qilsangiz to'laydi. Ko'pchilik uchun eng yaxshi. Oddiy, arzon, samarali.</p></td><td><p><strong>Jamg'arma (umrbod) sug'urta</strong></p><p>Butun umringizga qoplama. Jamg'arma qismini o'z ichiga oladi. Qimmat: 1-3 mln so'm/oy. Vafot qachon bo'lmasin to'laydi + jamg'arma. Odatda yomonroq: qimmat, past daromad. Muddatli oling, farqni investitsiya qiling.</p></td></tr></tbody></table><p><strong>AMALIY MISOL — Muddatli vs Jamg'arma matematikasi</strong></p><p>Sardor, 30 yosh, 500 mln qoplama xohlaydi:</p><p>Muddatli (20 yil): 200K so'm/oy = 2.4 mln/yil. 20 yilda jami: 48 mln so'm.</p><p>Jamg'arma: 2 mln so'm/oy = 24 mln/yil. 20 yilda jami: 480 mln so'm.</p><p><strong>Farq: 432 mln so'm. Sardor muddatli olib, 1.8 mln so'm/oy farqni 8% ga investitsiya qilsa, 20</strong> <strong>yilda ~1 087 mln so'm kapital to'playdi. Bir xil himoya QOSHIMCHA haqiqiy boylik.</strong></p>"
+    },
+    {
+     "num": "8.5",
+     "title": "Mol-mulk va avtosug'urta",
+     "html": "<p>Uyingiz va avtomobilingiz ehtimol eng qimmatli jismoniy aktivlaringiz. Sug'urta ularni yong'in, o'g'irlik, avariya va tabiiy ofatlardan himoya qiladi.</p><h2>Uy/mol-mulk sug'urtasi</h2><p><strong>Nimani qoplaydi</strong></p><p>Konstruktsiya zararlanishi (yong'in, bo'ron, vandalizm)</p><p>Shaxsiy buyumlar (mebel, elektronika, kiyim)</p><p>Javobgarlik (kimdir sizning hududingizda jarohat olsa)</p><p>Qo'shimcha yashash xarajatlari (uy yaroqsiz bo'lsa mehmonxona)</p><p><strong>Nimani odatda QOPLAYMAYDI</strong></p><p>Suv toshqini zarari (alohida polis kerak)</p><p>Zilzila zarari (alohida polis)</p><p>Oddiy eskirish</p><h2>Avtosug'urta</h2><table><tbody><tr><th><p>Qoplama turi</p></th><th><p>Nimani to'laydi</p></th><th><p>Majburiymu?</p></th><th><p>Xarajat</p></th></tr><tr><td><p>OSAGO (javobgarlik) B</p></td><td><p>OSHQALARGA siz yetkazgan zara</p></td><td><p>rHa (qonun bo'yicha)</p></td><td><p>300K-2M/yil</p></td></tr><tr><td><p>KASKO</p></td><td><p>SIZNING avto zarari Yo'</p></td><td><p>q (kredit uchun ko'pinc</p></td><td><p>ha) 3-15M/yil</p></td></tr><tr><td><p>Kengaytirilgan OSAGO</p></td><td><p>Yuqori javobgarlik limiti</p></td><td><p>Yo'q</p></td><td><p>200K-1M/yil</p></td></tr><tr><td><p>Yo'lovchilar sug'urtasi</p></td><td><p>YTHda yo'lovchilar davolashi</p></td><td><p>Yo'q</p></td><td><p>100-500K/yil</p></td></tr></tbody></table><p><strong>AMALIY MISOL — Nima uchun oddiy OSAGO yetarli emas</strong></p><p>Siz YTH qildingiz. Boshqa haydovchiga 80 mln so'mlik davolash kerak. OSAGO limiti — 40 mln so'm. Kengaytirilgan OSAGO bilan: sug'urta hammasini qoplaydi. Jamg'armangiz butun.</p><p>Kengaytirilgan OSAGOsiz: siz 40 mln so'm o'z cho'ntagingizdan to'laysiz.</p><p><strong>Kengaytirilgan OSAGO narxi: 300-800K so'm/yil. Bitta holatda tejash: 40 mln+ so'm.</strong></p>"
+    },
+    {
+     "num": "8.6",
+     "title": "To'g'ri qoplamani tanlash",
+     "html": "<p>Maqsad hamma narsani sug'urtalash emas — moliyangizni yo'q qilishi mumkin bo'lgan katastrof xavflarni sug'urtalash. Kichik yo'qotishlarni o'zingiz ko'tarasiz. Kattalarini — yo'q.</p><h2>Sug'urta ustuvorlik zinasi</h2><p><strong>Ustuvorlik 1: Tibbiy sug'urta</strong></p><p>Majburiy. Tibbiy xarajatlar har kimni bankrot qilishi mumkin. Boshqa hamma narsadan voz kechsangiz ham BU BIRINCHI bo'lsin.</p><p><strong>Ustuvorlik 2: Daromad himoyasi</strong></p><p>Kasallik/jarohat tufayli ishlay olmasangiz ish haqingizning 50-70% ini almashtiradi. Eng qimmatli aktivingiz — ishlash qobiliyatingiz — ni himoya qiladi.</p><p><strong>Ustuvorlik 3: Hayot sug'urtasi (qaramog'ingizda odam bo'lsa)</strong></p><p>Faqat odamlar daromadingizga bog'liq bo'lsa. Muddatli — 10-20 yillik daromadga teng. Yolg'iz bo'lsangiz — o'tkazib yuboring.</p><p><strong>Ustuvorlik 4: Mol-mulk sug'urtasi</strong></p><p>Uy va buyumlar sug'urtasi — agar mulk egasi bo'lsangiz. Ijarachi bo'lsangiz — ijarachi sug'urtasi (buyumlaringizni qoplaydi).</p><p><strong>Ustuvorlik 5: Avtosug'urta</strong></p><p>OSAGO qonunan majburiy. KASKO va kengaytirilgan OSAGO ni avto qiymatiga qarab qo'shing.</p><h2>Nimadan QOCHISH kerak</h2><p><strong>Texnikaga kengaytirilgan kafolat</strong></p><p>Statistik jihatdan arzimaydi. Do'kon foyda oladi, siz emas.</p><p><strong>Parvoz sug'urtasi</strong></p><p>Kredit kartangiz buni qoplashi mumkin. Alohida polis deyarli hech qachon kerak emas.</p><p><strong>Takroriy qoplama</strong></p><p>Bitta narsani ikki polis qoplashi = isrof qilingan pul. Har yili tekshiring.</p><p><strong>Asosiy xulosa — 8-Blok</strong></p><p><em><strong><em><strong>Sug'urta xarajat emas — qurgan hamma narsangizni himoya qiluvchi poydevor. Usiz bitta</strong></em> <em><strong>hodisa yillar davomidagi tejash, investitsiya va boylik qurishni yo'q qilishi mumkin.</strong></em> <em><strong>Ustuvorlik: sog'liq &gt; daromad himoyasi &gt; hayot (qaramog'ingizda odam bo'lsa) &gt; mol-mulk &gt;</strong></em> <em><strong>avto. Kichik xavflarni ortiqcha sug'urtalamaing, har doim narxlarni solishtiring. Eng oqilona</strong></em> <em><strong>yondashuv: sizni yo'q qilishi mumkin bo'lgan narsani sug'urtalang, o'zingiz ko'tara</strong></em> <em><strong>oladiganini o'zingiz qoplang. ZInvest AI sug'urta ehtiyojlaringizni baholash, polislarni</strong></em> <em><strong>solishtirish va himoya va xarajat o'rtasidagi optimal muvozanatni topishda yordam beradi.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Atamalar lug'ati",
+    "html": "<blockquote><p>8-blokdagi barcha muhim tushunchalar</p></blockquote><table><tbody><tr><th><p>Sug'urta</p></th><th><p>Belgilangan yo'qotishlarga qarshi moliyaviy himoya uchun muntazam premiya to'lanadigan shartnoma.</p></th></tr><tr><td><p>Premiya (badal)</p></td><td><p>Polisni faol saqlash uchun to'lanadigan summa. Past premiya = yuqori franshiza yoki kam qoplama.</p></td></tr><tr><td><p>Franshiza</p></td><td><p>Sug'urtachi to'lashni boshlashidan oldin SIZ to'laydigan summa. Yuqori franshiza = past premiya.</p></td></tr><tr><td><p>Qoplama limiti</p></td><td><p>Sug'urtachi to'laydigan maksimal summa. Himoyalayotgan narsa qiymatiga mos kelishi kerak.</p></td></tr><tr><td><p>Sug'urta hodisasi</p></td><td><p>Qoplangan zarar uchun sug'urtachiga rasmiy to'lov so'rovi.</p></td></tr><tr><td><p>Istisno</p></td><td><p>Polis QOPLAMAYDIGAN narsalar. Har bir polisda bor. Sotib olishdan oldin o'qing.</p></td></tr><tr><td><p>Muddatli hayot sug'urtasi</p></td><td><p>Belgilangan muddatga (10-30 yil) sug'urta. Toza himoya, jamg'arma qismi yo'q. Eng arzon variant.</p></td></tr><tr><td><p>Jamg'arma (umrbod) sug'urta</p></td><td><p>Umrbod sug'urta jamg'arma qismi bilan. Qimmatroq, daromadlilik alternativalardan pastroq.</p></td></tr><tr><td><p>Tibbiy sug'urta</p></td><td><p>Tibbiy xarajatlarni qoplash — kasalxona, operatsiya, dori, profilaktik parvarish. Eng muhim tur.</p></td></tr><tr><td><p>Javobgarlik sug'urtasi</p></td><td><p>Siz BOSHQALARGA yetkazgan zarar yoki jarohatni qoplaydi. Avto uchun majburiy, uy uchun tavsiya etiladi.</p></td></tr><tr><td><p>OSAGO</p></td><td><p>Majburiy avtojabobgarlik sug'urtasi. BOSHQALARGA yetkazilgan zararni qoplaydi.</p></td></tr><tr><td><p>KASKO</p></td><td><p>Ixtiyoriy avtomobil sug'urtasi. SIZNING avtomobilingiz zararini qoplaydi — o'g'irlik, YTH, tabiiy ofat.</p></td></tr><tr><td><p>O'z-o'zini sug'urtalash</p></td><td><p>Polis sotib olish o'rniga yuzaga kelishi mumkin bo'lgan zararlarni o'zingiz qoplash uchun mablag' ajratish.</p></td></tr><tr><td><p>Kam sug'urtalanganlik</p></td><td><p>Haqiqiy mumkin bo'lgan zararlarga nisbatan yetarlicha qoplamaning yo'qligi. Qimmatli aktivlar uchun xavfli.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Sug'urtaning asosiy maqsadi nima?",
+     "choices": [
+      "Investitsiya orqali pul ishlash",
+      "Kichik muntazam to'lovlar evaziga katastrof moliyaviy xavfni o'tkazish",
+      "Soliq to'lamaslik",
+      "Maxsus hisobda pul tejash"
+     ],
+     "answer_index": 1,
+     "explanation": "Sug'urta kichik muntazam to'lovlar evaziga katastrof moliyaviy xavfni kompaniyaga o'tkazadi."
+    },
+    {
+     "n": 2,
+     "prompt": "Sardor tibbiy sug'urta olmaydi, oyiga 500K tejaydi. 3 yildan keyin 35 mln operatsiya kerak. Sof natija?",
+     "choices": [
+      "18 mln tejadi — foyda",
+      "Teng chiqdi",
+      "15.5 mln so'm sof zarar (35M xarajat minus 18M tejagan)",
+      "Sug'urta qimmatroq bo'lardi"
+     ],
+     "answer_index": 2,
+     "explanation": "Sug'urtasiz bitta favqulodda operatsiya yillar davomida to'plangan jamg'armangizni yo'q qilishi mumkin."
+    },
+    {
+     "n": 3,
+     "prompt": "Sug'urtada PREMIYA nima?",
+     "choices": [
+      "Sug'urtachi to'laydigan maksimal summa",
+      "Polisni faol saqlash uchun muntazam to'lov",
+      "Sug'urta to'lashni boshlashidan oldingi summa",
+      "Sug'urta kompaniyasining foydasi"
+     ],
+     "answer_index": 1,
+     "explanation": "Premiya — polisni faol saqlash uchun muntazam to'lov. Franshiza — sug'urta to'lashni boshlashidan oldin SIZ to'laydigan summa."
+    },
+    {
+     "n": 4,
+     "prompt": "YUQORIROQ franshiza tanlasangiz, premiyaga nima bo'ladi?",
+     "choices": [
+      "Premiya ko'tariladi",
+      "O'zgarmaydi",
+      "Premiya tushadi — chunki ko'proq xavfni o'zingiz olasiz",
+      "Ikki baravar ko'tariladi"
+     ],
+     "answer_index": 2,
+     "explanation": "Yuqori franshiza = har bir holatda ko'proq to'laysiz, lekin oylik premiya pastroq. Sog'lom va kam xavfli odamlar uchun mos."
+    },
+    {
+     "n": 5,
+     "prompt": "Qaysi sug'urta turi 1 ustuvorlik bo'lishi kerak?",
+     "choices": [
+      "Uy hayvonlari sug'urtasi",
+      "Tibbiy sug'urta — tibbiy xarajatlar bankrotlikning asosiy sababi",
+      "Parvoz sug'urtasi",
+      "Texnikaga kengaytirilgan kafolat"
+     ],
+     "answer_index": 1,
+     "explanation": "Tibbiy sug'urta — 1 ustuvorlik. Tibbiy xarajatlar butun dunyoda shaxsiy bankrotlikning asosiy sababi."
+    },
+    {
+     "n": 6,
+     "prompt": "MUDDATLI hayot sug'urtasining jamg'arma sug'urtadan asosiy ustunligi?",
+     "choices": [
+      "Muddatli ko'proq jamg'arma to'playdi",
+      "Muddatli abadiy davom etadi",
+      "Muddatli ancha arzon — muddatli oling, farqni investitsiya qiling",
+      "Muddatli siz vafot qilmasangiz ham to'laydi"
+     ],
+     "answer_index": 2,
+     "explanation": "Muddatli sug'urta arzonroq va toza himoya beradi. Jamg'arma sug'urta himoya bilan investitsiyani aralashtirib yuboradi."
+    },
+    {
+     "n": 7,
+     "prompt": "Uy/mol-mulk sug'urtasi odatda nimani qoplaydi?",
+     "choices": [
+      "Faqat konstruktsiyani, ichidagi narsalarni emas",
+      "Konstruktsiya zarari, shaxsiy buyumlar, javobgarlik va qo'shimcha yashash xarajatlari",
+      "Faqat yong'in zarari",
+      "Hamma narsani, suv toshqini va zilzilani ham"
+     ],
+     "answer_index": 1,
+     "explanation": "Uy konstruktsiyasi, shaxsiy mol-mulk, javobgarlik va qo'shimcha yashash xarajatlarini qoplaydi."
+    },
+    {
+     "n": 8,
+     "prompt": "Qaysi avtosug'urta SIZ boshqalarga zarar yetkazganingizda himoya qiladi?",
+     "choices": [
+      "KASKO",
+      "O'g'irlik sug'urtasi",
+      "OSAGO (javobgarlik)",
+      "Yo'lovchilar sug'urtasi"
+     ],
+     "answer_index": 2,
+     "explanation": "Javobgarlik sug'urtasi sizni boshqalarga zarar yetkazganingizda moliyaviy himoya qiladi — eng katta potensial xarajat."
+    },
+    {
+     "n": 9,
+     "prompt": "'Daromad himoyasi' sug'urtasi nima?",
+     "choices": [
+      "Ish haqingizni oshiradigan sug'urta",
+      "Kasallik/jarohat tufayli ishlay olmasangiz daromadingizning 50-70% ini almashtiradigan sug'urta",
+      "Ishdan bo'shatilishdan sug'urta",
+      "Pensiya jamg'armangiz sug'urtasi"
+     ],
+     "answer_index": 1,
+     "explanation": "Daromad himoyasi kasallik yoki jarohat tufayli ishlay olmasangiz ish haqingizning 50-70% ini almashtiradi."
+    },
+    {
+     "n": 10,
+     "prompt": "ORTIQCHA sug'urtalashning xavfi nima?",
+     "choices": [
+      "Biror narsa sodir bo'lsa juda ko'p pul olasiz",
+      "Xavf yo'q — ko'p sug'urta har doim yaxshi",
+      "Kerak bo'lmagan qoplama uchun premiyalarga pul isrof qilasiz",
+      "Sug'urta kompaniyalari to'lovni rad etadi"
+     ],
+     "answer_index": 2,
+     "explanation": "Ortiqcha sug'urta kerak bo'lmagan qoplama uchun premiyalarga pul isrof qiladi. Haqiqiy xavfga mos sug'urtalang."
+    },
+    {
+     "n": 11,
+     "prompt": "Sug'urta bilan HAR YIL nima qilish kerak?",
+     "choices": [
+      "Hammasini bekor qilib qaytadan boshlash",
+      "Narxlarni solishtirish va qoplama hayot vaziyatingizga mos kelishini tekshirish",
+      "Qo'shimcha polislar sotib olish",
+      "Hech narsani o'zgartirmaslik — sodiqlik tejaydi"
+     ],
+     "answer_index": 1,
+     "explanation": "Polislarni har yili solishtiring. Taqqoslamasdan bitta sug'urtachiga sodiqlik minglab so'mlaringizni oladi."
+    },
+    {
+     "n": 12,
+     "prompt": "Sug'urtaning to'g'ri USTUVORLIK tartibi qaysi?",
+     "choices": [
+      "Avto > Hayot > Sog'liq > Mol-mulk",
+      "Hayot > Mol-mulk > Avto > Sog'liq",
+      "Sog'liq > Daromad himoyasi > Hayot (qaramog'da odam bo'lsa) > Mol-mulk > Avto",
+      "Mol-mulk > Avto > Sog'liq > Hayot"
+     ],
+     "answer_index": 2,
+     "explanation": "To'g'ri tartib: sog'liq > daromad himoyasi > hayot (agar qaramog'ingizda odam bo'lsa) > mol-mulk > avto. Ball bo'yicha yo'riqnoma 12/12: A'lo! 8-Blokni to'liq o'zlashtirdingiz. 9-Blokga tayyorsiz! 10-11: Juda yaxshi — xato qilgan bo'limlarni qayta ko'ring. 8-9: Yaxshi — 8.3 va 8.4 bo'limlarni misollar bilan qayta o'qing. 6-7: Barcha bo'limlarni lug'at bilan birgalikda takrorlang. 6 dan past: Boshidan qayta o'qing, misollar va jadvallarga e'tibor bering."
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,114 @@
+<!doctype html>
+<!-- Dev-only: the rigged bear from several sides, in its bind pose or mid-clip. -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Rig inspect</title>
+    <style>body{margin:0;background:#e9eef6;font:12px sans-serif}#row{display:flex;flex-wrap:wrap}.f{position:relative}.f span{position:absolute;left:6px;top:4px}</style>
+  </head>
+  <body>
+    <div id="row"></div>
+    <script type="module">
+      import * as THREE from 'three'
+      import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js'
+      import { MeshoptDecoder } from 'three/addons/libs/meshopt_decoder.module.js'
+      const q = new URLSearchParams(location.search)
+      const url = q.get('model') || '/models/zinvest-bear-v6.glb'
+      const clip = q.get('clip') || ''
+      const at = Number(q.get('t') || 0)
+      const views = (q.get('views') || '0,90,180,-35').split(',').map(Number)
+      const W = Number(q.get('w') || 360), H = Number(q.get('h') || 420), zoom = Number(q.get('zoom') || 1)
+      const loader = new GLTFLoader().setMeshoptDecoder(MeshoptDecoder)
+      const row = document.getElementById('row')
+      for (const yaw of views) {
+        const gltf = await loader.loadAsync(url)
+        const el = document.createElement('div'); el.className = 'f'; row.appendChild(el)
+        const label = document.createElement('span'); label.textContent = `yaw ${yaw}` + (clip ? ` ${clip}@${at}` : ''); el.appendChild(label)
+        const r = new THREE.WebGLRenderer({ antialias: true, alpha: true, preserveDrawingBuffer: true })
+        r.setSize(W, H); r.outputColorSpace = THREE.SRGBColorSpace; r.toneMapping = THREE.ACESFilmicToneMapping
+        el.appendChild(r.domElement)
+        const scene = new THREE.Scene()
+        scene.add(new THREE.HemisphereLight(0xffffff, 0xb9c3d8, 2.3))
+        const key = new THREE.DirectionalLight(0xffffff, 2.1); key.position.set(-2, 3, 4); scene.add(key)
+        const model = gltf.scene
+        model.rotation.y = yaw * Math.PI / 180
+        scene.add(model)
+        if (q.get('debug') === 'arm') {
+          model.traverse((o) => {
+            if (!o.isSkinnedMesh) return
+            const names = o.skeleton.bones.map((b) => b.name.replace(/^mixamorig:?/, ''))
+            const g = o.geometry, si = g.attributes.skinIndex, sw = g.attributes.skinWeight
+            const colors = new Float32Array(si.count * 3)
+            for (let i = 0; i < si.count; i++) {
+              let arm = 0, leg = 0, head = 0
+              for (let k = 0; k < 4; k++) {
+                const n = names[si.getComponent(i, k)], w = sw.getComponent(i, k)
+                if (/Arm|Hand/.test(n)) arm += w
+                else if (/Leg|Foot|Toe/.test(n)) leg += w
+                else if (/Head/.test(n)) head += w
+              }
+              colors[i * 3] = 0.25 + 0.75 * arm; colors[i * 3 + 1] = 0.25 + 0.75 * leg; colors[i * 3 + 2] = 0.25 + 0.75 * head
+            }
+            g.setAttribute('color', new THREE.BufferAttribute(colors, 3))
+            o.material = new THREE.MeshLambertMaterial({ vertexColors: true, side: THREE.DoubleSide })
+            if (q.get('hide') === 'arm') {
+              // keep only faces whose vertices are all mostly body
+              const index = g.index.array, keep = []
+              for (let t = 0; t < index.length; t += 3) if ([0, 1, 2].every((k) => colors[index[t + k] * 3] < 0.25 + 0.75 * 0.5)) keep.push(index[t], index[t + 1], index[t + 2])
+              g.setIndex(keep)
+            }
+          })
+        }
+        if (q.get('debug') === 'weights') {
+          const palette = [0xe6194b, 0x3cb44b, 0xffe119, 0x4363d8, 0xf58231, 0x911eb4, 0x46f0f0, 0xf032e6, 0xbcf60c, 0xfabebe, 0x008080, 0xe6beff, 0x9a6324, 0xfffac8, 0x800000, 0xaaffc3, 0x808000, 0xffd8b1, 0x000075, 0x808080, 0x222222, 0xff7777, 0x77ff77, 0x7777ff, 0xaaaa00, 0x00aaaa, 0xaa00aa, 0x555555]
+          model.traverse((o) => {
+            if (!o.isSkinnedMesh) return
+            const g = o.geometry, si = g.attributes.skinIndex, sw = g.attributes.skinWeight
+            const colors = new Float32Array(si.count * 3), c = new THREE.Color()
+            for (let i = 0; i < si.count; i++) for (let k = 0; k < 4; k++) {
+              c.setHex(palette[si.getComponent(i, k) % palette.length])
+              const w = sw.getComponent(i, k)
+              colors[i * 3] += c.r * w; colors[i * 3 + 1] += c.g * w; colors[i * 3 + 2] += c.b * w
+            }
+            g.setAttribute('color', new THREE.BufferAttribute(colors, 3))
+            o.material = new THREE.MeshLambertMaterial({ vertexColors: true })
+          })
+        }
+        if (q.get('wire')) {
+          model.traverse((o) => {
+            if (!o.isSkinnedMesh) return
+            const wire = new THREE.SkinnedMesh(o.geometry, new THREE.MeshBasicMaterial({ color: 0x223355, wireframe: true, transparent: true, opacity: 0.35 }))
+            wire.bind(o.skeleton, o.bindMatrix)
+            o.parent.add(wire)
+          })
+        }
+        // pose: {"LeftArm":[x,y,z], ...} degrees, rotations about the model axes at bind pose
+        const pose = q.get('pose') ? JSON.parse(q.get('pose')) : null
+        if (pose) {
+          model.updateMatrixWorld(true)
+          const bones = {}
+          model.traverse((o) => { if (o.isBone) bones[o.name.replace(/^mixamorig:?/, '')] = o })
+          const bind = {}
+          for (const [name, b] of Object.entries(bones)) bind[name] = { local: b.quaternion.clone(), world: b.getWorldQuaternion(new THREE.Quaternion()).premultiply(model.quaternion.clone().invert()) }
+          for (const [name, deg] of Object.entries(pose)) {
+            const b = bones[name]; if (!b) { console.error('no bone', name); continue }
+            const qm = new THREE.Quaternion().setFromEuler(new THREE.Euler(...deg.map((d) => d * Math.PI / 180), 'YXZ'))
+            const w0 = bind[name].world
+            const off = w0.clone().invert().multiply(qm).multiply(w0)
+            b.quaternion.copy(bind[name].local).multiply(off)
+          }
+        }
+        if (clip) {
+          const mixer = new THREE.AnimationMixer(model)
+          const c = gltf.animations.find((a) => a.name === clip)
+          mixer.clipAction(c).play()
+          mixer.setTime(at)
+        }
+        const cam = new THREE.PerspectiveCamera(26 / zoom, W / H, 0.1, 30)
+        const ty = Number(q.get('ty') || 0.85); cam.position.set(0, ty + 0.05, 4.4); cam.lookAt(0, ty, 0)
+        r.render(scene, cam)
+      }
+      window.__done = true
+    </script>
+  </body>
+</html>

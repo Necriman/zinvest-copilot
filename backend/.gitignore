@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.venv-windows/
+preview.sqlite3*
+venv/
+
+# Django — the local database holds real accounts, and both of these are
+# generated on the target machine, never carried in the repo.
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+media/
+
+# Env & secrets — SECRET_KEY, JWT_SIGNING_KEY, DB and Gemini credentials
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.sw?

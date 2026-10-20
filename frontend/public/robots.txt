@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+# The signed-in app, the admin and the API are not for search results.
+Disallow: /app
+Disallow: /admin-panel
+Disallow: /admin/
+Disallow: /api/
+Disallow: /learn/
+Disallow: /notes/
+Disallow: /onboarding
+
+Sitemap: https://zinvest-kappa.vercel.app/sitemap.xml

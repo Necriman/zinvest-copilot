@@ -1,0 +1,9 @@
+[Unit]
+Description=Zinvest — purge dead refresh tokens
+
+[Service]
+Type=oneshot
+User=zinvest
+WorkingDirectory=/opt/zinvest/backend
+EnvironmentFile=/opt/zinvest/.env
+ExecStart=/opt/zinvest/backend/.venv/bin/python manage.py cleanup_tokens

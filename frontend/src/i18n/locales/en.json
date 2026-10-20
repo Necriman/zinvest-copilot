@@ -1,0 +1,1335 @@
+{
+  "common": {
+    "appName": "Zinvest",
+    "coins": "Coins",
+    "streak": "Streak",
+    "streakDays": "Day streak",
+    "soon": "Soon",
+    "loading": "Loading…",
+    "open": "Open",
+    "back": "Back",
+    "setGoal": "Set goal",
+    "viewPlan": "View plan",
+    "unranked": "Unranked",
+    "nothingYet": "Nothing here yet.",
+    "comingSoon": "Coming soon",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "save": "Save",
+    "close": "Close",
+    "weekday": {
+      "mo": "Mo",
+      "tu": "Tu",
+      "we": "We",
+      "th": "Th",
+      "fr": "Fr",
+      "sa": "Sa",
+      "su": "Su"
+    },
+    "darkMode": "Switch to dark mode",
+    "lightMode": "Switch to light mode",
+    "changeLanguage": "Change language",
+    "progress": "Progress",
+    "clearSearch": "Clear search",
+    "add": "Add"
+  },
+  "nav": {
+    "howItWorks": "How It Works",
+    "learning": "Learning",
+    "learningPaths": "Learning Paths",
+    "whoItsFor": "Who It's For",
+    "zinvestAI": "Zinvest AI",
+    "main": "Main",
+    "practice": "Practice",
+    "tools": "Tools",
+    "progress": "Progress",
+    "today": "Today",
+    "studyPlan": "Study plan",
+    "units": "Units",
+    "drills": "Drills",
+    "mockTests": "Mock tests",
+    "myStartup": "My startup",
+    "cashFlow": "Cash Flow",
+    "scoreMap": "Score map",
+    "leaderboard": "Leaderboard",
+    "plans": "Plans",
+    "profile": "Profile",
+    "keepStreakTitle": "Keep the streak alive",
+    "keepStreakSub": "One route today.",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "logout": "Log out",
+    "notes": "Notes",
+    "lessons": "Lessons",
+    "settings": "Settings",
+    "menu": "Menu",
+    "closeMenu": "Close menu",
+    "backHome": "Back to Zinvest",
+    "collapseSidebar": "Collapse sidebar",
+    "expandSidebar": "Expand sidebar",
+    "learn": "Learn",
+    "try": "Try it",
+    "faq": "FAQ"
+  },
+  "landing": {
+    "titlePre": "Finance,",
+    "titleAccent": "made simple.",
+    "subtitle": "Learn investing, budgeting and startup finance with a guide that explains every step, then practises it with you until it sticks.",
+    "startPreparation": "Build my learning plan",
+    "seePlatform": "See platform",
+    "scrollHint": "See how it works",
+    "how": {
+      "eyebrow": "How it works",
+      "title": "Four steps to a plan that fits you",
+      "subtitle": "Nothing to configure and no level to guess at. Answer a few questions and Zinvest does the ordering.",
+      "step": "Step {n}",
+      "s1": {
+        "title": "Answer ten questions",
+        "body": "Five about you and five to check what you know. About five minutes, and any question can be skipped."
+      },
+      "s2": {
+        "title": "AI builds your plan",
+        "body": "Zinvest finds your level and orders the lessons around the gaps it found. Each lesson says why it is there."
+      },
+      "s3": {
+        "title": "Learn on the canvas",
+        "body": "Every lesson is a split screen: the explainer on one side, your own workspace on the other. Notes save as you type."
+      },
+      "s4": {
+        "title": "Keep the streak",
+        "body": "Finish a lesson or pass a unit test and the day is banked. Coins, streak and progress all move together."
+      }
+    },
+    "plan": {
+      "eyebrow": "Study plan",
+      "title": "A study plan made only for you",
+      "subtitle": "Everyone arrives knowing something different. Your plan is ordered around what you're missing, not around a fixed syllabus.",
+      "b1": {
+        "title": "Ordered around your gaps",
+        "body": "Miss the question on risk and return and it moves up the list. Get the balance sheet right and it drops back."
+      },
+      "b2": {
+        "title": "Every step says why",
+        "body": "Each lesson in your plan carries the reason the AI put it there, written in plain language."
+      },
+      "b3": {
+        "title": "Rebuild it whenever",
+        "body": "Settings → Study plan re-runs the assessment, so the route keeps up as you improve."
+      },
+      "b4": {
+        "title": "Or go off-plan",
+        "body": "The whole library stays unlocked. The plan is a suggested route, never a gate."
+      },
+      "mockTitle": "Your plan",
+      "mockLevel": "Intermediate",
+      "mockDone": "Done",
+      "mockCurrent": "You are here",
+      "mockWhy": "Why this next",
+      "mockReason": "You missed both compounding questions, so this comes before index funds.",
+      "cta": "Build my plan"
+    },
+    "curriculum": {
+      "eyebrow": "What you'll learn",
+      "title": "Money, markets and the numbers behind them",
+      "subtitle": "Eleven units in the order you need them: what finance is, how money changes value over time, budgeting, saving, credit, banks, income, insurance, taxes, goals, and an introduction to economics.",
+      "u1": {
+        "title": "What Is Finance?",
+        "body": "The vocabulary and the three pillars of finance.",
+        "l": "Definition of Finance · The Three Pillars of Finance · Why Finance Matters · Finance vs. Economics vs. Accounting"
+      },
+      "u2": {
+        "title": "Valuation & Time Value of Money",
+        "body": "Why money today is worth more than money tomorrow.",
+        "l": "Time Value of Money · Present Value (PV) · Future Value (FV) · Opportunity Cost of Capital · Valuation of Assets · Risk & Return"
+      },
+      "u3": {
+        "title": "Personal Budgeting & Cash Flow",
+        "body": "Take control of where your money goes.",
+        "l": "What is a Budget? · Classifying Income & Expenses · The 50/30/20 Rule · The Emergency Fund · Debt & the Credit Trap · Building Your Personal Budget System"
+      },
+      "u4": {
+        "title": "Saving & Growing Your Money",
+        "body": "Deposits, compound interest and a savings system.",
+        "l": "Why Saving Alone Isn't Enough · Bank Deposits Explained · Compound Interest in Action · Savings Vehicles Beyond Banks · Building Your Savings System · Common Savings Mistakes"
+      },
+      "more": {
+        "title": "And seven more units",
+        "body": "Credit and debt, the banking system, income, insurance, taxes, financial goals and an introduction to economics.",
+        "cta": "Suggest a topic"
+      }
+    },
+    "who": {
+      "eyebrow": "Who it's for",
+      "title": "Built for people school never taught this to",
+      "subtitle": "Four starting points, one plan each. The assessment works out which one you're closest to.",
+      "w1": {
+        "title": "Students",
+        "body": "Nobody taught you this. Start with what money is and climb from there. No prior knowledge needed."
+      },
+      "w2": {
+        "title": "First-job earners",
+        "body": "A real paycheque has arrived and nobody explained what to do with it. Budget, emergency fund, first index position."
+      },
+      "w3": {
+        "title": "Founders & operators",
+        "body": "Runway, burn, unit economics and the three statements: the numbers an investor will ask about on the call."
+      },
+      "w4": {
+        "title": "Self-taught investors",
+        "body": "You already know a good half of it. The assessment finds the holes and skips what you've clearly got."
+      }
+    },
+    "ai": {
+      "eyebrow": "Zinvest AI",
+      "title": "An advisor that has read your progress",
+      "subtitle": "Zinvest AI builds your study plan and answers questions about your lessons and your startup numbers.",
+      "f1": {
+        "title": "Builds the plan",
+        "body": "Grades the assessment, sets your level, and orders the lessons around it."
+      },
+      "f2": {
+        "title": "Answers in context",
+        "body": "Ask about anything you have hit: compounding, burn rate, a ratio that will not stick."
+      },
+      "f3": {
+        "title": "Rebuilds on demand",
+        "body": "Improved since signing up? Re-run the check and the route reorders itself."
+      },
+      "chatQ": "Why is my runway shorter than I calculated?",
+      "chatA": "Because burn is not just salaries. Add tools, contractors and payment fees. First models usually miss all three, and together they often take a month or two off the runway.",
+      "quota": "Free, with a monthly limit"
+    },
+    "faq": {
+      "eyebrow": "Questions",
+      "title": "Before you sign up",
+      "q1": {
+        "q": "Do I need any finance background?",
+        "a": "No. Unit 01 starts at what money actually is and why it holds value. The assessment exists precisely so beginners don't get dropped into the middle."
+      },
+      "q2": {
+        "q": "What if the AI puts me at the wrong level?",
+        "a": "Retake the test in Settings → Study plan and the plan is rebuilt. The order of the modules stays the same: the next one opens once you pass the test of the one before."
+      },
+      "q3": {
+        "q": "Is the assessment long?",
+        "a": "Ten questions: five about you and five to check what you know. About five minutes, and you can skip any question or the whole test."
+      },
+      "q4": {
+        "q": "What does the streak actually count?",
+        "a": "A day counts when you finish a lesson or pass a unit test. Just opening the app doesn't keep it alive."
+      },
+      "q5": {
+        "q": "Can I take notes?",
+        "a": "Yes. Notes sit next to the lesson while you read, save to your account as you type, and have their own page with everything you have written."
+      },
+      "q6": {
+        "q": "What languages is it in?",
+        "a": "The interface is in English, Russian and Uzbek, and you can switch at any time from the top bar."
+      }
+    },
+    "cta": {
+      "title": "Find out what you're missing",
+      "subtitle": "A few questions, five minutes, and a study plan that starts exactly where you do.",
+      "primary": "Start free",
+      "secondary": "I already have an account",
+      "note": "No card. No trial timer."
+    },
+    "footer": {
+      "tagline": "Financial literacy, ordered around what you don't know yet.",
+      "product": "Product",
+      "learn": "Learn",
+      "company": "Company",
+      "about": "About",
+      "contact": "Contact",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "rights": "© {year} Zinvest. All rights reserved."
+    },
+    "includes": {
+      "plan": "Personalized path",
+      "lessons": "Hands-on practice",
+      "progress": "Track your progress"
+    },
+    "stage": {
+      "lesson": {
+        "label": "Today's lesson",
+        "title": "ETF basics",
+        "meta": "8 min"
+      },
+      "streak": {
+        "value": "7",
+        "label": "day streak"
+      },
+      "portfolio": {
+        "label": "Portfolio",
+        "value": "+4.8%",
+        "meta": "Practice run"
+      }
+    }
+  },
+  "dashboard": {
+    "learningProgress": "Learning progress",
+    "lessonsCompleted": "Lessons completed",
+    "unitsCompleted": "Units completed",
+    "allLessonsInUnit": "All lessons in unit",
+    "quizzesDone": "Quizzes done",
+    "unitTestsFinished": "Unit tests finished",
+    "bestScore": "Best score",
+    "highestAcrossUnits": "Highest across units",
+    "route04": "Ask Zinvest AI",
+    "myStartup": "My Startup",
+    "spendingFinances": "Spending & finances",
+    "revenue": "Revenue",
+    "spending": "Spending",
+    "net": "Net",
+    "noEntries": "No entries yet. Add the first one to track your startup.",
+    "cashFlowTitle": "Cash Flow",
+    "studioForecast": "Studio & forecast",
+    "cashFlowDesc": "Project runway, model scenarios, and get AI risk insights on your cash flow.",
+    "selectUnit": "Select Unit",
+    "allTopics": "All Topics",
+    "startUnitTest": "Start Unit Test",
+    "coinsEarned": "Coins earned",
+    "weeklyProgress": "Weekly progress",
+    "myNotes": "My Notes",
+    "financialGoal": "Financial Goal",
+    "setTargetScore": "Set target score",
+    "goalHint": "Pick your target to turn this into a real progress tracker.",
+    "todaysTasks": "Today's Tasks",
+    "viewPlan": "View plan",
+    "taskUnitTest": "Complete a unit test",
+    "taskStudyLesson": "Study a lesson",
+    "taskStudyPlan": "Make a study plan",
+    "tabProgress": "Progress",
+    "tabTasks": "Tasks",
+    "noTasks": "No tasks yet. Add one below.",
+    "addTask": "Add task",
+    "addTaskPlaceholder": "Add a task…",
+    "goalComingSoon": "Goal tracking is on the way. For now, keep your streak going.",
+    "streakBest": "Best {n}",
+    "streakEarnedToday": "Today's streak is banked.",
+    "streakPendingToday": "Finish a lesson to keep your streak."
+  },
+  "study": {
+    "title": "Study plan",
+    "subtitle": "Follow the path, one step at a time.",
+    "unitTest": "Unit test",
+    "locked": "Locked",
+    "start": "Start",
+    "review": "Review",
+    "scrollHint": "Keep scrolling: the next unit comes right after this one.",
+    "unitLocked": "Finish the previous unit test to unlock",
+    "personaliseTitle": "Personalise this plan",
+    "personaliseBody": "Answer a few questions and we'll reorder the lessons around your goal."
+  },
+  "lesson": {
+    "back": "Back",
+    "complete": "Mark complete",
+    "completed": "Completed",
+    "next": "Next lesson",
+    "previous": "Previous",
+    "contentSoon": "Lesson content coming soon.",
+    "save": "Save",
+    "saving": "Saving…",
+    "saved": "Saved",
+    "unsaved": "Unsaved changes",
+    "leaveTitle": "Unsaved changes",
+    "leaveMessage": "You have unsaved changes. Are you sure you want to leave without saving?",
+    "leaveConfirm": "Leave",
+    "leaveCancel": "Stay",
+    "author": {
+      "edit": "Edit lesson",
+      "editHint": "Change this lesson's text and tables for every learner",
+      "banner": "You are editing the lesson for everyone · version: {lang}",
+      "titleLabel": "Lesson title",
+      "cancel": "Cancel",
+      "publish": "Publish",
+      "publishing": "Publishing…",
+      "published": "Lesson updated",
+      "langs": {
+        "ru": "Русский",
+        "en": "English",
+        "uz": "O‘zbekcha"
+      }
+    }
+  },
+  "avatar": {
+    "comingSoon": "Audio & AI Avatar Integration Coming Soon",
+    "subtitle": "This panel is reserved for the interactive tutor."
+  },
+  "ai": {
+    "title": "Zinvest AI",
+    "subtitle": "Your financial tutor",
+    "placeholder": "Ask anything about investing, budgeting, or startup finance…",
+    "ask": "Ask",
+    "thinking": "Thinking…"
+  },
+  "errors": {
+    "generic": "Something went wrong.",
+    "locked": "This content is locked.",
+    "serverDown": "The server isn't responding. Check your connection or try again in a minute."
+  },
+  "notes": {
+    "preview": "Note preview",
+    "previewEmpty": "Pick a note to preview it here.",
+    "allNotes": "All notes",
+    "newNote": "New note",
+    "search": "Search notes",
+    "openEditor": "Open editor",
+    "edited": "Edited {when}",
+    "pin": "Pin",
+    "unpin": "Unpin",
+    "emptyBody": "This note is empty.",
+    "emptyTitle": "No notes yet",
+    "emptyMessage": "Notes use the same editor as lessons. Write, format and keep everything in one place.",
+    "noMatches": "No matching notes",
+    "noMatchesHint": "Try a different search.",
+    "deleteTitle": "Delete note?",
+    "deleteMessage": "“{title}” will be permanently deleted. This cannot be undone.",
+    "untitled": "Untitled note",
+    "saved": "Saved",
+    "saving": "Saving…",
+    "unsaved": "Unsaved changes",
+    "saveFailed": "Couldn't save",
+    "notFound": "This note no longer exists.",
+    "resize": "Drag to resize the page",
+    "newNoteTip": "Create a new note and start writing",
+    "saveTip": "Save this note (⌘S)",
+    "openHint": "Double-click to open"
+  },
+  "lessons": {
+    "browseHint": "Every lesson, open in any order. Your study plan is the guided route.",
+    "search": "Search lessons",
+    "noMatches": "No matching lessons",
+    "minutes": "{n} min"
+  },
+  "onboarding": {
+    "aboutYou": "About you",
+    "knowledgeCheck": "Knowledge check",
+    "next": "Continue",
+    "finish": "Build my plan",
+    "building": "Building…",
+    "skip": "Skip for now",
+    "readyTitle": "Your plan is ready",
+    "readyBody": "We placed you at the {level} level. You scored {score}% on the knowledge check.",
+    "planSummary": "{n} lessons, ordered for you.",
+    "planDefault": "We'll follow the standard course order for now.",
+    "startLearning": "Start learning",
+    "level": {
+      "beginner": "beginner",
+      "intermediate": "intermediate",
+      "advanced": "advanced"
+    },
+    "intro": "10 quick questions to build a plan for you. You can skip any of them.",
+    "introGoogle": "Welcome! 10 quick questions to build a plan for you. You can skip any of them.",
+    "skipAll": "Skip all",
+    "skipQuestion": "Skip question",
+    "skipAndFinish": "Skip and finish",
+    "buildingTitle": "Building your plan",
+    "steps": {
+      "s1": "Reading your answers",
+      "s2": "Picking your level",
+      "s3": "Choosing the first lessons",
+      "s4": "Almost there…"
+    },
+    "buildingNote": "Usually takes up to 15 seconds"
+  },
+  "settings": {
+    "studyPlan": "Study plan",
+    "studyPlanHint": "Retake the assessment or rebuild your plan from your latest answers.",
+    "planAi": "Personalised",
+    "planDefault": "Standard order",
+    "level": "Level",
+    "quizScore": "Quiz score",
+    "lessons": "Lessons",
+    "takeAssessment": "Take the assessment",
+    "retakeAssessment": "Retake assessment",
+    "regenerate": "Rebuild plan",
+    "profile": "Profile",
+    "account": "Account",
+    "appearance": "Appearance",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "uploadPicture": "Upload picture",
+    "changePicture": "Change picture",
+    "pictureHint": "PNG, JPEG, GIF or WebP, up to 2 MB.",
+    "saving": "Saving…",
+    "saved": "Saved",
+    "email": "Email address",
+    "changeEmail": "Change",
+    "newEmail": "New email",
+    "updateEmail": "Update email",
+    "emailUpdated": "Email updated.",
+    "emailPending": "We sent a link to {email}. Your email changes once you open it; until then you sign in with the old one.",
+    "emailMoved": "Done: your account now uses {email}. Every session was signed out, so sign in with the new address.",
+    "password": "Password",
+    "currentPassword": "Current password",
+    "newPassword": "New password",
+    "confirmPassword": "Confirm new password",
+    "updatePassword": "Update password",
+    "passwordUpdated": "Password updated. Other devices were signed out.",
+    "passwordMismatch": "Passwords don't match.",
+    "passwordHint": "Changing your password signs out every other device.",
+    "theme": "Theme",
+    "theme_light": "Light",
+    "theme_dark": "Dark",
+    "theme_system": "System",
+    "brandColor": "Accent colour",
+    "customColor": "Custom",
+    "resetColor": "Reset",
+    "color_blue": "Blue",
+    "color_violet": "Violet",
+    "color_emerald": "Emerald",
+    "color_amber": "Amber",
+    "color_rose": "Rose",
+    "color_slate": "Slate",
+    "privacy": "Privacy & security",
+    "privacyHint": "See where you're signed in, and manage your data.",
+    "profileHint": "Your picture and name, shown across Zinvest.",
+    "accountHint": "The email and password you sign in with.",
+    "appearanceHint": "How Zinvest looks on this account.",
+    "brandColorHint": "Recolours buttons, links and highlights everywhere.",
+    "pendingBadge": "New",
+    "discard": "Discard",
+    "sessions": "Where you're signed in",
+    "thisDevice": "This device",
+    "signedIn": "signed in {when}",
+    "signOut": "Sign out",
+    "signOutOthers": "Sign out {n} other device(s)",
+    "deleteAccount": "Delete account",
+    "deleteAccountHint": "Permanently erases your account, notes, tasks and all learning progress. This cannot be undone.",
+    "deleteAccountConfirm": "Enter your password to confirm. Everything will be deleted immediately.",
+    "deleteForever": "Delete forever",
+    "yourData": "Your data",
+    "yourDataHint": "A file with everything Zinvest keeps about you: profile, progress, notes, My startup and your Telegram link. We don't keep AI conversations, receipt photos or voice notes, so they aren't in it.",
+    "downloadData": "Download my data",
+    "preparingData": "Preparing the file…",
+    "signIn": {
+      "title": "Ways to sign in",
+      "googleOn": "Connected: you can use “Continue with Google”",
+      "googleOff": "Connects by itself the first time you sign in with Google using this email",
+      "passwordOn": "Set: you can sign in with email and password",
+      "passwordOff": "Not set: the account was created with Google",
+      "oneAccount": "Email with a password and Google with the same address open one and the same account.",
+      "setPasswordBody": "Want to sign in with a password too? We'll email you a link to set one.",
+      "setPassword": "Send the link",
+      "linkSent": "The link is on its way to {email}."
+    },
+    "deleteAccountConfirmEmail": "Type your email ({email}) to confirm. Everything is deleted at once.",
+    "yourEmail": "Your email",
+    "signInAgain": "Sign in again"
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome back",
+      "subtitle": "Pick up where your plan left off.",
+      "submit": "Sign in",
+      "submitting": "Signing in…",
+      "noAccount": "New to Zinvest?",
+      "createOne": "Create an account",
+      "expired": "Your session expired. Please sign in again.",
+      "failed": "Invalid email or password.",
+      "forgot": "Forgot password?",
+      "missing": "Enter your email and password.",
+      "codeNote": "After the password we'll email you a code, so nobody but you can get in.",
+      "googleHint": "Signed up with Google? Use “Continue with Google” above or reset your password."
+    },
+    "register": {
+      "title": "Create your account",
+      "subtitle": "A code to your email, then ten quick questions. You can skip any of them.",
+      "submit": "Create account",
+      "submitting": "Creating…",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "failed": "Registration failed. Please check your details.",
+      "terms": "By creating an account you agree to our Terms and Privacy Policy.",
+      "maybeTaken": "We couldn't sign you in to the new account. This email may already be registered — sign in or reset your password.",
+      "missing": "Fill in your name, email and password."
+    },
+    "fields": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "password": "Password",
+      "emailPlaceholder": "you{'@'}example.com",
+      "passwordHint": "At least 10 characters.",
+      "firstNamePlaceholder": "Ada",
+      "lastNamePlaceholder": "Lovelace",
+      "passwordPlaceholder": "Create a password",
+      "currentPasswordPlaceholder": "Your password"
+    },
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "strength": {
+      "label": "Password strength",
+      "weak": "Weak",
+      "fair": "Fair",
+      "good": "Good",
+      "strong": "Strong"
+    },
+    "aside": {
+      "title": "Your study plan is ready when you are.",
+      "p1": "A study plan built around you",
+      "p2": "From money basics to unit economics",
+      "p3": "Notes that save as you type",
+      "p4": "Streaks, coins and progress"
+    },
+    "password": {
+      "tooShort": "The password is shorter than 10 characters.",
+      "tooCommon": "This password is too common — it's among the first ones guessed. Choose another.",
+      "numeric": "The password can't be only digits.",
+      "similar": "The password is too similar to your email or name.",
+      "rules": "This password won't work: it needs at least 10 characters, not only digits, not too common, and not similar to your email or name."
+    },
+    "tabs": {
+      "label": "Sign in or sign up",
+      "login": "Sign in",
+      "register": "Sign up"
+    },
+    "or": "or",
+    "google": {
+      "button": "Continue with Google",
+      "cancelled": "Google sign-in was cancelled.",
+      "failed": "Couldn't sign in with Google. Please try again.",
+      "expired": "The Google sign-in link expired. Press the button again.",
+      "unavailable": "Google sign-in isn't set up yet.",
+      "closed": "Sign-ups are closed right now.",
+      "disabled": "This account is disabled.",
+      "conflict": "This email is already linked to a different Google account."
+    },
+    "code": {
+      "title": "Check your email",
+      "lead": "We sent a 6-digit code to",
+      "label": "Code from the email",
+      "submit": "Confirm",
+      "checking": "Checking…",
+      "wrong": "Wrong code. Attempts left: {n}.",
+      "expired": "This code no longer works. Send a new one.",
+      "failed": "Couldn't check the code. Please try again.",
+      "sent": "A new code is on its way.",
+      "startOver": "Time's up. Go back and start again.",
+      "change": "Change email",
+      "noLetter": "No email?",
+      "resend": "Send again",
+      "resendIn": "Send again in {s}s",
+      "spam": "If it isn't there, check your Spam folder."
+    },
+    "bear": {
+      "idleLogin": "Welcome back! I've been waiting.",
+      "idleRegister": "Hi! Let's get to know each other.",
+      "reading": "Got it, taking notes…",
+      "shy": "I'm not looking!",
+      "peek": "Okay, just one peek…",
+      "code": "The code is in your inbox. I'll wait!",
+      "error": "Hmm, something doesn't add up.",
+      "success": "Hooray, you're in!"
+    },
+    "consent": {
+      "terms": "I accept the {terms} and the {privacy}",
+      "termsLink": "Terms of Service",
+      "privacyLink": "Privacy Policy",
+      "age": "I am 16 or older, or I am 13 to 15 and a parent or guardian lets me use Zinvest",
+      "missing": "Tick both boxes below to sign up.",
+      "google": "By continuing with Google you accept the {terms} and the {privacy} and confirm that you are 16 or older, or a parent lets you use Zinvest."
+    }
+  },
+  "startup": {
+    "onboarding": {
+      "eyebrow": "About your startup",
+      "q1": "What specific problem in the market does your company solve, or what customer need does it fulfil?",
+      "q2": "What is the current development stage of your product / company?",
+      "q3": "Who are your main customers? Do you sell mainly B2B, B2C, or both?",
+      "q4": "How exactly does the company generate income? (e.g. subscriptions, product sales, service fees, advertising)",
+      "q5": "Tell us as much as you can about your company: how it works, the team and your goals.",
+      "stageIdea": "Idea",
+      "stageMvp": "MVP",
+      "stageOperational": "Fully operational",
+      "b2b": "B2B: business to business",
+      "b2c": "B2C: business to consumer",
+      "both": "Both",
+      "textPlaceholder": "Type your answer…",
+      "analyzing": "Analysing…",
+      "next": "Next",
+      "finish": "Finish",
+      "assessmentTitle": "Your startup, analysed",
+      "enterWorkspace": "Enter workspace"
+    },
+    "employees": {
+      "title": "Employees",
+      "subtitle": "Your team and payroll",
+      "add": "Add",
+      "namePlaceholder": "Full name",
+      "rolePlaceholder": "What they do…",
+      "salaryPlaceholder": "Monthly salary",
+      "empty": "No employees yet. Add your first hire.",
+      "changePhoto": "Change photo",
+      "salaryShort": "Pay",
+      "totalPayroll": "Total monthly payroll"
+    },
+    "products": {
+      "title": "Products",
+      "subtitle": "What you sell",
+      "add": "Add",
+      "namePlaceholder": "Product, service or subscription",
+      "pricePlaceholder": "Price",
+      "empty": "No products yet. Add what you sell.",
+      "changeImage": "Change image"
+    },
+    "tasks": {
+      "title": "Task board",
+      "subtitle": "Assign work to your team",
+      "assign": "Assign",
+      "needEmployees": "Add employees first to assign tasks.",
+      "selectEmployee": "Select an employee",
+      "titlePlaceholder": "Task…",
+      "start": "Start date",
+      "end": "End date",
+      "empty": "No tasks assigned yet."
+    },
+    "advisor": {
+      "title": "AI advisor",
+      "subtitle": "Advice on your whole business",
+      "presetProblems": "What problems does my business have?",
+      "presetGrowth": "Give me directions to grow my business",
+      "presetPricing": "How should I price my products?",
+      "placeholder": "Ask about your business, or pick a prompt above.",
+      "thinking": "Thinking…",
+      "inputPlaceholder": "Ask the advisor…"
+    },
+    "finance": {
+      "title": "Monthly finances",
+      "subtitle": "Income, expenses and net",
+      "income": "Income",
+      "expense": "Expense",
+      "net": "Net",
+      "categoryPlaceholder": "Category",
+      "amountPlaceholder": "Amount",
+      "empty": "No entries yet. Add income or an expense."
+    },
+    "todo": {
+      "title": "To-do",
+      "subtitle": "Business tasks",
+      "empty": "Nothing to do yet.",
+      "placeholder": "Add a task…"
+    },
+    "intake": {
+      "skip": "Skip",
+      "name": {
+        "q": "What is the project called?",
+        "hint": "A working title is fine; you can change it later.",
+        "placeholder": "e.g. Zinvest"
+      },
+      "location": {
+        "q": "Which country and city are you launching in?",
+        "hint": "The AI looks for demand and competitors in this place.",
+        "placeholder": "e.g. Uzbekistan, Tashkent"
+      },
+      "problem": {
+        "q": "What problem do you solve, and who has it?",
+        "hint": "Describe a specific person or company and what hurts for them today.",
+        "placeholder": "e.g. students in Tashkent can't budget and run out of money before the month ends"
+      },
+      "market": {
+        "q": "Who will pay?",
+        "hint": "This decides how to look for customers and competitors.",
+        "b2c": "People (B2C)",
+        "b2b": "Companies (B2B)",
+        "both": "Both"
+      },
+      "description": {
+        "q": "How does the product work?",
+        "hint": "What the customer does step by step, and what they get in the end.",
+        "placeholder": "e.g. a mobile app where you take a 5-minute money lesson a day and earn points…"
+      },
+      "alternatives": {
+        "q": "What do people use instead of you today?",
+        "hint": "Competitors you know, Excel, Telegram channels, or nothing. You can skip this; the AI will search anyway.",
+        "placeholder": "e.g. YouTube videos, banking apps, nothing"
+      },
+      "revenue_model": {
+        "q": "How will the project make money?",
+        "hint": "Subscription, sales, commission, ads, plus a rough price if you know it.",
+        "placeholder": "e.g. a 29,000 UZS monthly subscription, first two weeks free"
+      },
+      "stage": {
+        "q": "What stage are you at?",
+        "hint": "An honest answer gets better advice.",
+        "idea": "Just an idea",
+        "mvp": "A prototype / MVP",
+        "operational": "Running, with customers"
+      },
+      "team": {
+        "q": "How many people are on the team?",
+        "hint": "Including you.",
+        "solo": "Just me",
+        "small": "2–5 people",
+        "medium": "6–20 people",
+        "large": "More than 20"
+      }
+    },
+    "research": {
+      "run": "Check the market",
+      "eyebrow": "Market check",
+      "loadingTitle": "Studying the market",
+      "step1": "Looking for similar projects: {place}",
+      "step2": "Sorting out the competitors",
+      "step3": "Estimating demand",
+      "step4": "Putting the findings together…",
+      "loadingNote": "Searching the web takes up to 40 seconds",
+      "demand": "Is it needed: {place}",
+      "competitors": "Competitors",
+      "gap": "Where you fit",
+      "risks": "Risks",
+      "nextSteps": "What to do next",
+      "sources": "Sources",
+      "notSearched": "Web search is unavailable right now, so this was assessed without it. Run the check again later from the advisor.",
+      "disclaimer": "This is an AI assessment from public sources, not market research. Test the findings with real customers.",
+      "verdict": {
+        "strong": "Strong idea",
+        "promising": "Promising",
+        "uncertain": "Needs testing",
+        "weak": "Weak demand"
+      }
+    }
+  },
+  "daily": {
+    "title": "Zinvest Daily",
+    "meta": "5 situations · about 2 min · up to +{coins}",
+    "progress": "{done} of {total} answered",
+    "right": "Right",
+    "wrong": "Not quite",
+    "next": "Next",
+    "doneTitle": "{correct} of {total} today",
+    "doneBody": "+{coins} banked. Come back tomorrow for a new set.",
+    "reward": "+{coins} coins · {streak}-day streak"
+  },
+  "v2": {
+    "hero": {
+      "secondary": "Try it"
+    },
+    "problem": {
+      "eyebrow": "Why it feels hard",
+      "lead": "Finance isn't complicated.",
+      "leadMuted": " The language people use for it was made that way.",
+      "s1": {
+        "title": "Words instead of meaning",
+        "body": "Diversification, liquidity, multiples. Behind each one sits a simple idea nobody bothers to translate back into plain speech."
+      },
+      "s2": {
+        "title": "Advice without context",
+        "body": "“Just buy the index” is good advice for one person and bad for another. The difference is rarely explained, and the difference is everything."
+      },
+      "s3": {
+        "title": "No practice",
+        "body": "Reading about risk and feeling it are different things. The first takes an evening; the second usually costs money."
+      },
+      "answer": "Zinvest runs the other way round: you make the decision first, then work out where it leads.",
+      "answer2": "Every term shows up the minute you actually need it — not in the third paragraph of a chapter you never reached."
+    },
+    "flow": {
+      "eyebrow": "How it works",
+      "title": "Four steps, always in this order",
+      "learn": {
+        "word": "Learn",
+        "body": "A short lesson explains one idea in ordinary words, with no jargon you have to look up mid-sentence."
+      },
+      "practice": {
+        "word": "Practise",
+        "body": "Straight away, a problem where that idea has to be used. Being wrong here is cheap, and that is the point."
+      },
+      "understand": {
+        "word": "Understand",
+        "body": "The bear takes your answer apart: not “incorrect”, but why it came out that way."
+      },
+      "apply": {
+        "word": "Apply",
+        "body": "The unit test and the practice portfolio check whether it stuck once the hints are gone."
+      }
+    },
+    "demo": {
+      "eyebrow": "Try it right here",
+      "title": "You have $10,000. What would you do?",
+      "lede": "There is no right answer — only consequences. Pick one and see where it lands ten years out.",
+      "now": "Today",
+      "later": "In {years} years",
+      "invest": {
+        "label": "Invest",
+        "hint": "A broad index fund, then leave it alone.",
+        "after": "in {years} years, if the market behaved as it usually does",
+        "says": "That growth isn't a gift; it is the fee for sitting through the drops. Over ten years this would have fallen 20–30% twice, and the real question isn't the final number — it's whether you'd sell at the bottom."
+      },
+      "save": {
+        "label": "Save",
+        "hint": "A savings account, money within reach.",
+        "after": "in {years} years at roughly 4%",
+        "says": "The money is still there, and that matters: you can take it out tomorrow. But inflation works all ten of those years too, so the question isn't the figure on screen — it's what that figure will buy."
+      },
+      "spend": {
+        "label": "Spend",
+        "hint": "Now, on what is needed now.",
+        "after": "in {years} years — the money is spent",
+        "says": "This isn't a mistake by itself. Clearing debt at 20%, or finally having an emergency fund, is often the best thing this money can do. The mistake is spending it without knowing what you gave up."
+      },
+      "forgone": "Difference against the best of the three: {amount}.",
+      "again": "Pick another",
+      "assumption": "Assumes 7% a year for the index and 4% for the account. Before tax and inflation.",
+      "moralLead": "Zinvest doesn't tell you which button was right.",
+      "moralEmph": " It explains how they differ."
+    },
+    "path": {
+      "eyebrow": "Learning path",
+      "title": "A route, not a table of contents",
+      "body": "The entry test decides where you start. After that the order is built around your gaps: topics you answer confidently move back, weak ones move up.",
+      "here": "you are here",
+      "legend": {
+        "done": {
+          "term": "Done",
+          "def": "finished, and open to revisit any time"
+        },
+        "now": {
+          "term": "You are here",
+          "def": "the next step, and there is only ever one"
+        },
+        "check": {
+          "term": "Checkpoint",
+          "def": "the unit test, with no hints"
+        },
+        "ahead": {
+          "term": "Ahead",
+          "def": "open, but not yet"
+        }
+      },
+      "n1": {
+        "title": "What money is",
+        "meta": "Finance basics · 6 min"
+      },
+      "n2": {
+        "title": "Assets and liabilities",
+        "meta": "Finance basics · 8 min"
+      },
+      "n3": {
+        "title": "Risk and return",
+        "meta": "Investing basics · 9 min"
+      },
+      "n4": {
+        "title": "Unit test",
+        "meta": "10 questions · no hints"
+      },
+      "n5": {
+        "title": "Index funds and ETFs",
+        "meta": "Investing basics · 11 min"
+      },
+      "n6": {
+        "title": "Unit economics",
+        "meta": "Financial analysis · 12 min"
+      }
+    },
+    "ai": {
+      "eyebrow": "Zinvest AI",
+      "title": "Explains it as many times as you need",
+      "body": "It knows which lesson you are on and what you got wrong last time, so it answers your question rather than the average one.",
+      "nudge": "Press any button under the answer — it changes.",
+      "context": "Lesson 04 · Index funds",
+      "q": "Why buy an ETF instead of individual stocks?",
+      "a": "One ETF is a basket of hundreds of companies at once. If one of them fails, you lose its slice rather than your stake. You aren't buying the best company — you're buying the whole market, and its average growth with it.",
+      "a_simpler": "Picture a tray of eggs. A single stock is one egg: drop it and there's no breakfast. An ETF is the whole tray — one breaks, the rest are fine.",
+      "a_example": "$1,000 in one airline's stock in early 2020 would have been about $400 two months later. The same $1,000 in a broad index would have been about $700 — and back above where it started by the end of the year.",
+      "a_quiz": "Good. You own an ETF of the 500 largest companies and one of them goes bankrupt. What happens to your money?",
+      "quizOpt1": "I lose everything I put in",
+      "quizOpt2": "I lose only its slice",
+      "quizRight": "Yes. Its weight in the index is a fraction of a percent, and the fund simply replaces it with the next company.",
+      "quizWrong": "Not quite: the stake is spread across 500 companies, so any one of them is a fraction of a percent, not the whole thing.",
+      "thinking": "Typing",
+      "chip": {
+        "simpler": "Simpler",
+        "example": "Show an example",
+        "quiz": "Quiz me"
+      }
+    },
+    "bear": {
+      "eyebrow": "Your guide",
+      "title": "A bear who actually explains",
+      "body": "He isn't a mascot parked on the home page. He is the one who unpacks your answer after a test, keeps the streak alive in Telegram, and is pleased when you finish a unit.",
+      "w1": "In a lesson — explains the idea and asks questions as you go.",
+      "w2": "After a mistake — says why it came out that way, not just “wrong”.",
+      "w3": "In Telegram — sends the Daily and remembers where you stopped."
+    },
+    "progress": {
+      "eyebrow": "Progress",
+      "title": "Only what you actually did counts",
+      "body": "Streak, coins and league move on finished lessons, tests and daily questions. None of it can be bought.",
+      "streak": {
+        "label": "Streak",
+        "value": "7 days",
+        "note": "one lesson a day is enough"
+      },
+      "coins": {
+        "label": "Coins",
+        "value": "420",
+        "note": "from lessons, tests and the Daily"
+      },
+      "league": {
+        "label": "League",
+        "value": "Silver",
+        "note": "weekly, against everyone"
+      },
+      "unit": {
+        "label": "Unit",
+        "value": "72%",
+        "note": "Investing basics"
+      }
+    }
+  },
+  "notFound": {
+    "title": "This page doesn't exist",
+    "body": "The link may have a typo, or the page was removed. The bear couldn't find it either.",
+    "toHome": "Go to the home page",
+    "toApp": "Go to my dashboard"
+  },
+  "titles": {
+    "tagline": "financial literacy in plain words"
+  },
+  "v3": {
+    "hero": {
+      "badge": "Money skills for students",
+      "title": "Get money-smart,",
+      "accent": "a little every day",
+      "body": "Short lessons, real-life tasks and a bear mentor who explains why the answer is what it is.",
+      "start": "Get started — free",
+      "login": "I already have an account",
+      "trust1": "No card needed",
+      "trust2": "3 languages",
+      "trust3": "Telegram bot",
+      "chipStreak": "7-day streak",
+      "chipCoins": "+10 coins",
+      "chipLessonLabel": "Lesson",
+      "chipLesson": "Emergency fund"
+    },
+    "topics": {
+      "label": "Lesson topics",
+      "budget": "Budgeting",
+      "emergency": "Emergency fund",
+      "investing": "Investing",
+      "credit": "Loans & instalments",
+      "goals": "Money goals",
+      "startup": "Your own business",
+      "inflation": "Inflation",
+      "saving": "Saving"
+    },
+    "steps": {
+      "eyebrow": "How it works",
+      "title": "Three steps, and the idea sticks",
+      "s1": {
+        "word": "Understand",
+        "body": "A short lesson explains one idea in plain words — no jargon to look up on the way."
+      },
+      "s2": {
+        "word": "Try",
+        "body": "Straight away, a task where you use it. Mistakes are cheap here — that's the whole point."
+      },
+      "s3": {
+        "word": "Get it",
+        "body": "The bear goes through your answer: not just “wrong”, but why it came out that way."
+      }
+    },
+    "lesson": {
+      "eyebrow": "Try it right here",
+      "title": "This is what a lesson feels like",
+      "body": "Three questions from real lessons. Answer, and the bear explains what's going on.",
+      "p1": "Real-life examples, in sums",
+      "p2": "A walkthrough after every answer",
+      "p3": "Lessons earn coins and keep your streak",
+      "pick": "Choose an answer",
+      "check": "Check",
+      "next": "Continue",
+      "right": "Nice!",
+      "wrong": "Not quite",
+      "close": "Restart the lesson",
+      "progress": "Question {n} of {total}",
+      "doneTitle": "Lesson complete!",
+      "doneBody": "{n} of {total} right. In Zinvest there's a whole route of lessons like this.",
+      "again": "Try again",
+      "cta": "Continue in Zinvest",
+      "q1": {
+        "q": "You've just got your stipend. What's the smartest first move?",
+        "a1": "Spend it on something you've wanted for ages",
+        "a2": "Put part of it into an emergency fund",
+        "a3": "Lend it to a friend — they'll pay it back",
+        "why": "An emergency fund is money for the unexpected: a broken phone, getting ill. Set part aside first, then spend the rest with a clear head."
+      },
+      "q2": {
+        "q": "A phone costs 3,000,000 sum. On instalments it's 12 payments of 300,000 sum. How much extra do you pay?",
+        "a1": "Nothing, it's the same amount",
+        "a2": "300,000 sum",
+        "a3": "600,000 sum",
+        "why": "12 × 300,000 = 3,600,000 sum — 600,000 more than the price. That's what the “convenience” of instalments costs."
+      },
+      "q3": {
+        "q": "What is inflation?",
+        "a1": "Prices rise, so the same money buys less",
+        "a2": "The interest a bank pays on your savings",
+        "a3": "A tax you pay on every purchase",
+        "why": "If prices rise 10% in a year, a year from now 100,000 sum buys what costs about 91,000 today."
+      }
+    },
+    "path": {
+      "eyebrow": "Your route",
+      "unit1": "Unit 1 · Finance basics",
+      "unit2": "Unit 2 · Investing basics",
+      "start": "Start",
+      "p1": "A placement test decides where you start",
+      "p2": "Weak topics move up the route",
+      "p3": "Each unit ends with a test, no hints",
+      "done": "Done",
+      "now": "Next lesson",
+      "ahead": "Ahead",
+      "test": "Unit test"
+    },
+    "motivation": {
+      "eyebrow": "Motivation",
+      "title": "Progress you'll enjoy piling up",
+      "streakTitle": "7-day streak",
+      "streakNote": "Your streak grows with lessons and tests — just opening the app isn't enough.",
+      "coinsLabel": "coins",
+      "coinsNote": "For lessons, tests and daily questions. Can't be bought.",
+      "leagueTitle": "Weekly league",
+      "leagueNote": "A fresh table every week. The top climb to the next division.",
+      "you": "You",
+      "pts": "pts",
+      "dailyTitle": "Daily",
+      "dailyNote": "Five quick questions every day — on the site and in Telegram.",
+      "days": "M,T,W,T,F,S,S"
+    },
+    "telegram": {
+      "eyebrow": "Telegram",
+      "title": "The bear lives in Telegram too",
+      "body": "You don't have to open the site to keep your streak: the bot reminds you, asks the daily question and logs a purchase in a second.",
+      "p1": "Log income and spending by text, voice or a receipt photo",
+      "p2": "The daily question right in the chat",
+      "p3": "A streak reminder at the hour you choose",
+      "cta": "Open the bot",
+      "botName": "Zinvest",
+      "botStatus": "bot",
+      "u1": "-18 000 coffee",
+      "b1": "Logged spending: coffee — 18,000 sum.",
+      "b2": "6-day streak. One lesson today and it's 7.",
+      "quizTitle": "Daily question",
+      "quizQ": "What loses value faster when prices rise?",
+      "quizA1": "Cash at home",
+      "quizA2": "A deposit paying above inflation"
+    },
+    "cta": {
+      "title": "Start today — the bear is waiting",
+      "body": "Five minutes for the placement test, and your personal route is ready."
+    }
+  },
+  "v4": {
+    "hero": {
+      "eyebrow": "Zinvest · financial literacy",
+      "b1": "Money favours those who understand it",
+      "b1sub": "Budgeting, savings, credit and investing. Short and to the point.",
+      "b2": "Five minutes a day.",
+      "b2sub": "One topic, one example in real sums, one task.",
+      "b3": "Knowledge compounds like interest.",
+      "b3sub": "Each lesson builds on the last. In a month you notice it. In a year you are at another level.",
+      "settleTitle": "Financial literacy that stays with you",
+      "settleBody": "Short lessons, tasks with real sums and an AI mentor that explains until it clicks. In Russian, Uzbek and English.",
+      "start": "Start learning",
+      "login": "Log in",
+      "scroll": "Scroll down"
+    },
+    "steps": {
+      "eyebrow": "How it works",
+      "title": "One lesson, three moves",
+      "s1": {
+        "word": "Understand",
+        "body": "A short text explains one idea in plain words. No terms you have to look up."
+      },
+      "s2": {
+        "word": "Try",
+        "body": "Right away, a task where you use that idea. Mistakes cost nothing here, which is the point."
+      },
+      "s3": {
+        "word": "Get it",
+        "body": "The mentor goes through your answer: not just “wrong”, but why it came out that way."
+      },
+      "m1": {
+        "tag": "Lesson 3 · Inflation",
+        "title": "Why money gets cheaper",
+        "text": "If prices rose 10% this year, next year 100,000 UZS buys what costs about 91,000 today."
+      },
+      "m2": {
+        "q": "A phone costs 3,000,000 UZS. On instalments: 12 payments of 300,000. How much extra do you pay?",
+        "a1": "Nothing",
+        "a2": "300,000 UZS",
+        "a3": "600,000 UZS"
+      },
+      "m3": {
+        "text": "12 × 300,000 = 3,600,000 UZS. That is 600,000 more than the price: what paying in instalments costs."
+      }
+    },
+    "app": {
+      "eyebrow": "Inside Zinvest",
+      "title": "Everything that keeps the habit going",
+      "c1": {
+        "kicker": "Path",
+        "title": "A plan for your level",
+        "body": "A placement test decides where you start. Weak topics move forward, and each unit ends with a test without hints."
+      },
+      "c2": {
+        "kicker": "Zinvest AI",
+        "title": "Explains as many times as you need",
+        "body": "It knows which lesson you are on and where you slipped last time. Ask for simpler, an example or a quick check."
+      },
+      "c3": {
+        "kicker": "Telegram",
+        "title": "A bot that remembers your streak",
+        "body": "Log a purchase in one line, get the question of the day and a lesson reminder at the hour you choose."
+      },
+      "c4": {
+        "kicker": "Progress",
+        "title": "Streak, coins and a league",
+        "body": "A day counts when you finish a lesson or a test. Just opening the app is not enough. Coins cannot be bought, only earned."
+      },
+      "path": {
+        "unit": "Unit 1 · Money basics",
+        "l1": "What money is",
+        "l2": "A monthly budget",
+        "l3": "Emergency fund",
+        "l4": "Inflation",
+        "l5": "Unit test",
+        "done": "Done",
+        "now": "Next up",
+        "ahead": "Ahead"
+      },
+      "ai": {
+        "context": "Lesson 4 · Index funds",
+        "q": "Why an ETF and not single stocks?",
+        "a": "Picture a tray of eggs. One stock is one egg: it breaks, and there is no breakfast. An ETF is the whole tray: one breaks, the rest are fine.",
+        "chip1": "Simpler",
+        "chip2": "Example",
+        "chip3": "Test me"
+      },
+      "tg": {
+        "status": "bot",
+        "u1": "-18,000 coffee",
+        "b1": "Logged: coffee, 18,000 UZS.",
+        "b2": "Streak: 6 days. One lesson today makes it 7.",
+        "quizTitle": "Question of the day",
+        "quizQ": "What loses value faster when prices rise?",
+        "quizA1": "Cash at home",
+        "quizA2": "A deposit paying above inflation"
+      },
+      "progress": {
+        "streak": "7 days in a row",
+        "coins": "coins",
+        "league": "Weekly league",
+        "you": "You",
+        "pts": "pts",
+        "days": "Mo,Tu,We,Th,Fr,Sa,Su"
+      }
+    },
+    "who": {
+      "eyebrow": "Who it is for",
+      "title": "For everyone school never taught this",
+      "subtitle": "Four starting points. The placement test shows which one is yours.",
+      "w1": {
+        "title": "School and university students",
+        "body": "No one ever taught you this. Start with what money is and move up. No prior knowledge needed."
+      },
+      "w2": {
+        "title": "First paycheck",
+        "body": "The money arrived, and nobody explained what to do with it. Budget, emergency fund, first investments."
+      },
+      "w3": {
+        "title": "Founders",
+        "body": "Runway, burn, unit economics and the three statements. The numbers an investor will ask about."
+      },
+      "w4": {
+        "title": "Self-taught investors",
+        "body": "You know half of it already. The test finds the gaps and skips what you have mastered."
+      }
+    },
+    "faq": {
+      "eyebrow": "Questions",
+      "title": "Before you sign up",
+      "q1": {
+        "q": "Do I need a finance background?",
+        "a": "No. The first unit starts with what money is and why it is worth anything. The placement test keeps a beginner from landing mid-course."
+      },
+      "q2": {
+        "q": "What if the test gets my level wrong?",
+        "a": "Retake it in Settings and the plan rebuilds. The unit order stays: the next one opens when you pass the previous unit's test."
+      },
+      "q3": {
+        "q": "Is the test long?",
+        "a": "Ten questions: five about you and five to check what you know. About five minutes, and you can skip any question or the whole test."
+      },
+      "q4": {
+        "q": "What counts toward the streak?",
+        "a": "A day counts when you finish a lesson or pass a unit test. Just opening the app is not enough."
+      },
+      "q5": {
+        "q": "Can I take notes?",
+        "a": "Yes. Notes sit next to the lesson, save to your account as you type and gather on their own page."
+      },
+      "q6": {
+        "q": "Which languages?",
+        "a": "Russian, Uzbek and English. Switch any time in the top bar."
+      }
+    },
+    "final": {
+      "title": "Your first lesson takes five minutes",
+      "body": "Sign up, take the placement test and get a plan for your level.",
+      "start": "Start learning",
+      "login": "I have an account"
+    },
+    "compound": {
+      "eyebrow": "Compound interest",
+      "title": "Hold the button and the years go by",
+      "body": "Pick how much you set aside each month. The bars show what you saved and what interest on interest added.",
+      "amountLabel": "Per month",
+      "hold": "Hold",
+      "holding": "Years passing…",
+      "again": "Let go and pick another amount",
+      "years": "Years",
+      "saved": "Set aside",
+      "grown": "With interest on interest",
+      "diff": "Interest on interest",
+      "note": "We used 10% a year as an example. This is not a forecast or advice, only how compound interest works. Where such rates exist and what they risk is covered in the lessons.",
+      "currency": "UZS",
+      "reveal": "The gap between the bars is compound interest."
+    }
+  },
+  "mascot": {
+    "tap": "Zinvest bear: tap to pet"
+  },
+  "legal": {
+    "nav": "Legal documents",
+    "updated": "Updated {date}",
+    "contact": "Contact",
+    "service": "Service",
+    "operator": "Operator",
+    "regNo": "Registration / tax number",
+    "address": "Address",
+    "email": "Email",
+    "inApp": "You can download or delete your data in the app: Settings → Privacy & security.",
+    "docs": {
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "cookies": "Cookies",
+      "refund": "Refunds",
+      "licenses": "Licences"
+    }
+  },
+  "cookies": {
+    "label": "Cookies",
+    "text": "We use only the cookies needed to keep you signed in. No ads, no analytics.",
+    "more": "Learn more",
+    "ok": "Got it"
+  },
+  "a11y": {
+    "skip": "Skip to content"
+  }
+}

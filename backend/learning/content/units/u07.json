@@ -1,0 +1,569 @@
+{
+ "unit": 7,
+ "langs": {
+  "en": {
+   "unit": 7,
+   "lang": "en",
+   "title": "Income & Earning",
+   "subtitle": "Active vs passive income, building multiple income streams, side hustles, freelancing, salary negotiation, and the path from trading time for money to building assets.",
+   "lessons": [
+    {
+     "num": "7.1",
+     "title": "Types of Income",
+     "html": "<p>Most people think of income as one thing: their salary. But income comes in fundamentally different forms, and understanding these categories changes how you think about earning and wealth.</p><blockquote><p><strong>The Core Insight</strong></p><p>Your salary has a ceiling — there are only 24 hours in a day. But passive income and portfolio income have no ceiling because they are not limited by your time. The wealthy understand this difference. That is why they focus on building assets, not just earning paychecks.</p></blockquote><h2>The 4 Categories of Income</h2><table><tbody><tr><th><p>Category</p></th><th><p>How You Earn</p></th><th><p>Time Required</p></th><th><p>Ceiling</p></th><th><p>Examples</p></th></tr><tr><td><p>Active (Earned)</p></td><td><p>Trading time for money</p></td><td><p>High — direct hours</p></td><td><p>Limited by time</p></td><td><p>Salary, hourly wages, tips</p></td></tr><tr><td><p>Side Income</p></td><td><p>Skills outside main job</p></td><td><p>Medium — flexible</p></td><td><p>Your energy</p></td><td><p>Freelancing, tutoring, gigs</p></td></tr><tr><td><p>Portfolio Income</p></td><td><p>Returns on investmentsL</p></td><td><p>ow — mostly passiv</p></td><td><p>e No ceiling</p></td><td><p>Dividends, interest, capital gains</p></td></tr><tr><td><p>Passive Income A</p></td><td><p>ssets generating cash flo</p></td><td><p>Vwery low after setup</p></td><td><p>No ceiling R</p></td><td><p>ental property, royalties, businesse</p></td></tr></tbody></table><blockquote><p><strong>REAL EXAMPLE — Same Salary, Different Outcomes</strong></p><p>Two friends, both earning $4,000/month:</p><p>Alex: Spends all $4,000 on lifestyle. If he loses his job, income = $0 immediately.</p><p>Sarah: Lives on $3,200, invests $800/month. After 5 years at 8%, she has ~$58,900 in investments generating ~$390/month in returns. After 10 years: ~$145,000 generating ~$970/month.</p><p><strong>Same salary. But Sarah is building a second income stream that grows WITHOUT her time.</strong> <strong>After 15 years, her portfolio income may exceed her living expenses — that is financial</strong> <strong>independence.</strong></p></blockquote>"
+    },
+    {
+     "num": "7.2",
+     "title": "Active Income & Salary",
+     "html": "<p>For most people, active income (salary) is the starting engine of wealth. The goal is not to stay dependent on it forever, but to maximize it while building other streams.</p><h2>Understanding Your Pay</h2><table><tbody><tr><td><p><strong>Gross Income</strong></p><p>Your total earnings BEFORE any deductions. Includes: base salary, overtime, bonuses This is the number in your offer letter NOT what you actually receive</p></td><td><p><strong>Net Income (Take-Home)</strong></p><p>What you actually RECEIVE after deductions. After: taxes, social security, pension, insurance This is what hits your bank account Budget with THIS number, not gross</p></td></tr></tbody></table><h2>How to Increase Your Active Income</h2><blockquote><p>→<strong> 1. Negotiate Your Salary</strong></p><p>Never accept the first offer. Research market rates on salary comparison sites. A single successful negotiation of 10% on a $40,000 salary = $4,000/year = $40,000 over 10 years, without working a single extra hour.</p><p>→<strong> 2. Build Career Capital</strong></p><p>Skills, certifications, and reputation that make you more valuable. A data analyst who learns Python earns 20-40% more than one who doesn't. Invest 5 hours/week in skill building.</p><p>→<strong> 3. Change Jobs Strategically</strong></p><p>The biggest salary jumps come from changing employers, not from annual raises. The average raise is 3-5%. The average job-switch increase is 10-20%.</p><p>→<strong> 4. Move Into High-Value Roles</strong></p><p>Sales, engineering, finance, and management tend to pay more because they directly impact company revenue. Transition toward roles with clear ROI to the employer.</p></blockquote>"
+    },
+    {
+     "num": "7.3",
+     "title": "Side Hustles & Freelancing",
+     "html": "<p>A side hustle is any way you earn money outside your main job. It is the bridge between having one income stream and building many. The best side hustles convert skills you already have into additional revenue.</p><h2>Top Side Hustle Categories by Startup Cost</h2><table><tbody><tr><th><p>Category</p></th><th><p>Startup Cost</p></th><th><p>Time to First $</p></th><th><p>Earnings Potential</p></th><th><p>Examples</p></th></tr><tr><td><p>Freelancing (skills)</p></td><td><p>$0-50</p></td><td><p>Days-Weeks</p></td><td><p>$500-5,000+/mo</p></td><td><p>Design, coding, writing, translation</p></td></tr><tr><td><p>Teaching/Tutoring</p></td><td><p>$0</p></td><td><p>Days</p></td><td><p>$200-2,000/mo</p></td><td><p>English tutoring, music lessons, math</p></td></tr><tr><td><p>Content Creation</p></td><td><p>$0-200</p></td><td><p>Months</p></td><td><p>$0-10,000+/mo</p></td><td><p>YouTube, blog, newsletter, podcast</p></td></tr><tr><td><p>E-commerce</p></td><td><p>$100-1,000</p></td><td><p>Weeks-Months</p></td><td><p>$500-5,000+/mo</p></td><td><p>Dropshipping, handmade goods, reselling</p></td></tr><tr><td><p>Service Business</p></td><td><p>$0-500</p></td><td><p>Days</p></td><td><p>$500-3,000+/mo</p></td><td><p>Cleaning, delivery, photography, repair</p></td></tr><tr><td><p>Digital Products</p></td><td><p>$0-100</p></td><td><p>Weeks-Months</p></td><td><p>$100-5,000+/mo</p></td><td><p>Templates, courses, ebooks, presets</p></td></tr></tbody></table><h2>The Freelancing Fast-Start Framework</h2><blockquote><p><strong>Step 1: Pick ONE skill you can sell</strong></p><p>What do people ask you for help with? What do you do well at work? Design, writing, coding, tutoring, data entry — pick the one closest to money.</p><p><strong>Step 2: Create 3 portfolio pieces</strong></p><p>No clients yet? Create sample work. A designer makes 3 mock projects. A writer publishes 3 articles. Proof of ability beats promises.</p><p><strong>Step 3: Set up on 2-3 platforms</strong></p><p>Upwork, Fiverr, Toptal, local freelance groups, LinkedIn. Cast a wide net initially.</p><p><strong>Step 4: Price low initially, then raise</strong></p><p>First 3 clients: charge 20-30% below market to build reviews and reputation. After 5+ positive reviews, raise to market rate. After 10+, charge premium.</p><p><strong>Step 5: Systematize and scale</strong></p><p>Create templates, automate repetitive tasks, build processes. The goal: deliver consistent quality without starting from scratch each time.</p></blockquote>"
+    },
+    {
+     "num": "7.4",
+     "title": "Passive Income",
+     "html": "<p>Passive income is the holy grail of personal finance. It is money that comes in whether you work or not. But there are many myths about it — let's separate reality from fantasy.</p><blockquote><p><strong>The Truth About Passive Income</strong></p><p>There is no such thing as truly passive income with zero effort. Every passive income source requires significant upfront work, capital, or both. What makes it 'passive' is that the ongoing effort is tiny compared to the ongoing income. A rental property requires months to find, buy, and set up — but then generates rent monthly with minimal work.</p></blockquote><h2>Realistic Passive Income Sources</h2><table><tbody><tr><th><p>Source</p></th><th><p>Upfront Investment</p></th><th><p>Ongoing Effort</p></th><th><p>Monthly Potential</p></th><th><p>Time to Build</p></th></tr><tr><td><p>Dividend Stocks</p></td><td><p>$5,000-50,000+Ve</p></td><td><p>ry low (rebalance yea</p></td><td><p>rly) $50-500+</p></td><td><p>1-5 years</p></td></tr><tr><td><p>Rental Property</p></td><td><p>$20,000-100,00M0e+di</p></td><td><p>um (maintenance, ten</p></td><td><p>ants$)500-3,000+</p></td><td><p>6-12 months</p></td></tr><tr><td><p>Index Fund Growth</p></td><td><p>$1,000-50,000+</p></td><td><p>Almost none</p></td><td><p>Grows silently</p></td><td><p>5-20+ years</p></td></tr><tr><td><p>Digital Products</p></td><td><p>$0-500 (time)</p></td><td><p>Low (updates)</p></td><td><p>$100-5,000+</p></td><td><p>3-12 months</p></td></tr><tr><td><p>Content Royalties</p></td><td><p>$0 (time)</p></td><td><p>Low (promotion)</p></td><td><p>$50-2,000+</p></td><td><p>6-24 months</p></td></tr><tr><td><p>Business Systems</p></td><td><p>$1,000-50,000+</p></td><td><p>Low (management)</p></td><td><p>$500-10,000+</p></td><td><p>1-3 years</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Passive Income MYTHS</strong></p><p>✗ Get rich quick with no effort</p><p>✗ $10,000/month in 30 days</p><p>✗ No skills or capital needed</p><p>✗ Set it and completely forget it</p><p>✗ Everyone can do it immediately If it sounds too good to be true, it is.</p></td><td><p><strong>Passive Income REALITIES</strong></p><p>✓ Requires significant upfront work</p><p>✓ Takes 6-24 months to build</p><p>✓ Needs skills, capital, or both</p><p>✓ Requires occasional maintenance</p><p>✓ Compounds over years, not days Real passive income is built, not found.</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "7.5",
+     "title": "Building Multiple Income Streams",
+     "html": "<p>The average millionaire has 7 income streams. Not because they got lucky 7 times, but because they systematically built each one. Here is the framework.</p><h2>The Income Stream Ladder</h2><blockquote><p>→<strong> Level 1: Primary Job (Active)</strong></p><p>This is where everyone starts. Maximize it through negotiation, skill building, and strategic job changes. This funds everything else.</p><p>→<strong> Level 2: Side Hustle (Active)</strong></p><p>Use skills from Level 1 to earn extra. A marketer freelances on weekends. A teacher tutors online. This adds $500-2,000/month without quitting your job.</p><p>→<strong> Level 3: Investments (Portfolio)</strong></p><p>Take money from Levels 1 and 2 and invest it. Index funds, dividend stocks, bonds. This grows silently in the background. Start with 20% of income.</p><p>→<strong> Level 4: Assets (Passive)</strong></p><p>After building capital, create or buy income-generating assets. Rental property, digital products, a small business with systems. This is where real wealth lives.</p><p><strong>REAL EXAMPLE — Building 5 Streams Over 7 Years</strong></p><p>Year 1-2: Software developer earning $3,500/month (Stream 1).</p><p>Year 2-3: Starts freelance web development on weekends: +$1,200/month (Stream 2). Year 3-5: Invests $1,000/month in index funds. Portfolio reaches $45,000, generating ~$300/month in returns (Stream 3).</p><p>Year 4-6: Creates an online course teaching coding: $800/month after initial work is done (Stream 4). Year 6-7: Buys a small rental apartment with saved capital: $700/month net rental income (Stream 5).</p><p><strong>Total at Year 7: $3,500 + $1,200 + $300 + $800 + $700 = $6,500/month. 46% of income is now</strong> <strong>NOT from the primary job. If he loses his job, he still earns $3,000/month.</strong></p></blockquote>"
+    },
+    {
+     "num": "7.6",
+     "title": "From Income to Wealth",
+     "html": "<p>High income does not equal wealth. Plenty of people earning $200,000/year are broke. And many earning $50,000/year are millionaires. The difference is what you DO with your income.</p><blockquote><p><strong>The Wealth Equation</strong></p><p>Wealth = (Income - Expenses) x Time x Return Rate</p><p>Income is just the first variable. Without controlling expenses, investing the surplus, and giving it time to compound, income alone builds nothing.</p></blockquote><h2>The Income-to-Wealth Pipeline</h2><blockquote><p><strong>1. Earn</strong></p><p>Maximize active income through skills, negotiation, and career strategy. This is the fuel.</p><p><strong>2. Keep</strong></p><p>Control expenses using the 50/30/20 rule from Unit 3. The gap between earning and spending is your wealth-building engine.</p><p><strong>3. Grow</strong></p><p>Invest the surplus into appreciating assets: index funds, real estate, business. Compound interest does the heavy lifting.</p><p><strong>4. Protect</strong></p><p>Insure against catastrophic loss (Unit 8). Emergency fund (Unit 3). Diversification (Unit 7). Don't let one event destroy years of building.</p><p><strong>5. Multiply</strong></p><p>Reinvest returns. Earnings from investments create more investments. This is the compounding loop that creates exponential wealth.</p><p><strong>Core Takeaway — Unit 7</strong></p></blockquote><p><em><strong><em><strong>Income is the starting point, not the destination. The goal is to evolve from trading time for</strong></em> <em><strong>money (active income) to owning assets that generate money independently (passive</strong></em> <em><strong>income). Start by maximizing your salary, launch a side hustle with existing skills, invest the</strong></em> <em><strong>surplus consistently, and gradually build passive income sources. The average millionaire</strong></em> <em><strong>took 7-15 years to build multiple streams — but the math is available to everyone. ZInvest AI</strong></em> <em><strong>can help you identify the best side hustle for your skills, calculate how fast your investments</strong></em> <em><strong>will grow, and build a personalized income diversification plan.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Key Terms Glossary",
+    "html": "<blockquote><p>All important terms from Unit 7</p></blockquote><table><tbody><tr><th><p>Active Income</p></th><th><p>Money earned by trading your time and labor. Stops when you stop working. Salary, wages, freelance fees.</p></th></tr><tr><td><p>Passive Income</p></td><td><p>Money generated by assets with minimal ongoing effort. Rental income, dividends, royalties, business systems.</p></td></tr><tr><td><p>Portfolio Income</p></td><td><p>Returns from financial investments: dividends, interest, capital gains from stocks, bonds, and funds.</p></td></tr><tr><td><p>Gross Income</p></td><td><p>Total earnings before any deductions (taxes, insurance, pension). The number on your offer letter.</p></td></tr><tr><td><p>Net Income</p></td><td><p>Take-home pay after all deductions. The amount that actually hits your bank account. Budget with this.</p></td></tr><tr><td><p>Side Hustle</p></td><td><p>Any income-generating activity outside your primary job. Freelancing, tutoring, e-commerce, content creation.</p></td></tr><tr><td><p>Freelancing</p></td><td><p>Selling your skills as an independent contractor. No employer — you find clients, set rates, deliver work.</p></td></tr><tr><td><p>Career Capital</p></td><td><p>Skills, certifications, reputation, and network that increase your market value and earning power over time.</p></td></tr><tr><td><p>Income Stream</p></td><td><p>A distinct source of revenue. Multiple streams = financial resilience if any single source fails.</p></td></tr><tr><td><p>Scalable Income</p></td><td><p>Income that can grow without proportional increase in time. Digital products, investments, systems.</p></td></tr><tr><td><p>Financial Independence</p></td><td><p>When passive/portfolio income covers all living expenses. Work becomes optional, not mandatory.</p></td></tr><tr><td><p>Compound Growth</p></td><td><p>Reinvesting returns so they generate their own returns. The mechanism that turns income into wealth over time.</p></td></tr><tr><td><p>Diversification</p></td><td><p>Spreading income across multiple sources to reduce risk. If one fails, others sustain you.</p></td></tr><tr><td><p>ROI (Return on Investment)</p></td><td><p>The percentage gain relative to what you invested. $100 invested returning $112 = 12% ROI.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "What makes passive income different from active income?",
+     "choices": [
+      "Passive income is always more money than active",
+      "Passive income comes from assets and requires minimal ongoing time",
+      "Passive income requires no effort at all",
+      "Passive income is illegal in most countries"
+     ],
+     "answer_index": 1,
+     "explanation": "Passive income requires initial effort (building assets) but then generates money with minimal ongoing work."
+    },
+    {
+     "n": 2,
+     "prompt": "Which statement about income types is CORRECT?",
+     "choices": [
+      "Salary is the only real form of income",
+      "Portfolio income comes from trading your time",
+      "Active income trades time for money; passive income comes from assets",
+      "Passive income always exceeds active income"
+     ],
+     "answer_index": 2,
+     "explanation": "Active income = time for money (salary, freelance). Passive income = assets generate money independently of your time."
+    },
+    {
+     "n": 3,
+     "prompt": "Which of these is an example of passive income?",
+     "choices": [
+      "Getting a raise at work",
+      "Collecting rent from an apartment you own",
+      "Working overtime on weekends",
+      "Receiving a one-time bonus"
+     ],
+     "answer_index": 1,
+     "explanation": "A rental property generates monthly income whether you work or not. The asset does the earning."
+    },
+    {
+     "n": 4,
+     "prompt": "Why is having multiple income streams important?",
+     "choices": [
+      "To impress your friends",
+      "To avoid paying taxes",
+      "If one source fails, others sustain you — reducing financial risk",
+      "Banks require it for checking accounts"
+     ],
+     "answer_index": 2,
+     "explanation": "Diversification protects against any single income source failing. Job loss with only salary = financial crisis."
+    },
+    {
+     "n": 5,
+     "prompt": "What is the primary advantage of starting a side hustle?",
+     "choices": [
+      "It lets you quit your job immediately",
+      "It converts existing skills into additional income with minimal startup cost",
+      "It guarantees $10,000/month",
+      "It replaces the need for savings"
+     ],
+     "answer_index": 1,
+     "explanation": "Side hustles convert existing skills into additional revenue streams outside your main job."
+    },
+    {
+     "n": 6,
+     "prompt": "In the Freelancing Fast-Start Framework, what is the BEST first step?",
+     "choices": [
+      "Quit your job and go full-time",
+      "Borrow $10,000 for equipment",
+      "Pick ONE skill you already have that people would pay for",
+      "Create accounts on every platform simultaneously"
+     ],
+     "answer_index": 2,
+     "explanation": "Freelancing has near-zero startup costs, flexible hours, and can start generating income within days."
+    },
+    {
+     "n": 7,
+     "prompt": "Gross income is $5,000/month. After taxes and deductions, net income is $3,800. Which number do you budget with?",
+     "choices": [
+      "$5,000 — it's what you earned",
+      "$3,800 — it's what you actually receive",
+      "The average of both",
+      "Neither — use last year's income"
+     ],
+     "answer_index": 1,
+     "explanation": "Net income is what you actually receive after all deductions. This is the real number for budgeting."
+    },
+    {
+     "n": 8,
+     "prompt": "Which statement about passive income is REALISTIC?",
+     "choices": [
+      "You can earn $10,000/month passively within 30 days",
+      "Passive income requires no upfront work or capital",
+      "Most passive income sources take 6-24 months to build and require upfront effort",
+      "Only rich people can earn passive income"
+     ],
+     "answer_index": 2,
+     "explanation": "Income that grows without proportional time increase. Writing a book once, earning royalties for years."
+    },
+    {
+     "n": 9,
+     "prompt": "Why does the average millionaire have 7 income streams?",
+     "choices": [
+      "It's a legal requirement for millionaires",
+      "Multiple streams provide financial safety — if one fails, others sustain you",
+      "They were all lucky 7 times",
+      "Banks give better rates to people with 7 streams"
+     ],
+     "answer_index": 1,
+     "explanation": "Multiple streams ensure that losing one source doesn't destroy your finances. Redundancy = safety."
+    },
+    {
+     "n": 10,
+     "prompt": "You invest $500/month at 8% return for 20 years. Approximately how much will you have?",
+     "choices": [
+      "$120,000",
+      "$180,000",
+      "$294,000",
+      "$500,000"
+     ],
+     "answer_index": 2,
+     "explanation": "$500/month at 8% for 20 years = ~$294,000. Compound interest turns small passive income into wealth."
+    },
+    {
+     "n": 11,
+     "prompt": "What is the difference between gross and net income?",
+     "choices": [
+      "There is no difference",
+      "Gross is before deductions; net is after taxes, insurance, and other deductions",
+      "Net is always higher than gross",
+      "Gross only includes overtime pay"
+     ],
+     "answer_index": 1,
+     "explanation": "Gross is before deductions; net is after. You budget with net because that's what you actually receive."
+    },
+    {
+     "n": 12,
+     "prompt": "You earn $4,000/month and want to start building wealth. The best first action is:",
+     "choices": [
+      "Invest everything in cryptocurrency",
+      "Wait until you earn $10,000/month",
+      "Start a side hustle using current skills and invest the surplus consistently",
+      "Spend more to improve your lifestyle first"
+     ],
+     "answer_index": 2,
+     "explanation": "Start a side hustle using current skills (quickest path), then invest profits to build passive income over time."
+    }
+   ]
+  },
+  "ru": {
+   "unit": 7,
+   "lang": "ru",
+   "title": "Доходы и заработок",
+   "subtitle": "Активный и пассивный доход, создание нескольких источников, подработка, фриланс, переговоры о зарплате и путь от обмена времени на деньги к созданию активов.",
+   "lessons": [
+    {
+     "num": "7.1",
+     "title": "Виды дохода",
+     "html": "<p>Большинство людей думают о доходе как об одной вещи — зарплате. Но доход бывает принципиально разных видов, и понимание этих категорий меняет отношение к заработку и богатству.</p><blockquote><p><strong>Ключевая мысль</strong></p><p>Зарплата имеет потолок — в сутках только 24 часа. Но пассивный и портфельный доход не имеют потолка, потому что не ограничены вашим временем. Богатые люди понимают эту разницу. Поэтому они создают активы, а не просто получают зарплату.</p></blockquote><h2>4 категории дохода</h2><table><tbody><tr><th><p>Категория</p></th><th><p>Как зарабатывается</p></th><th><p>Время</p></th><th><p>Потолок</p></th><th><p>Примеры</p></th></tr><tr><td><p>Активный О</p></td><td><p>бмен времени на день</p></td><td><p>ги Высокое</p></td><td><p>Ограничен</p></td><td><p>Зарплата, почасовая оплата</p></td></tr><tr><td><p>ПодработкаНав</p></td><td><p>ыки вне основной раб</p></td><td><p>отыСреднее</p></td><td><p>Ваша энергия</p></td><td><p>Фриланс, репетиторство</p></td></tr><tr><td><p>Портфельный</p></td><td><p>Доходы от инвестиций</p></td><td><p>Низкое</p></td><td><p>Нет потолка</p></td><td><p>Дивиденды, проценты</p></td></tr><tr><td><p>Пассивный Ак</p></td><td><p>тивы генерируют день</p></td><td><p>Огчиень низкое</p></td><td><p>Нет потолка</p></td><td><p>Аренда, роялти, бизнес</p></td></tr></tbody></table><blockquote><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Одна зарплата, разные результаты</strong></p><p>Два друга, оба получают 120 000 руб./мес.:</p><p>Алексей: тратит все 120 000 на образ жизни. Потеряет работу — доход = 0 сразу. Мария: живёт на 96 000, инвестирует 24 000/мес. Через 5 лет при 8%: ~1 770 000 руб. в инвестициях, генерирующих ~11 800 руб./мес. Через 10 лет: ~4 350 000 руб. = ~29 000 руб./мес.</p><p><strong>Одна зарплата. Но Мария строит второй поток дохода, растущий БЕЗ её</strong> <strong>времени. Через 15-20 лет портфельный доход может превысить расходы —</strong> <strong>это финансовая независимость.</strong></p></blockquote>"
+    },
+    {
+     "num": "7.2",
+     "title": "Активный доход и зарплата",
+     "html": "<p>Для большинства людей зарплата — стартовый двигатель богатства. Цель — не зависеть от неё вечно, а максимизировать, пока строите другие потоки.</p><h2>Валовой и чистый доход</h2><table><tbody><tr><td><p><strong>Валовой доход (gross)</strong></p><p>Общий заработок ДО вычетов. Включает: оклад, премии, надбавки Это цифра в трудовом договоре НЕ то, что вы реально получаете</p></td><td><p><strong>Чистый доход (net)</strong></p><p>То, что вы РЕАЛЬНО получаете. После: НДФЛ, пенсионные, страховые Это то, что приходит на карту Бюджет считайте по ЭТОЙ цифре</p></td></tr></tbody></table><h2>Как увеличить активный доход</h2><blockquote><p><strong>→ 1. Переговоры о зарплате</strong></p><p>Никогда</p><p>не</p><p>принимайте</p><p>первое</p><p>предложение.</p><p>Изучите</p><p>рынок.</p><p>Успешные</p><p>переговоры на 10% при зарплате 120 000 руб. = 12 000/мес. = 144 000 руб./год — без единого часа дополнительной работы.</p><p><strong>→ 2. Карьерный капитал</strong></p><p>Навыки, сертификаты, репутация, которые делают вас ценнее. Аналитик данных, владеющий Python, зарабатывает на 20-40% больше. Инвестируйте 5 часов/неделю в развитие навыков.</p><p><strong>→ 3. Стратегическая смена работы</strong></p><p>Самые большие скачки зарплаты — при смене работодателя, а не при ежегодном повышении. Средняя прибавка: 3-5%. Средний рост при смене: 15-25%.</p><p><strong>→ 4. Переход в высокооплачиваемые роли</strong></p><p>Продажи, IT, финансы, управление платят больше, потому что напрямую влияют на выручку компании. Двигайтесь к ролям с понятным ROI для работодателя.</p></blockquote>"
+    },
+    {
+     "num": "7.3",
+     "title": "Подработка и фриланс",
+     "html": "<p>Подработка — любой способ заработка вне основной работы. Это мост между одним источником дохода и несколькими. Лучшие подработки превращают уже имеющиеся навыки в дополнительный доход.</p><h2>Категории подработки по начальным затратам</h2><table><tbody><tr><th><p>Категория С</p></th><th><p>тарт. затраВтр</p></th><th><p>ыемя до первы</p></th><th><p>х $Потенциал</p></th><th><p>Примеры</p></th></tr><tr><td><p>Фриланс (навыки</p></td><td><p>) 0-5 000 руб.</p></td><td><p>Дни-недели 3</p></td><td><p>0-300K+ руб./мес</p></td><td><p>. Дизайн, код, тексты, перевод</p></td></tr><tr><td><p>Репетиторство</p></td><td><p>0 руб.</p></td><td><p>Дни</p></td><td><p>15-150K руб./мес.</p></td><td><p>Английский, математика, музыка</p></td></tr><tr><td><p>Контент</p></td><td><p>0-15 000 руб.</p></td><td><p>Месяцы</p></td><td><p>0-500K+ руб./мес.</p></td><td><p>YouTube, блог, Telegram канал</p></td></tr><tr><td><p>E-commerce</p></td><td><p>5-50K руб.</p></td><td><p>Недели-месяцы3</p></td><td><p>0-300K+ руб./мес</p></td><td><p>. Маркетплейсы, хендмейд</p></td></tr><tr><td><p>Услуги</p></td><td><p>0-30K руб.</p></td><td><p>Дни 3</p></td><td><p>0-200K+ руб./мес</p></td><td><p>. Фото, ремонт, доставка</p></td></tr><tr><td><p>Цифр. продукты</p></td><td><p>0-5K руб.</p></td><td><p>Недели-месяцы</p></td><td><p>5-300K+ руб./мес.</p></td><td><p>Шаблоны, курсы, книги</p></td></tr></tbody></table><h2>Быстрый старт фриланса — 5 шагов</h2><blockquote><p><strong>Шаг 1: Выберите ОДИН навык для продажи</strong></p><p>О чём вас просят помочь? Что вы хорошо делаете на работе? Дизайн, тексты, код, репетиторство — выберите самое близкое к деньгам.</p><p><strong>Шаг 2: Создайте 3 работы для портфолио</strong></p><p>Нет клиентов? Создайте примеры. Дизайнер делает 3 макета. Копирайтер публикует 3 статьи. Доказательство умений бьёт обещания.</p><p><strong>Шаг 3: Зарегистрируйтесь на 2-3 площадках</strong></p><p>FL.ru, Kwork, Upwork, группы фрилансеров, LinkedIn. Забрасывайте широкую сеть на старте.</p><p><strong>Шаг 4: Начните с низкой цены, затем растите</strong></p><p>Первые 3 клиента: цена на 20-30% ниже рынка для отзывов и репутации. После 5+ отзывов — рыночная. После 10+ — премиум.</p><p><strong>Шаг 5: Систематизируйте и масштабируйте</strong></p><p>Шаблоны, автоматизация рутины, процессы. Цель: стабильное качество без начала с нуля каждый раз.</p></blockquote>"
+    },
+    {
+     "num": "7.4",
+     "title": "Пассивный доход",
+     "html": "<p>Пассивный доход — святой грааль личных финансов. Деньги приходят, работаете вы или нет. Но вокруг него много мифов — отделим реальность от фантазий.</p><blockquote><p><strong>Правда о пассивном доходе</strong></p><p>Не существует пассивного дохода с нулевыми усилиями. Каждый источник требует значительных начальных вложений — времени, денег или того и другого. «Пассивным» его делает то, что текущие усилия минимальны по сравнению с доходом.</p></blockquote><h2>Реальные источники пассивного дохода</h2><table><tbody><tr><th><p>Источник На</p></th><th><p>чальные вложен</p></th><th><p>Уисяилия послеП</p></th><th><p>отенциал в мес</p></th><th><p>. Срок создания</p></th></tr><tr><td><p>ивидендные акци</p></td><td><p>и 300K-3M+ руб.</p></td><td><p>Очень низкие</p></td><td><p>3-30K+ руб.</p></td><td><p>1-5 лет</p></td></tr><tr><td><p>Сдача в аренду</p></td><td><p>1.5-7M+ руб.</p></td><td><p>Средние</p></td><td><p>30-200K+ руб.</p></td><td><p>6-12 мес.</p></td></tr><tr><td><p>ст индексных фонд</p></td><td><p>ов50K-3M+ руб.</p></td><td><p>Почти нулевыеР</p></td><td><p>астёт незаметн</p></td><td><p>о 5-20+ лет</p></td></tr><tr><td><p>ифровые продукт</p></td><td><p>ы 0-30K (время)</p></td><td><p>Низкие</p></td><td><p>5-300K+ руб.</p></td><td><p>3-12 мес.</p></td></tr><tr><td><p>Контент-роялти</p></td><td><p>0 (время)</p></td><td><p>Низкие</p></td><td><p>3-150K+ руб.</p></td><td><p>6-24 мес.</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>МИФЫ о пассивном доходе</strong></p><p>Разбогатеть без усилий 500 000 руб./мес. за 30 дней Не нужны навыки и капитал Настроил и забыл навсегда Доступно каждому сразу Если звучит слишком хорошо — это обман.</p></td><td><p><strong>РЕАЛЬНОСТЬ пассивного дохода</strong></p><p>Требует значительных начальных усилий Создаётся 6-24 месяца Нужны навыки, капитал или оба Требует периодического обслуживания Растёт годами, не днями Настоящий пассивный доход строится, а не находится.</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "7.5",
+     "title": "Несколько источников дохода",
+     "html": "<p>Средний миллионер имеет 7 источников дохода. Не потому что ему повезло 7 раз, а потому что он систематически строил каждый. Вот схема.</p><h2>Лестница источников дохода</h2><blockquote><p><strong>→ Уровень 1: Основная работа (активный)</strong></p><p>Здесь все начинают. Максимизируйте через переговоры, навыки и карьерные переходы. Это топливо для всего остального.</p><p><strong>→ Уровень 2: Подработка (активный)</strong></p><p>Используйте навыки с Уровня 1. Маркетолог фрилансит по выходным. Учитель репетиторствует онлайн. Добавляет 30-120K руб./мес.</p><p><strong>→ Уровень 3: Инвестиции (портфельный)</strong></p><p>Деньги с Уровней 1 и 2 инвестируйте. Индексные фонды, дивидендные акции, облигации. Растёт незаметно в фоне. Начните с 20% дохода.</p><p><strong>→ Уровень 4: Активы (пассивный)</strong></p><p>Накопив капитал, создайте или купите доходные активы. Сдача в аренду, цифровые продукты, бизнес с системами. Здесь живёт настоящее богатство.</p><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — 5 потоков за 7 лет</strong></p><p>Год 1-2: Программист, зарплата 150 000 руб./мес. (Поток 1).</p><p>Год 2-3: Начинает фриланс веб-разработки по выходным: +50 000 руб./мес. (Поток 2).</p><p>Год 3-5: Инвестирует 40 000 руб./мес. в индексные фонды. Портфель ~1 800 000 руб., приносит ~12 000 руб./мес. (Поток 3).</p><p>Год 4-6: Создаёт онлайн-курс по программированию: 30 000 руб./мес. после создания (Поток 4).</p><p>Год 6-7: Покупает квартиру под сдачу: 25 000 руб./мес. чистая аренда (Поток 5).</p><p><strong>Итого к 7 году: 150+50+12+30+25 = 267 000 руб./мес. 44% дохода уже НЕ</strong> <strong>от основной работы. Если потеряет работу — 117 000 руб./мес. останется.</strong></p></blockquote>"
+    },
+    {
+     "num": "7.6",
+     "title": "От дохода к богатству",
+     "html": "<p>Высокий доход не равен богатству. Множество людей с зарплатой 500 000 руб./мес. живут в долг. А многие с 80 000 руб. — миллионеры. Разница — в том, что вы ДЕЛАЕТЕ с доходом.</p><blockquote><p><strong>Формула богатства</strong></p><p>Богатство = (Доход − Расходы) × Время × Доходность</p><p>Доход — лишь первая переменная. Без контроля расходов, инвестирования разницы и предоставления времени для роста — сам по себе доход ничего не создаёт.</p></blockquote><h2>Конвейер «от дохода к богатству»</h2><blockquote><p><strong>1. Зарабатывайте</strong></p><p>Максимизируйте активный доход через навыки, переговоры и карьеру. Это топливо.</p><p><strong>2. Сохраняйте</strong></p><p>Контролируйте расходы по правилу 50/30/20 (Блок 3). Разница между доходом и расходами — ваш двигатель богатства.</p><p><strong>3. Растите</strong></p><p>Инвестируйте разницу: индексные фонды, недвижимость, бизнес. Сложный процент делает тяжёлую работу.</p><p><strong>4. Защищайте</strong></p><p>Страховка (Блок 8). Фонд экстренных ситуаций (Блок 3). Диверсификация. Не дайте одному событию уничтожить годы строительства.</p><p><strong>5. Умножайте</strong></p><p>Реинвестируйте доходы. Прибыль от инвестиций создаёт новые инвестиции. Это петля роста, создающая экспоненциальное богатство.</p><p><strong>Основной вывод — Блок 7</strong></p></blockquote><p><em><strong><em><strong>Доход — стартовая точка, а не конечная. Цель — эволюционировать от</strong></em> <em><strong>обмена времени на деньги (активный доход) к владению активами,</strong></em> <em><strong>генерирующими деньги (пассивный доход). Начните с максимизации</strong></em> <em><strong>зарплаты, запустите подработку на имеющихся навыках, инвестируйте</strong></em> <em><strong>разницу и постепенно стройте пассивные источники. Средний миллионер</strong></em> <em><strong>строил свои потоки 7-15 лет — но математика доступна каждому. ZInvest</strong></em> <em><strong>AI </strong></em></strong></em></p><p><em><strong><em><strong>поможет </strong></em></strong></em></p><p><em><strong><em><strong>определить </strong></em></strong></em></p><p><em><strong><em><strong>лучшую </strong></em></strong></em></p><p><em><strong><em><strong>подработку </strong></em></strong></em></p><p><em><strong><em><strong>для </strong></em></strong></em></p><p><em><strong><em><strong>ваших </strong></em></strong></em></p><p><em><strong><em><strong>навыков,</strong></em></strong></em></p><p><em><strong><em><strong>рассчитать </strong></em></strong></em></p><p><em><strong><em><strong>рост </strong></em></strong></em></p><p><em><strong><em><strong>инвестиций </strong></em></strong></em></p><p><em><strong><em><strong>и </strong></em></strong></em></p><p><em><strong><em><strong>построить </strong></em></strong></em></p><p><em><strong><em><strong>персональный </strong></em></strong></em></p><p><em><strong><em><strong>план</strong></em></strong></em></p><p><em><strong><em><strong>диверсификации дохода.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Словарь ключевых терминов",
+    "html": "<blockquote><p>Все важные понятия Блока 7</p></blockquote><table><tbody><tr><th><p>Активный доход</p></th><th><p>Деньги, заработанные обменом времени и труда. Прекращается, когда прекращаете работать.</p></th></tr><tr><td><p>Пассивный доход</p></td><td><p>Деньги от активов с минимальными текущими усилиями. Аренда, дивиденды, роялти, бизнес-системы.</p></td></tr><tr><td><p>Портфельный доход</p></td><td><p>Доходы от инвестиций: дивиденды, проценты, прирост стоимости акций, облигаций и фондов.</p></td></tr><tr><td><p>Валовой доход</p></td><td><p>Общий заработок до вычетов (налоги, страховка, пенсия). Цифра в трудовом договоре.</p></td></tr><tr><td><p>Чистый доход</p></td><td><p>Доход на руки после всех вычетов. Сумма, реально поступающая на карту. Бюджет считайте по ней.</p></td></tr><tr><td><p>Подработка</p></td><td><p>Любая деятельность для заработка вне основной работы. Фриланс, репетиторство, e-commerce, контент.</p></td></tr><tr><td><p>Фриланс</p></td><td><p>Продажа навыков как независимый подрядчик. Нет работодателя — вы сами ищете клиентов и ставите цены.</p></td></tr><tr><td><p>Карьерный капитал</p></td><td><p>Навыки, сертификаты, репутация и связи, увеличивающие вашу рыночную стоимость со временем.</p></td></tr><tr><td><p>Поток дохода</p></td><td><p>Отдельный источник денег. Несколько потоков = финансовая устойчивость при потере одного.</p></td></tr><tr><td><p>Масштабируемый доход</p></td><td><p>Доход, растущий без пропорционального роста затрат времени. Цифровые продукты, инвестиции, системы.</p></td></tr><tr><td><p>Финансовая независимость</p></td><td><p>Когда пассивный/портфельный доход покрывает все расходы. Работа становится выбором, а не необходимостью.</p></td></tr><tr><td><p>Диверсификация дохода</p></td><td><p>Распределение заработка по нескольким источникам для снижения риска.</p></td></tr><tr><td><p>ROI (Рентабельность инвестиций)</p></td><td><p>Процент прибыли относительно вложений. 100 000 руб. вложено, 112 000 получено = 12% ROI.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Чем пассивный доход отличается от активного?",
+     "choices": [
+      "Пассивный всегда больше активного",
+      "Пассивный поступает от активов и требует минимум текущего времени",
+      "Пассивный не требует никаких усилий",
+      "Пассивный доход нелегален"
+     ],
+     "answer_index": 1,
+     "explanation": "Пассивный доход поступает от активов и требует минимальных постоянных усилий после создания."
+    },
+    {
+     "n": 2,
+     "prompt": "Какое утверждение о видах дохода ВЕРНО?",
+     "choices": [
+      "Зарплата — единственный реальный доход",
+      "Портфельный доход — обмен времени на деньги",
+      "Активный = время за деньги; пассивный = активы генерируют деньги",
+      "Пассивный всегда превышает активный"
+     ],
+     "answer_index": 2,
+     "explanation": "Активный доход = время за деньги (зарплата, фриланс). Пассивный = активы генерируют деньги независимо от вашего времени."
+    },
+    {
+     "n": 3,
+     "prompt": "Что из перечисленного является пассивным доходом?",
+     "choices": [
+      "Повышение зарплаты",
+      "Получение арендной платы от квартиры",
+      "Сверхурочная работа по выходным",
+      "Разовая премия"
+     ],
+     "answer_index": 1,
+     "explanation": "Арендная квартира приносит доход каждый месяц, работаете вы или нет. Актив зарабатывает за вас."
+    },
+    {
+     "n": 4,
+     "prompt": "Почему важно иметь несколько источников дохода?",
+     "choices": [
+      "Чтобы впечатлить друзей",
+      "Чтобы не платить налоги",
+      "Если один источник пропадёт, другие поддержат — снижение финансового риска",
+      "Банки этого требуют"
+     ],
+     "answer_index": 2,
+     "explanation": "Диверсификация защищает от потери единственного источника. Потеря работы при одной зарплате = финансовый кризис."
+    },
+    {
+     "n": 5,
+     "prompt": "Главное преимущество подработки:",
+     "choices": [
+      "Можно сразу уволиться",
+      "Превращает имеющиеся навыки в доход с минимальными стартовыми затратами",
+      "Гарантирует 500 000 руб./мес.",
+      "Заменяет необходимость накоплений"
+     ],
+     "answer_index": 1,
+     "explanation": "Подработка превращает имеющиеся навыки в дополнительный доход с минимальными начальными затратами."
+    },
+    {
+     "n": 6,
+     "prompt": "Первый шаг в быстром старте фриланса:",
+     "choices": [
+      "Уволиться и работать на себя",
+      "Занять 500 000 руб. на оборудование",
+      "Выбрать ОДИН навык, который уже есть, и за который заплатят",
+      "Зарегистрироваться на всех площадках одновременно"
+     ],
+     "answer_index": 2,
+     "explanation": "Фриланс имеет почти нулевые стартовые затраты, гибкий график и может начать приносить доход за дни."
+    },
+    {
+     "n": 7,
+     "prompt": "Валовой доход 150 000 руб./мес. Чистый — 120 000 руб. По какой цифре считать бюджет?",
+     "choices": [
+      "150 000 — это же заработок",
+      "120 000 — это реально полученная сумма",
+      "По средней",
+      "По доходу прошлого года"
+     ],
+     "answer_index": 1,
+     "explanation": "Чистый доход — это то, что вы реально получаете после всех вычетов. Именно с этой суммой составляйте бюджет."
+    },
+    {
+     "n": 8,
+     "prompt": "Какое утверждение о пассивном доходе РЕАЛИСТИЧНО?",
+     "choices": [
+      "Можно зарабатывать 500 000/мес. за 30 дней",
+      "Пассивный доход не требует начальных усилий",
+      "Большинство источников требуют 6-24 месяцев создания и начальных вложений",
+      "Только богатые могут получать пассивный доход"
+     ],
+     "answer_index": 2,
+     "explanation": "Большинство источников пассивного дохода требуют 6-24 месяцев создания и значительных начальных усилий."
+    },
+    {
+     "n": 9,
+     "prompt": "Почему у среднего миллионера 7 источников дохода?",
+     "choices": [
+      "Это юридическое требование",
+      "Несколько потоков = безопасность: если один пропадёт, остальные поддержат",
+      "Им повезло 7 раз",
+      "Банки дают лучшие условия"
+     ],
+     "answer_index": 1,
+     "explanation": "Несколько потоков обеспечивают безопасность: если один пропадёт, остальные поддержат."
+    },
+    {
+     "n": 10,
+     "prompt": "Вы инвестируете 10 000 руб./мес. при 8% годовых 20 лет. Примерный итог:",
+     "choices": [
+      "2 400 000 руб.",
+      "3 600 000 руб.",
+      "5 880 000 руб.",
+      "10 000 000 руб."
+     ],
+     "answer_index": 2,
+     "explanation": "10 000 руб./мес. при 8% за 20 лет = ~5 880 000 руб. Сложный процент превращает маленький доход в капитал."
+    },
+    {
+     "n": 11,
+     "prompt": "В чём разница между валовым и чистым доходом?",
+     "choices": [
+      "Никакой разницы нет",
+      "Валовой — до вычетов; чистый — после налогов, страховки и отчислений",
+      "Чистый всегда выше валового",
+      "Валовой включает только сверхурочные"
+     ],
+     "answer_index": 1,
+     "explanation": "Валовой — до вычетов; чистый — после налогов, страховки и других отчислений. Бюджет считайте по чистому."
+    },
+    {
+     "n": 12,
+     "prompt": "Вы получаете 120 000 руб./мес. Лучший первый шаг к богатству:",
+     "choices": [
+      "Вложить всё в криптовалюту",
+      "Ждать, пока зарплата вырастет до 500 000",
+      "Начать подработку на имеющихся навыках и инвестировать разницу",
+      "Тратить больше для улучшения образа жизни"
+     ],
+     "answer_index": 2,
+     "explanation": "Начните подработку на имеющихся навыках (самый быстрый путь), инвестируйте прибыль для создания пассивного дохода."
+    }
+   ]
+  },
+  "uz": {
+   "unit": 7,
+   "lang": "uz",
+   "title": "Daromad va ishlash",
+   "subtitle": "Aktiv va passiv daromad, bir necha daromad manbalari yaratish, qo'shimcha ish, frilanserlik, ish haqi muzokaralari va vaqtni pulga almashtirishdan aktivlar yaratishga o'tish.",
+   "lessons": [
+    {
+     "num": "7.1",
+     "title": "Daromad turlari",
+     "html": "<p>Ko'pchilik daromadni bitta narsa deb o'ylaydi — ish haqi. Lekin daromad tubdan farqli shakllarda keladi va bu toifalarni tushunish ishlash va boylik haqidagi fikringizni o'zgartiradi.</p><blockquote><p><strong>Asosiy tushuncha</strong></p><p>Ish haqingizning shifti bor — kuniga faqat 24 soat. Lekin passiv va portfel daromadning shifti yo'q, chunki ular sizning vaqtingiz bilan cheklanmagan. Boylar bu farqni tushunadi. Shuning uchun ular ish haqi emas, aktivlar yaratishga e'tibor beradi.</p></blockquote><h2>Daromadning 4 toifasi</h2><table><tbody><tr><th><p>Toifa</p></th><th><p>Qanday ishlaysiz</p></th><th><p>Vaqt</p></th><th><p>Shift</p></th><th><p>Misollar</p></th></tr><tr><td><p>Aktiv</p></td><td><p>Vaqtni pulga almashtirish</p></td><td><p>Yuqori</p></td><td><p>Cheklangan</p></td><td><p>Ish haqi, soatlik to'lov</p></td></tr><tr><td><p>Qo'shimcha</p></td><td><p>Asosiy ishdan tashqari</p></td><td><p>O'rtacha</p></td><td><p>Energiyangiz</p></td><td><p>Frilanserlik, repetitorlik</p></td></tr><tr><td><p>Portfel</p></td><td><p>Investitsiya daromadlari</p></td><td><p>Past</p></td><td><p>Shiftsiz</p></td><td><p>Dividendlar, foizlar</p></td></tr><tr><td><p>Passiv</p></td><td><p>Aktivlar pul ishlab chiqaradi</p></td><td><p>Juda past</p></td><td><p>Shiftsiz</p></td><td><p>Ijara, royalti, biznes</p></td></tr></tbody></table><blockquote><p><strong>AMALIY MISOL — Bir xil ish haqi, turli natijalar</strong></p><p>Ikki do'st, ikkalasi oyiga 8 000 000 so'm oladi:</p><p>Alisher: 8 000 000 ni butunlay sarflaydi. Ishdan bo'shasa — daromad = 0 darhol.</p><p>Nilufar: 6 400 000 ga yashaydi, 1 600 000 ni investitsiya qiladi. 5 yilda 8% bilan: ~118 mln so'm, oyiga ~785 000 so'm daromad keltiradi. 10 yilda: ~290 mln so'm = oyiga ~1 930 000 so'm.</p><p><strong>Bir xil ish haqi. Lekin Nilufar vaqtidan MUSTAQIL ikkinchi daromad oqimini qurmoqda. 15-20</strong> <strong>yildan keyin portfel daromadi xarajatlarini qoplashi mumkin — bu moliyaviy mustaqillik.</strong></p></blockquote>"
+    },
+    {
+     "num": "7.2",
+     "title": "Aktiv daromad va ish haqi",
+     "html": "<p>Ko'pchilik uchun ish haqi boylik qurishning boshlang'ich dvigateli. Maqsad — undan abadiy bog'liq bo'lmaslik, balki boshqa oqimlarni qurayotganda uni maksimallash.</p><h2>Yalpi va sof daromad</h2><table><tbody><tr><td><p><strong>Yalpi daromad (gross)</strong></p><p>Barcha chegirmalardan OLDINGI umumiy daromad. O'z ichiga oladi: maosh, mukofot, ustama Bu mehnat shartnomadagi raqam Siz haqiqatda oladigan Emas</p></td><td><p><strong>Sof daromad (net)</strong></p><p>Siz HAQIQATDA oladigan pul. Soliq, pensiya, sug'urta chiqarilgandan keyin Bu kartangizga tushadigan summa Byudjetni SHU raqam bo'yicha tuzing</p></td></tr></tbody></table><h2>Aktiv daromadni qanday oshirish mumkin</h2><blockquote><p>→<strong> 1. Ish haqi bo'yicha muzokaralar</strong></p><p>Hech qachon birinchi taklifni qabul qilmang. Bozorni o'rganing. 10% muvaffaqiyatli muzokara 8 mln ish haqida = 800 000/oy = 9 600 000/yil — bitta qo'shimcha soatsiz.</p><p>→<strong> 2. Martaba kapitali</strong></p><p>Ko'nikmalar, sertifikatlar, obro' — sizni qimmatroq qiladigan narsalar. Python biladigan tahlilchi bilmaganidan 20-40% ko'proq oladi. Haftasiga 5 soat rivojlanishga investitsiya qiling.</p><p>→<strong> 3. Strategik ish almashish</strong></p><p>Eng katta ish haqi o'sishi ish beruvchini almashtirganida bo'ladi. O'rtacha yillik oshirish: 3-5%. Ish almashtirganda: 15-25%.</p><p>→<strong> 4. Yuqori qiymatli rollarga o'tish</strong></p><p>Sotuvlar, IT, moliya, boshqaruv ko'proq to'laydi chunki ular kompaniya daromadiga bevosita ta'sir qiladi.</p></blockquote>"
+    },
+    {
+     "num": "7.3",
+     "title": "Qo'shimcha ish va frilanserlik",
+     "html": "<p>Qo'shimcha ish — asosiy ishdan tashqari pul ishlashning har qanday usuli. Bu bitta daromad manbasi bilan ko'plab manbalar o'rtasidagi ko'prik. Eng yaxshi qo'shimcha ishlar allaqachon mavjud ko'nikmalarni daromadga aylantiradi.</p><h2>Boshlang'ich xarajat bo'yicha toifalar</h2><table><tbody><tr><th><p>Toifa</p></th><th><p>Boshlang'ich</p></th><th><p>Birinchi pulgacha</p></th><th><p>Potensial</p></th><th><p>Misollar</p></th></tr><tr><td><p>Frilanserlik</p></td><td><p>0-50K so'm</p></td><td><p>Kunlar-haftalar</p></td><td><p>3-30M+ so'm/oy</p></td><td><p>Dizayn, kod, tarjima</p></td></tr><tr><td><p>Repetitorlik</p></td><td><p>0 so'm</p></td><td><p>Kunlar</p></td><td><p>1.5-15M so'm/oy</p></td><td><p>Ingliz tili, matematika</p></td></tr><tr><td><p>Kontent</p></td><td><p>0-200K so'm</p></td><td><p>Oylar</p></td><td><p>0-50M+ so'm/oy</p></td><td><p>YouTube, Telegram, blog</p></td></tr><tr><td><p>E-commerce</p></td><td><p>100K-1M so'm</p></td><td><p>Haftalar-oylar</p></td><td><p>3-30M+ so'm/oy</p></td><td><p>Uzum, Wildberries</p></td></tr><tr><td><p>Xizmatlar</p></td><td><p>0-500K so'm</p></td><td><p>Kunlar</p></td><td><p>3-20M+ so'm/oy</p></td><td><p>Foto, ta'mir, yetkazish</p></td></tr><tr><td><p>Raqamli mahsulot</p></td><td><p>0-100K so'm</p></td><td><p>Haftalar-oylar</p></td><td><p>1-30M+ so'm/oy</p></td><td><p>Shablonlar, kurslar, kitob</p></td></tr></tbody></table><h2>Frilanserlikning tezkor boshlash sxemasi — 5 qadam</h2><blockquote><p><strong>1-qadam: Sotish uchun BITTA ko'nikma tanlang</strong></p><p>Odamlar sizdan nimada yordam so'raydi? Ishda nimani yaxshi qilasiz? Dizayn, yozuv, kod, repetitorlik — pulga eng yaqinini tanlang.</p><p><strong>2-qadam: Portfolio uchun 3 ta ish yarating</strong></p><p>Hali mijoz yo'qmi? Namuna ishlar yarating. Dizayner 3 ta maket qiladi. Yozuvchi 3 ta maqola yozadi. Isbotlangan qobiliyat va'dalarni yengadi.</p><p><strong>3-qadam: 2-3 platformaga yozing</strong></p><p>Kwork, Upwork, FL.ru, Telegram guruhlar, LinkedIn. Boshida keng to'r tashlang.</p><p><strong>4-qadam: Avval past narx, keyin ko'taring</strong></p><p>Birinchi 3 mijoz: bozordan 20-30% past narx — sharhlar va obro' uchun. 5+ sharhdan keyin bozor narxiga. 10+ dan keyin premium.</p><p><strong>5-qadam: Tizimlashtirig va kengaytiring</strong></p><p>Shablonlar, avtomatlashtirish, jarayonlar. Maqsad: har safar noldan boshlamasdan barqaror sifat berish.</p></blockquote>"
+    },
+    {
+     "num": "7.4",
+     "title": "Passiv daromad",
+     "html": "<p>Passiv daromad — shaxsiy moliyaning muqaddas grali. Ishlaysizmi, yo'qmi — pul keladi. Lekin uning atrofida ko'p miflar bor.</p><blockquote><p><strong>Passiv daromad haqida haqiqat</strong></p><p>Nol sa'y-harakat bilan haqiqiy passiv daromad mavjud emas. Har bir manba sezilarli boshlang'ich ish, kapital yoki ikkalasini ham talab qiladi. Uni 'passiv' qiladigan narsa — doimiy sa'y-harakat daromadga nisbatan juda kichik bo'lishi.</p></blockquote><h2>Real passiv daromad manbalari</h2><table><tbody><tr><th><p>Manba B</p></th><th><p>oshlang'ich sarmoy</p></th><th><p>a Doimiy sa'y</p></th><th><p>Oylik potensial</p></th><th><p>Yaratish muddati</p></th></tr><tr><td><p>Dividend aksiyalari</p></td><td><p>30-300M+ so'm</p></td><td><p>Juda past</p></td><td><p>500K-5M+ so'm</p></td><td><p>1-5 yil</p></td></tr><tr><td><p>Ijaraga berish</p></td><td><p>150-700M+ so'm</p></td><td><p>O'rtacha</p></td><td><p>3-20M+ so'm</p></td><td><p>6-12 oy</p></td></tr><tr><td><p>Indeks fond o'sishi</p></td><td><p>10-300M+ so'm</p></td><td><p>Deyarli nol</p></td><td><p>Sezilarsis o'sadi</p></td><td><p>5-20+ yil</p></td></tr><tr><td><p>Raqamli mahsulotlar</p></td><td><p>0-3M so'm (vaqt)</p></td><td><p>Past</p></td><td><p>1-30M+ so'm</p></td><td><p>3-12 oy</p></td></tr><tr><td><p>Kontent royaltilari</p></td><td><p>0 (vaqt)</p></td><td><p>Past</p></td><td><p>500K-15M+ so'm</p></td><td><p>6-24 oy</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Passiv daromad MIFLARI</strong></p><p>✗ Hech qanday sa'y-harakatsiz boyish</p><p>✗ 30 kunda 50M so'm/oy</p><p>✗ Ko'nikma yoki kapital kerak emas</p><p>✗ Sozlab qo'yib, butunlay unutish</p><p>✗ Hamma darhol qila oladi Juda yaxshi eshitilsa — bu aldov.</p></td><td><p><strong>Passiv daromad HAQIQATI</strong></p><p>✓ Sezilarli boshlang'ich ish talab qiladi</p><p>✓ 6-24 oy yaratiladi</p><p>✓ Ko'nikma, kapital yoki ikkalasi kerak</p><p>✓ Vaqti-vaqti bilan xizmat ko'rsatish kerak</p><p>✓ Yillar davomida o'sadi, kunlar emas Haqiqiy passiv daromad quriladi, topilmaydi.</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "7.5",
+     "title": "Bir necha daromad manbasi yaratish",
+     "html": "<p>O'rtacha millioner 7 ta daromad manbasiga ega. 7 marta omad kelgani uchun emas, balki har birini tizimli ravishda qurgani uchun. Mana sxema.</p><h2>Daromad manbalari zinasi</h2><blockquote><p>→<strong> 1-daraja: Asosiy ish (aktiv)</strong></p><p>Hamma shu yerdan boshlaydi. Muzokaralar, ko'nikmalar va strategik ish o'zgarishlari orqali maksimallang. Bu qolgan hamma narsaning yoqilg'isi.</p><p>→<strong> 2-daraja: Qo'shimcha ish (aktiv)</strong></p><p>1-daraja ko'nikmalarini ishlatib qo'shimcha ishlang. Marketolog dam olish kunlari freelance qiladi. O'qituvchi onlayn repetitorlik qiladi. Oyiga 1.5-6M so'm qo'shiladi.</p><p>→<strong> 3-daraja: Investitsiyalar (portfel)</strong></p><p>1 va 2-darajadagi pulni investitsiya qiling. Indeks fondlari, dividend aksiyalar, obligatsiyalar. Fonda jimgina o'sadi. Daromadning 20% dan boshlang.</p><p>→<strong> 4-daraja: Aktivlar (passiv)</strong></p><p>Kapital to'plangach, daromad keltiradigan aktivlar yarating yoki sotib oling. Ijara, raqamli mahsulotlar, tizimlashtirilgan biznes. Haqiqiy boylik shu yerda yashaydi.</p><p><strong>AMALIY MISOL — 7 yilda 5 ta oqim qurish</strong></p><p>1-2 yil: Dasturchi, ish haqi 10 000 000 so'm/oy (1-oqim).</p><p>2-3 yil: Dam olish kunlari freelance veb-ishlanma: +3 500 000 so'm/oy (2-oqim).</p><p>3-5 yil: Oyiga 2 000 000 so'm indeks fondga investitsiya. Portfel ~120 mln so'm, oyiga ~800 000 so'm daromad (3-oqim).</p><p>4-6 yil: Dasturlash bo'yicha onlayn kurs yaratadi: 2 000 000 so'm/oy doimiy (4-oqim).</p><p>6-7 yil: Ijaraga kichik kvartira sotib oladi: 1 500 000 so'm/oy sof ijara (5-oqim).</p><p><strong>7-yil natijasi: 10+3.5+0.8+2+1.5 = 17 800 000 so'm/oy. 44% asosiy ishdan EMAS. Ishdan</strong> <strong>bo'shasa ham 7 800 000 so'm/oy qoladi.</strong></p></blockquote>"
+    },
+    {
+     "num": "7.6",
+     "title": "Daromaddan boylikka",
+     "html": "<p>Yuqori daromad = boylik emas. Oyiga 50 000 000 so'm oluvchilarning ko'pi qarzda yashaydi. 6 000 000 so'm oluvchilarning ko'pi esa millioner. Farq — daromad bilan nima QILISHINGIZDA.</p><blockquote><p><strong>Boylik formulasi</strong></p><p>Boylik = (Daromad − Xarajatlar) × Vaqt × Daromadlilik</p><p>Daromad faqat birinchi o'zgaruvchi. Xarajatlarni nazorat qilmay, farqni investitsiya qilmay va vaqt bermay — daromadning o'zi hech narsa yaratmaydi.</p></blockquote><h2>Daromaddan boylikka konveyer</h2><blockquote><p><strong>1. Ishlang</strong></p><p>Aktiv daromadni ko'nikmalar, muzokaralar va martaba orqali maksimallang. Bu yoqilg'i.</p><p><strong>2. Saqlang</strong></p><p>50/30/20 qoidasi (3-Blok) bo'yicha xarajatlarni nazorat qiling. Daromad va xarajat orasidagi farq — boylik dvigatelingiz.</p><p><strong>3. O'stiring</strong></p><p>Farqni investitsiya qiling: indeks fondlar, ko'chmas mulk, biznes. Murakkab foiz og'ir ishni bajaradi.</p><p><strong>4. Himoyalang</strong></p><p>Sug'urta (8-Blok). Favqulodda fond (3-Blok). Diversifikatsiya. Bitta hodisa yillar mehnatingizni yo'q qilishiga yo'l qo'ymang.</p><p><strong>5. Ko'paytiring</strong></p><p>Daromadlarni qayta investitsiya qiling. Investitsiya foydasi yangi investitsiyalar yaratadi. Bu eksponentsial boylik yaratuvchi o'sish halqasi.</p><p><strong>Asosiy xulosa — 7-Blok</strong></p></blockquote><p><em><strong><em><strong>Daromad boshlang'ich nuqta, manzil emas. Maqsad — vaqtni pulga almashtirish (aktiv</strong></em> <em><strong>daromad) dan mustaqil pul ishlab chiqaradigan aktivlarga ega bo'lish (passiv daromad) ga</strong></em> <em><strong>evolyutsiya qilish. Ish haqini maksimallab boshlang, mavjud ko'nikmalar bilan qo'shimcha</strong></em> <em><strong>ish qiling, farqni investitsiya qiling va asta-sekin passiv manbalar quring. O'rtacha millioner</strong></em> <em><strong>7-15 yilda o'z oqimlarini qurgan — lekin matematika hammaga ochiq. ZInvest AI</strong></em> <em><strong>ko'nikmalaringiz uchun eng yaxshi qo'shimcha ishni aniqlash, investitsiyalar o'sishini</strong></em> <em><strong>hisoblash va shaxsiy daromad diversifikatsiya rejasini qurishda yordam beradi.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Atamalar lug'ati",
+    "html": "<blockquote><p>7-blokdagi barcha muhim tushunchalar</p></blockquote><table><tbody><tr><th><p>Aktiv daromad</p></th><th><p>Vaqt va mehnat almashtirib ishlanadigan pul. Ishlashni to'xtatsangiz, to'xtaydi.</p></th></tr><tr><td><p>Passiv daromad</p></td><td><p>Aktivlardan minimal doimiy sa'y bilan keladigan pul. Ijara, dividendlar, royalti.</p></td></tr><tr><td><p>Portfel daromad</p></td><td><p>Investitsiya daromadlari: dividendlar, foizlar, aksiyalar qiymat o'sishi.</p></td></tr><tr><td><p>Yalpi daromad</p></td><td><p>Barcha chegirmalardan oldingi umumiy daromad. Mehnat shartnomadagi raqam.</p></td></tr><tr><td><p>Sof daromad</p></td><td><p>Barcha chegirmalardan keyingi daromad. Kartangizga tushadigan haqiqiy summa.</p></td></tr><tr><td><p>Qo'shimcha ish</p></td><td><p>Asosiy ishdan tashqari har qanday daromad faoliyati. Frilanserlik, repetitorlik, savdo.</p></td></tr><tr><td><p>Frilanserlik</p></td><td><p>Mustaqil pudratchi sifatida ko'nikmalarni sotish. Ish beruvchi yo'q — o'zingiz mijoz topasiz.</p></td></tr><tr><td><p>Martaba kapitali</p></td><td><p>Ko'nikmalar, sertifikatlar, obro' va aloqalar — bozor qiymatini oshiradigan narsalar.</p></td></tr><tr><td><p>Daromad oqimi</p></td><td><p>Alohida pul manbasi. Bir necha oqim = biri yo'qolsa moliyaviy barqarorlik.</p></td></tr><tr><td><p>Masshtablashtiriluvc hi daromad</p></td><td><p>Vaqt oshmasdan o'sadigan daromad. Raqamli mahsulotlar, investitsiyalar, tizimlar.</p></td></tr><tr><td><p>Moliyaviy mustaqillik</p></td><td><p>Passiv/portfel daromad barcha xarajatlarni qoplaganda. Ishlash ixtiyoriy bo'ladi.</p></td></tr><tr><td><p>Diversifikatsiya</p></td><td><p>Daromadni bir necha manbaga taqsimlash — xavfni kamaytirish uchun.</p></td></tr><tr><td><p>ROI</p></td><td><p>Investitsiya rentabelligi. 1 mln investitsiya, 1.12 mln qaytish = 12% ROI.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Passiv daromadni aktiv daromaddan nimasi farq qiladi?",
+     "choices": [
+      "Passiv har doim ko'proq pul",
+      "Passiv aktivlardan keladi va minimal doimiy vaqt talab qiladi",
+      "Passiv hech qanday sa'y-harakat talab qilmaydi",
+      "Passiv daromad noqonuniy"
+     ],
+     "answer_index": 1,
+     "explanation": "Passiv daromad aktivlardan keladi va doimiy minimal vaqt talab qiladi."
+    },
+    {
+     "n": 2,
+     "prompt": "Daromad turlari haqida qaysi fikr TO'G'RI?",
+     "choices": [
+      "Ish haqi — yagona haqiqiy daromad",
+      "Portfel daromad — vaqtni pulga almashtirish",
+      "Aktiv = vaqt uchun pul; passiv = aktivlar pul ishlab chiqaradi",
+      "Passiv har doim aktivdan ko'p"
+     ],
+     "answer_index": 2,
+     "explanation": "Aktiv daromad = vaqtni pulga almashtirish. Passiv = aktivlar vaqtingizdan mustaqil pul ishlab chiqaradi."
+    },
+    {
+     "n": 3,
+     "prompt": "Quyidagilardan qaysi biri passiv daromad?",
+     "choices": [
+      "Ish haqi oshirish",
+      "Kvartirangizdan ijara haqi olish",
+      "Dam olish kunlari qo'shimcha ishlash",
+      "Bir martalik mukofot olish"
+     ],
+     "answer_index": 1,
+     "explanation": "Ijaraga berilgan kvartira har oy daromad keltiradi, ishlaysizmi yo'qmi. Aktiv siz uchun ishlaydi."
+    },
+    {
+     "n": 4,
+     "prompt": "Bir necha daromad manbasiga ega bo'lish nima uchun muhim?",
+     "choices": [
+      "Do'stlarni hayratda qoldirish",
+      "Soliq to'lamaslik uchun",
+      "Bitta manba yo'qolsa, boshqalari qo'llab-quvvatlaydi — moliyaviy xavf kamayadi",
+      "Banklar talab qiladi"
+     ],
+     "answer_index": 2,
+     "explanation": "Diversifikatsiya bitta manbani yo'qotishdan himoya qiladi. Faqat bitta ish haqi bilan ishdan bo'shash = moliyaviy inqiroz."
+    },
+    {
+     "n": 5,
+     "prompt": "Qo'shimcha ishning asosiy ustunligi:",
+     "choices": [
+      "Darhol asosiy ishdan ketish mumkin",
+      "Mavjud ko'nikmalarni minimal xarajat bilan qo'shimcha daromadga aylantiradi",
+      "Oyiga 50 mln so'm kafolati",
+      "Tejash zaruriyatini yo'q qiladi"
+     ],
+     "answer_index": 1,
+     "explanation": "Qo'shimcha ish mavjud ko'nikmalarni minimal boshlang'ich xarajat bilan qo'shimcha daromadga aylantiradi."
+    },
+    {
+     "n": 6,
+     "prompt": "Frilanserlik tezkor boshlash sxemasida ENG YAXSHI birinchi qadam:",
+     "choices": [
+      "Ishdan bo'shab to'liq ishlash",
+      "50 mln so'm qarz olib jihozlar sotib olish",
+      "Allaqachon mavjud bo'lgan va to'lanadigan BITTA ko'nikmani tanlash",
+      "Barcha platformalarda bir vaqtda ro'yxatdan o'tish"
+     ],
+     "answer_index": 2,
+     "explanation": "Frilansingda deyarli nol boshlang'ich xarajat, moslashuvchan jadval va kunlar ichida daromad keltirishi mumkin."
+    },
+    {
+     "n": 7,
+     "prompt": "Yalpi daromad 10 mln so'm/oy. Sof — 8 mln. Qaysi raqam bo'yicha byudjet tuzasiz?",
+     "choices": [
+      "10 mln — bu ishlaganingiz",
+      "8 mln — bu haqiqatda oladigan summangiz",
+      "O'rtachasi",
+      "O'tgan yilgi daromad bo'yicha"
+     ],
+     "answer_index": 1,
+     "explanation": "Sof daromad — bu siz haqiqatda oladigan pul. Byudjetni shu raqam bo'yicha tuzing."
+    },
+    {
+     "n": 8,
+     "prompt": "Passiv daromad haqida qaysi fikr REAL?",
+     "choices": [
+      "30 kunda 50 mln so'm passiv ishlash mumkin",
+      "Passiv daromad boshlang'ich ish talab qilmaydi",
+      "Ko'pchilik manbalar 6-24 oy yaratish va boshlang'ich sa'y talab qiladi",
+      "Faqat boylar passiv daromad olishi mumkin"
+     ],
+     "answer_index": 2,
+     "explanation": "Ko'pchilik passiv daromad manbalari 6-24 oy yaratish va sezilarli boshlang'ich sa'y-harakat talab qiladi."
+    },
+    {
+     "n": 9,
+     "prompt": "O'rtacha millionerda nima uchun 7 ta daromad manbasi bor?",
+     "choices": [
+      "Qonuniy talab",
+      "Bir necha oqim xavfsizlik ta'minlaydi: biri yo'qolsa, boshqalari qo'llab-quvvatlaydi",
+      "7 marta omad kelgan",
+      "Banklar yaxshiroq shart beradi"
+     ],
+     "answer_index": 1,
+     "explanation": "Bir nechta oqim xavfsizlikni ta'minlaydi: biri yo'qolsa, qolganlari qo'llab-quvvatlaydi."
+    },
+    {
+     "n": 10,
+     "prompt": "Oyiga 500 000 so'm 8% bilan 20 yil investitsiya qilsangiz, taxminan qancha bo'ladi?",
+     "choices": [
+      "120 mln so'm",
+      "180 mln so'm",
+      "294 mln so'm",
+      "500 mln so'm"
+     ],
+     "answer_index": 2,
+     "explanation": "500 000 so'm/oy 8% da 20 yil = ~294 mln so'm. Murakkab foiz kichik daromadni kapitalga aylantiradi."
+    },
+    {
+     "n": 11,
+     "prompt": "Yalpi va sof daromad o'rtasidagi farq nima?",
+     "choices": [
+      "Farq yo'q",
+      "Yalpi — chegirmalardan oldin; sof — soliq va boshqa chegirmalardan keyin",
+      "Sof har doim yalpidan yuqori",
+      "Yalpi faqat qo'shimcha ish haqini o'z ichiga oladi"
+     ],
+     "answer_index": 1,
+     "explanation": "Yalpi — chegirmalardan oldin; sof — soliqlar va boshqa chegirmalardan keyin. Byudjetni sof bo'yicha tuzing."
+    },
+    {
+     "n": 12,
+     "prompt": "Oyiga 8 mln so'm olasiz. Boylik qurishning eng yaxshi birinchi qadami:",
+     "choices": [
+      "Hammasini kriptovalyutaga investitsiya qilish",
+      "Ish haqi 50 mln bo'lguncha kutish",
+      "Mavjud ko'nikmalar bilan qo'shimcha ish boshlash va farqni investitsiya qilish",
+      "Hayot tarzini yaxshilash uchun ko'proq sarflash"
+     ],
+     "answer_index": 2,
+     "explanation": "Mavjud ko'nikmalar bilan qo'shimcha ish boshlang (eng tez yo'l), foydani passiv daromad yaratish uchun investitsiya qiling. Ball bo'yicha yo'riqnoma 12/12: A'lo! 7-Blokni to'liq o'zlashtirdingiz. 8-Blokga tayyorsiz! 10-11: Juda yaxshi — xato qilgan bo'limlarni qayta ko'ring. 8-9: Yaxshi — 7.3 va 7.4 bo'limlarni misollar bilan qayta o'qing. 6-7: Barcha bo'limlarni lug'at bilan birgalikda takrorlang. 6 dan past: Boshidan qayta o'qing, misollar va jadvallarga e'tibor bering."
+    }
+   ]
+  }
+ }
+}

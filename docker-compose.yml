@@ -1,0 +1,99 @@
+name: zinvest
+
+# Full stack: Postgres + Redis + Django/Gunicorn + Nginx (serves the built SPA
+# and reverse-proxies /api + /admin). Migrations + collectstatic run ONCE in a
+# dedicated one-shot `migrate` service so scaling `web` never races them.
+#
+#   cp .env.example .env.docker   # then fill SECRET_KEY, JWT_SIGNING_KEY, DB_*
+#   docker compose --env-file .env.docker up --build
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${DB_NAME:-zinvest}
+      POSTGRES_USER: ${DB_USER:-zinvest}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?set DB_PASSWORD in .env.docker}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  # One-shot: apply migrations + collect admin static, then exit.
+  migrate:
+    build:
+      context: ./backend
+    env_file: [.env.docker]
+    environment:
+      DB_HOST: db
+      REDIS_URL: redis://redis:6379/0
+    command: >
+      sh -c "python manage.py migrate --noinput &&
+             python manage.py collectstatic --noinput"
+    volumes:
+      - static:/app/staticfiles
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: "no"
+
+  web:
+    build:
+      context: ./backend
+    env_file: [.env.docker]
+    environment:
+      DB_HOST: db
+      REDIS_URL: redis://redis:6379/0
+      GUNICORN_BIND: 0.0.0.0:8000
+      FORWARDED_ALLOW_IPS: "*"        # trust the nginx proxy on the private network
+    expose:
+      - "8000"
+    volumes:
+      - media:/app/media
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      migrate:
+        condition: service_completed_successfully
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/admin/login/')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  nginx:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    ports:
+      - "80:80"
+      # - "443:443"   # enable with the self-signed cert block in compose.conf
+    volumes:
+      - static:/usr/share/nginx/static:ro
+      - media:/usr/share/nginx/media:ro
+      # - ./deploy/nginx/certs:/etc/nginx/certs:ro
+    depends_on:
+      web:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  pgdata:
+  static:
+  media:

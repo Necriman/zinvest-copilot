@@ -1,0 +1,569 @@
+{
+ "unit": 5,
+ "langs": {
+  "en": {
+   "unit": 5,
+   "lang": "en",
+   "title": "Credit & Debt Mastery",
+   "subtitle": "Credit scores, loan types, mortgage fundamentals, understanding interest rates, and proven strategies to escape the debt trap.",
+   "lessons": [
+    {
+     "num": "5.1",
+     "title": "How Credit Works",
+     "html": "<p>Credit is when a bank or financial institution lends you money under specific terms. You pay back not just the amount borrowed, but interest on top — the price of using someone else's money.</p><p><strong>Formal Definition</strong></p><p>Credit is a contractual agreement between a lender (bank) and a borrower (you), where the bank provides a specified sum and you commit to repaying it with interest within an agreed timeframe.</p><h2>Participants in the Credit Process</h2><table><tbody><tr><th><p>Participant</p></th><th><p>Role</p></th><th><p>Interest</p></th></tr><tr><td><p>Borrower (you)</p></td><td><p>Receives and uses the money</p></td><td><p>Get what you need now</p></td></tr><tr><td><p>Lender (bank)</p></td><td><p>Provides the money</p></td><td><p>Earn interest income</p></td></tr><tr><td><p>Guarantors</p></td><td><p>Liable if borrower defaults</p></td><td><p>Help the borrower qualify</p></td></tr><tr><td><p>Credit Bureau</p></td><td><p>Collects credit history data</p></td><td><p>Maintains the database</p></td></tr></tbody></table><h2>Steps to Getting a Loan</h2><p><strong>Step 1: Application</strong></p><p>Submit your request with ID, proof of income, and employment verification.</p><p><strong>Step 2: Credit Check</strong></p><p>The bank reviews your credit score and payment history. Have you repaid previous debts on time?</p><p><strong>Step 3: Assessment &amp; Decision</strong></p><p>The bank evaluates your income, expenses, and credit history to approve or deny.</p><p><strong>Step 4: Contract Signing</strong></p><p>Terms include: amount, duration, interest rate, penalty clauses. Read EVERY line.</p><p><strong>Step 5: Disbursement &amp; Repayment</strong></p><p>Money hits your account. You begin monthly payments of principal + interest.</p><p><strong>REAL EXAMPLE — The Credit Process in Action</strong></p><p>James wants a new laptop — price $1,200. He has $500 saved.</p><p>He takes a $700 loan: 22% APR, 12-month term.</p><p>Monthly payment: ~$65.50. Total over 12 months: ~$786.</p><p>Interest cost: $786 - $700 = $86. The laptop's TRUE cost: $1,286, not $1,200.</p><p><strong>Question: Is paying $86 extra worth it? Or is it smarter to wait 3-4 months and save the full</strong> <strong>amount?</strong></p>"
+    },
+    {
+     "num": "5.2",
+     "title": "Your Credit Score",
+     "html": "<p>Your credit score is a numerical representation of your financial reliability. It is the FIRST thing a bank checks before approving any loan.</p><p><strong>Why Your Score Matters</strong></p><p>High score = lower interest rate = less total payment. Low score = higher rate = thousands more in payments or outright rejection. The difference can be tens of thousands of dollars over a loan's lifetime.</p><h2>What Affects Your Credit Score?</h2><table><tbody><tr><th><p>Factor</p></th><th><p>Impact Level</p></th><th><p>Explanation</p></th></tr><tr><td><p>Payment History</p></td><td><p>Very High (35%)</p></td><td><p>Did you pay on time? Even one late payment affects your score</p></td></tr><tr><td><p>Credit Utilization</p></td><td><p>High (30%)</p></td><td><p>How much of your available credit are you using?</p></td></tr><tr><td><p>Length of History</p></td><td><p>Medium (15%)</p></td><td><p>Longer credit history = more data = better score</p></td></tr><tr><td><p>New Applications</p></td><td><p>Medium (10%)</p></td><td><p>Many applications = many rejections = lower score</p></td></tr><tr><td><p>Credit Mix</p></td><td><p>Low (10%)</p></td><td><p>Variety of credit types (mortgage, card, loan) is a positive signal</p></td></tr></tbody></table><h2>How to Improve Your Credit Score</h2><p><strong>Always pay on time</strong></p><p>Never miss even a small payment. Set up automatic payments for everything.</p><p><strong>Keep utilization below 30%</strong></p><p>If your card limit is $10,000, never carry more than $3,000 balance.</p><p><strong>Clear old outstanding debts</strong></p><p>Unpaid old debts damage your score severely. Resolve them first.</p><p><strong>Don't apply for credit you don't need</strong></p><p>Every application creates a hard inquiry. Apply only when you genuinely need it.</p>"
+    },
+    {
+     "num": "5.3",
+     "title": "Types of Debt",
+     "html": "<p>Not all debt is created equal. Each type has its own purpose, rate, and risk level. Choosing wisely saves thousands.</p><table><tbody><tr><th><p>Loan Type</p></th><th><p>Typical Rate</p></th><th><p>Term</p></th><th><p>Collateral</p></th><th><p>Best Used For</p></th></tr><tr><td><p>Personal Loan</p></td><td><p>8-24%</p></td><td><p>6-60 months</p></td><td><p>None</p></td><td><p>Small purchases, consolidation</p></td></tr><tr><td><p>Credit Card</p></td><td><p>18-28%</p></td><td><p>Revolving</p></td><td><p>None</p></td><td><p>Short-term, pay in full monthly</p></td></tr><tr><td><p>Auto Loan</p></td><td><p>5-12%</p></td><td><p>24-72 months</p></td><td><p>Vehicle</p></td><td><p>Buying a car</p></td></tr><tr><td><p>Student Loan</p></td><td><p>4-10%</p></td><td><p>10-25 years</p></td><td><p>None</p></td><td><p>Education that boosts income</p></td></tr><tr><td><p>Mortgage</p></td><td><p>3-8%</p></td><td><p>15-30 years</p></td><td><p>Property</p></td><td><p>Buying a home</p></td></tr><tr><td><p>Business Loan</p></td><td><p>6-18%</p></td><td><p>12-84 months</p></td><td><p>Varies</p></td><td><p>Starting or growing a business</p></td></tr><tr><td><p>Payday Loan</p></td><td><p>300-700%+</p></td><td><p>7-30 days</p></td><td><p>None</p></td><td><p>NEVER — absolute last resort</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Good Debt</strong></p><p>Debt taken on assets that create future value or generate income.</p><ul><li><p>Mortgage (property appreciates)</p></li><li><p>Student loan (increases earning power)</p></li><li><p>Business loan (ROI &gt; interest rate)</p></li></ul><p>Rule: Expected return &gt; cost of debt</p></td><td><p><strong>Bad Debt</strong></p><p>Debt taken on things that lose value immediately.</p><ul><li><p>Consumer electronics on credit</p></li><li><p>Credit card balance carried (18-28%!)</p></li><li><p>Payday loans (300%+ APR)</p></li></ul><p>Rule: The item depreciates faster than you pay interest</p></td></tr></tbody></table><p><strong>WARNING: Payday Lenders</strong></p><p>Payday loans charge 300-700%+ APR. Borrow $500 for 14 days and you owe $575. Miss the deadline and fees compound on fees. This is the most dangerous form of the debt spiral. Use payday lenders ONLY in a genuine life-or-death emergency — and even then, exhaust every other option first.</p>"
+    },
+    {
+     "num": "5.4",
+     "title": "Mortgage Basics",
+     "html": "<p>A mortgage is the largest financial commitment most people will ever make. It is a long-term loan to buy property, where the property itself serves as collateral.</p><h2>Key Mortgage Concepts</h2><table><tbody><tr><th><p>Concept</p></th><th><p>Meaning</p></th><th><p>Example</p></th></tr><tr><td><p>Down Payment</p></td><td><p>The portion you pay upfront</p></td><td><p>20% = $60,000 (on a $300,000 home)</p></td></tr><tr><td><p>Loan Amount</p></td><td><p>The portion the bank provides</p></td><td><p>80% = $240,000</p></td></tr><tr><td><p>Interest Rate</p></td><td><p>Annual cost of borrowing</p></td><td><p>6.5% per year</p></td></tr><tr><td><p>Loan Term</p></td><td><p>Repayment period</p></td><td><p>30 years = 360 months</p></td></tr><tr><td><p>Monthly Payment</p></td><td><p>Amount due each month</p></td><td><p>~$1,517</p></td></tr><tr><td><p>Total Paid</p></td><td><p>Total over the loan's lifetime</p></td><td><p>~$546,000 ($306K in interest!)</p></td></tr></tbody></table><p><strong>REAL EXAMPLE — The True Cost of a Mortgage</strong></p><p>Home price: $300,000. Down payment: 20% = $60,000.</p><p>Loan: $240,000 at 6.5% for 30 years.</p><p>Monthly payment: ~$1,517. Total paid over 30 years: ~$546,000.</p><p>Interest cost ALONE: $546,000 - $240,000 = $306,000!</p><p><strong>You pay MORE in interest than the loan itself. That is why: 1) Make the down payment as large</strong> <strong>as possible. 2) Choose the shortest term you can afford. 3) Compare rates — even 0.5%</strong> <strong>difference saves tens of thousands.</strong></p>"
+    },
+    {
+     "num": "5.5",
+     "title": "Understanding Interest Rates",
+     "html": "<p>Most people only look at the monthly payment when taking a loan. To understand the real cost, you need to understand the full picture of interest rates.</p><h2>Nominal Rate vs APR</h2><table><tbody><tr><td><p><strong>Nominal Rate</strong></p><p>The headline rate banks advertise. Does not include additional costs. Example: Bank advertises 6% per year But: origination fee 1%, insurance 0.5%, other charges add up...</p></td><td><p><strong>APR (Annual Percentage Rate)</strong></p><p>The TRUE annual cost including ALL fees and charges. Example: Actual APR = 7.8% Always compare APR across lenders, never the headline rate!</p></td></tr></tbody></table><h2>Fixed vs Variable Rate</h2><table><tbody><tr><th><p></p></th><th><p>Fixed Rate</p></th><th><p>Variable Rate</p></th></tr><tr><td><p>How it works</p></td><td><p>Same rate for entire loan term</p></td><td><p>Rate changes with market conditions</p></td></tr><tr><td><p>Monthly payment</p></td><td><p>Predictable, never changes</p></td><td><p>Can increase or decrease</p></td></tr><tr><td><p>Best when</p></td><td><p>Rates are low — lock them in</p></td><td><p>Rates are high and expected to drop</p></td></tr><tr><td><p>Risk</p></td><td><p>No risk of rate increase</p></td><td><p>Risk of payment shock if rates rise</p></td></tr></tbody></table><h2>Hidden Fees — What to Watch For</h2><p><strong>Origination Fee</strong></p><p>1-3% of the loan amount. On a $10,000 loan, that's $100-$300 deducted IMMEDIATELY.</p><p><strong>Monthly Service Fee</strong></p><p>Some lenders charge 0.5-1% monthly. This increases the effective annual rate by 6-12%!</p><p><strong>Prepayment Penalty</strong></p><p>Some lenders penalize you for paying off early. Check the contract before signing.</p><p><strong>Mandatory Insurance</strong></p><p>Some loans require insurance that adds 1-3% annually to your true cost.</p>"
+    },
+    {
+     "num": "5.6",
+     "title": "Debt Exit Strategies",
+     "html": "<p>If you are already in debt, do not despair. There are proven, battle-tested strategies to escape any debt situation.</p><h2>Strategy 1: Map All Your Debts</h2><p>First step — list every debt you owe: amount, interest rate, monthly payment, remaining term. Most people do not know the full picture of their debt.</p><h2>Strategy 2: The Avalanche Method (Most Efficient)</h2><p><strong>Mathematically Optimal</strong></p><p>Make minimum payments on all debts. Put every extra dollar toward the HIGHEST interest rate debt. Once that is cleared, move to the next highest. Saves the most money in total interest paid.</p><p><em><strong><em><strong>Why it works: you eliminate the most expensive debt first, reducing total interest over time.</strong></em></strong></em></p><h2>Strategy 3: The Snowball Method (Most Motivating)</h2><p><strong>Psychologically Powerful</strong></p><p>Make minimum payments on all debts. Put every extra dollar toward the SMALLEST balance. Once that is cleared, roll that payment into the next smallest. Quick wins fuel momentum.</p><p><em><strong><em><strong>Why it works: each eliminated debt gives a psychological victory that keeps you going.</strong></em></strong></em></p><h2>Strategy 4: Debt Consolidation / Refinancing</h2><p><strong>Lower Your Rate</strong></p><p>Combine multiple high-interest debts into one lower-interest loan. For example, replace three credit cards at 24% with one personal loan at 10%. Requires decent credit score and stable income.</p><h2>Strategy 5: Increase Your Income</h2><p><strong>Fastest Impact</strong></p><p>Freelance, overtime, sell unused items — direct every extra dollar straight to debt repayment. Even an extra $200/month can shave years off your debt timeline.</p><p><strong>Core Takeaway — Unit 5</strong></p><p><em><strong><em><strong>Credit is finance's double-edged sword. Used wisely (mortgage, education, business) it</strong></em> <em><strong>accelerates wealth. Used carelessly (consumer credit, payday loans, carried card balances) it</strong></em> <em><strong>traps you in years of financial servitude. Protect your credit score, always compare APR,</strong></em> <em><strong>watch for hidden fees, and avoid the debt spiral at all costs. ZInvest AI can analyze any loan,</strong></em> <em><strong>calculate the true cost, and build a personalized debt exit plan.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Key Terms Glossary",
+    "html": "<blockquote><p>All important terms from Unit 5 clearly defined</p></blockquote><table><tbody><tr><th><p>Credit</p></th><th><p>Money provided by a lender under agreed terms. Repaid with interest over a set period.</p></th></tr><tr><td><p>Credit Score</p></td><td><p>A numerical rating of your financial reliability. Higher score = lower rates; lower score = higher rates or denial.</p></td></tr><tr><td><p>APR</p></td><td><p>Annual Percentage Rate — the true yearly cost of borrowing including all fees. Always compare APR, not the nominal rate.</p></td></tr><tr><td><p>Amortization</p></td><td><p>The process of spreading loan payments over time. Each payment covers interest + a portion of principal.</p></td></tr><tr><td><p>Fixed Rate</p></td><td><p>An interest rate that stays the same for the entire loan term. Provides payment predictability.</p></td></tr><tr><td><p>Variable Rate</p></td><td><p>An interest rate that changes based on market conditions. Can go up or down over time.</p></td></tr><tr><td><p>Mortgage</p></td><td><p>A long-term loan secured by real property. The purchased home serves as collateral.</p></td></tr><tr><td><p>Down Payment</p></td><td><p>The upfront portion you pay when buying a home. Typically 10-20% of the purchase price.</p></td></tr><tr><td><p>Collateral</p></td><td><p>An asset pledged as security for a loan. If you default, the lender can seize it.</p></td></tr><tr><td><p>Credit History</p></td><td><p>A record of all your past borrowing and repayment behavior, maintained by credit bureaus.</p></td></tr><tr><td><p>Debt Spiral</p></td><td><p>A dangerous cycle where new debt is taken to repay old debt, with total owed growing each time.</p></td></tr><tr><td><p>Refinancing</p></td><td><p>Replacing an existing high-interest loan with a new lower-interest one. Reduces total interest paid.</p></td></tr><tr><td><p>Payday Loan</p></td><td><p>A short-term, extremely high-interest loan (300-700%+ APR). The most dangerous form of consumer debt.</p></td></tr><tr><td><p>Penalty</p></td><td><p>Additional charge for late payment or contract violation. Also damages your credit score.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "What do you pay a bank on top of the original loan amount?",
+     "choices": [
+      "Nothing — credit is free",
+      "Principal + interest (the price of using their money)",
+      "Only a one-time fee",
+      "Only the principal amount"
+     ],
+     "answer_index": 1,
+     "explanation": "You pay principal + interest. Interest is the price of using borrowed money."
+    },
+    {
+     "n": 2,
+     "prompt": "You borrow $700 at 22% APR for 12 months. Approximate total interest cost?",
+     "choices": [
+      "~$15",
+      "~$86",
+      "~$154",
+      "~$700"
+     ],
+     "answer_index": 1,
+     "explanation": "Monthly ~$65.50 x 12 = ~$786. Interest = $786 - $700 = ~$86."
+    },
+    {
+     "n": 3,
+     "prompt": "Which factor has the GREATEST impact on your credit score?",
+     "choices": [
+      "Types of credit accounts",
+      "Number of new applications",
+      "Payment history (paying on time)",
+      "Number of credit cards"
+     ],
+     "answer_index": 2,
+     "explanation": "Payment history is the most influential factor at 35% of your score."
+    },
+    {
+     "n": 4,
+     "prompt": "The most effective way to improve your credit score is:",
+     "choices": [
+      "Open more credit cards",
+      "Always pay on time and keep utilization below 30%",
+      "Never borrow anything",
+      "Apply for new credit every month"
+     ],
+     "answer_index": 1,
+     "explanation": "Pay on time and keep credit utilization below 30% of your limit."
+    },
+    {
+     "n": 5,
+     "prompt": "Which type of debt is MOST DANGEROUS (highest interest)?",
+     "choices": [
+      "Mortgage (3-8%)",
+      "Auto loan (5-12%)",
+      "Payday loan (300-700%+)",
+      "Student loan (4-10%)"
+     ],
+     "answer_index": 2,
+     "explanation": "Payday loans charge 300-700%+ APR — the most dangerous debt type by far."
+    },
+    {
+     "n": 6,
+     "prompt": "Which scenario qualifies as 'good debt'?",
+     "choices": [
+      "Credit card debt from restaurant meals",
+      "Payday loan for clothing",
+      "Student loan for a certification that increases your salary",
+      "Personal loan for a vacation"
+     ],
+     "answer_index": 2,
+     "explanation": "A student loan that increases earning power is the classic example of good debt."
+    },
+    {
+     "n": 7,
+     "prompt": "Home price $300,000, down payment 20%. What is the loan amount?",
+     "choices": [
+      "$300,000",
+      "$240,000",
+      "$60,000",
+      "$150,000"
+     ],
+     "answer_index": 1,
+     "explanation": "$300,000 x 80% = $240,000. Down payment 20% = $60,000."
+    },
+    {
+     "n": 8,
+     "prompt": "The most effective way to reduce total mortgage interest cost is:",
+     "choices": [
+      "Choose the longest possible term",
+      "Increase the down payment and shorten the term",
+      "Only choose a fixed rate",
+      "Buy the cheapest house available"
+     ],
+     "answer_index": 1,
+     "explanation": "Larger down payment + shorter term = maximum reduction in total interest paid."
+    },
+    {
+     "n": 9,
+     "prompt": "A bank advertises 6% per year. With fees, the actual APR is 7.8%. Which number matters more?",
+     "choices": [
+      "6% — it's the official rate",
+      "7.8% (APR) — it's the true annual cost",
+      "Both are equally important",
+      "Only the monthly payment matters"
+     ],
+     "answer_index": 1,
+     "explanation": "APR (7.8%) reveals the true annual cost. Always compare APR across lenders."
+    },
+    {
+     "n": 10,
+     "prompt": "The key difference between a fixed and variable interest rate is:",
+     "choices": [
+      "Fixed rates are always lower",
+      "Variable rates can change with market conditions, creating payment uncertainty",
+      "They are identical in practice",
+      "Variable rates only apply to mortgages"
+     ],
+     "answer_index": 1,
+     "explanation": "Variable rates move with the market, meaning your payment could increase unexpectedly."
+    },
+    {
+     "n": 11,
+     "prompt": "You have 3 debts: $500 at 18%, $2,000 at 28%, $800 at 22%. Using the Avalanche Method, which do you pay off first?",
+     "choices": [
+      "$500 (smallest balance)",
+      "$2,000 (highest rate at 28%)",
+      "$800 (middle option)",
+      "Pay all three equally"
+     ],
+     "answer_index": 1,
+     "explanation": "Avalanche = highest interest rate first = 28% on the $2,000 debt."
+    },
+    {
+     "n": 12,
+     "prompt": "What is the correct FIRST step when tackling debt?",
+     "choices": [
+      "Immediately pay off the largest debt",
+      "Take out a new loan",
+      "List all debts with their amounts, rates, and terms",
+      "Quit your job and live cheaper"
+     ],
+     "answer_index": 2,
+     "explanation": "First step: map all debts completely. You cannot solve a problem you haven't fully identified."
+    }
+   ]
+  },
+  "ru": {
+   "unit": 5,
+   "lang": "ru",
+   "title": "Кредит и управление долгом",
+   "subtitle": "Кредитный рейтинг, виды займов, ипотека, процентные ставки и стратегии выхода из долговой ямы.",
+   "lessons": [
+    {
+     "num": "5.1",
+     "title": "Как работает кредит",
+     "html": "<p>Кредит — это когда банк или финансовая организация даёт вам деньги на определённых условиях. Вы возвращаете не только полученную сумму, но и процент — плату за пользование деньгами.</p><blockquote><p><strong>Формальное определение</strong></p><p>Кредит — договор между кредитором (банком) и заёмщиком (вами), по которому банк предоставляет определённую сумму, а вы обязуетесь вернуть её с процентами в оговорённый срок.</p></blockquote><h2>Участники кредитного процесса</h2><table><tbody><tr><th><p>Участник</p></th><th><p>Роль</p></th><th><p>Интерес</p></th></tr><tr><td><p>Заёмщик (вы)</p></td><td><p>Получает и использует деньги</p></td><td><p>Получить нужное сейчас</p></td></tr><tr><td><p>Кредитор (банк)</p></td><td><p>Выдаёт деньги</p></td><td><p>Заработать на процентах</p></td></tr><tr><td><p>Поручители</p></td><td><p>Отвечают при неуплате</p></td><td><p>Помощь заёмщику</p></td></tr><tr><td><p>Кредитное бюро</p></td><td><p>Собирает кредитную историю</p></td><td><p>Ведение базы данных</p></td></tr></tbody></table><h2>Этапы получения кредита</h2><blockquote><p><strong>Шаг 1: Подача заявки</strong></p><p>Обращаетесь в банк или МФО. Нужен паспорт, справка с работы, документ о доходах.</p><p><strong>Шаг 2: Проверка истории</strong></p><p>Банк проверяет ваш кредитный рейтинг. Платили ли вы предыдущие долги вовремя?</p><p><strong>Шаг 3: Оценка и решение</strong></p><p>Банк принимает решение на основе вашего дохода, расходов и кредитной истории.</p><p><strong>Шаг 4: Подписание договора</strong></p><p>Условия: сумма, срок, ставка, штрафы. Читайте КАЖДУЮ строку!</p><p><strong>Шаг 5: Получение и возврат</strong></p><p>Деньги поступают на счёт. Вы начинаете ежемесячно возвращать установленную сумму.</p><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Процесс кредитования</strong></p><p>Алексей хочет купить ноутбук за 80 000 руб. У него 30 000 руб. накоплений. Он берёт кредит 50 000 руб.: 24% годовых, на 12 месяцев.</p><p>Ежемесячный платёж: ~4 710 руб. За 12 месяцев всего: ~56 520 руб.</p><p>Переплата по процентам: 56 520 - 50 000 = 6 520 руб. Реальная цена ноутбука: 86 520 руб., а не 80 000!</p><p><strong>Вопрос: стоит ли переплатить 6 520 руб.? Или лучше подождать 4-5</strong> <strong>месяцев и накопить?</strong></p></blockquote>"
+    },
+    {
+     "num": "5.2",
+     "title": "Кредитный рейтинг",
+     "html": "<p>Кредитный рейтинг (скоринг) — числовая оценка вашей финансовой надёжности. Банк проверяет этот балл первым делом перед выдачей кредита.</p><blockquote><p><strong>Почему рейтинг важен?</strong></p><p>Высокий рейтинг = низкая ставка = меньше переплата. Низкий рейтинг = высокая ставка = больше переплата или отказ. Разница — сотни тысяч рублей.</p></blockquote><h2>Что влияет на кредитный рейтинг?</h2><table><tbody><tr><th><p>Фактор</p></th><th><p>Степень влияния</p></th><th><p>Пояснение</p></th></tr><tr><td><p>История платежей О</p></td><td><p>чень высокая (35%</p></td><td><p>) Платили вовремя? Одна просрочка влияет</p></td></tr><tr><td><p>Долговая нагрузка</p></td><td><p>Высокая (30%)</p></td><td><p>Сколько долгов по отношению к доходу?</p></td></tr><tr><td><p>Длина истории</p></td><td><p>Средняя (15%)</p></td><td><p>Чем длиннее история — тем лучше</p></td></tr><tr><td><p>Новые заявки</p></td><td><p>Средняя (10%)</p></td><td><p>Много заявок = много отказов = плохо</p></td></tr><tr><td><p>Типы кредитов</p></td><td><p>Низкая (10%)</p></td><td><p>Разнообразие кредитов — хороший сигнал</p></td></tr></tbody></table><h2>Как повысить кредитный рейтинг?</h2><blockquote><p><strong>Всегда платите вовремя</strong></p><p>Даже мелкие платежи не пропускайте. Настройте автоплатёж.</p><p><strong>Держите долговую нагрузку ниже 30%</strong></p><p>Если лимит карты 100 000 руб., используйте не больше 30 000 руб.</p><p><strong>Закройте старые долги</strong></p><p>Старые неоплаченные долги сильно портят рейтинг. Сначала разберитесь с ними.</p><p><strong>Не подавайте лишние заявки</strong></p><p>Каждая заявка негативно влияет. Обращайтесь только когда реально нужно.</p></blockquote>"
+    },
+    {
+     "num": "5.3",
+     "title": "Виды долгов",
+     "html": "<p>Не все кредиты одинаковы. У каждого типа своя цель, ставка и уровень риска. Правильный выбор экономит сотни тысяч рублей.</p><table><tbody><tr><th><p>Тип кредита</p></th><th><p>Ставка</p></th><th><p>Срок</p></th><th><p>Залог</p></th><th><p>Лучше всего для</p></th></tr><tr><td><p>Потребительский</p></td><td><p>14-30%</p></td><td><p>6-36 мес.</p></td><td><p>Нет</p></td><td><p>Мелкие покупки, срочные нужды</p></td></tr><tr><td><p>Кредитная карта</p></td><td><p>20-40%</p></td><td><p>Бессрочно</p></td><td><p>Нет</p></td><td><p>Короткий срок, с полным возвратом</p></td></tr><tr><td><p>Автокредит</p></td><td><p>12-22%</p></td><td><p>12-60 мес.</p></td><td><p>Авто</p></td><td><p>Покупка автомобиля</p></td></tr><tr><td><p>Образовательный</p></td><td><p>10-18%</p></td><td><p>12-60 мес.</p></td><td><p>Нет</p></td><td><p>Повышение квалификации</p></td></tr><tr><td><p>Ипотека</p></td><td><p>12-20%</p></td><td><p>5-20 лет</p></td><td><p>Жильё</p></td><td><p>Покупка жилья</p></td></tr><tr><td><p>Бизнес-кредит</p></td><td><p>14-26%</p></td><td><p>12-60 мес.</p></td><td><p>Разное</p></td><td><p>Запуск или расширение бизнеса</p></td></tr><tr><td><p>Микрозайм (МФО)</p></td><td><p>36-100%+</p></td><td><p>7-30 дней</p></td><td><p>Нет</p></td><td><p>ТОЛЬКО в крайнем случае</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Хороший долг</strong></p><p>Долг, создающий будущую ценность или приносящий доход.</p><ul><li><p>Ипотека (жильё растёт в цене)</p></li><li><p>Образовательный (доход растёт)</p></li><li><p>Бизнес-кредит (ROI &gt; ставка)</p></li></ul><p>Правило: ожидаемый доход &gt; стоимость долга</p></td><td><p><strong>Плохой долг</strong></p><p>Долг на вещи, которые сразу теряют стоимость.</p><ul><li><p>Потреб. электроника в рассрочку</p></li><li><p>Остаток по кредитной карте (40%!)</p></li><li><p>Микрозайм (100%+ годовых)</p></li></ul><p>Правило: вещь дешевеет быстрее, чем вы платите проценты</p></td></tr></tbody></table><blockquote><p><strong>ПРЕДУПРЕЖДЕНИЕ: Микрофинансовые организации (МФО)</strong></p><p>В России МФО берут от 36% до 365% годовых. Взяли 30 000 руб. на 30 дней — вернёте 34 500 руб. Просрочили — штраф на штраф. Это самая опасная форма долговой спирали. Обращайтесь к МФО ТОЛЬКО в ситуации жизни и смерти.</p></blockquote>"
+    },
+    {
+     "num": "5.4",
+     "title": "Основы ипотеки",
+     "html": "<p>Ипотека — самое крупное финансовое решение в жизни большинства людей. Это долгосрочный кредит на покупку жилья, где само жильё выступает залогом.</p><h2>Ключевые понятия ипотеки</h2><table><tbody><tr><th><p>Понятие</p></th><th><p>Значение</p></th><th><p>Пример</p></th></tr><tr><td><p>ервоначальный вЧзансот</p></td><td><p>сь стоимости, которую платит</p></td><td><p>е вы 20% = 2 млн (при квартире 10 млн)</p></td></tr><tr><td><p>Сумма кредита</p></td><td><p>Часть, которую даёт банк</p></td><td><p>80% = 8 млн руб.</p></td></tr><tr><td><p>Процентная ставка</p></td><td><p>Годовая стоимость кредита</p></td><td><p>16% годовых</p></td></tr><tr><td><p>Срок</p></td><td><p>Период возврата</p></td><td><p>20 лет = 240 месяцев</p></td></tr><tr><td><p>жемесячный платёжС</p></td><td><p>умма к оплате каждый меся</p></td><td><p>ц ~112 000 руб.</p></td></tr><tr><td><p>Итого выплат</p></td><td><p>Общая сумма за весь срок</p></td><td><p>~26,9 млн (при кредите 8 млн!)</p></td></tr></tbody></table><blockquote><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Реальная стоимость ипотеки</strong></p><p>Квартира в Москве за 10 000 000 руб. Первоначальный взнос 20% = 2 000 000 руб. Кредит: 8 000 000 руб., 16% годовых, 20 лет.</p><p>Ежемесячный платёж: ~112 000 руб. Итого за 20 лет: ~26 900 000 руб. ТОЛЬКО переплата по процентам: 26,9 - 8 = 18 900 000 руб.!</p><p><strong>Вы платите почти в 3,4 РАЗА больше стоимости кредита. Поэтому: 1)</strong> <strong>Увеличивайте первоначальный взнос. 2) Сокращайте срок. 3) Сравнивайте</strong> <strong>ставки — даже 1% разницы = миллионы.</strong></p></blockquote>"
+    },
+    {
+     "num": "5.5",
+     "title": "Понимание процентных ставок",
+     "html": "<p>Большинство людей при оформлении кредита смотрят только на ежемесячный платёж. Но чтобы понять реальную цену, нужно разбираться в процентных ставках.</p><h2>Номинальная vs Эффективная ставка</h2><table><tbody><tr><td><p><strong>Номинальная ставка</strong></p><p>Ставка, которую рекламирует банк. Не учитывает дополнительные расходы. Пример: банк говорит 16% годовых Но: комиссия 2%, страховка 1.5%, прочие сборы...</p></td><td><p><strong>Эффективная ставка (ПСК)</strong></p><p>РЕАЛЬНАЯ годовая ставка с учётом ВСЕХ платежей и комиссий. Пример: реальная ПСК = 22.5% Всегда сравнивайте ПСК, а не номинальную ставку!</p></td></tr></tbody></table><h2>Аннуитет vs Дифференцированный платёж</h2><table><tbody><tr><th><p></p></th><th><p>Аннуитет</p></th><th><p>Дифференцированный</p></th></tr><tr><td><p>Ежемесячный платёж</p></td><td><p>Каждый месяц ОДИНАКОВЫЙ</p></td><td><p>Каждый месяц УМЕНЬШАЕТСЯ</p></td></tr><tr><td><p>Первые месяцы</p></td><td><p>Меньше платёж</p></td><td><p>Больше платёж</p></td></tr><tr><td><p>Итого процентов</p></td><td><p>Больше переплата</p></td><td><p>Меньше переплата</p></td></tr><tr><td><p>Для кого</p></td><td><p>Стабильный доход</p></td><td><p>Высокий начальный доход</p></td></tr></tbody></table><h2>Скрытые комиссии — на что обращать внимание</h2><blockquote><p><strong>Комиссия за выдачу</strong></p><p>1-3% от суммы кредита. При 500 000 руб. — до 15 000 руб. удерживается СРАЗУ.</p><p><strong>Ежемесячная плата за обслуживание</strong></p><p>Некоторые банки берут 0.5-1% ежемесячно. Это увеличивает годовую ставку на 6-12%!</p><p><strong>Штрафы за досрочное погашение</strong></p><p>Некоторые банки штрафуют за раннее закрытие. Проверяйте в договоре.</p><p><strong>Обязательная страховка</strong></p><p>При некоторых кредитах страховка обязательна. Это дополнительные 1-3% в год.</p></blockquote>"
+    },
+    {
+     "num": "5.6",
+     "title": "Стратегии выхода из долга",
+     "html": "<p>Если вы уже в долгах — не отчаивайтесь. Существуют проверенные стратегии выхода из любой долговой ситуации.</p><h2>1. Составьте полный список долгов</h2><p>Первый шаг — запишите все долги: сумма, ставка, ежемесячный платёж, оставшийся срок. Большинство людей не знают полную картину своих долгов.</p><h2>2. Метод лавины (Avalanche) — самый эффективный</h2><blockquote><p><strong>Математически оптимально</strong></p><p>Платите минимум по всем долгам. Все оставшиеся деньги — на долг с НАИВЫСШЕЙ ставкой. Закрыли его — переходите к следующему по ставке.</p></blockquote><p><em><strong><em><strong>Почему работает: минимальная переплата по процентам. В долгосрочной</strong></em> <em><strong>перспективе экономит больше всего.</strong></em></strong></em></p><h2>3. Метод снежного кома (Snowball) — психологически мощный</h2><blockquote><p><strong>Мотивирует быстрыми победами</strong></p><p>Платите минимум по всем долгам. Все дополнительные деньги — на НАИМЕНЬШИЙ долг. Закрыли — переходите к следующему наименьшему.</p></blockquote><p><em><strong><em><strong>Почему работает: каждый закрытый долг даёт психологическую победу и</strong></em> <em><strong>энергию продолжать.</strong></em></strong></em></p><h2>4. Рефинансирование</h2><blockquote><p><strong>Снижение процентной ставки</strong></p><p>Объедините несколько дорогих кредитов в один с более низкой ставкой. Например, три кредита под 28% заменить одним под 16%. Условие: хорошая кредитная история и стабильный доход.</p></blockquote><h2>5. Увеличение дохода</h2><blockquote><p><strong>Самый быстрый результат</strong></p><p>Фриланс, подработка, продажа ненужных вещей — любой дополнительный доход направляйте прямо на погашение. 5 000 руб. дополнительного дохода сокращают срок долга на месяцы.</p><p><strong>Основной вывод — Блок 5</strong></p></blockquote><p><em><strong><em><strong>Кредит — двойное оружие финансов. Правильно используемый (ипотека,</strong></em> <em><strong>образование, </strong></em></strong></em></p><p><em><strong><em><strong>бизнес) </strong></em></strong></em></p><p><em><strong><em><strong>— </strong></em></strong></em></p><p><em><strong><em><strong>ускоряет </strong></em></strong></em></p><p><em><strong><em><strong>накопление </strong></em></strong></em></p><p><em><strong><em><strong>богатства. </strong></em></strong></em></p><p><em><strong><em><strong>Бездумно</strong></em></strong></em></p><p><em><strong><em><strong>используемый (потребительский, МФО, остатки по картам) — погружает в</strong></em> <em><strong>долговую яму на годы. Берегите кредитный рейтинг, сравнивайте ПСК,</strong></em> <em><strong>следите за скрытыми комиссиями и избегайте долговой спирали. ZInvest AI</strong></em> <em><strong>поможет проанализировать любой кредит, рассчитать реальную стоимость</strong></em> <em><strong>и составить план выхода из долга.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Словарь ключевых терминов",
+    "html": "<blockquote><p>Все важные понятия Блока 5</p></blockquote><table><tbody><tr><th><p>Кредит</p></th><th><p>Деньги, предоставленные банком на определённых условиях. Возвращаются с процентами в установленный срок.</p></th></tr><tr><td><p>Кредитный рейтинг</p></td><td><p>Числовая оценка финансовой надёжности. Высокий балл = низкая ставка; низкий балл = высокая ставка или отказ.</p></td></tr><tr><td><p>ПСК (Полная стоимость кредита)</p></td><td><p>Реальная годовая стоимость кредита с учётом всех комиссий. Аналог APR. Всегда сравнивайте ПСК.</p></td></tr><tr><td><p>Аннуитетный платёж</p></td><td><p>Одинаковый ежемесячный платёж на весь срок кредита. Итоговая переплата больше, чем при дифференцированном.</p></td></tr><tr><td><p>Дифференцирова нный платёж</p></td><td><p>Основной долг гасится равными частями, проценты уменьшаются. Вначале больше, в конце меньше.</p></td></tr><tr><td><p>Ипотека</p></td><td><p>Долгосрочный кредит на покупку жилья. Купленное жильё выступает залогом.</p></td></tr><tr><td><p>Первоначальный взнос</p></td><td><p>Часть стоимости жилья, которую вы платите сами при ипотеке. Обычно 15-30%.</p></td></tr><tr><td><p>Залог</p></td><td><p>Имущество, которое банк забирает при невыплате кредита. При ипотеке — само жильё.</p></td></tr><tr><td><p>Кредитная история</p></td><td><p>База данных всех ваших предыдущих кредитов и порядка их погашения.</p></td></tr><tr><td><p>Долговая спираль</p></td><td><p>Опасный цикл: новый долг для погашения старого. Каждый раз сумма растёт.</p></td></tr><tr><td><p>Рефинансировани е</p></td><td><p>Замена дорогого кредита новым с более низкой ставкой. Снижает общую переплату.</p></td></tr><tr><td><p>МФО</p></td><td><p>Микрофинансовая организация. Кредиты вне банка. Ставки 36-365% годовых. Крайнее средство.</p></td></tr><tr><td><p>Кредитный лимит</p></td><td><p>Максимальная сумма, доступная по кредитной карте или кредитной линии.</p></td></tr><tr><td><p>Штраф (пеня)</p></td><td><p>Дополнительная плата за просрочку или нарушение условий. Также портит кредитный рейтинг.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Что вы платите банку помимо основной суммы кредита?",
+     "choices": [
+      "Только основную сумму",
+      "Основную сумму + проценты (плата за пользование деньгами)",
+      "Только комиссию",
+      "Ничего — кредит бесплатный"
+     ],
+     "answer_index": 1,
+     "explanation": "За кредит платите основную сумму + проценты. Процент = плата за пользование деньгами."
+    },
+    {
+     "n": 2,
+     "prompt": "Кредит 50 000 руб. под 24% годовых на 12 месяцев. Переплата по процентам примерно:",
+     "choices": [
+      "~1 200 руб.",
+      "~6 520 руб.",
+      "~12 000 руб.",
+      "~50 000 руб."
+     ],
+     "answer_index": 1,
+     "explanation": "Ежемесячно ~4 710 × 12 = ~56 520. Переплата = 56 520 - 50 000 = ~6 520 руб."
+    },
+    {
+     "n": 3,
+     "prompt": "Какой фактор СИЛЬНЕЕ ВСЕГО влияет на кредитный рейтинг?",
+     "choices": [
+      "Типы кредитов",
+      "Количество новых заявок",
+      "История платежей (платили ли вовремя)",
+      "Количество кредитных карт"
+     ],
+     "answer_index": 2,
+     "explanation": "История платежей — самый влиятельный фактор кредитного рейтинга (35%)."
+    },
+    {
+     "n": 4,
+     "prompt": "Самый эффективный способ повысить кредитный рейтинг:",
+     "choices": [
+      "Открыть больше кредитных карт",
+      "Всегда платить вовремя и держать нагрузку ниже 30%",
+      "Никогда не брать кредитов",
+      "Подавать заявки каждый месяц"
+     ],
+     "answer_index": 1,
+     "explanation": "Платить вовремя и держать долговую нагрузку ниже 30% от лимита."
+    },
+    {
+     "n": 5,
+     "prompt": "Какой вид долга САМЫЙ ОПАСНЫЙ (самая высокая ставка)?",
+     "choices": [
+      "Ипотека (12-20%)",
+      "Автокредит (12-22%)",
+      "Микрозайм МФО (36-365%)",
+      "Образовательный кредит (10-18%)"
+     ],
+     "answer_index": 2,
+     "explanation": "Микрозаймы МФО — от 36% до 365% годовых. Самый опасный вид долга."
+    },
+    {
+     "n": 6,
+     "prompt": "Какой случай можно считать «хорошим долгом»?",
+     "choices": [
+      "Кредитная карта на рестораны",
+      "Микрозайм на одежду",
+      "Образовательный кредит, повышающий заработок",
+      "Потребительский кредит на праздник"
+     ],
+     "answer_index": 2,
+     "explanation": "Образовательный кредит, повышающий заработок — классический пример хорошего долга."
+    },
+    {
+     "n": 7,
+     "prompt": "Квартира 10 млн руб., первоначальный взнос 20%. Какова сумма кредита?",
+     "choices": [
+      "10 000 000 руб.",
+      "8 000 000 руб.",
+      "2 000 000 руб.",
+      "5 000 000 руб."
+     ],
+     "answer_index": 1,
+     "explanation": "10 млн × 80% = 8 млн руб. Первоначальный взнос 20% = 2 млн."
+    },
+    {
+     "n": 8,
+     "prompt": "Самый эффективный способ уменьшить переплату по ипотеке:",
+     "choices": [
+      "Выбрать максимальный срок",
+      "Увеличить первоначальный взнос и сократить срок",
+      "Выбрать только аннуитет",
+      "Купить самую дешёвую квартиру"
+     ],
+     "answer_index": 1,
+     "explanation": "Увеличить первый взнос и сократить срок — максимально снижает итоговую переплату."
+    },
+    {
+     "n": 9,
+     "prompt": "Банк рекламирует 16% годовых. С комиссиями и страховкой реальная ПСК = 22.5%. Какая цифра важнее?",
+     "choices": [
+      "16% — это официальная ставка",
+      "22.5% (ПСК) — это реальная годовая цена",
+      "Обе одинаково важны",
+      "Важен только ежемесячный платёж"
+     ],
+     "answer_index": 1,
+     "explanation": "ПСК (22.5%) показывает реальную годовую цену. Всегда сравнивайте ПСК."
+    },
+    {
+     "n": 10,
+     "prompt": "Главное отличие аннуитетного от дифференцированного платежа:",
+     "choices": [
+      "При аннуитете платёж уменьшается каждый месяц",
+      "При дифференцированном итого меньше переплата, но вначале платёж больше",
+      "Они одинаковые",
+      "Дифференцированный только для ипотеки"
+     ],
+     "answer_index": 1,
+     "explanation": "При дифференцированном итого меньше переплата, но первые платежи крупнее."
+    },
+    {
+     "n": 11,
+     "prompt": "3 долга: 50 000 руб. (18%), 200 000 руб. (30%), 80 000 руб. (24%). Метод лавины: какой гасить первым?",
+     "choices": [
+      "50 000 руб. (самый маленький)",
+      "200 000 руб. (ставка 30% — самая высокая)",
+      "80 000 руб. (средний)",
+      "Платить всем поровну"
+     ],
+     "answer_index": 1,
+     "explanation": "Метод лавины = самая высокая ставка первой = 30% = 200 000 руб."
+    },
+    {
+     "n": 12,
+     "prompt": "Первый шаг при выходе из долга:",
+     "choices": [
+      "Сразу погасить самый большой долг",
+      "Взять новый кредит",
+      "Составить полный список всех долгов: сумма, ставка, срок",
+      "Уволиться и жить экономнее"
+     ],
+     "answer_index": 2,
+     "explanation": "Первый шаг — полный список долгов. Нельзя решить проблему, не зная её масштаба."
+    }
+   ]
+  },
+  "uz": {
+   "unit": 5,
+   "lang": "uz",
+   "title": "Kredit va qarzni boshqarish",
+   "subtitle": "Kredit reytingi, qarz turlari, ipoteka asoslari, foiz stavkalarini tushunish va O'zbekistonda kredit tuzog'idan qanday qochish.",
+   "lessons": [
+    {
+     "num": "5.1",
+     "title": "Kredit qanday ishlaydi",
+     "html": "<p>Kredit — bu bank yoki moliyaviy tashkilot sizga muayyan shartlar asosida pul berishi. Siz bu pulni qaytarasiz — lekin faqat olgan summani emas, balki uning ustiga foiz ham. Foiz — bu pulni ishlatganlik uchun narx.</p><blockquote><p><strong>Rasmiy ta'rif</strong></p><p>Kredit — qarz beruvchi (bank) va qarz oluvchi (siz) o'rtasidagi shartnoma bo'lib, unda bank belgilangan summani beradi, siz esa uni kelishilgan muddat ichida foiz bilan birga qaytarasiz.</p></blockquote><h2>Kredit jarayonining ishtirokchilari</h2><table><tbody><tr><th><p>Ishtirokchi</p></th><th><p>Roli</p></th><th><p>Manfaati</p></th></tr><tr><td><p>Qarz oluvchi (siz)</p></td><td><p>Pulni oladi va ishlatadi</p></td><td><p>Kerakli narsani hozir olish</p></td></tr><tr><td><p>Qarz beruvchi (bank)</p></td><td><p>Pulni beradi</p></td><td><p>Foiz daromadi olish</p></td></tr><tr><td><p>Kafillar</p></td><td><p>Qarz oluvchi to'lamasa javobgar</p></td><td><p>Qarz oluvchiga yordam</p></td></tr><tr><td><p>Kredit byurosi</p></td><td><p>Kredit tarixini yig'adi</p></td><td><p>Ma'lumot bazasini yuritish</p></td></tr></tbody></table><h2>Kredit olish bosqichlari</h2><blockquote><p><strong>1-qadam: Ariza topshirish</strong></p><p>Bank yoki MFO ga murojaat qilasiz. Pasport, ish joyidan ma'lumotnoma, daromad haqida hujjat kerak.</p><p><strong>2-qadam: Kredit tarixini tekshirish</strong></p><p>Bank sizning kredit reyingizni tekshiradi. Oldingi qarzlarni o'z vaqtida to'lagansizmi?</p><p><strong>3-qadam: Baholash va qaror</strong></p><p>Bank sizning daromadingiz, xarajatlaringiz va kredit tarixingiz asosida qaror qabul qiladi.</p><p><strong>4-qadam: Shartnoma imzolash</strong></p><p>Shartlar: summa, muddat, foiz stavkasi, jarima shartlari. HAR BIR qatorni o'qing!</p><p><strong>5-qadam: Pul olish va qaytarish</strong></p><p>Pul hisobingizga tushadi. Siz har oy belgilangan summani qaytara boshlaysiz.</p><p><strong>AMALIY MISOL — Kredit jarayoni</strong></p><p>Javohir yangi kompyuter olmoqchi — narxi 8 000 000 so'm. Uning 3 000 000 so'm jamg'armasi bor.</p><p>U 5 000 000 so'm kredit oladi: yillik 24%, 12 oy muddatga.</p><p>Oylik to'lov: ~471 000 so'm. 12 oyda jami: ~5 652 000 so'm.</p><p>Foiz xarajati: 5 652 000 - 5 000 000 = 652 000 so'm. Kompyuterning haqiqiy narxi: 8 652 000 so'm, 8 000 000 emas!</p><p><strong>Savol: 652 000 so'm qo'shimcha to'lash arziyaptimi? Yoki 4-5 oy kutib, to'liq tejab olish</strong> <strong>yaxshiroqmi?</strong></p></blockquote>"
+    },
+    {
+     "num": "5.2",
+     "title": "Kredit reytingi",
+     "html": "<p>Kredit reytingi (kredit skoring) — sizning moliyaviy ishonchliligingizni raqamda ifodalovchi ball. Bank sizga kredit berishdan oldin birinchi navbatda shu ballni tekshiradi.</p><blockquote><p><strong>Kredit reytingi nima uchun muhim?</strong></p><p>Yuqori reyting = past foiz stavkasi = kamroq to'lov. Past reyting = yuqori foiz = ko'proq to'lov yoki rad etilish. Farq yuzlab ming so'mlarni tashkil qiladi.</p></blockquote><h2>Kredit reytingiga nima ta'sir qiladi?</h2><table><tbody><tr><th><p>Omil</p></th><th><p>Ta'sir darajasi</p></th><th><p>Tushuntirish</p></th></tr><tr><td><p>To'lov tarixi</p></td><td><p>Juda yuqori (35%)</p></td><td><p>O'z vaqtida to'laganmisiz? Bir kechikish ham ta'sir qiladi</p></td></tr><tr><td><p>Qarz yuki</p></td><td><p>Yuqori (30%)</p></td><td><p>Jami qarzingiz daromadingizga nisbatan qancha?</p></td></tr><tr><td><p>Kredit tarixi uzunligi</p></td><td><p>O'rtacha (15%)</p></td><td><p>Qanchalik uzoq kredit tarixingiz bo'lsa, yaxshi</p></td></tr><tr><td><p>Yangi arizalar</p></td><td><p>O'rtacha (10%)</p></td><td><p>Ko'p ariza = ko'p rad = past ball</p></td></tr><tr><td><p>Kredit turlari</p></td><td><p>Past (10%)</p></td><td><p>Turli xil kreditlar (ipoteka, karta, kredit) yaxshi signal</p></td></tr></tbody></table><h2>Kredit reytingini qanday oshirish mumkin?</h2><blockquote><p><strong>Har doim o'z vaqtida to'lang</strong></p><p>Hatto kichik to'lovlarni ham kechiktirmang. Avtomatik to'lovni sozlang.</p><p><strong>Qarz yukini 30% dan pastda saqlang</strong></p><p>Agar kredit kartangiz limiti 10 mln bo'lsa, 3 mln dan ortiq ishlatmang.</p><p><strong>Eskirgan qarzlarni yoping</strong></p><p>Eski to'lanmagan qarzlar reytingni yomon ta'sir qiladi. Avval ularni hal qiling.</p><p><strong>Keraksiz kredit arizalari bermang</strong></p><p>Har bir ariza reytingga salbiy ta'sir qiladi. Faqat haqiqatan kerak bo'lganda murojaat qiling.</p></blockquote>"
+    },
+    {
+     "num": "5.3",
+     "title": "Qarz turlari",
+     "html": "<p>Barcha kreditlar bir xil emas. Har bir tur o'z maqsadi, stavkasi va xavf darajasiga ega. To'g'ri tanlash minglab so'mlarni tejaydi.</p><table><tbody><tr><th><p>Kredit turi</p></th><th><p>Odatiy stavka</p></th><th><p>Muddat</p></th><th><p>Garov</p></th><th><p>Eng yaxshi ishlatilishi</p></th></tr><tr><td><p>Iste'mol krediti</p></td><td><p>18-36%</p></td><td><p>6-36 oy</p></td><td><p>Yo'q</p></td><td><p>Kichik xaridlar, shoshilinch ehtiyojlar</p></td></tr><tr><td><p>Kredit karta</p></td><td><p>24-48%</p></td><td><p>Cheksiz</p></td><td><p>Yo'q</p></td><td><p>Qisqa muddatli, to'liq qaytarish bilan</p></td></tr><tr><td><p>Avtomobil krediti</p></td><td><p>14-24%</p></td><td><p>12-60 oy</p></td><td><p>Avtomobil</p></td><td><p>Avtomobil sotib olish</p></td></tr><tr><td><p>Ta'lim krediti</p></td><td><p>12-20%</p></td><td><p>12-60 oy</p></td><td><p>Yo'q</p></td><td><p>Kasb oshirish, daromad o'stirish</p></td></tr><tr><td><p>Ipoteka</p></td><td><p>14-22%</p></td><td><p>5-20 yil</p></td><td><p>Uy</p></td><td><p>Uy sotib olish</p></td></tr><tr><td><p>Biznes kredit</p></td><td><p>16-28%</p></td><td><p>12-60 oy</p></td><td><p>Turli xil</p></td><td><p>Biznesni boshlash yoki kengaytirish</p></td></tr><tr><td><p>Mikro kredit (MFO)</p></td><td><p>36-100%+</p></td><td><p>7-30 kun</p></td><td><p>Yo'q</p></td><td><p>FAQAT favqulodda holatlarda</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Yaxshi qarz</strong></p><p>Kelajakda qiymat yaratadigan yoki daromad keltiradigan narsaga olingan qarz.</p><ul><li><p>Ipoteka (uy qiymat ko'taradi)</p></li><li><p>Ta'lim krediti (daromad oshadi)</p></li><li><p>Biznes kredit (ROI &gt; foiz)</p></li></ul><p>Qoida: kutilgan daromad &gt; qarz foizidan</p></td><td><p><strong>Yomon qarz</strong></p><p>Qiymatini yo'qotadigan yoki ortiqcha narsaga olingan qarz.</p><ul><li><p>Telefon krediti (eskirib ketadi)</p></li><li><p>Kredit karta qoldig'i (48% foiz!)</p></li><li><p>Mikro kredit (100%+ foiz)</p></li></ul><p>Qoida: narsa qimmatidan tezroq arzonlashadi</p></td></tr></tbody></table><blockquote><p><strong>OGOHLANTIRISH: Mikro kredit tashkilotlari (MFO)</strong></p><p>O'zbekistonda MFO larning yillik foiz stavkalari 36% dan 100%+ gacha yetadi. 1 000 000 so'm olsangiz, 30 kunda 1 080 000 qaytarasiz. Kechiktirsangiz, jarima ustiga jarima qo'shiladi. Bu qarz spiralining eng xavfli shakli. MFO ga FAQAT hayot-mamot holatlarda murojaat qiling.</p></blockquote>"
+    },
+    {
+     "num": "5.4",
+     "title": "Ipoteka asoslari",
+     "html": "<p>Ipoteka — ko'pchilik odamlar hayotidagi eng katta moliyaviy qaror. Bu uy sotib olish uchun uzoq muddatli kredit bo'lib, uyning o'zi garov sifatida turadi.</p><h2>Ipotekaning asosiy tushunchalari</h2><table><tbody><tr><th><p>Tushuncha</p></th><th><p>Ma'nosi</p></th><th><p>Misol</p></th></tr><tr><td><p>Boshlang'ich to'lov</p></td><td><p>Uy narxining siz to'laydigan qismi</p></td><td><p>30% = 75 mln (250 mln uy uchun)</p></td></tr><tr><td><p>Kredit summasi</p></td><td><p>Bank beradigan qism</p></td><td><p>70% = 175 mln so'm</p></td></tr><tr><td><p>Foiz stavkasi</p></td><td><p>Kreditning yillik narxi</p></td><td><p>18% yillik</p></td></tr><tr><td><p>Muddat</p></td><td><p>Kredit qaytarish davri</p></td><td><p>15 yil = 180 oy</p></td></tr><tr><td><p>Oylik to'lov</p></td><td><p>Har oy to'lanadigan summa</p></td><td><p>~2 850 000 so'm</p></td></tr><tr><td><p>Jami to'lov</p></td><td><p>Kredit umri davomida jami</p></td><td><p>~513 mln so'm (175 ga 338 mln foiz!)</p></td></tr></tbody></table><blockquote><p><strong>AMALIY MISOL — Ipoteka haqiqiy narxi</strong></p><p>Toshkentda 250 000 000 so'mlik kvartira. Boshlang'ich to'lov 30% = 75 000 000 so'm.</p><p>Kredit: 175 000 000 so'm, 18% yillik, 15 yil muddat.</p><p>Oylik to'lov: ~2 850 000 so'm. 15 yilda jami to'lov: ~513 000 000 so'm.</p><p>FAQAT foiz xarajati: 513 - 175 = 338 000 000 so'm!</p><p><strong>Siz uyning narxidan DEYARLI IKKI BARAVAR ko'p to'laysiz. Shuning uchun: 1) Boshlang'ich</strong> <strong>to'lovni imkon qadar katta qiling. 2) Muddatni imkon qadar qisqa tanlang. 3) Stavkalarni</strong> <strong>solishtiring — hatto 1% farq millionlarni tejaydi.</strong></p></blockquote>"
+    },
+    {
+     "num": "5.5",
+     "title": "Foiz stavkalarini tushunish",
+     "html": "<p>Ko'pchilik kredit olganda faqat oylik to'lovga qaraydi. Ammo haqiqiy narxni bilish uchun foiz stavkasining barcha jihatlarini tushunish kerak.</p><h2>Nominal vs Samarali stavka</h2><table><tbody><tr><td><p><strong>Nominal stavka</strong></p><p>Banklar reklama qiladigan stavka. Qo'shimcha xarajatlarni hisobga olmaydi. Misol: 18% yillik deb aytiladi Lekin: komissiya 2%, sug'urta 1.5%, boshqa to'lovlar qo'shilganda...</p></td><td><p><strong>Samarali stavka (APR)</strong></p><p>Barcha to'lovlar va komissiyalarni hisobga olgan HAQIQIY yillik stavka. Misol: Haqiqiy APR = 24.5% Har doim APR ni solishtiring, nominal stavkani emas!</p></td></tr></tbody></table><h2>Annuitet vs Differensial to'lov</h2><table><tbody><tr><th><p></p></th><th><p>Annuitet</p></th><th><p>Differensial</p></th></tr><tr><td><p>Oylik to'lov</p></td><td><p>Har oy BIR XIL</p></td><td><p>Har oy KAMAYIB boradi</p></td></tr><tr><td><p>Birinchi oylar</p></td><td><p>Kamroq to'lov</p></td><td><p>Ko'proq to'lov</p></td></tr><tr><td><p>Jami foiz</p></td><td><p>Ko'proq to'laysiz</p></td><td><p>Kamroq to'laysiz</p></td></tr><tr><td><p>Kim uchun yaxshi</p></td><td><p>Barqaror daromadlilar</p></td><td><p>Katta boshlang'ich daromadlilar</p></td></tr></tbody></table><h2>Yashirin komissiyalar — nimaga e'tibor berish kerak</h2><blockquote><p><strong>Kredit berish komissiyasi</strong></p><p>Kredit summasining 1-3% i. 10 mln kredit uchun 100-300 ming so'm DARHOL ushlab qolinadi.</p><p><strong>Oylik xizmat to'lovi</strong></p><p>Ba'zi banklar har oy 0.5-1% xizmat to'lovi oladi. Bu yillik foizni 6-12% ga oshiradi!</p><p><strong>Muddatidan oldin to'lash jarimalari</strong></p><p>Ba'zi banklar qarzni erta yopganingiz uchun jarima oladi. Shartnomada tekshiring.</p><p><strong>Majburiy sug'urta</strong></p><p>Ba'zi kreditlarda sug'urta majburiy. Bu yillik 1-3% qo'shimcha xarajat.</p></blockquote>"
+    },
+    {
+     "num": "5.6",
+     "title": "Qarzdan chiqish strategiyalari",
+     "html": "<p>Agar siz allaqachon qarzda bo'lsangiz — umidsizlikka tushmang. Qarzdan chiqish uchun aniq, sinovdan o'tgan strategiyalar mavjud.</p><h2>1-strategiya: Qarzlarni sanab chiqish</h2><p>Birinchi qadam — barcha qarzlaringizni ro'yxat qiling: summa, foiz stavkasi, oylik to'lov, qolgan muddat. Ko'pchilik o'z qarzlarining to'liq rasmini bilmaydi.</p><h2>2-strategiya: Avalanche (Lavina) metodi</h2><blockquote><p><strong>Eng samarali usul</strong></p><p>Barcha qarzlarga minimal to'lovni amalga oshiring. Qolgan barcha qo'shimcha pulni ENG YUQORI FOIZLI qarzga yo'naltiring. U tugagach, keyingi eng yuqori foizli qarzga o'ting.</p></blockquote><p><em><strong><em><strong>Nima uchun ishlaydi: matematika jihatdan eng kam foiz to'laysiz. Uzoq muddatda eng ko'p</strong></em> <em><strong>pul tejaysiz.</strong></em></strong></em></p><h2>3-strategiya: Snowball (Qor to'pi) metodi</h2><blockquote><p><strong>Psixologik jihatdan eng kuchli</strong></p><p>Barcha qarzlarga minimal to'lovni amalga oshiring. Qolgan barcha qo'shimcha pulni ENG KICHIK SUMMALI qarzga yo'naltiring. U tugagach, keyingi eng kichik qarzga o'ting.</p></blockquote><p><em><strong><em><strong>Nima uchun ishlaydi: tez g'alaba motivatsiya beradi. Har bir to'langan qarz kuch qo'shadi.</strong></em></strong></em></p><h2>4-strategiya: Refinansirovka (qayta moliyalashtirish)</h2><blockquote><p><strong>Foiz stavkasini kamaytirish</strong></p><p>Bir necha yuqori foizli kreditlaringizni bitta PAST foizli kreditga birlashtiring. Masalan, uchta 30% kredit o'rniga bitta 18% kredit. Shartlar: yaxshi kredit tarixi va barqaror daromad.</p></blockquote><h2>5-strategiya: Daromadni oshirish</h2><blockquote><p><strong>Eng tez natija beradi</strong></p><p>Qo'shimcha daromad toping: freelance, qo'shimcha ish, keraksiz narsalarni sotish. Har bir qo'shimcha so'm to'g'ridan-to'g'ri qarz to'lashga yo'naltiring. 500 000 so'm qo'shimcha daromad qarz muddatini oylab qisqartiradi.</p><p><strong>Asosiy xulosa — 5-Blok</strong></p></blockquote><p><em><strong><em><strong>Kredit — moliyaning ikki yuzli quroli. To'g'ri ishlatilsa (ipoteka, ta'lim, biznes) — boylikni</strong></em> <em><strong>tezlashtiradi. Noto'g'ri ishlatilsa (iste'mol, MFO, kredit karta qoldig'i) — yillar davomida</strong></em> <em><strong>moliyaviy qullikka soladi. Kredit reytingingizni saqlang, APR ni solishtiring, yashirin</strong></em> <em><strong>komissiyalarga e'tibor bering va qarz spiralidan qoching. ZInvest AI sizga har qanday kreditni</strong></em> <em><strong>tahlil qilishda, haqiqiy narxni hisoblashda va qarzdan chiqish rejasini tuzishda yordam</strong></em> <em><strong>beradi.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Atamalar lug'ati",
+    "html": "<blockquote><p>5-blokdagi barcha muhim tushunchalar</p></blockquote><table><tbody><tr><th><p>Kredit</p></th><th><p>Qarz beruvchi (bank) tomonidan belgilangan shartlar asosida beriladigan pul. Foiz bilan birga muddatida qaytariladi.</p></th></tr><tr><td><p>Kredit reytingi (skoring)</p></td><td><p>Sizning moliyaviy ishonchliligingizni raqamda ifodalovchi ball. Yuqori ball = past foiz, past ball = yuqori foiz yoki rad.</p></td></tr><tr><td><p>APR (Samarali yillik stavka)</p></td><td><p>Barcha komissiyalar va to'lovlarni hisobga olgan haqiqiy yillik kredit narxi. Har doim APR ni solishtiring.</p></td></tr><tr><td><p>Annuitet to'lov</p></td><td><p>Kredit muddati davomida har oy bir xil miqdorda to'lanadigan to'lov usuli. Jami ko'proq foiz to'lanadi.</p></td></tr><tr><td><p>Differensial to'lov</p></td><td><p>Asosiy qarz bir xil qismda to'lanadi, foiz esa har oy kamayadi. Boshida ko'proq, oxirida kamroq.</p></td></tr><tr><td><p>Ipoteka</p></td><td><p>Ko'chmas mulk sotib olish uchun uzoq muddatli kredit. Sotib olingan mulk garov sifatida turadi.</p></td></tr><tr><td><p>Boshlang'ich to'lov</p></td><td><p>Ipotekada uy narxining siz o'zingiz to'laydigan qismi. Odatda 15-30%.</p></td></tr><tr><td><p>Garov (zalog)</p></td><td><p>Kredit qaytarilmagan taqdirda bank oladigan mulk. Ipotekada — uyning o'zi.</p></td></tr><tr><td><p>Kredit tarixi</p></td><td><p>Sizning barcha oldingi kreditlaringiz va ularni to'lash tartibingiz haqidagi ma'lumotlar bazasi.</p></td></tr><tr><td><p>Qarz spirali</p></td><td><p>Eski qarzni to'lash uchun yangi qarz olish holati. Har safar foiz qo'shilib, yuk kattalashadi.</p></td></tr><tr><td><p>Refinansirovka</p></td><td><p>Mavjud yuqori foizli kreditni yangi past foizli kreditga almashtiish. Jami foiz xarajatini kamaytiradi.</p></td></tr><tr><td><p>MFO (Mikro moliya tashkiloti)</p></td><td><p>Bankdan tashqari kredit beruvchi tashkilot. Odatda juda yuqori foiz stavkalari (36-100%+). Eng oxirgi chora.</p></td></tr><tr><td><p>Kredit limiti</p></td><td><p>Kredit karta yoki kredit liniyasida ishlatish mumkin bo'lgan maksimal summa.</p></td></tr><tr><td><p>Jarima (shtraf)</p></td><td><p>Kreditni kechiktirib to'laganda yoki shartlarni buzganda qo'shimcha to'lov. Kredit reytingiga ham salbiy ta'sir qiladi.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Kredit olganda siz bankka asosiy summadan tashqari yana nima to'laysiz?",
+     "choices": [
+      "Faqat asosiy summani",
+      "Asosiy summa + foiz (pulni ishlatganlik narxi)",
+      "Faqat komissiyani",
+      "Hech narsa — kredit bepul"
+     ],
+     "answer_index": 1,
+     "explanation": "Kredit uchun asosiy summa + foiz to'lanadi. Foiz = pulni ishlatganlik narxi."
+    },
+    {
+     "n": 2,
+     "prompt": "5 000 000 so'm kreditni 24% yillik bilan 12 oyga olsangiz, jami foiz xarajati taxminan qancha?",
+     "choices": [
+      "~120 000 so'm",
+      "~652 000 so'm",
+      "~1 200 000 so'm",
+      "~5 000 000 so'm"
+     ],
+     "answer_index": 1,
+     "explanation": "Oylik ~471 000 x 12 = ~5 652 000. Foiz = 5 652 000 - 5 000 000 = ~652 000 so'm."
+    },
+    {
+     "n": 3,
+     "prompt": "Kredit reytingiga ENG KATTA ta'sir qiladigan omil qaysi?",
+     "choices": [
+      "Kredit turlari",
+      "Yangi arizalar soni",
+      "To'lov tarixi (o'z vaqtida to'laganmisiz)",
+      "Kredit kartalar soni"
+     ],
+     "answer_index": 2,
+     "explanation": "To'lov tarixi kredit reytingiga eng katta ta'sir qiladi (35%)."
+    },
+    {
+     "n": 4,
+     "prompt": "Kredit reytingini oshirish uchun eng samarali usul qaysi?",
+     "choices": [
+      "Ko'proq kredit karta ochish",
+      "Har doim o'z vaqtida to'lash va qarz yukini 30% dan pastda saqlash",
+      "Hech qachon kredit olmaslik",
+      "Har oy yangi kredit uchun ariza berish"
+     ],
+     "answer_index": 1,
+     "explanation": "O'z vaqtida to'lash va qarz yukini daromadga nisbatan 30% dan pastda saqlash."
+    },
+    {
+     "n": 5,
+     "prompt": "Quyidagi qarz turlaridan qaysi biri ENG XAVFLI (eng yuqori foizli)?",
+     "choices": [
+      "Ipoteka (14-22%)",
+      "Avtomobil krediti (14-24%)",
+      "MFO mikro kredit (36-100%+)",
+      "Ta'lim krediti (12-20%)"
+     ],
+     "answer_index": 2,
+     "explanation": "MFO mikro kreditlari 36-100%+ foiz stavkasiga ega — eng xavfli qarz turi."
+    },
+    {
+     "n": 6,
+     "prompt": "Qaysi holat 'yaxshi qarz' hisoblanadi?",
+     "choices": [
+      "Yangi telefon uchun kredit karta ishlatish",
+      "Restoran xarajatlari uchun MFO dan qarz olish",
+      "Daromadni oshiradigan kasb-hunar kursi uchun ta'lim krediti",
+      "Bayram kiyimlari uchun iste'mol krediti"
+     ],
+     "answer_index": 2,
+     "explanation": "Ta'lim krediti kelajakda daromad oshirsa — bu yaxshi qarz."
+    },
+    {
+     "n": 7,
+     "prompt": "250 mln so'mlik uy uchun ipoteka, 30% boshlang'ich to'lov. Kredit summasi qancha?",
+     "choices": [
+      "250 000 000 so'm",
+      "175 000 000 so'm",
+      "75 000 000 so'm",
+      "100 000 000 so'm"
+     ],
+     "answer_index": 1,
+     "explanation": "250 mln x 70% = 175 mln so'm. Boshlang'ich to'lov 30% = 75 mln."
+    },
+    {
+     "n": 8,
+     "prompt": "Ipotekada jami foiz xarajatini kamaytirish uchun ENG samarali usul qaysi?",
+     "choices": [
+      "Eng uzoq muddatni tanlash",
+      "Boshlang'ich to'lovni kattalashtirish va muddatni qisqartirish",
+      "Faqat annuitet to'lov tanlash",
+      "Eng arzon uyni sotib olish"
+     ],
+     "answer_index": 1,
+     "explanation": "Boshlang'ich to'lovni kattalashtirish va muddatni qisqartirish jami foizni eng ko'p kamaytiradi."
+    },
+    {
+     "n": 9,
+     "prompt": "Bank 18% yillik nominal stavka reklama qiladi. Komissiya va sug'urta qo'shilganda haqiqiy APR 24.5%. Qaysi raqam muhimroq?",
+     "choices": [
+      "18% — bu rasmiy stavka",
+      "24.5% (APR) — bu haqiqiy yillik narx",
+      "Ikkalasi ham bir xil ahamiyatda",
+      "Faqat oylik to'lov muhim"
+     ],
+     "answer_index": 1,
+     "explanation": "APR (24.5%) haqiqiy yillik narxni ko'rsatadi. Har doim APR ni solishtiring."
+    },
+    {
+     "n": 10,
+     "prompt": "Annuitet va differensial to'lov orasidagi asosiy farq nima?",
+     "choices": [
+      "Annuitetda har oy to'lov kamayadi",
+      "Differensialda jami kamroq foiz to'lanadi, lekin boshida ko'proq to'lov",
+      "Ikkalasi ham bir xil",
+      "Differensial to'lov faqat ipotekada ishlatiladi"
+     ],
+     "answer_index": 1,
+     "explanation": "Differensialda jami kamroq foiz to'lanadi, lekin boshida oylik to'lov kattaroq."
+    },
+    {
+     "n": 11,
+     "prompt": "Sizda 3 ta qarz bor: 2 mln (30%), 500 ming (18%), 1 mln (24%). Avalanche metodida qaysi birinchi to'lanadi?",
+     "choices": [
+      "500 ming (eng kichik summa)",
+      "2 mln (eng yuqori foiz — 30%)",
+      "1 mln (o'rtacha)",
+      "Barchasini teng to'lash kerak"
+     ],
+     "answer_index": 1,
+     "explanation": "Avalanche = eng yuqori foizli qarz birinchi = 30% = 2 mln so'm."
+    },
+    {
+     "n": 12,
+     "prompt": "Qarzdan chiqishda birinchi qadam nima bo'lishi kerak?",
+     "choices": [
+      "Darhol eng katta qarzni to'lash",
+      "Yangi kredit olish",
+      "Barcha qarzlarni ro'yxat qilish: summa, foiz, muddat",
+      "Ishdan bo'shash va arzonroq yashash"
+     ],
+     "answer_index": 2,
+     "explanation": "Birinchi qadam — barcha qarzlarni to'liq ro'yxat qilish. Muammoni bilmasdan hal qilib bo'lmaydi. Ball bo'yicha yo'riqnoma 12/12: A'lo! 5-Blokni to'liq o'zlashtirdingiz. 6-Blokga o'tishga tayyorsiz. 10-11: Juda yaxshi — xato qilgan savollarni qayta ko'ring. 8-9: Yaxshi — 5.4 va 5.5 bo'limlarni misollar bilan qayta o'qing. 6-7: Barcha bo'limlarni lug'at bilan birgalikda takrorlang. 6 dan past: Boshidan qayta o'qing, misollar va jadvallarga e'tibor bering."
+    }
+   ]
+  }
+ }
+}

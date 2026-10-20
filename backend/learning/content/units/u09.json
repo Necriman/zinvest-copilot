@@ -1,0 +1,569 @@
+{
+ "unit": 9,
+ "langs": {
+  "en": {
+   "unit": 9,
+   "lang": "en",
+   "title": "Taxes for Beginners",
+   "subtitle": "How taxes work, the types that affect you, deductions and credits, tax-efficient investing, filing basics, and the Uzbekistan tax system.",
+   "lessons": [
+    {
+     "num": "9.1",
+     "title": "Why Taxes Exist",
+     "html": "<p>Taxes are one of the most misunderstood parts of finance. Most people see them as money taken away. In reality, taxes are the price of a functioning society — they fund everything from roads to hospitals to defense.</p><p><strong>The Core Purpose</strong></p><p>Taxes are mandatory contributions to the government that fund public services, infrastructure, defense, education, and healthcare. Without them, there would be no roads, no police, no public schools, and no functioning state.</p><h2>Where Your Tax Money Goes</h2><table><tbody><tr><th><p>Category</p></th><th><p>Typical % of Budget</p></th><th><p>What It Funds</p></th></tr><tr><td><p>Social Programs</p></td><td><p>25-35%</p></td><td><p>Pensions, unemployment benefits, welfare</p></td></tr><tr><td><p>Healthcare</p></td><td><p>15-25%</p></td><td><p>Public hospitals, insurance programs, research</p></td></tr><tr><td><p>Education</p></td><td><p>10-18%</p></td><td><p>Schools, universities, student programs</p></td></tr><tr><td><p>Defense &amp; Security</p></td><td><p>8-15%</p></td><td><p>Military, police, national security</p></td></tr><tr><td><p>Infrastructure</p></td><td><p>8-12%</p></td><td><p>Roads, bridges, public transport, utilities</p></td></tr><tr><td><p>Government Operations</p></td><td><p>5-10%</p></td><td><p>Administration, courts, diplomatic services</p></td></tr><tr><td><p>Debt Service</p></td><td><p>5-15%</p></td><td><p>Interest on national debt</p></td></tr></tbody></table><p><strong>REAL EXAMPLE — Taxes in Daily Life</strong></p><p>You drive on a public road (taxes). Your children attend school (taxes). An ambulance comes when you call 911 (taxes). The water from your tap is clean (taxes). Bridges don't collapse (taxes). A country with low tax collection typically has poor infrastructure, weak public services, and high inequality. A country with efficient tax collection (and spending) typically has better roads, schools, and safety nets.</p><p><strong>The goal is not to avoid taxes — it is to understand them so you pay what you owe, claim what</strong> <strong>you're entitled to, and make tax-efficient financial decisions.</strong></p>"
+    },
+    {
+     "num": "9.2",
+     "title": "Types of Taxes",
+     "html": "<p>There are many types of taxes, but they fall into a few key categories. Understanding which ones affect you helps you plan better and avoid surprises.</p><h2>The Tax Map — Every Type You Need to Know</h2><table><tbody><tr><th><p>Tax Type</p></th><th><p>What It Taxes</p></th><th><p>Who Pays</p></th><th><p>Rate (varies)</p></th><th><p>When</p></th></tr><tr><td><p>Income Tax S</p></td><td><p>alary, business proEfimt</p></td><td><p>sployees, self-employ1</p></td><td><p>e0d-37% (progressive</p></td><td><p>) Monthly/Annual</p></td></tr><tr><td><p>VAT / Sales TaGxoo</p></td><td><p>ds and services purEchv</p></td><td><p>aesryeodne who buys thin</p></td><td><p>gs 5-25%</p></td><td><p>Every purchase</p></td></tr><tr><td><p>Social Security</p></td><td><p>Employment incomeE</p></td><td><p>mployees + employer</p></td><td><p>s 6-15%</p></td><td><p>Every paycheck</p></td></tr><tr><td><p>Property Tax</p></td><td><p>Real estate ownership</p></td><td><p>Property owners</p></td><td><p>0.5-3% of value</p></td><td><p>Annual</p></td></tr><tr><td><p>Capital Gains P</p></td><td><p>rofit from selling asse</p></td><td><p>ts Investors</p></td><td><p>0-20%</p></td><td><p>When you sell</p></td></tr><tr><td><p>Corporate Tax</p></td><td><p>Business profits</p></td><td><p>Companies</p></td><td><p>15-30%</p></td><td><p>Annual</p></td></tr><tr><td><p>Customs/ImporGtoo</p></td><td><p>ds imported from Iambpr</p></td><td><p>oratders (you pay indire</p></td><td><p>ctly) 0-50%</p></td><td><p>On import</p></td></tr><tr><td><p>Inheritance/Estate</p></td><td><p>Assets passed to heir</p></td><td><p>s Heirs or estate</p></td><td><p>0-40%</p></td><td><p>Upon death</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Progressive Taxes</strong></p><p>Rate INCREASES as income rises. Someone earning $30K pays 12%. Someone earning $200K pays 32%. Goal: those who earn more contribute a larger share. Example: Income tax in most countries.</p></td><td><p><strong>Flat Taxes</strong></p><p>Same rate for ALL income levels. $30K income pays 12%. $200K income also pays 12%. Simpler but less redistributive. Example: Uzbekistan (12% flat income tax).</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "9.3",
+     "title": "Income Tax Explained",
+     "html": "<p>Income tax is the most significant tax for most people. It is taken directly from your earnings before you even see the money in many countries.</p><h2>How Income Tax Works</h2><p><strong>The Basic Formula</strong></p><p>Taxable Income = Gross Income - Deductions</p><p>Tax Owed = Taxable Income x Tax Rate</p><p>Net Income (take-home) = Gross Income - Tax Owed - Other Deductions</p><h2>Tax Deductions vs Tax Credits</h2><table><tbody><tr><td><p><strong>Tax Deduction</strong></p><p>Reduces your TAXABLE INCOME. $50K income - $5K deduction = taxed on $45K. Saves you: $5K x your tax rate. At 20% rate, saves $1,000. Examples: mortgage interest, education expenses, business costs, charitable donations.</p></td><td><p><strong>Tax Credit</strong></p><p>Reduces your TAX BILL directly. $10K tax bill - $2K credit = pay $8K. Saves you: the full credit amount. $2K credit saves exactly $2,000. Examples: child tax credit, education credits, energy-efficient home credits.</p></td></tr></tbody></table><h2>Uzbekistan's Tax System</h2><table><tbody><tr><th><p>Tax</p></th><th><p>Rate</p></th><th><p>Who Pays</p></th><th><p>Notes</p></th></tr><tr><td><p>Personal Income Tax</p></td><td><p>12% flat</p></td><td><p>All individuals</p></td><td><p>One of the lowest in the region</p></td></tr><tr><td><p>Social Tax</p></td><td><p>12%</p></td><td><p>Employers</p></td><td><p>Funds pensions and social programs</p></td></tr><tr><td><p>VAT</p></td><td><p>12% Bus</p></td><td><p>inesses (passed to consum</p></td><td><p>ers) On most goods and services</p></td></tr><tr><td><p>Property Tax</p></td><td><p>Up to 2%</p></td><td><p>Property owners</p></td><td><p>Based on cadastral value</p></td></tr><tr><td><p>Dividend Tax</p></td><td><p>5%</p></td><td><p>Investors</p></td><td><p>On dividend income</p></td></tr><tr><td><p>Capital Gains Tax</p></td><td><p>12%</p></td><td><p>Investors</p></td><td><p>On profit from asset sales</p></td></tr></tbody></table><p><strong>REAL EXAMPLE — How Uzbek Income Tax Works</strong></p><p>Nodira earns 15,000,000 UZS/month gross salary.</p><p>Income tax (12%): 15,000,000 x 0.12 = 1,800,000 UZS</p><p>Social contributions are paid by employer separately.</p><p>Net salary: 15,000,000 - 1,800,000 = 13,200,000 UZS</p><p><strong>Compared to progressive systems: in the US, the same income might be taxed at 22-24%.</strong> <strong>Uzbekistan's 12% flat rate is a significant advantage — use it to save and invest more</strong> <strong>aggressively.</strong></p>"
+    },
+    {
+     "num": "9.4",
+     "title": "Taxes on Spending & Property",
+     "html": "<p>Income tax gets the most attention, but you pay taxes every single day without realizing it. Every purchase, every property you own — all taxed.</p><h2>VAT / Sales Tax</h2><p><strong>What is VAT?</strong></p><p>Value Added Tax (VAT) is a consumption tax added to the price of goods and services. In Uzbekistan, VAT is 12%. When you buy something for 1,120,000 UZS, approximately 120,000 of that is VAT. You pay it automatically — it is already included in the price.</p><p>VAT is a regressive tax: it takes a larger percentage of income from poor people than rich people, because lower-income people spend a higher proportion of their income on taxable goods.</p><h2>Property Tax</h2><p><strong>How Property Tax Works</strong></p><p>Annual tax based on the assessed value of real estate you own. Rate varies by location and property type. In Uzbekistan: up to 2% of cadastral value. A property assessed at 500,000,000 UZS at 1.5% = 7,500,000 UZS/year in property tax.</p><p>Property tax funds local services: roads, schools, garbage collection, street lighting. The better the area, typically the higher the tax.</p><h2>Customs and Import Duties</h2><p>When goods are imported, the government charges customs duties. This is why imported electronics, cars, and luxury items cost more in Uzbekistan than in producing countries. Duties range from 0% (some food, medicine) to 30-50% (luxury cars, alcohol, tobacco).</p><p><strong>REAL EXAMPLE — The Hidden Tax Burden</strong></p><p>Akmal earns 10,000,000 UZS/month. He thinks he pays only 12% income tax (1,200,000). But: Income tax: 1,200,000 UZS (12%)</p><p>VAT on purchases: ~720,000 UZS (~12% on ~60% of spending)</p><p>Property tax: ~250,000 UZS/month (if he owns an apartment)</p><p>Customs built into imported goods: ~200,000 UZS (estimated)</p><p><strong>Total effective tax: ~2,370,000 UZS = 23.7% of income. The real tax burden is nearly DOUBLE</strong> <strong>what most people think.</strong></p>"
+    },
+    {
+     "num": "9.5",
+     "title": "Tax-Smart Investing",
+     "html": "<p>Taxes can significantly reduce your investment returns. Understanding how different investments are taxed helps you keep more of what you earn.</p><h2>How Different Investments Are Taxed</h2><table><tbody><tr><th><p>Investment</p></th><th><p>Tax Type</p></th><th><p>When Taxed</p></th><th><p>Rate (UZ)</p></th><th><p>Strategy</p></th></tr><tr><td><p>Bank Deposit Interest</p></td><td><p>Income tax</p></td><td><p>Annually</p></td><td><p>12%</p></td><td><p>Use tax-free thresholds if available</p></td></tr><tr><td><p>Stock Dividends</p></td><td><p>Dividend tax</p></td><td><p>When received</p></td><td><p>5%</p></td><td><p>Low rate — dividend stocks are tax-efficient</p></td></tr><tr><td><p>Capital Gains (stocks)</p></td><td><p>Capital gains</p></td><td><p>When you sell</p></td><td><p>12%</p></td><td><p>Hold long-term to defer tax</p></td></tr><tr><td><p>Rental Income</p></td><td><p>Income tax</p></td><td><p>Monthly/Annual</p></td><td><p>12%</p></td><td><p>Deduct maintenance, repairs, depreciation</p></td></tr><tr><td><p>Bond Interest</p></td><td><p>Income tax</p></td><td><p>When received</p></td><td><p>12%</p></td><td><p>Government bonds may have exemptions</p></td></tr><tr><td><p>Business Profits</p></td><td><p>Corporate/Income</p></td><td><p>Annual</p></td><td><p>Varies</p></td><td><p>Reinvest profits for deductions</p></td></tr></tbody></table><h2>Tax-Efficient Strategies</h2><p>→<strong> 1. Hold Investments Longer</strong></p><p>In many countries, long-term capital gains (held 1+ years) are taxed at lower rates. Even where rates are the same, deferring the sale defers the tax — your money compounds tax-free longer.</p><p>→<strong> 2. Use Tax-Advantaged Accounts</strong></p><p>If available, use pension accounts or special investment accounts that grow tax-free or tax-deferred. The tax savings compound dramatically over decades.</p><p>→<strong> 3. Harvest Tax Losses</strong></p><p>If an investment drops in value, selling it creates a 'loss' that can offset gains from other investments, reducing your overall tax bill. Then reinvest in a similar asset.</p><p>→<strong> 4. Maximize Deductions</strong></p><p>Keep records of all deductible expenses: business costs, education, charitable donations, medical expenses. Every deduction reduces your taxable income.</p><p><strong>REAL EXAMPLE — Tax Impact on Investment Returns</strong></p><p>Two investors both earn 10% return on a 100,000,000 UZS portfolio = 10,000,000 UZS gain. Investor A sells after 6 months: pays 12% tax = 1,200,000 UZS. Net gain: 8,800,000.</p><p>Investor B holds for 5 years, reinvests gains: the 10,000,000 compounds for 5 years tax-free. At 10%/year, becomes ~16,100,000 before any tax. Even after 12% tax on the total gain (~1,932,000), net gain is ~14,168,000.</p><p><strong>Same investment. Same tax rate. But Investor B earned 61% MORE by simply holding longer</strong> <strong>and letting compounding work before taxes.</strong></p>"
+    },
+    {
+     "num": "9.6",
+     "title": "Filing & Compliance",
+     "html": "<p>Understanding how to file taxes correctly protects you from penalties and ensures you claim all deductions you are entitled to.</p><h2>Who Needs to File a Tax Return?</h2><p><strong>In Uzbekistan, you may need to file if:</strong></p><p>You have income from multiple sources (salary + freelance + rental)</p><p>You sold property or investments and owe capital gains tax</p><p>You earned income from abroad</p><p>You want to claim deductions or credits</p><p>If you have ONLY employment income, your employer typically handles everything through payroll.</p><h2>Essential Records to Keep</h2><p><strong>Income Documents</strong></p><p>Pay stubs, freelance invoices, rental receipts, investment statements — proof of all money received.</p><p><strong>Expense Receipts</strong></p><p>Business expenses, medical bills, education costs, charitable donations — anything potentially deductible.</p><p><strong>Investment Records</strong></p><p>Purchase price, sale price, dates — needed to calculate capital gains accurately.</p><p><strong>Property Documents</strong></p><p>Purchase contracts, renovation receipts, property tax payments — for property-related deductions.</p><p><strong>Bank Statements</strong></p><p>Monthly statements showing income and major expenses. Keep for at least 3-5 years.</p><h2>Common Tax Mistakes to Avoid</h2><p><strong>Not keeping receipts</strong></p><p>Without documentation, you cannot claim deductions. Digital photo of every receipt takes 5 seconds.</p><p><strong>Missing filing deadlines</strong></p><p>Late filing = penalties + interest. Set calendar reminders 2 weeks before each deadline.</p><p><strong>Not claiming all deductions</strong></p><p>Many people overpay because they don't know what they can deduct. Education, medical, charity — track everything.</p><p><strong>Ignoring foreign income</strong></p><p>If you earn money from abroad (freelancing, investments), it may be taxable. Report it to avoid legal issues.</p><p><strong>Not understanding withholding</strong></p><p>If your employer withholds too much, you get a refund. Too little, you owe at year end. Check your withholding annually.</p><p><strong>Core Takeaway — Unit 9</strong></p><p><em><strong><em><strong>Taxes are not optional — but overpaying is. Understanding how taxes work, which</strong></em> <em><strong>deductions you qualify for, and how to invest tax-efficiently can save you thousands every</strong></em> <em><strong>year. In Uzbekistan, the 12% flat income tax is one of the lowest in the region — use this</strong></em> <em><strong>advantage to save and invest aggressively. Keep meticulous records, file on time, and think</strong></em> <em><strong>about tax implications before every major financial decision. ZInvest AI can help you</strong></em> <em><strong>calculate your effective tax rate, identify missed deductions, and build a tax-efficient</strong></em> <em><strong>investment strategy.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Key Terms Glossary",
+    "html": "<blockquote><p>All important terms from Unit 9</p></blockquote><table><tbody><tr><th><p>Income Tax</p></th><th><p>Tax on money earned from employment, business, or investments. The most common and significant tax for individuals.</p></th></tr><tr><td><p>VAT (Value Added Tax)</p></td><td><p>A consumption tax added to the price of goods and services. Paid by everyone who purchases things. In Uzbekistan: 12%.</p></td></tr><tr><td><p>Progressive Tax</p></td><td><p>A tax system where the rate increases as income rises. Higher earners pay a higher percentage.</p></td></tr><tr><td><p>Flat Tax</p></td><td><p>A tax system where everyone pays the same rate regardless of income. Uzbekistan uses 12% flat rate.</p></td></tr><tr><td><p>Tax Deduction</p></td><td><p>An expense that reduces your taxable income. $5,000 deduction at 20% rate saves $1,000 in taxes.</p></td></tr><tr><td><p>Tax Credit</p></td><td><p>A direct reduction of your tax bill. A $2,000 credit reduces your tax owed by exactly $2,000.</p></td></tr><tr><td><p>Taxable Income</p></td><td><p>Gross income minus all allowable deductions. This is the amount your tax is calculated on.</p></td></tr><tr><td><p>Capital Gains Tax</p></td><td><p>Tax on profit from selling an asset for more than you paid. Applies to stocks, property, and other investments.</p></td></tr><tr><td><p>Property Tax</p></td><td><p>Annual tax on real estate ownership based on assessed value. Funds local public services.</p></td></tr><tr><td><p>Withholding</p></td><td><p>Tax automatically deducted from your paycheck by your employer before you receive it.</p></td></tr><tr><td><p>Tax Return</p></td><td><p>The formal document filed with the government reporting income, deductions, and tax owed.</p></td></tr><tr><td><p>Tax-Advantaged Account</p></td><td><p>Special accounts where investments grow tax-free or tax-deferred, significantly boosting long-term returns.</p></td></tr><tr><td><p>Effective Tax Rate</p></td><td><p>The actual percentage of total income paid in taxes after all deductions and credits. Often lower than the nominal rate.</p></td></tr><tr><td><p>Customs Duty</p></td><td><p>Tax on goods imported from other countries. Makes imported products more expensive.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "What is the primary purpose of taxes?",
+     "choices": [
+      "To punish wealthy people",
+      "To fund public services — roads, schools, healthcare, defense",
+      "To create inflation",
+      "To benefit only government officials"
+     ],
+     "answer_index": 1,
+     "explanation": "Taxes fund public services — roads, schools, healthcare, defense, police. Without them, governments cannot function."
+    },
+    {
+     "n": 2,
+     "prompt": "What does 'progressive taxation' mean?",
+     "choices": [
+      "Everyone pays the same tax rate",
+      "Tax rates decrease as income rises",
+      "Higher income is taxed at higher rates",
+      "Only businesses pay taxes"
+     ],
+     "answer_index": 2,
+     "explanation": "Progressive taxation means higher income is taxed at higher rates. Someone earning $100K pays a higher % than someone earning $30K."
+    },
+    {
+     "n": 3,
+     "prompt": "Which tax type applies to your salary?",
+     "choices": [
+      "Property tax",
+      "Income tax",
+      "Customs duty",
+      "Inheritance tax"
+     ],
+     "answer_index": 1,
+     "explanation": "Income tax is levied on wages, salaries, and business profits — the most common tax most people encounter."
+    },
+    {
+     "n": 4,
+     "prompt": "VAT (Value Added Tax) is paid by:",
+     "choices": [
+      "Only businesses",
+      "Only wealthy individuals",
+      "Everyone who purchases goods and services",
+      "Only importers"
+     ],
+     "answer_index": 2,
+     "explanation": "VAT is included in the price of goods and services. Everyone pays it when buying things, regardless of income level."
+    },
+    {
+     "n": 5,
+     "prompt": "What is a TAX DEDUCTION?",
+     "choices": [
+      "A direct payment from the government",
+      "An expense that reduces your taxable income, lowering your tax bill",
+      "A penalty for late filing",
+      "An additional tax on luxury items"
+     ],
+     "answer_index": 1,
+     "explanation": "A tax deduction reduces your taxable income. $50K income with $5K deduction = you're taxed on $45K instead."
+    },
+    {
+     "n": 6,
+     "prompt": "What is property tax?",
+     "choices": [
+      "Tax on buying property (one-time)",
+      "Tax on renting property",
+      "Annual tax based on the assessed value of real estate you own",
+      "Tax only on commercial property"
+     ],
+     "answer_index": 2,
+     "explanation": "Property tax is an annual tax based on the assessed value of real estate you own. Funds local services."
+    },
+    {
+     "n": 7,
+     "prompt": "When do you pay capital gains tax?",
+     "choices": [
+      "When you buy an investment",
+      "When you sell an asset for MORE than you paid (profit)",
+      "Every month on your portfolio",
+      "Only on real estate, not stocks"
+     ],
+     "answer_index": 1,
+     "explanation": "Capital gains tax applies to profit from selling assets (stocks, property) for more than you paid."
+    },
+    {
+     "n": 8,
+     "prompt": "What is the benefit of a tax-advantaged investment account?",
+     "choices": [
+      "You never have to pay any taxes",
+      "You get free money from the government",
+      "Investments grow tax-free or tax-deferred, significantly boosting long-term returns",
+      "It guarantees positive returns"
+     ],
+     "answer_index": 2,
+     "explanation": "Tax-advantaged accounts let investments grow tax-free or tax-deferred, significantly boosting long-term returns."
+    },
+    {
+     "n": 9,
+     "prompt": "What is a tax return?",
+     "choices": [
+      "Money the government returns to you automatically",
+      "The formal document reporting income and calculating tax owed",
+      "A refund you receive if you overpaid",
+      "A receipt for taxes paid"
+     ],
+     "answer_index": 1,
+     "explanation": "Filing a tax return is the formal process of reporting income and calculating tax owed to the government."
+    },
+    {
+     "n": 10,
+     "prompt": "What is the BEST way to legally minimize your tax bill?",
+     "choices": [
+      "Don't report income",
+      "Move to a country with no taxes",
+      "Keep records of all deductible expenses and claim every deduction you qualify for",
+      "Don't file a tax return"
+     ],
+     "answer_index": 2,
+     "explanation": "Keeping records of deductible expenses throughout the year is the best way to legally minimize your tax bill."
+    },
+    {
+     "n": 11,
+     "prompt": "In Uzbekistan, the personal income tax rate is:",
+     "choices": [
+      "0% — no income tax",
+      "12% flat rate",
+      "20-37% progressive",
+      "25% flat rate"
+     ],
+     "answer_index": 1,
+     "explanation": "In Uzbekistan, the flat personal income tax rate is 12% on most employment income."
+    },
+    {
+     "n": 12,
+     "prompt": "Why should every person understand how taxes work?",
+     "choices": [
+      "To find ways to evade taxes",
+      "To complain more effectively to the government",
+      "To keep more of what you earn, make better investment decisions, and avoid legal problems",
+      "Taxes don't affect most people"
+     ],
+     "answer_index": 2,
+     "explanation": "Understanding taxes helps you keep more of what you earn, make better investment decisions, and avoid legal problems."
+    }
+   ]
+  },
+  "ru": {
+   "unit": 9,
+   "lang": "ru",
+   "title": "Налоги для начинающих",
+   "subtitle": "Как работают налоги, какие виды вас касаются, вычеты и льготы, налогоэффективные инвестиции, подача деклараций и налоговая система Узбекистана.",
+   "lessons": [
+    {
+     "num": "9.1",
+     "title": "Зачем нужны налоги",
+     "html": "<p>Налоги — одна из самых непонятых частей финансов. Большинство видит их как отнятые деньги. На самом деле налоги — цена функционирующего общества: они финансируют всё, от дорог до больниц.</p><p><strong>Основная цель</strong></p><p>Налоги — обязательные отчисления в бюджет, финансирующие общественные услуги, инфраструктуру, оборону, образование и здравоохранение. Без них не было бы дорог, полиции, школ и работающего государства.</p><h2>Куда уходят ваши налоги</h2><table><tbody><tr><th><p>Категория</p></th><th><p>% бюджета</p></th><th><p>Что финансирует</p></th></tr><tr><td><p>Соц. программы</p></td><td><p>25-35%</p></td><td><p>Пенсии, пособия по безработице, социальная помощь</p></td></tr><tr><td><p>Здравоохранение</p></td><td><p>15-25%</p></td><td><p>Больницы, медстраховка, исследования</p></td></tr><tr><td><p>Образование</p></td><td><p>10-18%</p></td><td><p>Школы, университеты, стипендии</p></td></tr><tr><td><p>Оборона и безопасность</p></td><td><p>8-15%</p></td><td><p>Армия, полиция, нац. безопасность</p></td></tr><tr><td><p>Инфраструктура</p></td><td><p>8-12%</p></td><td><p>Дороги, мосты, транспорт, ЖКХ</p></td></tr><tr><td><p>Госуправление</p></td><td><p>5-10%</p></td><td><p>Администрация, суды, дипломатия</p></td></tr><tr><td><p>Обслуживание долга</p></td><td><p>5-15%</p></td><td><p>Проценты по государственному долгу</p></td></tr></tbody></table><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Налоги в повседневной жизни</strong></p><p>Вы едете по дороге (налоги). Ваши дети ходят в школу (налоги). Скорая приезжает по вызову (налоги). Вода из крана чистая (налоги). Мосты не обрушаются (налоги). Страна с низким сбором налогов обычно имеет плохую инфраструктуру, слабые услуги и высокое неравенство. Страна с эффективным сбором — лучшие дороги, школы и социальные сети.</p><p><strong>Цель — не избежать налогов, а понимать их: платить положенное, получать</strong> <strong>полагающиеся вычеты и принимать налогоэффективные финансовые</strong> <strong>решения.</strong></p>"
+    },
+    {
+     "num": "9.2",
+     "title": "Виды налогов",
+     "html": "<p>Налогов много, но они делятся на несколько ключевых категорий. Понимание того, какие из них касаются вас, помогает планировать и избегать сюрпризов.</p><h2>Карта налогов</h2><table><tbody><tr><th><p>Вид налога</p></th><th><p>На что</p></th><th><p>Кто платит</p></th><th><p>Ставка</p></th><th><p>Когда</p></th></tr><tr><td><p>ДФЛ (подоходныЗй</p></td><td><p>а)рплата, прибыл</p></td><td><p>ьРаботники, ИП</p></td><td><p>12% (плоская)</p></td><td><p>Ежемесячно</p></td></tr><tr><td><p>НДС</p></td><td><p>Товары и услуги</p></td><td><p>Все покупатели</p></td><td><p>12%</p></td><td><p>При покупке</p></td></tr><tr><td><p>Соцвзносы</p></td><td><p>Трудовой доход</p></td><td><p>Работодатели</p></td><td><p>12%</p></td><td><p>С каждой зарплаты</p></td></tr><tr><td><p>алог на имуществ</p></td><td><p>оНедвижимость</p></td><td><p>Собственники</p></td><td><p>До 2%</p></td><td><p>Ежегодно</p></td></tr><tr><td><p>а прирост капитаПлр</p></td><td><p>аибыль от прода</p></td><td><p>жи Инвесторы</p></td><td><p>12%</p></td><td><p>При продаже</p></td></tr><tr><td><p>Налог на прибыль</p></td><td><p>Прибыль бизнеса</p></td><td><p>Компании</p></td><td><p>15%</p></td><td><p>Ежегодно</p></td></tr><tr><td><p>аможенная пошлиИн</p></td><td><p>мапортные товар</p></td><td><p>ы Импортёры</p></td><td><p>0-50%</p></td><td><p>При импорте</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Прогрессивный налог</strong></p><p>Ставка РАСТЁТ с доходом. 30 000 руб. — платит 13%. 5 000 000 руб. — платит 15%. Цель: больше зарабатывающие вносят больше. Пример: НДФЛ в России с 2021 г.</p></td><td><p><strong>Плоский налог</strong></p><p>Одна ставка для ВСЕХ доходов. 3 000 000 — платит 12%. 30 000 000 — тоже 12%. Проще, но менее перераспределяющий. Пример: Узбекистан (12% НДФЛ).</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "9.3",
+     "title": "Подоходный налог",
+     "html": "<p>Подоходный налог — самый значимый налог для большинства. Во многих странах он удерживается из зарплаты ещё до того, как вы увидите деньги.</p><h2>Как работает подоходный налог</h2><p><strong>Основная формула</strong></p><p>Налогооблагаемый доход = Валовой доход − Вычеты</p><p>Сумма налога = Налогооблагаемый доход × Ставка</p><p>Чистый доход = Валовой − Налог − Прочие удержания</p><h2>Налоговый вычет vs Налоговый кредит</h2><table><tbody><tr><td><p><strong>Налоговый вычет</strong></p><p>Уменьшает НАЛОГООБЛАГАЕМЫЙ ДОХОД. 500К доход − 50К вычет = налог с 450К. Экономия: 50К × вашу ставку. При 12% экономит 6 000 руб. Примеры: ипотечные проценты, образование, благотворительность.</p></td><td><p><strong>Налоговый кредит (льгота)</strong></p><p>Уменьшает САМ НАЛОГ напрямую. 100К налог − 20К кредит = платите 80К. Экономия: полная сумма кредита. 20К кредит экономит ровно 20 000. Примеры: на детей, образование, энергоэффективность.</p></td></tr></tbody></table><h2>Налоговая система Узбекистана</h2><table><tbody><tr><th><p>Налог</p></th><th><p>Ставка</p></th><th><p>Кто платит</p></th><th><p>Примечания</p></th></tr><tr><td><p>НДФЛ</p></td><td><p>12% плоская</p></td><td><p>Все физлица</p></td><td><p>Одна из самых низких в регионе</p></td></tr><tr><td><p>Социальный налог</p></td><td><p>12%</p></td><td><p>Работодатели</p></td><td><p>Финансирует пенсии и соцпрограммы</p></td></tr><tr><td><p>НДС</p></td><td><p>12%Бизн</p></td><td><p>ес (перекл. на потреби</p></td><td><p>теляН)а большинство товаров и услуг</p></td></tr><tr><td><p>Налог на имущество</p></td><td><p>До 2%</p></td><td><p>Собственники</p></td><td><p>По кадастровой стоимости</p></td></tr><tr><td><p>На дивиденды</p></td><td><p>5%</p></td><td><p>Инвесторы</p></td><td><p>На дивидендный доход</p></td></tr><tr><td><p>На прирост капитала</p></td><td><p>12%</p></td><td><p>Инвесторы</p></td><td><p>На прибыль от продажи активов</p></td></tr></tbody></table><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Как работает НДФЛ в Узбекистане</strong></p><p>Нодира получает 15 000 000 сум/мес. брутто.</p><p>НДФЛ (12%): 15 000 000 × 0,12 = 1 800 000 сум.</p><p>Социальные взносы — платит работодатель отдельно.</p><p>Чистая зарплата: 15 000 000 − 1 800 000 = 13 200 000 сум.</p><p><strong>Для сравнения: в прогрессивных системах тот же доход мог бы облагаться</strong> <strong>по 22-24%. Плоские 12% Узбекистана — значительное преимущество.</strong> <strong>Используйте его для более агрессивных накоплений и инвестиций.</strong></p>"
+    },
+    {
+     "num": "9.4",
+     "title": "Налоги на расходы и имущество",
+     "html": "<p>Подоходный налог привлекает больше всего внимания, но вы платите налоги каждый день, не замечая. Каждая покупка, каждая собственность — всё облагается.</p><h2>НДС (налог на добавленную стоимость)</h2><p><strong>Что такое НДС?</strong></p><p>НДС — налог на потребление, включённый в цену товаров и услуг. В Узбекистане НДС — 12%. Когда покупаете что-то за 1 120 000 сум, ~120 000 из этого — НДС. Вы платите его автоматически — он уже в цене.</p><p>НДС — регрессивный налог: он забирает больший процент дохода у бедных, потому что они тратят большую долю дохода на облагаемые товары.</p><h2>Налог на имущество</h2><p><strong>Как работает налог на имущество</strong></p><p>Ежегодный налог на основе оценочной стоимости вашей недвижимости. В Узбекистане: до 2% кадастровой стоимости. Квартира оценкой 500 000 000 сум при ставке 1,5% = 7 500 000 сум/год.</p><p>Налог на имущество финансирует местные услуги: дороги, школы, вывоз мусора, освещение.</p><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Скрытая налоговая нагрузка</strong></p><p>Акмал зарабатывает 10 000 000 сум/мес. Думает, что платит только 12% НДФЛ (1 200 000). Но:</p><p>НДФЛ: 1 200 000 сум (12%)</p><p>НДС на покупки: ~720 000 сум (~12% на ~60% расходов)</p><p>Налог на имущество: ~250 000 сум/мес. (если владеет квартирой)</p><p>Таможенные пошлины в цене импортных товаров: ~200 000 сум</p><p><strong>Реальная налоговая нагрузка: ~2 370 000 сум = 23,7% дохода. Почти</strong> <strong>ВДВОЕ больше, чем думает большинство.</strong></p>"
+    },
+    {
+     "num": "9.5",
+     "title": "Налоги и инвестиции",
+     "html": "<p>Налоги</p><blockquote><p>могут</p><p>существенно</p><p>уменьшить</p><p>инвестиционную</p><p>доходность.</p><p>Понимание</p></blockquote><p>налогообложения разных инвестиций помогает сохранить больше заработанного.</p><h2>Как облагаются разные инвестиции</h2><table><tbody><tr><th><p>Инвестиция</p></th><th><p>Вид налога</p></th><th><p>Когда</p></th><th><p>Ставка (УЗ)</p></th><th><p>Стратегия</p></th></tr><tr><td><p>роценты по вклад</p></td><td><p>у НДФЛ</p></td><td><p>Ежегодно</p></td><td><p>12%</p></td><td><p>Используйте льготы, если доступны</p></td></tr><tr><td><p>ивиденды по акция</p></td><td><p>мНа дивиденды</p></td><td><p>При получении</p></td><td><p>5% Низ</p></td><td><p>кая ставка — дивид. акции эффекти</p></td></tr><tr><td><p>Прирост капитала</p></td><td><p>На прирост</p></td><td><p>При продаже</p></td><td><p>12%</p></td><td><p>Держите дольше — отсрочка налога</p></td></tr><tr><td><p>Арендный доход</p></td><td><p>НДФЛ</p></td><td><p>Ежемесячно</p></td><td><p>12%</p></td><td><p>Вычитайте ремонт, амортизацию</p></td></tr><tr><td><p>центы по облигац</p></td><td><p>иям НДФЛ</p></td><td><p>При получении</p></td><td><p>12%</p></td><td><p>ГЦБ могут иметь льготы</p></td></tr></tbody></table><h2>Налогоэффективные стратегии</h2><p><strong>→ 1. Держите инвестиции дольше</strong></p><p>Отсрочка продажи = отсрочка налога. Деньги дольше работают без налоговой нагрузки — компаундинг на полную мощность.</p><p><strong>→ 2. Используйте льготные счета</strong></p><p>Если доступны пенсионные или инвестиционные счета с льготами — используйте. Экономия на налогах накапливается десятилетиями.</p><p><strong>→ 3. Фиксируйте убытки</strong></p><p>Если инвестиция упала — продажа создаёт «убыток», который компенсирует прибыль от других инвестиций, снижая общий налог.</p><p><strong>→ 4. Максимизируйте вычеты</strong></p><p>Ведите</p><blockquote><p>учёт</p><p>всех</p><p>вычитаемых</p><p>расходов:</p><p>бизнес,</p><p>образование,</p></blockquote><p>благотворительность, медицина. Каждый вычет снижает налогооблагаемый доход.</p><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Влияние налогов на доходность</strong></p><p>Два инвестора, оба заработали 10% на 100 000 000 сум = 10 000 000 сум прибыли. Инвестор А продаёт через 6 месяцев: платит 12% = 1 200 000. Чистая прибыль: 8 800 000.</p><p>Инвестор Б держит 5 лет, реинвестирует прибыль: за 5 лет при 10%/год прибыль вырастает до ~16 100 000 до налога. Даже после 12% (~1 932 000) чистая прибыль ~14 168 000.</p><p><strong>Одна инвестиция. Одна ставка. Но Инвестор Б заработал на 61% БОЛЬШЕ,</strong> <strong>просто подержав дольше и дав компаундингу работать до уплаты налога.</strong></p>"
+    },
+    {
+     "num": "9.6",
+     "title": "Подача деклараций и соблюдение",
+     "html": "<p>Правильная подача налогов защищает от штрафов и гарантирует, что вы получите все вычеты, на которые имеете право.</p><h2>Кому нужно подавать декларацию?</h2><p><strong>В Узбекистане декларацию подают, если:</strong></p><p>Доход из нескольких источников (зарплата + фриланс + аренда)</p><p>Продали имущество или инвестиции с приростом капитала</p><p>Получали доход из-за рубежа</p><p>Хотите заявить вычеты или льготы</p><p>Если ТОЛЬКО трудовой доход — работодатель обычно всё удерживает через зарплату.</p><h2>Какие документы хранить</h2><p><strong>Документы о доходах</strong></p><p>Расчётные листы, счета за фриланс, квитанции аренды, инвестиционные отчёты.</p><p><strong>Чеки расходов</strong></p><p>Бизнес-расходы, медицинские счета, образование, благотворительность — всё потенциально вычитаемое.</p><p><strong>Инвестиционные записи</strong></p><p>Цена покупки, цена продажи, даты — нужны для точного расчёта прироста капитала.</p><p><strong>Банковские выписки</strong></p><p>Ежемесячные выписки с доходами и основными расходами. Храните минимум 3-5 лет.</p><h2>Типичные налоговые ошибки</h2><p><strong>Не хранить чеки</strong></p><p>Без документов нельзя заявить вычеты. Фото чека занимает 5 секунд.</p><p><strong>Пропускать сроки подачи</strong></p><p>Опоздание = штрафы + пени. Ставьте напоминания за 2 недели до дедлайна.</p><p><strong>Не заявлять все вычеты</strong></p><p>Многие переплачивают, не зная, что можно вычесть. Образование, медицина, благотворительность — учитывайте всё.</p><p><strong>Игнорировать зарубежный доход</strong></p><p>Доход из-за границы (фриланс, инвестиции) может быть налогооблагаемым. Декларируйте, чтобы избежать проблем.</p><p><strong>Основной вывод — Блок 9</strong></p><p><em><strong><em><strong>Налоги обязательны — но переплата нет. Понимание налогов, доступных</strong></em> <em><strong>вычетов и налогоэффективного инвестирования экономит тысячи каждый</strong></em> <em><strong>год. В Узбекистане плоские 12% НДФЛ — одни из самых низких в регионе.</strong></em> <em><strong>Используйте это преимущество для агрессивных накоплений и инвестиций.</strong></em> <em><strong>Ведите тщательный учёт, подавайте вовремя и думайте о налоговых</strong></em> <em><strong>последствиях перед каждым крупным решением. ZInvest AI поможет</strong></em> <em><strong>рассчитать эффективную ставку, найти упущенные вычеты и построить</strong></em> <em><strong>налогоэффективную инвестиционную стратегию.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Словарь ключевых терминов",
+    "html": "<blockquote><p>Все важные понятия Блока 9</p></blockquote><table><tbody><tr><th><p>НДФЛ</p></th><th><p>Налог на доходы физических лиц — на зарплату, бизнес-прибыль и инвестиционные доходы. Самый распространённый налог.</p></th></tr><tr><td><p>НДС</p></td><td><p>Налог на добавленную стоимость — налог на потребление, включённый в цену товаров и услуг. В Узбекистане: 12%.</p></td></tr><tr><td><p>Прогрессивный налог</p></td><td><p>Система, где ставка растёт с доходом. Больше зарабатываете — выше процент налога.</p></td></tr><tr><td><p>Плоский налог</p></td><td><p>Система с единой ставкой для всех доходов. Узбекистан — 12% плоский НДФЛ.</p></td></tr><tr><td><p>Налоговый вычет</p></td><td><p>Расход, уменьшающий налогооблагаемый доход. 50К вычет при 12% ставке экономит 6 000 руб.</p></td></tr><tr><td><p>Налоговый кредит (льгота)</p></td><td><p>Прямое уменьшение суммы налога. 20К кредит снижает налог ровно на 20 000.</p></td></tr><tr><td><p>Налогооблагаемы й доход</p></td><td><p>Валовой доход минус все допустимые вычеты. Именно с этой суммы рассчитывается налог.</p></td></tr><tr><td><p>Налог на прирост капитала</p></td><td><p>Налог на прибыль от продажи актива дороже, чем купили. Применяется к акциям, недвижимости и др.</p></td></tr><tr><td><p>Налог на имущество</p></td><td><p>Ежегодный налог на недвижимость по оценочной стоимости. Финансирует местные услуги.</p></td></tr><tr><td><p>Удержание (withholding)</p></td><td><p>Налог, автоматически вычитаемый из зарплаты работодателем до получения вами.</p></td></tr><tr><td><p>Налоговая декларация</p></td><td><p>Формальный документ, подаваемый государству с отчётом о доходах и расчётом налога.</p></td></tr><tr><td><p>Эффективная ставка</p></td><td><p>Фактический % от общего дохода, уплаченный в налогах после всех вычетов. Часто ниже номинальной.</p></td></tr><tr><td><p>Таможенная пошлина</p></td><td><p>Налог на товары, ввозимые из других стран. Делает импортные товары дороже.</p></td></tr><tr><td><p>Налоговая оптимизация</p></td><td><p>Законные методы минимизации налоговых выплат: вычеты, льготы, структурирование инвестиций.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Какова основная цель налогов?",
+     "choices": [
+      "Наказать богатых",
+      "Финансировать общественные услуги — дороги, школы, медицину, оборону",
+      "Создать инфляцию",
+      "Пользу только чиновникам"
+     ],
+     "answer_index": 1,
+     "explanation": "Налоги финансируют общественные услуги — дороги, школы, медицину, оборону, полицию. Без них государство не функционирует."
+    },
+    {
+     "n": 2,
+     "prompt": "Что означает «прогрессивное налогообложение»?",
+     "choices": [
+      "Все платят одинаковую ставку",
+      "Ставки снижаются с ростом дохода",
+      "Более высокий доход облагается по более высокой ставке",
+      "Налоги платят только бизнесы"
+     ],
+     "answer_index": 2,
+     "explanation": "Прогрессивное налогообложение означает, что более высокий доход облагается по более высокой ставке."
+    },
+    {
+     "n": 3,
+     "prompt": "Какой налог применяется к вашей зарплате?",
+     "choices": [
+      "Налог на имущество",
+      "НДФЛ (подоходный налог)",
+      "Таможенная пошлина",
+      "Налог на наследство"
+     ],
+     "answer_index": 1,
+     "explanation": "Подоходный налог взимается с зарплаты, заработка и прибыли — самый распространённый налог."
+    },
+    {
+     "n": 4,
+     "prompt": "НДС платит:",
+     "choices": [
+      "Только бизнес",
+      "Только богатые",
+      "Все, кто покупает товары и услуги",
+      "Только импортёры"
+     ],
+     "answer_index": 2,
+     "explanation": "НДС включён в цену товаров и услуг. Его платит каждый, кто совершает покупки, независимо от дохода."
+    },
+    {
+     "n": 5,
+     "prompt": "Что такое НАЛОГОВЫЙ ВЫЧЕТ?",
+     "choices": [
+      "Прямая выплата от государства",
+      "Расход, уменьшающий налогооблагаемый доход и снижающий налог",
+      "Штраф за позднюю подачу",
+      "Дополнительный налог на предметы роскоши"
+     ],
+     "answer_index": 1,
+     "explanation": "Налоговый вычет уменьшает налогооблагаемый доход. Доход 500К минус вычет 50К = налог с 450К."
+    },
+    {
+     "n": 6,
+     "prompt": "Что такое налог на имущество?",
+     "choices": [
+      "Разовый налог при покупке",
+      "Налог на аренду",
+      "Ежегодный налог по оценочной стоимости недвижимости",
+      "Налог только на коммерческую недвижимость"
+     ],
+     "answer_index": 2,
+     "explanation": "Налог на имущество — ежегодный налог на основе оценочной стоимости недвижимости."
+    },
+    {
+     "n": 7,
+     "prompt": "Когда платится налог на прирост капитала?",
+     "choices": [
+      "Когда покупаете инвестицию",
+      "Когда продаёте актив ДОРОЖЕ, чем купили (с прибылью)",
+      "Каждый месяц с портфеля",
+      "Только на недвижимость, не на акции"
+     ],
+     "answer_index": 1,
+     "explanation": "Налог на прирост капитала применяется при продаже актива дороже, чем вы заплатили."
+    },
+    {
+     "n": 8,
+     "prompt": "В чём преимущество налоговых льготных счетов?",
+     "choices": [
+      "Никогда не платите налоги",
+      "Получаете бесплатные деньги от государства",
+      "Инвестиции растут без налога или с отсрочкой, значительно увеличивая долгосрочную доходность",
+      "Гарантирует положительную доходность"
+     ],
+     "answer_index": 2,
+     "explanation": "Налоговые льготные счета позволяют инвестициям расти без налога или с отсрочкой, значительно увеличивая долгосрочную доходность."
+    },
+    {
+     "n": 9,
+     "prompt": "Что такое налоговая декларация?",
+     "choices": [
+      "Деньги, которые государство автоматически возвращает",
+      "Формальный документ с отчётом о доходах и расчётом налога",
+      "Возврат при переплате",
+      "Квитанция об уплате налогов"
+     ],
+     "answer_index": 1,
+     "explanation": "Налоговая декларация — формальный документ, в котором отчитываетесь о доходах и рассчитываете налог."
+    },
+    {
+     "n": 10,
+     "prompt": "Лучший способ ЗАКОННО уменьшить налоговый счёт:",
+     "choices": [
+      "Не декларировать доход",
+      "Переехать в страну без налогов",
+      "Вести учёт всех вычитаемых расходов и заявлять каждый положенный вычет",
+      "Не подавать декларацию"
+     ],
+     "answer_index": 2,
+     "explanation": "Ведение учёта вычитаемых расходов — лучший способ законно уменьшить налоговый счёт."
+    },
+    {
+     "n": 11,
+     "prompt": "Ставка НДФЛ в Узбекистане:",
+     "choices": [
+      "0% — нет подоходного налога",
+      "12% плоская",
+      "20-37% прогрессивная",
+      "25% плоская"
+     ],
+     "answer_index": 1,
+     "explanation": "В Узбекистане ставка НДФЛ — 12% плоская на большинство трудовых доходов."
+    },
+    {
+     "n": 12,
+     "prompt": "Почему каждому нужно понимать налоги?",
+     "choices": [
+      "Чтобы найти способы уклонения",
+      "Чтобы эффективнее жаловаться правительству",
+      "Чтобы сохранять больше заработанного, принимать лучшие инвестиционные решения и избегать проблем с законом",
+      "Налоги не касаются большинства людей"
+     ],
+     "answer_index": 2,
+     "explanation": "Понимание налогов помогает сохранять больше заработанного, принимать лучшие инвест. решения и избегать проблем с законом."
+    }
+   ]
+  },
+  "uz": {
+   "unit": 9,
+   "lang": "uz",
+   "title": "Soliqlar asoslari",
+   "subtitle": "Soliqlar qanday ishlaydi, sizga tegishli turlar, chegirmalar va imtiyozlar, soliq samarali investitsiya, deklaratsiya topshirish va O'zbekiston soliq tizimi.",
+   "lessons": [
+    {
+     "num": "9.1",
+     "title": "Soliqlar nima uchun kerak",
+     "html": "<p>Soliqlar moliyaning eng kam tushunilgan qismlaridan biri. Ko'pchilik ularni olib qo'yilgan pul deb ko'radi. Aslida soliqlar ishlayotgan jamiyatning narxi — yo'llardan kasalxonalargacha hamma narsani moliyalashtiradi.</p><p><strong>Asosiy maqsad</strong></p><p>Soliqlar — davlat byudjetiga majburiy to'lovlar bo'lib, jamoat xizmatlari, infratuzilma, mudofaa, ta'lim va sog'liqni saqlashni moliyalashtiradi. Ularsiz yo'llar, politsiya, maktablar va ishlayotgan davlat bo'lmaydi.</p><h2>Soliq pulingiz qayerga ketadi</h2><table><tbody><tr><th><p>Toifa</p></th><th><p>Byudjetning %</p></th><th><p>Nimani moliyalashtiradi</p></th></tr><tr><td><p>Ijtimoiy dasturlar</p></td><td><p>25-35%</p></td><td><p>Pensiyalar, ishsizlik nafaqalari, ijtimoiy yordam</p></td></tr><tr><td><p>Sog'liqni saqlash</p></td><td><p>15-25%</p></td><td><p>Kasalxonalar, sug'urta dasturlari, tadqiqotlar</p></td></tr><tr><td><p>Ta'lim</p></td><td><p>10-18%</p></td><td><p>Maktablar, universitetlar, stipendiyalar</p></td></tr><tr><td><p>Mudofaa va xavfsizlik</p></td><td><p>8-15%</p></td><td><p>Armiya, politsiya, milliy xavfsizlik</p></td></tr><tr><td><p>Infratuzilma</p></td><td><p>8-12%</p></td><td><p>Yo'llar, ko'priklar, transport, kommunal</p></td></tr><tr><td><p>Davlat boshqaruvi</p></td><td><p>5-10%</p></td><td><p>Ma'muriyat, sudlar, diplomatiya</p></td></tr><tr><td><p>Qarz xizmati</p></td><td><p>5-15%</p></td><td><p>Davlat qarziga foizlar</p></td></tr></tbody></table><p><strong>AMALIY MISOL — Kundalik hayotda soliqlar</strong></p><p>Siz davlat yo'lida haydaysiz (soliqlar). Bolalaringiz maktabga boradi (soliqlar). Tez yordam chaqirganingizda keladi (soliqlar). Krandan toza suv oqadi (soliqlar). Ko'priklar qulamaydi (soliqlar). Soliq yig'imi past mamlakat odatda yomon infratuzilma, zaif xizmatlar va yuqori tengsizlikka ega. Samarali yig'im — yaxshiroq yo'llar, maktablar va ijtimoiy himoya.</p><p><strong>Maqsad soliqdan qochish emas — ularni tushunish: to'lanishi kerakni to'lash, haqli</strong> <strong>chegirmalarni olish va soliq samarali moliyaviy qarorlar qabul qilish.</strong></p>"
+    },
+    {
+     "num": "9.2",
+     "title": "Soliq turlari",
+     "html": "<p>Soliqlar ko'p, lekin bir necha asosiy toifaga bo'linadi. Qaysilari sizga tegishli ekanini tushunish yaxshiroq rejalashtirish va kutilmagan holatlardan qochishga yordam beradi.</p><h2>Soliq xaritasi</h2><table><tbody><tr><th><p>Soliq turi</p></th><th><p>Nimaga</p></th><th><p>Kim to'laydi</p></th><th><p>Stavka</p></th><th><p>Qachon</p></th></tr><tr><td><p>Daromad solig'i</p></td><td><p>Ish haqi, foyda</p></td><td><p>Ishchilar, YaTT</p></td><td><p>12% (tekis)</p></td><td><p>Oylik</p></td></tr><tr><td><p>QQS</p></td><td><p>Tovarlar va xizmatla</p></td><td><p>r Barcha xaridorlar</p></td><td><p>12%</p></td><td><p>Har xaridda</p></td></tr><tr><td><p>Ijtimoiy soliq</p></td><td><p>Mehnat daromadi</p></td><td><p>Ish beruvchilar</p></td><td><p>12%</p></td><td><p>Har ish haqida</p></td></tr><tr><td><p>Mol-mulk solig'i</p></td><td><p>Ko'chmas mulk</p></td><td><p>Mulk egalari</p></td><td><p>2% gacha</p></td><td><p>Yillik</p></td></tr><tr><td><p>Kapital o'sishi</p></td><td><p>Aktiv sotish foydasi</p></td><td><p>Investorlar</p></td><td><p>12%</p></td><td><p>Sotganda</p></td></tr><tr><td><p>Foyda solig'i</p></td><td><p>Biznes foydasi</p></td><td><p>Kompaniyalar</p></td><td><p>15%</p></td><td><p>Yillik</p></td></tr><tr><td><p>Bojxona boji</p></td><td><p>Import tovarlar</p></td><td><p>Importchilar</p></td><td><p>0-50%</p></td><td><p>Importda</p></td></tr></tbody></table><table><tbody><tr><td><p><strong>Progressiv soliq</strong></p><p>Stavka daromad bilan OSHADI. Kam daromadli — 10% to'laydi. Yuqori daromadli — 30%+ to'laydi. Maqsad: ko'proq ishlaganlar ko'proq hissa qo'shadi. Misol: AQSh, Rossiya (2021 dan) daromad solig'i.</p></td><td><p><strong>Tekis soliq</strong></p><p>BARCHA daromad uchun bir xil stavka. 3 mln daromad — 12% to'laydi. 30 mln daromad — ham 12% to'laydi. Oddiyroq, lekin kam taqsimlovchi. Misol: O'zbekiston (12% tekis JDDS).</p></td></tr></tbody></table>"
+    },
+    {
+     "num": "9.3",
+     "title": "Daromad solig'i",
+     "html": "<p>Daromad solig'i ko'pchilik uchun eng muhim soliq. Ko'p mamlakatlarda u ish haqingizdan siz pulni ko'rishingizdan oldin ushlab qolinadi.</p><h2>Daromad solig'i qanday ishlaydi</h2><p><strong>Asosiy formula</strong></p><p>Soliqqqa tortiladigan daromad = Yalpi daromad − Chegirmalar</p><p>Soliq summasi = Soliqqa tortiladigan daromad × Stavka</p><p>Sof daromad = Yalpi − Soliq − Boshqa ushlanmalar</p><h2>Soliq chegirmasi vs Soliq imtiyozi</h2><table><tbody><tr><td><p><strong>Soliq chegirmasi</strong></p><p>SOLIQQA TORTILADIGAN DAROMADNI kamaytiradi. 5M daromad − 500K chegirma = 4.5M dan soliq. Tejash: 500K × sizning stavkangiz. 12% da 60 000 so'm tejaydi. Misollar: ipoteka foizi, ta'lim, xayriya.</p></td><td><p><strong>Soliq imtiyozi (kredit)</strong></p><p>SOLIQ SUMMASINI bevosita kamaytiradi. 1M soliq − 200K imtiyoz = 800K to'laysiz. Tejash: imtiyozning to'liq summasi. 200K imtiyoz aynan 200 000 tejaydi. Misollar: bolalar uchun, ta'lim, energosamaradorlik.</p></td></tr></tbody></table><h2>O'zbekiston soliq tizimi</h2><table><tbody><tr><th><p>Soliq</p></th><th><p>Stavka</p></th><th><p>Kim to'laydi</p></th><th><p>Izohlar</p></th></tr><tr><td><p>JDDS (daromad solig'i)</p></td><td><p>12% tekis</p></td><td><p>Barcha jismoniy shaxslar</p></td><td><p>Mintaqadagi eng pastlardan biri</p></td></tr><tr><td><p>Ijtimoiy soliq</p></td><td><p>12%</p></td><td><p>Ish beruvchilar</p></td><td><p>Pensiya va ijtimoiy dasturlarni moliyalashtiradi</p></td></tr><tr><td><p>QQS</p></td><td><p>12% Biz</p></td><td><p>nes (iste'molchiga o'tkazila</p></td><td><p>di) Ko'pchilik tovar va xizmatlarga</p></td></tr><tr><td><p>Mol-mulk solig'i</p></td><td><p>2% gacha</p></td><td><p>Mulk egalari</p></td><td><p>Kadastr qiymatiga asoslanadi</p></td></tr><tr><td><p>Dividend solig'i</p></td><td><p>5%</p></td><td><p>Investorlar</p></td><td><p>Dividend daromadiga</p></td></tr><tr><td><p>Kapital o'sishi solig'i</p></td><td><p>12%</p></td><td><p>Investorlar</p></td><td><p>Aktiv sotish foydasiga</p></td></tr></tbody></table><p><strong>AMALIY MISOL — O'zbekistonda daromad solig'i qanday ishlaydi</strong></p><p>Nodira oyiga 15 000 000 so'm yalpi ish haqi oladi.</p><p>Daromad solig'i (12%): 15 000 000 × 0,12 = 1 800 000 so'm.</p><p>Ijtimoiy badal — ish beruvchi alohida to'laydi.</p><p>Sof ish haqi: 15 000 000 − 1 800 000 = 13 200 000 so'm.</p><p><strong>Taqqoslash uchun: progressiv tizimlarda shu daromad 22-24% bilan soliqqa tortilishi mumkin.</strong> <strong>O'zbekistonning 12% tekis stavkasi — katta ustunlik. Undan ko'proq tejash va investitsiya</strong> <strong>qilish uchun foydalaning.</strong></p>"
+    },
+    {
+     "num": "9.4",
+     "title": "Xarajat va mol-mulk soliqlari",
+     "html": "<p>Daromad solig'i eng ko'p e'tibor tortadi, lekin siz har kuni soliq to'laysiz — sezmasdan. Har bir xarid, har bir mulk — hammasi soliqqa tortiladi.</p><h2>QQS (qo'shilgan qiymat solig'i)</h2><p><strong>QQS nima?</strong></p><p>QQS — tovarlar va xizmatlar narxiga qo'shilgan iste'mol solig'i. O'zbekistonda QQS — 12%. Biror narsani 1 120 000 so'mga sotib olganingizda, taxminan 120 000 QQS. Siz uni avtomatik to'laysiz — allaqachon narxga kiritilgan.</p><p>QQS regressiv soliq: u kam daromadli odamlardan daromadning kattaroq foizini oladi, chunki ular daromadlarining ko'proq qismini soliqqa tortiladigan tovarlarga sarflaydi.</p><h2>Mol-mulk solig'i</h2><p><strong>Mol-mulk solig'i qanday ishlaydi</strong></p><p>Sizga tegishli ko'chmas mulkning bahosi asosida yillik soliq. O'zbekistonda: kadastr qiymatining 2% gacha. 500 000 000 so'mlik mulk 1,5% bilan = 7 500 000 so'm/yil mol-mulk solig'i.</p><p>Mol-mulk solig'i mahalliy xizmatlarni moliyalashtiradi: yo'llar, maktablar, chiqindilar, ko'cha yoritish.</p><p><strong>AMALIY MISOL — Yashirin soliq yuki</strong></p><p>Akmal oyiga 10 000 000 so'm ishlaydi. U faqat 12% daromad solig'i (1 200 000) to'layapman deb o'ylaydi. Lekin:</p><p>Daromad solig'i: 1 200 000 so'm (12%)</p><p>Xaridlardagi QQS: ~720 000 so'm (~12% xarajatlarning ~60% iga)</p><p>Mol-mulk solig'i: ~250 000 so'm/oy (agar kvartira egasi bo'lsa)</p><p>Import tovarlar narxidagi bojxona: ~200 000 so'm (taxminan)</p><p><strong>Haqiqiy soliq yuki: ~2 370 000 so'm = daromadning 23,7%. Ko'pchilik o'ylayotganidan</strong> <strong>DEYARLI IKKI BARAVAR ko'p.</strong></p>"
+    },
+    {
+     "num": "9.5",
+     "title": "Soliq va investitsiya",
+     "html": "<p>Soliqlar investitsiya daromadligingizni sezilarli kamaytirishi mumkin. Turli investitsiyalar qanday soliqqa tortilishini tushunish ko'proq pul saqlashga yordam beradi.</p><h2>Turli investitsiyalar qanday soliqqa tortiladi</h2><table><tbody><tr><th><p>Investitsiya</p></th><th><p>Soliq turi</p></th><th><p>Qachon</p></th><th><p>Stavka</p></th><th><p>Strategiya</p></th></tr><tr><td><p>Omonat foizi</p></td><td><p>Daromad solig'i</p></td><td><p>Yillik</p></td><td><p>12%</p></td><td><p>Imtiyozlardan foydalaning</p></td></tr><tr><td><p>Aksiya dividendlari</p></td><td><p>Dividend solig'i</p></td><td><p>Olganda</p></td><td><p>5%</p></td><td><p>Past stavka — dividend aksiyalar samarali</p></td></tr><tr><td><p>Kapital o'sishi</p></td><td><p>Kapital solig'i</p></td><td><p>Sotganda</p></td><td><p>12%</p></td><td><p>Uzoqroq saqlang — soliqni kechiktiring</p></td></tr><tr><td><p>Ijara daromadi</p></td><td><p>Daromad solig'i</p></td><td><p>Oylik</p></td><td><p>12%</p></td><td><p>Ta'mir, amortizatsiyani chegiring</p></td></tr><tr><td><p>Obligatsiya foizi</p></td><td><p>Daromad solig'i</p></td><td><p>Olganda</p></td><td><p>12%</p></td><td><p>DQQ larda imtiyoz bo'lishi mumkin</p></td></tr></tbody></table><h2>Soliq samarali strategiyalar</h2><p>→<strong> 1. Investitsiyalarni uzoqroq saqlang</strong></p><p>Sotishni kechiktirish = soliqni kechiktirish. Pulingiz soliqsiz uzoqroq ishlaydi — kompaundinig to'liq quvvat bilan.</p><p>→<strong> 2. Imtiyozli hisoblardan foydalaning</strong></p><p>Pensiya yoki maxsus investitsiya hisoblar mavjud bo'lsa — foydalaning. Soliq tejami o'n yillar davomida ko'payadi.</p><p>→<strong> 3. Soliq zararlarini qayd eting</strong></p><p>Agar investitsiya qiymati tushsa — sotish boshqa investitsiyalardan olingan foydani qoplash uchun 'zarar' yaratadi.</p><p>→<strong> 4. Chegirmalarni maksimallang</strong></p><p>Chegirma beriladigan barcha xarajatlarni hisoblang: biznes, ta'lim, xayriya, tibbiy. Har bir chegirma soliqqa tortiladigan daromadni kamaytiradi.</p><p><strong>AMALIY MISOL — Soliqning investitsiya daromadiga ta'siri</strong></p><p>Ikki investor, ikkalasi ham 100 mln so'm portfeldan 10% = 10 mln so'm foyda oldi.</p><p>A investor 6 oydan keyin sotadi: 12% soliq = 1 200 000. Sof foyda: 8 800 000.</p><p>B investor 5 yil saqlaydi, foydani qayta investitsiya qiladi: 5 yilda 10%/yil bilan foyda ~16 100 000 ga yetadi. 12% soliqdan keyin ham (~1 932 000) sof foyda ~14 168 000.</p><p><strong>Bir xil investitsiya. Bir xil stavka. Lekin B investor 61% KO'PROQ ishladi — faqat uzoqroq</strong> <strong>ushlab, kompaundinqqa soliqdan oldin ishlashga imkon berib.</strong></p>"
+    },
+    {
+     "num": "9.6",
+     "title": "Deklaratsiya topshirish",
+     "html": "<p>Soliqlarni to'g'ri topshirishni tushunish jarimalardan himoyalaydi va barcha haqli chegirmalaringizni olishingizni ta'minlaydi.</p><h2>Kim deklaratsiya topshirishi kerak?</h2><p><strong>O'zbekistonda deklaratsiya topshirasiz, agar:</strong></p><p>Bir necha manbadan daromad (ish haqi + frilanserlik + ijara)</p><p>Mol-mulk yoki investitsiya sotib kapital o'sishi solig'i to'lash kerak</p><p>Chet eldan daromad oldingiz</p><p>Chegirmalar yoki imtiyozlarni talab qilmoqchisiz</p><p>FAQAT mehnat daromadi bo'lsa — ish beruvchi odatda hamma narsani ish haqi orqali hal qiladi.</p><h2>Qanday hujjatlarni saqlash kerak</h2><p><strong>Daromad hujjatlari</strong></p><p>Ish haqi varaqlari, frilanserlik hisob-fakturalari, ijara kvitantsiyalari, investitsiya hisobotlari.</p><p><strong>Xarajat kvitantsiyalari</strong></p><p>Biznes xarajatlari, tibbiy hisob-kitoblar, ta'lim, xayriya — chegirma berilishi mumkin bo'lgan hamma narsa.</p><p><strong>Investitsiya yozuvlari</strong></p><p>Sotib olish narxi, sotish narxi, sanalar — kapital o'sishini aniq hisoblash uchun.</p><p><strong>Bank ko'chirmalari</strong></p><p>Daromadlar va asosiy xarajatlarni ko'rsatuvchi oylik ko'chirmalar. Kamida 3-5 yil saqlang.</p><h2>Keng tarqalgan soliq xatolari</h2><p><strong>Kvitantsiyalarni saqlamaslik</strong></p><p>Hujjatlarsiz chegirmalarni talab qilib bo'lmaydi. Har bir kvitantsiyaning raqamli surati 5 soniya oladi.</p><p><strong>Topshirish muddatini o'tkazib yuborish</strong></p><p>Kechikish = jarimalar + penya. Har bir muddatdan 2 hafta oldin eslatma qo'ying.</p><p><strong>Barcha chegirmalarni talab qilmaslik</strong></p><p>Ko'pchilik ortiqcha to'laydi, nimani chegirish mumkinligini bilmagani uchun. Ta'lim, tibbiy, xayriya — hammasini hisobga oling.</p><p><strong>Xorijiy daromadni e'tiborsiz qoldirish</strong></p><p>Chet eldan daromad (frilanserlik, investitsiya) soliqqa tortilishi mumkin. Muammolardan qochish uchun deklaratsiya qiling.</p><p><strong>Asosiy xulosa — 9-Blok</strong></p><p><em><strong><em><strong>Soliqlar majburiy — lekin ortiqcha to'lash majburiy emas. Soliqlar qanday ishlashini, qaysi</strong></em> <em><strong>chegirmalardan foydalanish mumkinligini va soliq samarali investitsiya qilishni tushunish har</strong></em> <em><strong>yili minglab so'mlarni tejaydi. O'zbekistonda tekis 12% JDDS mintaqadagi eng pastlardan biri</strong></em> <em><strong>— bu ustunlikdan foydalanib aggressiv tejang va investitsiya qiling. Puxta hisob yuriting, o'z</strong></em> <em><strong>vaqtida topshiring va har bir yirik moliyaviy qarordan oldin soliq oqibatlarini o'ylab ko'ring.</strong></em> <em><strong>ZInvest AI samarali soliq stavkangizni hisoblash, qoldirilgan chegirmalarni topish va soliq</strong></em> <em><strong>samarali investitsiya strategiyasini qurishda yordam beradi.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Atamalar lug'ati",
+    "html": "<blockquote><p>9-blokdagi barcha muhim tushunchalar</p></blockquote><table><tbody><tr><th><p>Daromad solig'i</p></th><th><p>Ish haqi, biznes foydasi va investitsiya daromadiga solinadigan soliq. Eng keng tarqalgan soliq.</p></th></tr><tr><td><p>QQS</p></td><td><p>Qo'shilgan qiymat solig'i — tovarlar va xizmatlar narxiga kiritilgan iste'mol solig'i. O'zbekistonda: 12%.</p></td></tr><tr><td><p>Progressiv soliq</p></td><td><p>Stavka daromad bilan oshuvchi tizim. Ko'proq ishlaganlar yuqoriroq foiz to'laydi.</p></td></tr><tr><td><p>Tekis soliq</p></td><td><p>Barcha daromadlar uchun bir xil stavka. O'zbekiston — 12% tekis JDDS.</p></td></tr><tr><td><p>Soliq chegirmasi</p></td><td><p>Soliqqa tortiladigan daromadni kamaytiradigan xarajat. 500K chegirma 12% stavkada 60 000 tejaydi.</p></td></tr><tr><td><p>Soliq imtiyozi (kredit)</p></td><td><p>Soliq summasini bevosita kamaytirish. 200K imtiyoz soliqni aynan 200 000 ga kamaytiradi.</p></td></tr><tr><td><p>Soliqqa tortiladigan daromad</p></td><td><p>Yalpi daromad minus barcha ruxsat etilgan chegirmalar. Soliq shu summadan hisoblanadi.</p></td></tr><tr><td><p>Kapital o'sishi solig'i</p></td><td><p>Aktivni sotib olganingizdan qimmatroq sotganingizda olingan foydaga soliq.</p></td></tr><tr><td><p>Mol-mulk solig'i</p></td><td><p>Baholangan qiymat asosida ko'chmas mulkka yillik soliq. Mahalliy xizmatlarni moliyalashtiradi.</p></td></tr><tr><td><p>Ushlanma (withholding)</p></td><td><p>Ish beruvchi tomonidan ish haqidan avtomatik chiqariladigan soliq.</p></td></tr><tr><td><p>Soliq deklaratsiyasi</p></td><td><p>Daromadlar va soliq hisobini davlatga taqdim etuvchi rasmiy hujjat.</p></td></tr><tr><td><p>Samarali soliq stavkasi</p></td><td><p>Barcha chegirmalardan keyin to'langan haqiqiy daromad foizi. Ko'pincha nominal stavkadan past.</p></td></tr><tr><td><p>Bojxona boji</p></td><td><p>Boshqa mamlakatlardan import qilingan tovarlarga soliq. Import tovarlarni qimmatlashadi.</p></td></tr><tr><td><p>Soliq optimallashtirish</p></td><td><p>Soliq to'lovlarini qonuniy minimallash usullari: chegirmalar, imtiyozlar, investitsiya tuzilishi.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Soliqlarning asosiy maqsadi nima?",
+     "choices": [
+      "Boylarni jazolash",
+      "Jamoat xizmatlarini moliyalashtirish — yo'llar, maktablar, kasalxonalar, mudofaa",
+      "Inflyatsiya yaratish",
+      "Faqat amaldorlarga foyda"
+     ],
+     "answer_index": 1,
+     "explanation": "Soliqlar jamoat xizmatlarini moliyalashtiradi — yo'llar, maktablar, kasalxonalar, mudofaa. Ularsiz davlat ishlamaydi."
+    },
+    {
+     "n": 2,
+     "prompt": "'Progressiv soliq' nima degani?",
+     "choices": [
+      "Hamma bir xil stavka to'laydi",
+      "Stavkalar daromad oshganda tushadi",
+      "Yuqori daromad yuqoriroq stavka bilan soliqqa tortiladi",
+      "Faqat bizneslar soliq to'laydi"
+     ],
+     "answer_index": 2,
+     "explanation": "Progressiv soliq degani yuqori daromad yuqoriroq stavka bilan soliqqa tortiladi."
+    },
+    {
+     "n": 3,
+     "prompt": "Qaysi soliq turi ish haqingizga tatbiq etiladi?",
+     "choices": [
+      "Mol-mulk solig'i",
+      "Daromad solig'i",
+      "Bojxona boji",
+      "Meros solig'i"
+     ],
+     "answer_index": 1,
+     "explanation": "Daromad solig'i ish haqi, maosh va biznes foydasiga solinadi — eng keng tarqalgan soliq."
+    },
+    {
+     "n": 4,
+     "prompt": "QQS ni kim to'laydi?",
+     "choices": [
+      "Faqat bizneslar",
+      "Faqat boylar",
+      "Tovar va xizmat sotib olgan har bir kishi",
+      "Faqat importchilar"
+     ],
+     "answer_index": 2,
+     "explanation": "QQS tovarlar va xizmatlar narxiga kiritilgan. Daromaddan qat'i nazar xarid qilgan har bir kishi to'laydi."
+    },
+    {
+     "n": 5,
+     "prompt": "SOLIQ CHEGIRMASI nima?",
+     "choices": [
+      "Davlatdan to'g'ridan-to'g'ri to'lov",
+      "Soliqqa tortiladigan daromadni kamaytirib, soliq hisobini tushiradigan xarajat",
+      "Kechiktirib topshirganlik uchun jarima",
+      "Hashamatli tovarlarga qo'shimcha soliq"
+     ],
+     "answer_index": 1,
+     "explanation": "Soliq chegirmasi soliqqqa tortiladigan daromadni kamaytiradi. 5M daromad - 500K chegirma = 4.5M dan soliq."
+    },
+    {
+     "n": 6,
+     "prompt": "Mol-mulk solig'i nima?",
+     "choices": [
+      "Mulk sotib olganda bir martalik soliq",
+      "Ijarada yashashga soliq",
+      "Sizga tegishli ko'chmas mulkning baholangan qiymatiga asoslangan yillik soliq",
+      "Faqat tijorat mulkiga soliq"
+     ],
+     "answer_index": 2,
+     "explanation": "Mol-mulk solig'i — sizga tegishli ko'chmas mulkning bahosiga asoslangan yillik soliq."
+    },
+    {
+     "n": 7,
+     "prompt": "Kapital o'sishi solig'i qachon to'lanadi?",
+     "choices": [
+      "Investitsiya sotib olganingizda",
+      "Aktivni sotib olganingizdan QIMMATROQ sotganingizda (foyda bilan)",
+      "Har oy portfelingizdan",
+      "Faqat ko'chmas mulkka, aksiyalarga emas"
+     ],
+     "answer_index": 1,
+     "explanation": "Kapital o'sishi solig'i aktivni sotib olganingizdan qimmatroq sotganingizda (foyda bilan) qo'llaniladi."
+    },
+    {
+     "n": 8,
+     "prompt": "Soliq imtiyozli investitsiya hisobining foydasi?",
+     "choices": [
+      "Hech qachon soliq to'lamaysiz",
+      "Davlatdan bepul pul olasiz",
+      "Investitsiyalar soligsiz yoki kechiktirilgan soliq bilan o'sadi — uzoq muddatli daromadni sezilarli oshiradi",
+      "Ijobiy daromadni kafolatlaydi"
+     ],
+     "answer_index": 2,
+     "explanation": "Soliq imtiyozli hisoblar investitsiyalarni soligsiz yoki kechiktirilgan soliq bilan o'sishiga imkon beradi."
+    },
+    {
+     "n": 9,
+     "prompt": "Soliq deklaratsiyasi nima?",
+     "choices": [
+      "Davlat avtomatik qaytaradigan pul",
+      "Daromadlar haqida hisobot berish va soliqni hisoblash uchun rasmiy hujjat",
+      "Ortiqcha to'laganda qaytarish",
+      "To'langan soliqlar uchun kvitantsiya"
+     ],
+     "answer_index": 1,
+     "explanation": "Soliq deklaratsiyasi — daromadlar haqida hisobot berish va soliqni hisoblash uchun rasmiy hujjat."
+    },
+    {
+     "n": 10,
+     "prompt": "Soliq hisobini QONUNIY kamaytrishning eng yaxshi usuli?",
+     "choices": [
+      "Daromadni bildirmaslik",
+      "Soligsiz mamlakatga ko'chish",
+      "Chegirma beriladigan barcha xarajatlarni hisoblash va har bir haqli chegirmani talab qilish",
+      "Deklaratsiya topshirmaslik"
+     ],
+     "answer_index": 2,
+     "explanation": "Chegirma beriladigan xarajatlarni yil davomida hisoblash — soliq to'lovini qonuniy kamaytrishning eng yaxshi usuli."
+    },
+    {
+     "n": 11,
+     "prompt": "O'zbekistonda shaxsiy daromad solig'i stavkasi:",
+     "choices": [
+      "0% — daromad solig'i yo'q",
+      "12% tekis stavka",
+      "20-37% progressiv",
+      "25% tekis stavka"
+     ],
+     "answer_index": 1,
+     "explanation": "O'zbekistonda shaxsiy daromad solig'i stavkasi — 12% tekis."
+    },
+    {
+     "n": 12,
+     "prompt": "Har bir kishi soliqlarni tushunishi nima uchun kerak?",
+     "choices": [
+      "Soliqdan qochish yo'llarini topish uchun",
+      "Hukumatga samaraliroq shikoyat qilish uchun",
+      "Ko'proq pul saqlash, yaxshiroq investitsiya qarorlari va qonuniy muammolardan qochish uchun",
+      "Soliqlar ko'pchilikka ta'sir qilmaydi"
+     ],
+     "answer_index": 2,
+     "explanation": "Soliqlarni tushunish ko'proq pul saqlashga, yaxshiroq investitsiya qarorlari qabul qilishga va qonuniy muammolardan qochishga yordam beradi. Ball bo'yicha yo'riqnoma 12/12: A'lo! 9-Blokni to'liq o'zlashtirdingiz. 10-Blokga tayyorsiz! 10-11: Juda yaxshi — xato qilgan bo'limlarni qayta ko'ring. 8-9: Yaxshi — 9.3 va 9.5 bo'limlarni misollar bilan qayta o'qing. 6-7: Barcha bo'limlarni lug'at bilan birgalikda takrorlang. 6 dan past: Boshidan qayta o'qing, misollar va jadvallarga e'tibor bering."
+    }
+   ]
+  }
+ }
+}

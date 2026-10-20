@@ -1,0 +1,25 @@
+<!doctype html>
+<!-- Dev-only: renders one mood at several moments, for checking animations frame by frame. -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Bear frames</title>
+    <style>body{margin:0;background:#e9eef6}#row{display:flex;flex-wrap:wrap}.f{width:320px;height:320px}</style>
+  </head>
+  <body>
+    <div id="row"></div>
+    <script type="module">
+      import { createBear } from '/src/mascot/engine.js'
+      const q = new URLSearchParams(location.search)
+      const mood = q.get('mood') || 'celebrate'
+      const times = (q.get('t') || '0,0.15,0.3,0.45,0.6,0.75').split(',').map(Number)
+      const row = document.getElementById('row')
+      for (const t of times) {
+        const el = document.createElement('div'); el.className = 'f'; row.appendChild(el)
+        const bear = await createBear(el, { mood, still: true, preserveDrawingBuffer: true })
+        bear.renderOnce(t)
+      }
+      window.__done = true
+    </script>
+  </body>
+</html>

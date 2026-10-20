@@ -1,0 +1,38 @@
+# Core (no DRF, no SimpleJWT — native views + manual PyJWT)
+Django==6.0.8
+PyJWT==2.13.0
+
+# Time-ordered UUIDv7 primary keys. Backports uuid7() so the app runs on
+# Python < 3.14 too, instead of depending on the stdlib's native uuid.uuid7.
+uuid6==2025.0.1
+
+# Production WSGI server (behind Nginx)
+gunicorn==23.0.0
+
+# Optional dev convenience: load a .env file
+python-dotenv==1.2.2
+
+# --- Google Gemini (unified google-genai SDK) ----------------------------
+# The AI engine degrades gracefully to a [STUB] when GEMINI_API_KEY is unset or
+# this package is absent, so it is safe to run without it in a pure-SQLite demo.
+google-genai==1.16.0
+# MP3 for the bear's server voice (ai_engine/tts.py); without it clips are WAV.
+lameenc==1.8.4
+
+# Encrypts the team's two-factor secrets at rest (accounts/totp.py, Fernet).
+# Without it the admin panel refuses to turn two-factor on.
+cryptography==50.0.1
+
+# --- PostgreSQL (production) ---------------------------------------------
+# SQLite works out of the box with no extra deps. Postgres is recommended in
+# production so `select_for_update` row-locking (auth refresh + AI quota +
+# coin/streak writes) is real. Django 6 auto-selects psycopg v3 when installed.
+# 3.2.10+ ships wheels for Python 3.14, which Vercel's builder uses.
+psycopg[binary]==3.2.13
+
+# Shared cache for the login throttle + quota counters across Gunicorn workers.
+redis==5.2.1
+
+# Draws the "Up or down?" charts the Telegram bot sends as photos
+# (Telegram does not accept SVG). Server-side only.
+Pillow>=11.0

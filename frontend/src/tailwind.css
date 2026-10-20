@@ -1,0 +1,190 @@
+/* Tailwind engine entry. Theme tokens are mapped to the runtime CSS custom
+   properties defined in style.scss, so the brand color and light/dark surfaces
+   can be re-themed at runtime from JS (see composables/useTheme.setBrand). */
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Class-based dark mode: `dark:` applies under <html class="dark">. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* Brand — resolved from CSS vars so JS can recolor at runtime */
+  --color-brand-50: var(--brand-50);
+  --color-brand-100: var(--brand-100);
+  --color-brand-200: var(--brand-200);
+  --color-brand-300: var(--brand-300);
+  --color-brand-400: var(--brand-400);
+  --color-brand-500: var(--brand-500);
+  --color-brand-600: var(--brand-600);
+  --color-brand-700: var(--brand-700);
+  --color-brand-800: var(--brand-800);
+  --color-brand-900: var(--brand-900);
+
+  /* Semantic surfaces — flip between light and soft-zinc dark via .dark */
+  --color-canvas: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-hairline: var(--border);
+  --color-ink: var(--text);
+  --color-ink-muted: var(--text-muted);
+  --color-ink-faint: var(--text-faint);
+  --color-lavender: var(--lavender);
+  --color-mint: var(--mint);
+  --color-mint-ink: var(--mint-ink);
+
+  /* Accent pill palette (floating badges + topic tags) */
+  --color-cash: #16a34a;
+  --color-startup: #ec4899;
+  --color-risk: #8b5cf6;
+  --color-budget: #f59e0b;
+  --color-invest: #2563eb;
+
+  /* Radii */
+  --radius-2xl: 1rem;
+  --radius-3xl: 1.5rem;
+
+  /* Shadows */
+  --shadow-card: 0 1px 2px 0 rgb(15 23 42 / 0.04), 0 1px 3px 0 rgb(15 23 42 / 0.06);
+  --shadow-float: 0 10px 30px -12px rgb(15 23 42 / 0.18);
+
+  /* Typography */
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+
+  /* Motion. One scale: controls, then panels, then whole pages. The easing is
+     the same curve the mascot's own moves use, so the product moves as one. */
+  --ease-out: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --default-transition-duration: 220ms;
+  --default-transition-timing-function: cubic-bezier(0.22, 0.61, 0.36, 1);
+
+  /* Ambient animation */
+  --animate-float: float 7s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+/* Native scrollbars, wherever the overlay scrollbar (`v-os`) is not used: a
+   thin thumb that follows the theme, with no grey rail and no arrow buttons —
+   the Windows default reads as a leftover from another app. Firefox has no
+   ::-webkit-scrollbar and gets the standard properties instead. */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track,
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+::-webkit-scrollbar-button {
+  display: none;
+  width: 0;
+  height: 0;
+}
+::-webkit-scrollbar-thumb {
+  border: 3px solid transparent;
+  border-radius: 999px;
+  background-clip: content-box;
+  background-color: color-mix(in oklab, var(--color-ink) 16%, transparent);
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: color-mix(in oklab, var(--color-ink) 30%, transparent);
+}
+@supports not selector(::-webkit-scrollbar) {
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: color-mix(in oklab, var(--color-ink) 22%, transparent) transparent;
+  }
+}
+
+/* Native form controls follow the theme. Without `color-scheme: dark` the
+   browser draws its own parts of a control (the number spinner, the option
+   list a select opens, date pickers) in the light scheme, so they showed up
+   as grey boxes on dark inputs. */
+@layer base {
+  .dark {
+    color-scheme: dark;
+  }
+
+  /* No native up/down spinner on number inputs, anywhere: on a rounded input
+     it is a square grey box glued to the right edge, and the arrow keys still
+     step the value. */
+  input[type='number'] {
+    -moz-appearance: textfield;
+    appearance: textfield;
+  }
+  input[type='number']::-webkit-inner-spin-button,
+  input[type='number']::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    appearance: none;
+    margin: 0;
+  }
+
+  /* The open option list of a select takes the theme's surface and ink
+     (Windows Chrome and Firefox paint options with these). */
+  select option,
+  select optgroup {
+    background-color: var(--color-surface);
+    color: var(--color-ink);
+  }
+}
+
+/* Reusable primitives — auto-soften in dark because the vars flip. */
+@utility card {
+  border-radius: var(--radius-3xl);
+  border: 1px solid var(--color-hairline);
+  background-color: var(--color-surface);
+  box-shadow: var(--shadow-card);
+}
+
+@utility pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  border-radius: 9999px;
+  font-weight: 500;
+}
+
+/* Text input / select. Colors come from the same vars as `card`, so it flips
+   with the theme and re-tints with the brand color on focus. */
+@utility zx-input {
+  width: 100%;
+  border-radius: var(--radius-2xl);
+  border: 1px solid var(--color-hairline);
+  background-color: var(--color-surface);
+  padding: 0.5rem 0.75rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: var(--color-ink);
+
+  &::placeholder {
+    color: var(--color-ink-muted);
+  }
+
+  &:focus {
+    outline: none;
+    border-color: var(--color-brand-500);
+    /* A soft ring as well: a 1px border changing colour alone is easy to miss. */
+    box-shadow: 0 0 0 3px color-mix(in oklab, var(--color-brand-500) 22%, transparent);
+  }
+
+  &:disabled {
+    opacity: 0.6;
+  }
+
+  /* Selects draw one chevron in every browser and theme instead of the
+     native arrow (which Safari wraps in its own light bubble). */
+  &:where(select:not([multiple], [size])) {
+    appearance: none;
+    padding-right: 2.25rem;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%236b6879' stroke-width='2.25' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 1rem 1rem;
+  }
+  &:where(.dark select:not([multiple], [size])) {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23a1a1aa' stroke-width='2.25' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  }
+}

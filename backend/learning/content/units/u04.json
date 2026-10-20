@@ -1,0 +1,569 @@
+{
+ "unit": 4,
+ "langs": {
+  "en": {
+   "unit": 4,
+   "lang": "en",
+   "title": "Saving & Growing Your Money",
+   "subtitle": "Where to put your savings, how bank deposits work, the real power of compound interest in practice, and strategies to grow your wealth from zero.",
+   "lessons": [
+    {
+     "num": "4.1",
+     "title": "Why Saving Alone Isn't Enough",
+     "html": "<p>In Unit 3 you learned to save 20% of your income. That was the first step. But here is the uncomfortable truth: saving alone actually loses you money. Every single month. Here's why.</p><blockquote><p><strong>The Savings Paradox</strong></p><p>Money sitting in a regular bank account earning 1-3% interest while inflation runs at 5-10% is not being saved — it is being slowly destroyed. You feel like you're being responsible, but your purchasing power is shrinking every month.</p></blockquote><h2>Saving vs Growing — The Critical Difference</h2><table><tbody><tr><th><p></p></th><th><p>Saving</p></th><th><p>Growing</p></th></tr><tr><td><p>Goal</p></td><td><p>Preserve what you have</p></td><td><p>Make your money multiply</p></td></tr><tr><td><p>Risk</p></td><td><p>Near zero</p></td><td><p>Low to moderate</p></td></tr><tr><td><p>Return</p></td><td><p>0-3% per year</p></td><td><p>5-15%+ per year</p></td></tr><tr><td><p>Inflation effect</p></td><td><p>Losing real value</p></td><td><p>Beating inflation</p></td></tr><tr><td><p>Time horizon</p></td><td><p>Short (0-2 years)</p></td><td><p>Medium to long (3+ years)</p></td></tr><tr><td><p>Tools</p></td><td><p>Savings account, cash</p></td><td><p>Deposits, bonds, funds, real estate</p></td></tr><tr><td><p>Who needs it</p></td><td><p>Everyone (emergency fund)</p></td><td><p>Everyone with goals beyond 2 years</p></td></tr></tbody></table><blockquote><p><strong>REAL EXAMPLE — The Cost of Doing Nothing</strong></p><p>Maria saved $200/month for 10 years in a checking account earning 1%. After 10 years she has $25,094. She feels proud.</p><p>Her friend Anna saved the same $200/month but put it into a diversified index fund averaging 8%. After 10 years she has $36,589.</p><p>Same amount saved. Same discipline. Anna has $11,495 MORE — that is 45% more money — just by choosing WHERE to put it. The difference only grows over time: after 20 years, Maria has $53,015 while Anna has $117,804.</p><p><strong>Where you save matters as much as how much you save.</strong></p></blockquote>"
+    },
+    {
+     "num": "4.2",
+     "title": "Bank Deposits Explained",
+     "html": "<p>Bank deposits are the first tool most people use to save. They are safe, simple, and insured in most countries. But not all deposits are the same, and choosing the wrong one can cost you thousands.</p><h2>Types of Bank Deposits</h2><table><tbody><tr><th><p>Type</p></th><th><p>How It Works</p></th><th><p>Access</p></th><th><p>Typical Rate</p></th><th><p>Best For</p></th></tr><tr><td><p>Checking Account</p></td><td><p>No restrictions, instant acces</p></td><td><p>s Anytime</p></td><td><p>0-1%</p></td><td><p>Daily spending</p></td></tr><tr><td><p>Savings Account</p></td><td><p>Some limits on withdrawals</p></td><td><p>24-48 hours</p></td><td><p>1-4%</p></td><td><p>Short-term savings</p></td></tr><tr><td><p>Fixed-Term DepoLsoitc</p></td><td><p>ked for set period (3-24 mon</p></td><td><p>thsA)t maturity</p></td><td><p>4-12%</p></td><td><p>Medium-term goals</p></td></tr><tr><td><p>High-Yield Deposit</p></td><td><p>Higher rate, longer lock-up</p></td><td><p>At maturity</p></td><td><p>8-16%</p></td><td><p>Long-term saving</p></td></tr></tbody></table><h2>What to Compare Before Opening a Deposit</h2><blockquote><p><strong>Annual Interest Rate (APY)</strong></p><p>The actual return after compounding. Always compare APY, not the headline rate. A 12% rate compounded monthly is actually 12.68% APY.</p><p><strong>Compounding Frequency</strong></p><p>Monthly compounding beats annual compounding. Money makes money faster when interest is calculated more often.</p><p><strong>Minimum Balance</strong></p><p>Some high-yield accounts require $1,000+ minimum. Make sure you can meet it without touching emergency funds.</p><p><strong>Early Withdrawal Penalty</strong></p><p>If you break a fixed deposit early, you may lose ALL interest earned. Know the penalty before you commit.</p><p><strong>Deposit Insurance</strong></p><p>Is your money insured by the government? Up to what amount? In most countries, deposits up to $100,000-250,000 are protected.</p></blockquote>"
+    },
+    {
+     "num": "4.3",
+     "title": "Compound Interest in Action",
+     "html": "<p>You learned the compound interest formula in Unit 2. Now let's see what it actually looks like when applied to real savings decisions. This is where most people's financial future is decided — not by how much they earn, but by how early they start.</p><blockquote><p><strong>The Core Formula (Reminder)</strong></p></blockquote><h2>FV = PV × (1 + r)</h2><blockquote><p>Where PV = starting amount, r = annual rate, n = number of years, FV = future value</p></blockquote><h2>$100/month at different rates over time</h2><table><tbody><tr><th><p>Years</p></th><th><p>At 3% (savings account)</p></th><th><p>At 8% (index fund)</p></th><th><p>At 12% (high growth)</p></th><th><p>Difference (3% vs 8%)</p></th></tr><tr><td><p>5</p></td><td><p>$6,464</p></td><td><p>$7,348</p></td><td><p>$8,167</p></td><td><p>+$884</p></td></tr><tr><td><p>10</p></td><td><p>$13,974</p></td><td><p>$18,295</p></td><td><p>$23,004</p></td><td><p>+$4,321</p></td></tr><tr><td><p>20</p></td><td><p>$32,830</p></td><td><p>$58,902</p></td><td><p>$96,838</p></td><td><p>+$26,072</p></td></tr><tr><td><p>30</p></td><td><p>$58,274</p></td><td><p>$149,036</p></td><td><p>$349,496</p></td><td><p>+$90,762</p></td></tr><tr><td><p>40</p></td><td><p>$92,612</p></td><td><p>$349,101</p></td><td><p>$1,176,477</p></td><td><p>+$256,489</p></td></tr></tbody></table><p><em><strong><em><strong>Look at the 40-year row. Same $100/month. The difference between 3% and 8% is $256,489 — that is</strong></em> <em><strong>2.7x more money. The difference between 3% and 12% is $1,083,865. This is why WHERE you put</strong></em> <em><strong>your money matters enormously.</strong></em></strong></em></p><h2>The Rule of 72 in Practice</h2><p>How long does it take for your money to double? Divide 72 by your annual return rate.</p><table><tbody><tr><th><p>Annual Rate</p></th><th><p>Years to Double</p></th><th><p>Example</p></th></tr><tr><td><p>3% (savings account)</p></td><td><p>24 years</p></td><td><p>$10,000 becomes $20,000 in 2047</p></td></tr><tr><td><p>6% (bonds)</p></td><td><p>12 years</p></td><td><p>$10,000 becomes $20,000 in 2035</p></td></tr><tr><td><p>8% (index fund)</p></td><td><p>9 years</p></td><td><p>$10,000 becomes $20,000 in 2032</p></td></tr><tr><td><p>12% (high growth)</p></td><td><p>6 years</p></td><td><p>$10,000 becomes $20,000 in 2029</p></td></tr><tr><td><p>24% (aggressive)</p></td><td><p>3 years</p></td><td><p>$10,000 becomes $20,000 in 2026</p></td></tr></tbody></table><blockquote><p><strong>REAL EXAMPLE — The Power of Starting Early</strong></p><p>Two colleagues, both age 22, earning the same salary:</p><p>Jake starts saving $150/month at age 22 in an index fund (8% average return). He stops at age 32 and never adds another dollar. Total invested: $18,000.</p><p>Tom waits until age 32, then saves $150/month continuously until age 62. Total invested: $54,000. At age 62: Jake has $244,692. Tom has $220,233.</p><p><strong>Jake invested $36,000 LESS but ended up with $24,459 MORE. The only difference: 10 years of</strong> <strong>extra compounding time. Time is the most powerful variable in finance.</strong></p></blockquote>"
+    },
+    {
+     "num": "4.4",
+     "title": "Savings Vehicles Beyond Banks",
+     "html": "<p>Bank deposits are safe but slow. Once you have your emergency fund in place (3-6 months in a liquid account, as you learned in Unit 3), it is time to put your remaining savings to work harder. Here are the main options, ranked from safest to most aggressive.</p><table><tbody><tr><th><p>Vehicle</p></th><th><p>Expected Return</p></th><th><p>Risk Level</p></th><th><p>Liquidity</p></th><th><p>Minimum to Start</p></th><th><p>Best For</p></th></tr><tr><td><p>Savings Account</p></td><td><p>1-4%</p></td><td><p>Very Low</p></td><td><p>Instant</p></td><td><p>$0</p></td><td><p>Emergency fund, short-term</p></td></tr><tr><td><p>Fixed Deposit</p></td><td><p>4-12%</p></td><td><p>Low</p></td><td><p>Locked (3-24 mo)</p></td><td><p>$100-500</p></td><td><p>1-2 year goals</p></td></tr><tr><td><p>Government Bonds</p></td><td><p>4-8%</p></td><td><p>Very Low Lo</p></td><td><p>w (hold to maturi</p></td><td><p>ty) $100-1,000</p></td><td><p>Safe medium-term</p></td></tr><tr><td><p>Gold 5-</p></td><td><p>10% (long-term av</p></td><td><p>g) Medium</p></td><td><p>Medium (1-3 days</p></td><td><p>) Any amount</p></td><td><p>Inflation hedge</p></td></tr><tr><td><p>Index Funds 8-</p></td><td><p>12% (long-term av</p></td><td><p>gM)edium-High</p></td><td><p>High (sell anytime</p></td><td><p>) $10-100</p></td><td><p>Long-term wealth</p></td></tr><tr><td><p>Real Estate</p></td><td><p>8-15%</p></td><td><p>Medium</p></td><td><p>Very Low</p></td><td><p>Large</p></td><td><p>Cash flow + appreciation</p></td></tr></tbody></table><h2>The Savings Ladder — Where to Put Money in What Order</h2><blockquote><p>→<strong> Step 1: Emergency Fund (3-6 months)</strong></p><p>HIGH-YIELD SAVINGS ACCOUNT. This money must be 100% liquid and 100% safe. No stocks. No locked deposits. Just accessible cash. This is not an investment — it is insurance.</p><p>→<strong> Step 2: Short-Term Goals (1-2 years)</strong></p><p>FIXED DEPOSITS or GOVERNMENT BONDS. Saving for a car, vacation, or wedding? Use locked deposits that beat inflation but don't risk your principal. Predictable returns, predictable timeline.</p><p>→<strong> Step 3: Medium-Term Goals (3-7 years)</strong></p><p>INDEX FUNDS + BONDS mix. Building a house down payment or starting a business in 5 years? A balanced portfolio of funds and bonds gives you growth without extreme risk.</p><p>→<strong> Step 4: Long-Term Wealth (7+ years)</strong></p><p>INDEX FUNDS + REAL ESTATE + ALTERNATIVE ASSETS. Retirement, generational wealth, financial independence. With 7+ years, short-term volatility doesn't matter — what matters is average return.</p></blockquote>"
+    },
+    {
+     "num": "4.5",
+     "title": "Building Your Savings System",
+     "html": "<p>The best savings system is the one you never have to think about. Willpower runs out. Habits don't. This section gives you the exact framework to automate your savings so your wealth grows on autopilot.</p><h2>The Pay-Yourself-First System</h2><blockquote><p><strong>The Golden Rule of Savings</strong></p><p>On payday, BEFORE you spend a single dollar:</p><p>1. Transfer 20% to your savings/investment accounts</p><p>2. Transfer fixed expenses (rent, bills, loan payments)</p><p>3. What remains is your spending money for the month</p><p>Most people: Earn → Spend → Save whatever is left (usually nothing)</p><p>Wealthy people: Earn → Save first → Spend what remains</p></blockquote><p><em><strong><em><strong>This single habit separates people who build wealth from people who don't.</strong></em></strong></em></p><h2>The Jar System — Simple Allocation Framework</h2><p>Split your savings into separate accounts (or mental jars) by purpose:</p><table><tbody><tr><th><p>Jar</p></th><th><p>% of Savings</p></th><th><p>Purpose</p></th><th><p>Where to Keep It</p></th></tr><tr><td><p>Emergency Fund</p></td><td><p>30%</p></td><td><p>Life's unexpected hits</p></td><td><p>High-yield savings account</p></td></tr><tr><td><p>Investment Jar</p></td><td><p>40%</p></td><td><p>Long-term wealth building</p></td><td><p>Index fund / brokerage</p></td></tr><tr><td><p>Goal Jar</p></td><td><p>20%</p></td><td><p>Specific targets (car, house, trip)</p></td><td><p>Fixed deposit</p></td></tr><tr><td><p>Education Jar</p></td><td><p>10%</p></td><td><p>Courses, books, skills</p></td><td><p>Savings account</p></td></tr></tbody></table><h2>Automating Everything</h2><blockquote><p><strong>Set up automatic transfers</strong></p><p>On payday, your bank automatically moves 20% to savings. You never see it, so you never miss it. This is the single most important thing you can do.</p><p><strong>Use separate accounts</strong></p><p>One for spending, one for emergency fund, one for investments. Physical separation kills temptation.</p><p><strong>Auto-invest monthly</strong></p><p>Set up recurring purchases in your index fund or investment app. $50, $100, $200 — whatever your 20% allows. Consistency beats timing every single time.</p><p><strong>Review quarterly, not daily</strong></p><p>Check your investments once every 3 months. Daily checking creates anxiety and bad decisions. Set a calendar reminder and ignore it otherwise.</p></blockquote>"
+    },
+    {
+     "num": "4.6",
+     "title": "Common Savings Mistakes",
+     "html": "<p>Most people who fail at saving don't fail because they lack discipline. They fail because they make structural mistakes that doom them from the start. Avoid these and you're already ahead of 90% of people.</p><blockquote><p><strong>Mistake 1: Saving what's left instead of saving first</strong></p><p>If you save whatever remains after spending, you will save nothing. The Pay-Yourself-First system (Section 4.5) eliminates this. Move savings BEFORE spending.</p><p><strong>Mistake 2: Keeping everything in a checking account</strong></p><p>A checking account earning 0-1% while inflation runs at 5-10% is a guaranteed loss machine. Move anything beyond 1 month of expenses to higher-yielding vehicles.</p><p><strong>Mistake 3: Breaking fixed deposits early</strong></p><p>That early withdrawal penalty is designed to punish this behavior. If you might need the money within the lock-up period, use a savings account instead. Match the vehicle to the timeline.</p><p><strong>Mistake 4: Waiting for the 'perfect time' to start investing</strong></p><p>There is no perfect time. Studies show that someone who invests $200/month consistently outperforms someone who tries to time the market over any 10+ year period. Start now, imperfectly.</p><p><strong>Mistake 5: Not accounting for inflation</strong></p><p>A deposit paying 6% when inflation is 8% means you're LOSING 2% per year in real terms. Always calculate: Real Return = Nominal Return - Inflation. If the number is negative, your money is shrinking.</p><p><strong>Mistake 6: Investing before building an emergency fund</strong></p><p>If you invest your only savings and then face an emergency, you'll be forced to sell investments at a loss or take high-interest debt. Emergency fund FIRST, investments SECOND. No exceptions.</p><p><strong>Core Takeaway — Unit 4</strong></p></blockquote><p><em><strong><em><strong>Saving is the foundation. Growing is the multiplier. The combination of compound interest,</strong></em> <em><strong>the right savings vehicle, and an automated system turns small amounts into life-changing</strong></em> <em><strong>sums. The most important variable is not how much — it is how early and how consistently.</strong></em> <em><strong>ZInvest AI can help you choose the right vehicle, calculate your real returns after inflation,</strong></em> <em><strong>and build a personalized savings plan that works on autopilot.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Key Terms Glossary",
+    "html": "<blockquote><p>All important terms from Unit 4 clearly defined</p></blockquote><table><tbody><tr><th><p>Compound Interest</p></th><th><p>Interest earned on both the original deposit AND previously accumulated interest. The mechanism that makes money grow exponentially over time.</p></th></tr><tr><td><p>APY (Annual Percentage Yield)</p></td><td><p>The real annual return on a deposit after accounting for compounding. Higher than APR when interest compounds more than once per year.</p></td></tr><tr><td><p>Fixed-Term Deposit</p></td><td><p>A bank product where money is locked for a set period (3-24 months) in exchange for a guaranteed higher interest rate. Early withdrawal usually triggers a penalty.</p></td></tr><tr><td><p>Inflation</p></td><td><p>The rate at which prices rise, eroding the purchasing power of money. If inflation is 8% and your savings earn 5%, you are losing 3% of real value per year.</p></td></tr><tr><td><p>Real Return</p></td><td><p>Nominal return minus inflation. The only return that matters. A 10% return with 8% inflation is only a 2% real gain. Always calculate this.</p></td></tr><tr><td><p>Rule of 72</p></td><td><p>Quick formula: 72 / annual return rate = approximate years to double your money. At 8%, money doubles in ~9 years.</p></td></tr><tr><td><p>Index Fund</p></td><td><p>An investment fund that tracks a broad market index (like the S&amp;P; 500). Provides diversified exposure to hundreds of companies with low fees.</p></td></tr><tr><td><p>Government Bond</p></td><td><p>A loan you make to the government in exchange for regular interest payments. Very safe, moderate returns, useful for medium-term savings.</p></td></tr><tr><td><p>Liquidity</p></td><td><p>How quickly an asset can be converted to cash without losing value. Cash = highest liquidity. Real estate = lowest. Match liquidity to your time horizon.</p></td></tr><tr><td><p>Pay-Yourself-First</p></td><td><p>The strategy of automatically setting aside savings BEFORE spending on anything else. The foundation of all successful wealth-building.</p></td></tr><tr><td><p>Dollar-Cost Averaging</p></td><td><p>Investing a fixed amount at regular intervals regardless of price. Removes the need to time the market and reduces the impact of volatility.</p></td></tr><tr><td><p>Emergency Fund</p></td><td><p>Cash reserve covering 3-6 months of expenses, held in a liquid account. Must be fully funded before any investing begins.</p></td></tr><tr><td><p>Savings Rate</p></td><td><p>The percentage of income saved each period. 20%+ is healthy. This single metric is the strongest predictor of long-term financial success.</p></td></tr><tr><td><p>Opportunity Cost</p></td><td><p>What you give up by choosing one option over another. Money in a 2% account when 8% is available has an opportunity cost of 6% per year.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Why does saving money in a regular checking account at 1% actually lose you money?",
+     "choices": [
+      "Banks charge hidden fees that exceed 1%",
+      "Inflation (5-10%) exceeds the interest rate, so purchasing power shrinks",
+      "The government taxes savings accounts at 50%",
+      "Checking accounts don't pay any interest"
+     ],
+     "answer_index": 1,
+     "explanation": "Inflation (5-10%) exceeds the 1% interest, so your money buys less each year."
+    },
+    {
+     "n": 2,
+     "prompt": "Maria saves $200/month at 1% for 10 years. Anna saves the same at 8%. How much more does Anna have?",
+     "choices": [
+      "About $1,000 more",
+      "About $5,000 more",
+      "About $11,500 more",
+      "About $25,000 more"
+     ],
+     "answer_index": 2,
+     "explanation": "Maria: ~$25,094. Anna: ~$36,589. Difference: ~$11,495 (45% more)."
+    },
+    {
+     "n": 3,
+     "prompt": "Which type of bank deposit typically offers the HIGHEST interest rate?",
+     "choices": [
+      "Checking account",
+      "Regular savings account",
+      "Fixed-term deposit locked for 12-24 months",
+      "All bank accounts pay the same rate"
+     ],
+     "answer_index": 2,
+     "explanation": "Fixed-term deposits offer higher rates because your money is locked — the bank can use it longer."
+    },
+    {
+     "n": 4,
+     "prompt": "What does APY measure that makes it more useful than the headline interest rate?",
+     "choices": [
+      "The bank's reputation score",
+      "The actual annual return after accounting for compounding",
+      "The maximum amount you can deposit",
+      "How quickly you can withdraw money"
+     ],
+     "answer_index": 1,
+     "explanation": "APY includes the effect of compounding, giving you the TRUE annual return."
+    },
+    {
+     "n": 5,
+     "prompt": "Using the Rule of 72, approximately how long does it take to double $10,000 at 8% annual return?",
+     "choices": [
+      "6 years",
+      "8 years",
+      "9 years",
+      "12 years"
+     ],
+     "answer_index": 2,
+     "explanation": "72 / 8 = 9 years. $10,000 becomes ~$20,000 in about 9 years at 8%."
+    },
+    {
+     "n": 6,
+     "prompt": "Jake invests $150/month from age 22-32, then stops. Tom invests $150/month from age 32-62. At age 62, who has more money (both at 8%)?",
+     "choices": [
+      "Tom — he invested 3x more money",
+      "Jake — his money had 10 extra years to compound",
+      "They have exactly the same amount",
+      "Cannot be determined without more data"
+     ],
+     "answer_index": 1,
+     "explanation": "Jake: ~$244,692 (invested $18K). Tom: ~$220,233 (invested $54K). 10 extra years of compounding wins."
+    },
+    {
+     "n": 7,
+     "prompt": "In the Savings Ladder, what should be funded FIRST before any investing begins?",
+     "choices": [
+      "Index fund portfolio",
+      "Real estate down payment",
+      "Emergency fund (3-6 months of expenses)",
+      "Gold reserves"
+     ],
+     "answer_index": 2,
+     "explanation": "Emergency fund FIRST. Without it, any market downturn or life event forces you into debt."
+    },
+    {
+     "n": 8,
+     "prompt": "You're saving for a house down payment needed in 5 years. Which vehicle is MOST appropriate?",
+     "choices": [
+      "Checking account (0% return)",
+      "Cryptocurrency (high volatility)",
+      "Mix of index funds and bonds (moderate growth, manageable risk)",
+      "Emergency fund account"
+     ],
+     "answer_index": 2,
+     "explanation": "5-year horizon = moderate approach. Mix of funds and bonds gives growth without excessive risk."
+    },
+    {
+     "n": 9,
+     "prompt": "What is the 'Pay-Yourself-First' system?",
+     "choices": [
+      "Paying all bills before anything else",
+      "Automatically saving a fixed percentage BEFORE any spending",
+      "Buying yourself a treat on payday",
+      "Paying off all debts before saving anything"
+     ],
+     "answer_index": 1,
+     "explanation": "Automatically save a fixed % on payday BEFORE spending. This is the foundation of wealth-building."
+    },
+    {
+     "n": 10,
+     "prompt": "How often should you check your long-term investment portfolio?",
+     "choices": [
+      "Every day to track performance",
+      "Every week to catch problems early",
+      "Once per quarter (every 3 months)",
+      "Never — just forget about it"
+     ],
+     "answer_index": 2,
+     "explanation": "Quarterly reviews. Daily checking leads to emotional decisions and worse outcomes."
+    },
+    {
+     "n": 11,
+     "prompt": "Your savings account pays 5% but inflation is 8%. What is your real return?",
+     "choices": [
+      "+5%",
+      "+13%",
+      "-3%",
+      "0% — they cancel each other out"
+     ],
+     "answer_index": 2,
+     "explanation": "Real return = 5% - 8% = -3%. Your money is losing purchasing power despite earning interest."
+    },
+    {
+     "n": 12,
+     "prompt": "Which statement about savings mistakes is TRUE?",
+     "choices": [
+      "It's smart to wait for the perfect time to start investing",
+      "Keeping all money in a checking account is the safest strategy",
+      "You should invest before building an emergency fund for higher returns",
+      "Investing consistently over time outperforms trying to time the market"
+     ],
+     "answer_index": 3,
+     "explanation": "Consistent investing (dollar-cost averaging) outperforms market timing over any long period."
+    }
+   ]
+  },
+  "ru": {
+   "unit": 4,
+   "lang": "ru",
+   "title": "Накопления и приумножение денег",
+   "subtitle": "Куда положить сбережения, как работают банковские вклады, сила сложного процента на практике и стратегии роста капитала.",
+   "lessons": [
+    {
+     "num": "4.1",
+     "title": "Почему просто копить недостаточно",
+     "html": "<p>В Блоке 3 вы научились откладывать 20% дохода. Это был первый шаг. Но вот неудобная правда: просто копить — значит терять деньги. Каждый месяц.</p><blockquote><p><strong>Парадокс накоплений</strong></p><p>Деньги на обычном счёте под 1-3% при инфляции 5-10% не сохраняются — они медленно уничтожаются. Вы чувствуете себя ответственным, но покупательная способность падает каждый месяц.</p></blockquote><h2>Накопление и приумножение — ключевое различие</h2><table><tbody><tr><th><p></p></th><th><p>Накопление</p></th><th><p>Приумножение</p></th></tr><tr><td><p>Цель</p></td><td><p>Сохранить то, что есть</p></td><td><p>Заставить деньги работать</p></td></tr><tr><td><p>Риск</p></td><td><p>Почти нулевой</p></td><td><p>Низкий — умеренный</p></td></tr><tr><td><p>Доходность</p></td><td><p>0-3% в год</p></td><td><p>5-15%+ в год</p></td></tr><tr><td><p>Инфляция</p></td><td><p>Теряете реальную стоимость</p></td><td><p>Обгоняете инфляцию</p></td></tr><tr><td><p>Инструменты</p></td><td><p>Текущий счёт, наличные</p></td><td><p>Вклады, облигации, фонды</p></td></tr></tbody></table><blockquote><p><strong>ПРАКТИЧЕСКИЙ ПРИМЕР — Цена бездействия</strong></p><p>Мария откладывала 15 000 руб./мес. 10 лет на счёт под 1%. Итог: ~1 882 000 руб. Анна откладывала те же 15 000 руб./мес., но в индексный фонд под 8%. Итог: ~2 744 000 руб.</p><p>Одинаковая сумма, одинаковая дисциплина. Анна получила на 862 000 руб. БОЛЬШЕ — на 46% — только за счёт выбора куда положить.</p><p><strong>Где вы копите — важно не меньше, чем сколько копите.</strong></p></blockquote>"
+    },
+    {
+     "num": "4.2",
+     "title": "Банковские вклады",
+     "html": "<p>Банковские вклады — первый инструмент накопления. Они надёжны, просты и застрахованы. Но не все вклады одинаковы, и неправильный выбор может стоить тысячи рублей.</p><h2>Типы банковских вкладов</h2><table><tbody><tr><th><p>Тип</p></th><th><p>Как работает</p></th><th><p>Доступ</p></th><th><p>Ставка</p></th><th><p>Лучше для</p></th></tr><tr><td><p>Текущий счёт</p></td><td><p>Без ограничений</p></td><td><p>Сразу</p></td><td><p>0-1%</p></td><td><p>Ежедневные расх.</p></td></tr><tr><td><p>Накопительный</p></td><td><p>Ограниченные снятия</p></td><td><p>24-48 ч</p></td><td><p>2-5%</p></td><td><p>Короткий срок</p></td></tr><tr><td><p>Срочный вклад</p></td><td><p>Заблок. на 3-24 мес.</p></td><td><p>По истечении</p></td><td><p>6-14%</p></td><td><p>Средний срок</p></td></tr><tr><td><p>ВысокодоходныВйы</p></td><td><p>сокая ставка, долг. ср</p></td><td><p>оПко истечении</p></td><td><p>10-18%</p></td><td><p>Долгий срок</p></td></tr></tbody></table><h2>Что сравнивать перед открытием вклада</h2><blockquote><p><strong>Эффективная ставка (APY)</strong></p><p>Реальный годовой доход с учётом капитализации. Сравнивайте именно APY, а не номинальную ставку.</p><p><strong>Частота капитализации</strong></p><p>Ежемесячная капитализация лучше ежегодной. Деньги зарабатывают деньги быстрее, когда процент начисляется чаще.</p><p><strong>Штраф за досрочное снятие</strong></p><p>Если закроете вклад раньше срока, можете потерять ВСЕ начисленные проценты. Узнайте условия заранее.</p><p><strong>Страхование вкладов</strong></p><p>Застрахованы ли ваши деньги государством? До какой суммы? В России — до 1 400 000 руб.</p></blockquote>"
+    },
+    {
+     "num": "4.3",
+     "title": "Сложный процент на практике",
+     "html": "<p>Вы изучили формулу сложного процента в Блоке 2. Теперь посмотрим, как она работает применительно к реальным накоплениям.</p><blockquote><p><strong>Формула (напоминание)</strong></p></blockquote><h2>FV = PV × (1 + r)ⁿ</h2><blockquote><p>PV = начальная сумма, r = годовая ставка, n = количество лет, FV = будущая стоимость</p></blockquote><h2>7 500 руб./мес. при разных ставках со временем</h2><table><tbody><tr><th><p>Лет</p></th><th><p>При 3%</p></th><th><p>При 8%</p></th><th><p>При 12%</p></th><th><p>Разница (3% и 8%)</p></th></tr><tr><td><p>5</p></td><td><p>485 000</p></td><td><p>551 000</p></td><td><p>613 000</p></td><td><p>+66 000</p></td></tr><tr><td><p>10</p></td><td><p>1 048 000</p></td><td><p>1 372 000</p></td><td><p>1 725 000</p></td><td><p>+324 000</p></td></tr><tr><td><p>20</p></td><td><p>2 462 000</p></td><td><p>4 418 000</p></td><td><p>7 263 000</p></td><td><p>+1 956 000</p></td></tr><tr><td><p>30</p></td><td><p>4 371 000</p></td><td><p>11 178 000</p></td><td><p>26 212 000</p></td><td><p>+6 807 000</p></td></tr></tbody></table><p><em><strong><em><strong>Посмотрите на 30-летнюю строку. Одни и те же 7 500 руб./мес. Разница между</strong></em> <em><strong>3% и 8% — почти 7 миллионов рублей. Поэтому где вы храните деньги —</strong></em> <em><strong>критически важно.</strong></em></strong></em></p><h2>Правило 72 на практике</h2><p>За сколько лет деньги удвоятся? Разделите 72 на годовую ставку.</p><table><tbody><tr><th><p>Ставка</p></th><th><p>Лет до удвоения</p></th><th><p>Пример</p></th></tr><tr><td><p>3%</p></td><td><p>24 года</p></td><td><p>100 000 → 200 000 руб. к 2050 г.</p></td></tr><tr><td><p>6%</p></td><td><p>12 лет</p></td><td><p>100 000 → 200 000 руб. к 2038 г.</p></td></tr><tr><td><p>8%</p></td><td><p>9 лет</p></td><td><p>100 000 → 200 000 руб. к 2035 г.</p></td></tr><tr><td><p>12%</p></td><td><p>6 лет</p></td><td><p>100 000 → 200 000 руб. к 2032 г.</p></td></tr></tbody></table><blockquote><p><strong>ПРАКТ. ПРИМЕР — Сила раннего старта</strong></p><p>Два коллеги, обоим по 22 года, одинаковая зарплата:</p><p>Иван копит 10 000 руб./мес. с 22 до 32 лет (10 лет, всего 1,2 млн руб.) и прекращает. Но деньги растут до 62 лет.</p><p>Пётр ждёт до 32 лет, затем копит 10 000 руб./мес. до 62 лет (30 лет, всего 3,6 млн руб.).</p><p>Оба под 8% годовых. В 62 года: Иван — ~16,3 млн руб. Пётр — ~14,7 млн руб.</p><p><strong>Иван вложил в 3 раза МЕНЬШЕ, но получил БОЛЬШЕ. Причина: 10</strong> <strong>дополнительных лет сложного процента. Время — самая мощная</strong> <strong>переменная в финансах.</strong></p></blockquote>"
+    },
+    {
+     "num": "4.4",
+     "title": "Инструменты накопления помимо банков",
+     "html": "<p>Когда фонд экстренных ситуаций накоплен (3-6 мес.), пора заставить остальные сбережения работать сильнее.</p><h2>Лестница накоплений — куда класть деньги и в каком порядке</h2><blockquote><p><strong>→ Шаг 1: Фонд экстренных ситуаций (3-6 мес.)</strong></p><p>НАКОПИТЕЛЬНЫЙ СЧЁТ. 100% ликвидность, 100% безопасность. Никаких акций. Это не инвестиция — это страховка.</p><p><strong>→ Шаг 2: Краткосрочные цели (1-2 года)</strong></p><p>СРОЧНЫЙ ВКЛАД или ОФЗ. Обгоняют инфляцию, не рискуют основным капиталом.</p><p><strong>→ Шаг 3: Среднесрочные цели (3-7 лет)</strong></p><p>ИНДЕКСНЫЕ ФОНДЫ + ОБЛИГАЦИИ. Сбалансированный портфель: рост без экстремального риска.</p><p><strong>→ Шаг 4: Долгосрочное богатство (7+ лет)</strong></p><p>ИНДЕКСНЫЕ ФОНДЫ + НЕДВИЖИМОСТЬ. Краткосрочная волатильность не важна — важна средняя доходность.</p></blockquote>"
+    },
+    {
+     "num": "4.5",
+     "title": "Построение системы накоплений",
+     "html": "<p>Лучшая система накоплений — та, о которой не нужно думать. Сила воли заканчивается. Привычки — нет.</p><h2>Система «Заплати себе первому»</h2><blockquote><p><strong>Золотое правило накоплений</strong></p><p>В день зарплаты, ПРЕЖДЕ чем потратить хоть рубль:</p><p>1. Переведите 20% на накопления/инвестиции</p><p>2. Оплатите постоянные расходы (аренда, кредиты)</p><p>3. Остаток — ваши деньги на жизнь в этом месяце</p><p>Большинство: Заработал → Потратил → Сохранил остаток (обычно ничего) Богатые: Заработал → Сохранил сначала → Потратил остаток</p></blockquote><p><em><strong><em><strong>Эта единственная привычка разделяет тех, кто накапливает богатство, от</strong></em> <em><strong>тех, кто нет.</strong></em></strong></em></p><h2>Автоматизация</h2><blockquote><p><strong>Настройте автоперевод</strong></p><p>В день зарплаты банк автоматически переводит 20% на накопления. Вы не видите эти деньги — значит, не тратите.</p><p><strong>Разделите счета</strong></p><p>Один для расходов, другой для фонда, третий для инвестиций. Физическое разделение убивает соблазн.</p><p><strong>Проверяйте раз в квартал</strong></p><p>Смотрите инвестиции раз в 3 месяца. Ежедневная проверка создаёт тревогу и плохие решения.</p></blockquote>"
+    },
+    {
+     "num": "4.6",
+     "title": "Типичные ошибки накопления",
+     "html": "<p>Большинство людей терпят неудачу не из-за недостатка дисциплины, а из-за структурных ошибок. Избегите этих ловушек.</p><blockquote><p><strong>Ошибка 1: Копить то, что осталось</strong></p><p>Если копите остаток после трат, накоплений не будет. Система «заплати себе первому» решает эту проблему.</p><p><strong>Ошибка 2: Всё держать на текущем счёте</strong></p><p>Текущий счёт под 0-1% при инфляции 5-10% — это машина по уничтожению денег. Переведите всё сверх 1 месяца расходов.</p><p><strong>Ошибка 3: Ждать идеального момента</strong></p><p>Идеального момента не существует. Регулярное инвестирование обгоняет попытки угадать рынок.</p><p><strong>Ошибка 4: Не учитывать инфляцию</strong></p><p>Вклад под 6% при инфляции 8% = -2% реальной доходности. Всегда считайте: Реальная доходность = Номинал − Инфляция.</p><p><strong>Ошибка 5: Инвестировать до фонда экстренных ситуаций</strong></p><p>Без фонда любой кризис заставит продавать инвестиции в убыток или брать дорогой кредит. Сначала фонд, потом инвестиции.</p><p><strong>Основной вывод — Блок 4</strong></p></blockquote><p><em><strong><em><strong>Накопление — фундамент. Приумножение — мультипликатор. Сложный</strong></em> <em><strong>процент, правильный инструмент и автоматическая система превращают</strong></em> <em><strong>небольшие суммы в капитал, меняющий жизнь. Самое важное — не</strong></em> <em><strong>сколько, а как рано и как стабильно. ZInvest AI поможет выбрать</strong></em> <em><strong>инструмент, рассчитать реальную доходность и построить персональный</strong></em> <em><strong>план.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Словарь ключевых терминов",
+    "html": "<blockquote><p>Все важные понятия Блока 4</p></blockquote><table><tbody><tr><th><p>Сложный процент</p></th><th><p>Процент на первоначальную сумму И на ранее накопленные проценты. Механизм экспоненциального роста денег.</p></th></tr><tr><td><p>Эффективная ставка (APY)</p></td><td><p>Реальная годовая доходность с учётом капитализации. Выше номинальной ставки, если проценты начисляются чаще 1 раза в год.</p></td></tr><tr><td><p>Срочный вклад</p></td><td><p>Банковский продукт, где деньги заблокированы на определённый срок (3-24 мес.) в обмен на более высокий процент.</p></td></tr><tr><td><p>Инфляция</p></td><td><p>Скорость роста цен, разрушающая покупательную способность денег. Если инфляция 8%, а доход 5% — вы теряете 3% в год.</p></td></tr><tr><td><p>Реальная доходность</p></td><td><p>Номинальная доходность минус инфляция. Единственный показатель, который имеет значение.</p></td></tr><tr><td><p>Правило 72</p></td><td><p>Быстрая формула: 72 / годовая ставка = примерное количество лет до удвоения денег.</p></td></tr><tr><td><p>Индексный фонд</p></td><td><p>Инвестиционный фонд, отслеживающий рыночный индекс. Даёт диверсификацию по сотням компаний с низкими комиссиями.</p></td></tr><tr><td><p>Государственные облигации (ОФЗ)</p></td><td><p>Займ, который вы даёте государству в обмен на регулярные процентные выплаты. Очень надёжно, умеренная доходность.</p></td></tr><tr><td><p>Ликвидность</p></td><td><p>Как быстро актив можно превратить в наличные без потери ценности. Наличные — максимальная ликвидность. Недвижимость — минимальная.</p></td></tr><tr><td><p>Заплати себе первому</p></td><td><p>Стратегия автоматического откладывания ПРЕЖДЕ любых расходов. Фундамент всего накопления богатства.</p></td></tr><tr><td><p>Усреднение долларовой стоимости</p></td><td><p>Инвестирование фиксированной суммы через равные промежутки. Убирает необходимость угадывать рынок.</p></td></tr><tr><td><p>Норма накоплений</p></td><td><p>Доля дохода, откладываемая каждый месяц. 20% и выше — здорово. Ниже 10% — опасная зона.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Почему деньги на обычном счёте под 1% при инфляции 8% фактически теряются?",
+     "choices": [
+      "Банк берёт скрытые комиссии",
+      "Инфляция превышает ставку — покупательная способность падает",
+      "Государство облагает вклады налогом 50%",
+      "Текущие счета не платят процентов"
+     ],
+     "answer_index": 1,
+     "explanation": "Инфляция (8%) превышает ставку (1%), деньги теряют покупательную способность каждый год."
+    },
+    {
+     "n": 2,
+     "prompt": "Мария копит 15 000 руб./мес. под 1%, Анна — те же 15 000 под 8%. За 10 лет у Анны больше на...",
+     "choices": [
+      "~100 000 руб.",
+      "~400 000 руб.",
+      "~862 000 руб.",
+      "~2 000 000 руб."
+     ],
+     "answer_index": 2,
+     "explanation": "Мария: ~1 882 000. Анна: ~2 744 000. Разница: ~862 000 руб. (46% больше)."
+    },
+    {
+     "n": 3,
+     "prompt": "Какой тип вклада обычно предлагает САМУЮ ВЫСОКУЮ ставку?",
+     "choices": [
+      "Текущий счёт",
+      "Накопительный счёт",
+      "Срочный вклад на 12-24 месяца",
+      "Все вклады платят одинаково"
+     ],
+     "answer_index": 2,
+     "explanation": "Срочные вклады предлагают более высокие ставки, потому что деньги заблокированы — банк может использовать их дольше."
+    },
+    {
+     "n": 4,
+     "prompt": "Что измеряет эффективная ставка (APY)?",
+     "choices": [
+      "Репутацию банка",
+      "Реальную годовую доходность с учётом капитализации",
+      "Максимальную сумму вклада",
+      "Скорость снятия средств"
+     ],
+     "answer_index": 1,
+     "explanation": "APY учитывает эффект капитализации, показывая РЕАЛЬНУЮ годовую доходность."
+    },
+    {
+     "n": 5,
+     "prompt": "По правилу 72, за сколько лет удвоятся деньги при 8% годовых?",
+     "choices": [
+      "6 лет",
+      "8 лет",
+      "9 лет",
+      "12 лет"
+     ],
+     "answer_index": 2,
+     "explanation": "72 / 8 = 9 лет. При 8% деньги удваиваются примерно за 9 лет."
+    },
+    {
+     "n": 6,
+     "prompt": "Иван копит 10 лет (с 22 до 32) и прекращает. Пётр копит 30 лет (с 32 до 62). Оба по 10 000 руб./мес. под 8%. В 62 года у кого больше?",
+     "choices": [
+      "У Петра — он вложил в 3 раза больше",
+      "У Ивана — 10 лишних лет сложного процента",
+      "Одинаково",
+      "Нельзя определить"
+     ],
+     "answer_index": 1,
+     "explanation": "Иван: ~16,3 млн (вложил 1,2 млн). Пётр: ~14,7 млн (вложил 3,6 млн). 10 лишних лет компаундинга побеждают."
+    },
+    {
+     "n": 7,
+     "prompt": "Что нужно накопить ПЕРВЫМ, прежде чем начать инвестировать?",
+     "choices": [
+      "Портфель индексных фондов",
+      "Первоначальный взнос на жильё",
+      "Фонд экстренных ситуаций (3-6 мес. расходов)",
+      "Золотой запас"
+     ],
+     "answer_index": 2,
+     "explanation": "Фонд экстренных ситуаций ПЕРВЫЙ. Без него любой кризис загонит в долги."
+    },
+    {
+     "n": 8,
+     "prompt": "Вы копите на первый взнос за квартиру через 5 лет. Какой инструмент НАИБОЛЕЕ подходит?",
+     "choices": [
+      "Текущий счёт (0% доходность)",
+      "Криптовалюта (высокая волатильность)",
+      "Микс индексных фондов и облигаций",
+      "Фонд экстренных ситуаций"
+     ],
+     "answer_index": 2,
+     "explanation": "5 лет = умеренный подход. Микс фондов и облигаций даёт рост без экстремального риска."
+    },
+    {
+     "n": 9,
+     "prompt": "Что такое система «Заплати себе первому»?",
+     "choices": [
+      "Оплатить все счета первым делом",
+      "Автоматически отложить фиксированный % ДО любых трат",
+      "Купить себе подарок в день зарплаты",
+      "Погасить все долги перед накоплениями"
+     ],
+     "answer_index": 1,
+     "explanation": "Автоматически откладывайте фиксированный % в день зарплаты ДО любых расходов."
+    },
+    {
+     "n": 10,
+     "prompt": "Как часто следует проверять долгосрочные инвестиции?",
+     "choices": [
+      "Каждый день",
+      "Каждую неделю",
+      "Раз в квартал (3 месяца)",
+      "Никогда"
+     ],
+     "answer_index": 2,
+     "explanation": "Раз в квартал. Ежедневная проверка ведёт к эмоциональным решениям и худшим результатам."
+    },
+    {
+     "n": 11,
+     "prompt": "Ваш вклад приносит 5%, инфляция — 8%. Какова реальная доходность?",
+     "choices": [
+      "+5%",
+      "+13%",
+      "-3%",
+      "0%"
+     ],
+     "answer_index": 2,
+     "explanation": "Реальная доходность = 5% - 8% = -3%. Деньги теряют покупательную способность."
+    },
+    {
+     "n": 12,
+     "prompt": "Какое утверждение об ошибках накопления ВЕРНО?",
+     "choices": [
+      "Лучше ждать идеального момента для инвестиций",
+      "Держать всё на текущем счёте — самая безопасная стратегия",
+      "Сначала инвестировать, потом копить фонд экстренных ситуаций",
+      "Регулярное инвестирование обгоняет попытки угадать рынок"
+     ],
+     "answer_index": 3,
+     "explanation": "Регулярное инвестирование (усреднение) обгоняет попытки угадать рынок на любом длинном периоде."
+    }
+   ]
+  },
+  "uz": {
+   "unit": 4,
+   "lang": "uz",
+   "title": "Pulni tejash va o'stirish",
+   "subtitle": "Jamg'armalarni qayerga qo'yish, bank depozitlari qanday ishlashi, murakkab foiz kuchi amalda va kapital o'stirish strategiyalari.",
+   "lessons": [
+    {
+     "num": "4.1",
+     "title": "Faqat tejash yetarlimi?",
+     "html": "<p>3-Blokda siz daromadingizning 20% ini tejashni o'rgandingiz. Bu birinchi qadam edi. Ammo noqulay haqiqat shundan iborat: faqat tejash — bu pulni yo'qotish demak. Har oy.</p><blockquote><p><strong>Tejash paradoksi</strong></p><p>Oddiy hisobda 1-3% foiz bilan yotgan pul inflyatsiya 5-10% bo'lganda saqlanmaydi — u asta-sekin yo'q bo'ladi. Siz o'zingizni mas'uliyatli his qilasiz, ammo sotib olish qobiliyatingiz har oy pasayadi.</p></blockquote><h2>Tejash va o'stirish — muhim farq</h2><table><tbody><tr><th><p></p></th><th><p>Tejash</p></th><th><p>O'stirish</p></th></tr><tr><td><p>Maqsad</p></td><td><p>Borini saqlash</p></td><td><p>Pulni ishlatish</p></td></tr><tr><td><p>Xavf</p></td><td><p>Deyarli nol</p></td><td><p>Past — o'rtacha</p></td></tr><tr><td><p>Daromad</p></td><td><p>0-3% yiliga</p></td><td><p>5-15%+ yiliga</p></td></tr><tr><td><p>Inflyatsiya</p></td><td><p>Real qiymat yo'qotiladi</p></td><td><p>Inflyatsiyani yengadi</p></td></tr><tr><td><p>Vositalar</p></td><td><p>Joriy hisob, naqd pul</p></td><td><p>Depozitlar, obligatsiyalar, fondlar</p></td></tr></tbody></table><blockquote><p><strong>AMALIY MISOL — Harakatsizlikning narxi</strong></p><p>Malika oyiga 2 000 000 so'm tejadi, 10 yil davomida 1% foizli hisobda. Natija: ~252 000 000 so'm. Nigora xuddi shu 2 000 000 so'm ni tejaydi, lekin 8% foizli indeks fondiga. Natija: ~366 000 000 so'm. Bir xil summa, bir xil intizom. Nigora 114 000 000 so'm KO'PROQ oldi — 46% ko'proq — faqat QAYERGA qo'yganini tanlash orqali.</p><p><strong>Qayerga tejashingiz — qancha tejashingiz kabi muhim.</strong></p></blockquote>"
+    },
+    {
+     "num": "4.2",
+     "title": "Bank depozitlari",
+     "html": "<p>Bank depozitlari — ko'pchilikning birinchi tejash vositasi. Ular ishonchli, sodda va sug'urtalangan. Lekin barcha depozitlar bir xil emas, va noto'g'ri tanlov minglab so'mlaringizni yo'qotishi mumkin.</p><h2>Bank depozitlari turlari</h2><table><tbody><tr><th><p>Turi</p></th><th><p>Qanday ishlaydi</p></th><th><p>Foydalanish</p></th><th><p>Stavka</p></th><th><p>Eng yaxshi</p></th></tr><tr><td><p>Joriy hisob</p></td><td><p>Cheklovsiz</p></td><td><p>Darhol</p></td><td><p>0-1%</p></td><td><p>Kundalik xarajatlar</p></td></tr><tr><td><p>Jamg'arma hisobi</p></td><td><p>Cheklangan yechish</p></td><td><p>24-48 soat</p></td><td><p>2-5%</p></td><td><p>Qisqa muddat</p></td></tr><tr><td><p>Muddatli depozit</p></td><td><p>3-24 oyga bloklangan</p></td><td><p>Muddatda</p></td><td><p>6-14%</p></td><td><p>O'rta muddat</p></td></tr><tr><td><p>Yuqori foizli</p></td><td><p>Yuqori stavka, uzoq mudda</p></td><td><p>t Muddatda</p></td><td><p>10-18%</p></td><td><p>Uzoq muddat</p></td></tr></tbody></table><h2>Depozit ochishdan oldin nimani solishtirish kerak</h2><blockquote><p><strong>Samarali stavka (APY)</strong></p><p>Kapitalizatsiyani hisobga olgan haqiqiy yillik daromad. Har doim APY ni solishtiring, nominal stavkani emas.</p><p><strong>Kapitalizatsiya chastotasi</strong></p><p>Oylik kapitalizatsiya yillikdan yaxshi. Foiz tez-tez hisoblanganida pul tezroq ishlaydi.</p><p><strong>Muddatidan oldin yechish jarimalari</strong></p><p>Depozitni muddatidan oldin yopsangiz, BARCHA foizni yo'qotishingiz mumkin. Shartlarni oldindan bilib oling.</p><p><strong>Depozit sug'urtasi</strong></p><p>Pulingiz davlat tomonidan sug'urtalanganmi? Qancha miqdorgacha? O'zbekistonda — 100 000 000 so'mgacha.</p></blockquote>"
+    },
+    {
+     "num": "4.3",
+     "title": "Murakkab foiz amalda",
+     "html": "<p>2-Blokda murakkab foiz formulasini o'rgandingiz. Endi uni haqiqiy tejash qarorlariga qanday ta'sir qilishini ko'ramiz.</p><blockquote><p><strong>Formula (eslatma)</strong></p></blockquote><h2>FV = PV × (1 + r)</h2><blockquote><p>PV = boshlang'ich summa, r = yillik stavka, n = yillar soni, FV = kelajak qiymati</p></blockquote><h2>Oyiga 500 000 so'm turli stavkalarda vaqt o'tishi bilan</h2><table><tbody><tr><th><p>Yil</p></th><th><p>3% da</p></th><th><p>8% da</p></th><th><p>12% da</p></th><th><p>Farq (3% va 8%)</p></th></tr><tr><td><p>5</p></td><td><p>32 300 000</p></td><td><p>36 700 000</p></td><td><p>40 800 000</p></td><td><p>+4 400 000</p></td></tr><tr><td><p>10</p></td><td><p>69 800 000</p></td><td><p>91 500 000</p></td><td><p>115 000 000</p></td><td><p>+21 700 000</p></td></tr><tr><td><p>20</p></td><td><p>164 000 000</p></td><td><p>294 000 000</p></td><td><p>484 000 000</p></td><td><p>+130 000 000</p></td></tr><tr><td><p>30</p></td><td><p>291 000 000</p></td><td><p>745 000 000</p></td><td><p>1 747 000 000</p></td><td><p>+454 000 000</p></td></tr></tbody></table><p><em><strong><em><strong>30 yillik qatorga qarang. Bir xil oyiga 500 000 so'm. 3% va 8% o'rtasidagi farq — 454 million so'm.</strong></em> <em><strong>Shuning uchun pulni QAYERGA qo'yish juda muhim.</strong></em></strong></em></p><h2>72 qoidasi amalda</h2><p>Pulingiz qachon ikki baravar bo'ladi? 72 ni yillik stavkaga bo'ling.</p><table><tbody><tr><th><p>Stavka</p></th><th><p>Ikki barobar bo'lish</p></th><th><p>Misol</p></th></tr><tr><td><p>3%</p></td><td><p>24 yil</p></td><td><p>1 mln → 2 mln so'm 2050 y.</p></td></tr><tr><td><p>6%</p></td><td><p>12 yil</p></td><td><p>1 mln → 2 mln so'm 2038 y.</p></td></tr><tr><td><p>8%</p></td><td><p>9 yil</p></td><td><p>1 mln → 2 mln so'm 2035 y.</p></td></tr><tr><td><p>14%</p></td><td><p>~5 yil</p></td><td><p>1 mln → 2 mln so'm 2031 y.</p></td></tr></tbody></table><blockquote><p><strong>AMALIY MISOL — Erta boshlashning kuchi</strong></p><p>Ikki hamkasb, ikkalasi ham 22 yoshda, bir xil ish haqi:</p><p>Jasur 22 yoshdan 32 yoshgacha oyiga 500 000 so'm tejaydi (10 yil, jami 60 mln so'm). Keyin to'xtaydi, lekin pul 62 yoshgacha o'sadi.</p><p>Sardor 32 yoshdan 62 yoshgacha oyiga 500 000 so'm tejaydi (30 yil, jami 180 mln so'm). Ikkalasi ham yillik 8% bilan. 62 yoshda: Jasur — ~1 087 mln so'm. Sardor — ~980 mln so'm.</p><p><strong>Jasur 3 BARAVAR KAM investitsiya qildi, ammo ko'proq oldi! Sababi: 10 yil qo'shimcha</strong> <strong>murakkab foiz. Vaqt — moliyaning eng kuchli o'zgaruvchisi.</strong></p></blockquote>"
+    },
+    {
+     "num": "4.4",
+     "title": "Bankdan tashqari tejash vositalari",
+     "html": "<p>Favqulodda fond to'plangandan keyin (3-6 oy), qolgan jamg'armalaringizni kuchliroq ishlatish vaqti keldi.</p><h2>Tejash zinasi — pulni qayerga va qanday tartibda joylashtirish</h2><blockquote><p>→<strong> 1-qadam: Favqulodda fond (3-6 oy)</strong></p><p>JAMG'ARMA HISOBI. 100% likvidlik, 100% xavfsizlik. Aksiyalar yo'q. Bu investitsiya emas — bu sug'urta.</p><p>→<strong> 2-qadam: Qisqa muddatli maqsadlar (1-2 yil)</strong></p><p>MUDDATLI DEPOZIT yoki DAVLAT OBLIGATSIYALARI. Inflyatsiyani yengadi, asosiy kapital xavf ostida emas.</p><p>→<strong> 3-qadam: O'rta muddatli maqsadlar (3-7 yil)</strong></p><p>INDEKS FONDLARI + OBLIGATSIYALAR. Muvozanatli portfel: haddan tashqari xavfsiz o'sish.</p><p>→<strong> 4-qadam: Uzoq muddatli boylik (7+ yil)</strong></p><p>INDEKS FONDLARI + KO'CHMAS MULK. Qisqa muddatli tebranishlar muhim emas — muhimi o'rtacha daromad.</p></blockquote>"
+    },
+    {
+     "num": "4.5",
+     "title": "Tejash tizimini qurish",
+     "html": "<p>Eng yaxshi tejash tizimi — o'ylash kerak bo'lmagan tizim. Iroda tugaydi. Odatlar — hech qachon.</p><h2>\"Avval o'zingizga to'lang\" tizimi</h2><blockquote><p><strong>Tejashning oltin qoidasi</strong></p><p>Ish haqi kuni, biror so'm sarflashdan OLDIN:</p><p>1. 20% ni tejamkorlik/investitsiyaga o'tkazing</p><p>2. Doimiy xarajatlarni to'lang (ijara, kreditlar)</p><p>3. Qolgani — shu oy uchun yashash pulingiz</p><p>Ko'pchilik: Ishladim → Sarfladim → Qolganini tejadim (odatda hech narsa)</p><p>Boylar: Ishladim → Avval tejadim → Qolganini sarfladim</p></blockquote><p><em><strong><em><strong>Bu yagona odat — boylik to'plovchilarni to'plamaganlardan ajratadi.</strong></em></strong></em></p><h2>Avtomatlashtirish</h2><blockquote><p><strong>Avtomatik o'tkazmani sozlang</strong></p><p>Ish haqi kuni bank avtomatik ravishda 20% ni tejamkorlik hisobiga o'tkazadi. Siz bu pulni ko'rmaysiz — demak, sarflamaysiz.</p><p><strong>Hisoblarni ajrating</strong></p><p>Biri xarajatlar uchun, biri fond uchun, uchinchisi investitsiyalar uchun. Jismoniy ajratish vasvasani yo'q qiladi.</p><p><strong>Har chorakda tekshiring</strong></p><p>Investitsiyalaringizni 3 oyda bir marta ko'ring. Har kungi tekshirish tashvish va yomon qarorlar yaratadi.</p></blockquote>"
+    },
+    {
+     "num": "4.6",
+     "title": "Keng tarqalgan xatolar",
+     "html": "<p>Ko'pchilik intizom yetishmaganidan emas, strukturaviy xatolardan muvaffaqiyatsizlikka uchraydi. Bu tuzoqlardan qoching.</p><blockquote><p><strong>Xato 1: Qolganini tejash</strong></p><p>Agar xarajatlardan keyin qolganini tejasangiz, tejamkorlik bo'lmaydi. \"Avval o'zingizga to'lang\" tizimi bu muammoni hal qiladi.</p><p><strong>Xato 2: Hammasini joriy hisobda saqlash</strong></p><p>Joriy hisob 0-1% bilan inflyatsiya 5-10% bo'lganda — bu pulni yo'q qilish mashinasi. 1 oylik xarajatdan ortiqni ko'chiring.</p><p><strong>Xato 3: Mukammal vaqtni kutish</strong></p><p>Mukammal vaqt mavjud emas. Muntazam investitsiya bozorni taxmin qilishdan har doim ustun turadi.</p><p><strong>Xato 4: Inflyatsiyani hisobga olmaslik</strong></p><p>6% foizli depozit inflyatsiya 8% bo'lganda = -2% real daromad. Har doim hisoblang: Real daromad = Nominal − Inflyatsiya.</p><p><strong>Xato 5: Favqulodda fondsiz investitsiya qilish</strong></p><p>Fondsiz har qanday inqiroz investitsiyalarni zararda sotishga yoki qimmat kredit olishga majbur qiladi. Avval fond, keyin investitsiya.</p><p><strong>Asosiy xulosa — 4-Blok</strong></p></blockquote><p><em><strong><em><strong>Tejash — poydevor. O'stirish — multiplikator. Murakkab foiz, to'g'ri vosita va avtomatik tizim</strong></em> <em><strong>— kichik summalarni hayotni o'zgartiruvchi kapitalga aylantiradi. Eng muhimi — qancha</strong></em> <em><strong>emas, balki qanchalik erta va barqaror. ZInvest AI sizga vositani tanlashda, real daromadni</strong></em> <em><strong>hisoblashda va shaxsiy rejani qurishda yordam beradi.</strong></em></strong></em></p>"
+    }
+   ],
+   "glossary": {
+    "title": "Atamalar lug'ati",
+    "html": "<blockquote><p>4-blokdagi barcha muhim tushunchalar</p></blockquote><table><tbody><tr><th><p>Murakkab foiz</p></th><th><p>Boshlang'ich summa VA oldingi foizlar ustidan foiz hisoblash. Pulni eksponent ravishda o'stiruvchi mexanizm.</p></th></tr><tr><td><p>Samarali stavka (APY)</p></td><td><p>Kapitalizatsiyani hisobga olgan haqiqiy yillik daromad. Nominal stavkadan yuqori bo'ladi.</p></td></tr><tr><td><p>Muddatli depozit</p></td><td><p>Pulni belgilangan muddatga (3-24 oy) bloklash evaziga kafolatlangan yuqori foiz olish.</p></td></tr><tr><td><p>Inflyatsiya</p></td><td><p>Narxlarning ko'tarilish tezligi. Agar inflyatsiya 8%, daromadingiz 5% bo'lsa — yiliga 3% yo'qotasiz.</p></td></tr><tr><td><p>Real daromad</p></td><td><p>Nominal daromad minus inflyatsiya. Yagona ahamiyatga molik ko'rsatkich.</p></td></tr><tr><td><p>72 qoidasi</p></td><td><p>Tez formula: 72 / yillik stavka = pulning ikki baravar bo'lish muddati.</p></td></tr><tr><td><p>Indeks fond</p></td><td><p>Keng bozor indeksini kuzatuvchi investitsiya fondi. Yuzlab kompaniyalarga past xarajat bilan diversifikatsiya beradi.</p></td></tr><tr><td><p>Davlat obligatsiyasi</p></td><td><p>Davlatga beriladigan qarz, evaziga muntazam foiz to'lovlari olasiz. Juda ishonchli, o'rtacha daromad.</p></td></tr><tr><td><p>Likvidlik</p></td><td><p>Aktivni qiymat yo'qotmasdan tezda naqd pulga aylantirish qobiliyati. Naqd pul = eng yuqori likvidlik.</p></td></tr><tr><td><p>Avval o'zingizga to'lang</p></td><td><p>Har qanday xarajatdan OLDIN avtomatik ravishda tejash strategiyasi. Boylik qurish poydevori.</p></td></tr><tr><td><p>Dollar xarajatini o'rtacha qilish</p></td><td><p>Narxdan qat'i nazar, muntazam ravishda belgilangan summani investitsiya qilish. Bozorni taxmin qilish zaruriyatini yo'q qiladi.</p></td></tr><tr><td><p>Tejamkorlik darajasi</p></td><td><p>Har oyda tejab qo'yilgan daromad ulushi. 20%+ — sog'lom. 10% dan past — xavfli zona.</p></td></tr></tbody></table>"
+   },
+   "test": [
+    {
+     "n": 1,
+     "prompt": "Nima uchun oddiy hisobda 1% foiz bilan yotgan pul inflyatsiya 8% bo'lganda yo'qotiladi?",
+     "choices": [
+      "Bank yashirin komissiyalar oladi",
+      "Inflyatsiya foiz stavkasidan oshadi — sotib olish qobiliyati pasayadi",
+      "Davlat depozitlarni 50% soliqqa tortadi",
+      "Joriy hisoblar foiz to'lamaydi"
+     ],
+     "answer_index": 1,
+     "explanation": "Inflyatsiya (8%) foiz stavkasidan (1%) oshadi, pul har yili kamroq narsa sotib oladi."
+    },
+    {
+     "n": 2,
+     "prompt": "Malika 2 mln so'm/oy 1% bilan, Nigora xuddi shuncha 8% bilan 10 yil tejaydi. Nigora qanchaga ko'proq oladi?",
+     "choices": [
+      "~10 mln so'm",
+      "~50 mln so'm",
+      "~114 mln so'm",
+      "~250 mln so'm"
+     ],
+     "answer_index": 2,
+     "explanation": "Malika: ~252 mln. Nigora: ~366 mln. Farq: ~114 mln so'm (46% ko'proq)."
+    },
+    {
+     "n": 3,
+     "prompt": "Qaysi depozit turi odatda ENG YUQORI foiz stavkasini taklif qiladi?",
+     "choices": [
+      "Joriy hisob",
+      "Jamg'arma hisobi",
+      "12-24 oylik muddatli depozit",
+      "Barcha depozitlar bir xil foiz to'laydi"
+     ],
+     "answer_index": 2,
+     "explanation": "Muddatli depozitlar yuqoriroq stavka taklif qiladi chunki pul bloklangan — bank undan uzoqroq foydalanadi."
+    },
+    {
+     "n": 4,
+     "prompt": "APY (samarali stavka) oddiy foiz stavkasidan nimasi bilan foydali?",
+     "choices": [
+      "Bankning obro'sini ko'rsatadi",
+      "Kapitalizatsiyani hisobga olgan haqiqiy yillik daromadni ko'rsatadi",
+      "Maksimal depozit miqdorini ko'rsatadi",
+      "Pulni qanchalik tez yechish mumkinligini ko'rsatadi"
+     ],
+     "answer_index": 1,
+     "explanation": "APY kapitalizatsiya ta'sirini hisobga oladi, HAQIQIY yillik daromadni ko'rsatadi."
+    },
+    {
+     "n": 5,
+     "prompt": "72 qoidasiga ko'ra, 8% yillik foizda pul taxminan necha yilda ikki baravar bo'ladi?",
+     "choices": [
+      "6 yil",
+      "8 yil",
+      "9 yil",
+      "12 yil"
+     ],
+     "answer_index": 2,
+     "explanation": "72 / 8 = 9 yil. 8% da pul taxminan 9 yilda ikki baravar bo'ladi."
+    },
+    {
+     "n": 6,
+     "prompt": "Jasur 500 000 so'm/oy 22-32 yoshgacha tejab to'xtaydi. Sardor 32-62 yoshgacha tejaydi. Ikkalasi 8% bilan. 62 yoshda kimda ko'proq?",
+     "choices": [
+      "Sardorda — u 3 baravar ko'p investitsiya qilgan",
+      "Jasurda — uning puli 10 yil ko'proq murakkab foiz bilan ishlagan",
+      "Ikkalasida bir xil",
+      "Aniqlab bo'lmaydi"
+     ],
+     "answer_index": 1,
+     "explanation": "Jasur: ~1 087 mln (60 mln investitsiya). Sardor: ~980 mln (180 mln investitsiya). 10 yil qo'shimcha murakkab foiz g'alaba qiladi."
+    },
+    {
+     "n": 7,
+     "prompt": "Tejash zinasida investitsiyadan OLDIN nimani birinchi to'plash kerak?",
+     "choices": [
+      "Indeks fondlar portfelini",
+      "Ko'chmas mulk boshlang'ich to'lovini",
+      "Favqulodda fondni (3-6 oylik xarajatlar)",
+      "Oltin zaxirasini"
+     ],
+     "answer_index": 2,
+     "explanation": "Favqulodda fond BIRINCHI. Usiz har qanday bozor tushishi yoki hayot hodisasi sizni qarzga tushiradi."
+    },
+    {
+     "n": 8,
+     "prompt": "5 yildan keyin uy uchun pul kerak. Qaysi vosita ENG mos?",
+     "choices": [
+      "Joriy hisob (0% daromad)",
+      "Kriptovalyuta (yuqori tebranish)",
+      "Indeks fondlar va obligatsiyalar aralashmasi",
+      "Favqulodda fond hisobi"
+     ],
+     "answer_index": 2,
+     "explanation": "5 yillik muddat = o'rtacha yondashuv. Fondlar va obligatsiyalar aralashmasi haddan tashqari xavfsiz o'sish beradi."
+    },
+    {
+     "n": 9,
+     "prompt": "\"Avval o'zingizga to'lang\" tizimi nima?",
+     "choices": [
+      "Barcha to'lovlarni birinchi to'lash",
+      "Ish haqi kelganda avtomatik ravishda belgilangan % ni tejash — SARFLASHDAN OLDIN",
+      "Ish haqi kuni o'zingizga sovg'a olish",
+      "Avval barcha qarzlarni to'lash, keyin tejash"
+     ],
+     "answer_index": 1,
+     "explanation": "Ish haqi kuni avtomatik ravishda belgilangan % ni tejash — har qanday xarajatdan OLDIN. Boylik qurish poydevori."
+    },
+    {
+     "n": 10,
+     "prompt": "Uzoq muddatli investitsiya portfelini qanchalik tez-tez tekshirish kerak?",
+     "choices": [
+      "Har kuni",
+      "Har hafta",
+      "Har chorakda (3 oyda bir)",
+      "Hech qachon"
+     ],
+     "answer_index": 2,
+     "explanation": "Har chorakda. Har kungi tekshirish hissiy qarorlarga va yomonroq natijalarga olib keladi."
+    },
+    {
+     "n": 11,
+     "prompt": "Depozitingiz 5% daromad beradi, inflyatsiya 8%. Real daromadingiz qancha?",
+     "choices": [
+      "+5%",
+      "+13%",
+      "-3%",
+      "0%"
+     ],
+     "answer_index": 2,
+     "explanation": "Real daromad = 5% - 8% = -3%. Pulingiz foiz olishiga qaramay sotib olish qobiliyatini yo'qotmoqda."
+    },
+    {
+     "n": 12,
+     "prompt": "Tejash xatolari haqida qaysi fikr TO'G'RI?",
+     "choices": [
+      "Investitsiya uchun mukammal vaqtni kutish aqlli qaror",
+      "Hammasini joriy hisobda saqlash eng xavfsiz strategiya",
+      "Favqulodda fondsiz investitsiya qilish kerak — yuqori daromad olish uchun",
+      "Muntazam investitsiya bozorni taxmin qilish urinishlarini har doim yengadi"
+     ],
+     "answer_index": 3,
+     "explanation": "Muntazam investitsiya (dollar xarajatini o'rtacha qilish) har qanday uzoq davrda bozorni taxmin qilishni yengadi. Ball bo'yicha yo'riqnoma 12/12: A'lo! 4-Blokni to'liq o'zlashtirdingiz. 5-Blokga o'tishga tayyorsiz. 10-11: Juda yaxshi — xato qilgan savollaringizni qayta ko'ring. 8-9: Yaxshi — 4.3 va 4.4 bo'limlarni misollar bilan qayta o'qing. 6-7: Barcha bo'limlarni lug'at bilan birgalikda takrorlang. 6 dan past: Boshidan qayta o'qing, misollar va jadvallarga e'tibor bering."
+    }
+   ]
+  }
+ }
+}

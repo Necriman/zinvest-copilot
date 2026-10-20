@@ -1,0 +1,23 @@
+<!doctype html>
+<!-- Dev-only page (served by `npm run dev`) that renders the mascot stickers.
+     Run scripts/mascot/render-stickers.cjs to capture them into public/mascot. -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Zinvest bear stickers</title>
+    <style>
+      body { margin: 0; background: #e9eef6; font: 13px system-ui; }
+      #grid { display: flex; flex-wrap: wrap; gap: 12px; padding: 12px; }
+      .sticker { position: relative; width: 512px; height: 512px; background: transparent; }
+      .sticker .stage { position: absolute; inset: 0; }
+      .sticker svg { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+      .label { position: absolute; left: 6px; bottom: 4px; color: #64748b; }
+      body.capture { background: transparent; }
+      body.capture .label { display: none; }
+    </style>
+  </head>
+  <body>
+    <div id="grid"></div>
+    <script type="module" src="./stickers.js"></script>
+  </body>
+</html>

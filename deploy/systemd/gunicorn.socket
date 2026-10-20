@@ -1,0 +1,15 @@
+# Optional socket-activation alternative. Only usable if gunicorn.conf.py is
+# changed to bind fd://0; the default binds the path directly, so the
+# RuntimeDirectory approach in gunicorn.service is the recommended path. Kept
+# here as documentation of the alternative.
+[Unit]
+Description=Zinvest Gunicorn socket
+
+[Socket]
+ListenStream=/run/auth-app/gunicorn.sock
+SocketUser=zinvest
+SocketGroup=www-data
+SocketMode=0660
+
+[Install]
+WantedBy=sockets.target
