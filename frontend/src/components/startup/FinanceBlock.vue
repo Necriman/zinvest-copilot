@@ -11,7 +11,11 @@ import EmptyState from '@/components/ui/EmptyState.vue'
 import BlockCard from './BlockCard.vue'
 import { useAsyncData } from '@/composables/useAsyncData'
 import { addCashFlow, deleteCashFlow, listCashFlow } from '@/api/cashflow'
-import { money } from '@/utils/format'
+import { money as formatMoney } from '@/utils/format'
+
+// The business's own currency (sums for a business in Uzbekistan), not dollars.
+const props = defineProps({ currency: { type: String, default: 'UZS' } })
+const money = (value) => formatMoney(value, props.currency || 'UZS')
 
 const today=new Date();const todayISO=[today.getFullYear(),String(today.getMonth()+1).padStart(2,'0'),String(today.getDate()).padStart(2,'0')].join('-')
 const period=ref(todayISO.slice(0,7)),error=ref('')

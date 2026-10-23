@@ -136,10 +136,10 @@ const showTasks = computed(() => (profile.value?.blocks?.enabled || []).includes
           @keydown.up.prevent="move(key,-1)"
           @keydown.down.prevent="move(key,1)"
         ><svg viewBox="0 0 20 8" class="h-2 w-5" aria-hidden="true" fill="currentColor"><circle cx="3" cy="2" r="1.4"/><circle cx="10" cy="2" r="1.4"/><circle cx="17" cy="2" r="1.4"/><circle cx="3" cy="6" r="1.4"/><circle cx="10" cy="6" r="1.4"/><circle cx="17" cy="6" r="1.4"/></svg></button>
-        <EmployeesBlock v-if="key==='employees'" @changed="rosterVersion++" />
+        <EmployeesBlock v-if="key==='employees'" :currency="profile.currency || 'UZS'" @changed="rosterVersion++" />
         <TaskDashboardBlock v-else-if="key==='tasks'" :roster-version="rosterVersion" />
         <ProductsBlock v-else-if="key==='products'" />
-        <FinanceBlock v-else-if="key==='finance'" />
+        <FinanceBlock v-else-if="key==='finance'" :currency="profile.currency || 'UZS'" />
         <AiAdvisorBlock v-else-if="key==='advisor'" :profile="profile" />
         <RoadmapBlock v-else-if="key==='roadmap'" />
         <MatchesBlock v-else-if="key==='matches'" :profile="profile" />

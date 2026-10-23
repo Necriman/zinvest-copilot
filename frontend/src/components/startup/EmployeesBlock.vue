@@ -26,9 +26,12 @@ import {
   updateEmployee,
   uploadEmployeePhoto,
 } from '@/api/startup'
-import { money } from '@/utils/format'
+import { money as formatMoney } from '@/utils/format'
 
 const emit = defineEmits(['changed'])
+// Payroll in the business's own currency (sums for a business in Uzbekistan), not dollars.
+const props = defineProps({ currency: { type: String, default: 'UZS' } })
+const money = (value) => formatMoney(value, props.currency || 'UZS')
 const { t } = useI18n()
 
 const { data, reload } = useAsyncData(listEmployees)

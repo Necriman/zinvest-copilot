@@ -426,7 +426,15 @@ def test_submit(request, unit_id):
     if jerr:
         return jerr
     submitted = data.get("answers") or []
-    answer_map = {a.get("question_id"): a.get("choice_index") for a in submitted}
+    if not isinstance(submitted, list):
+        submitted = []
+    # Only well-formed answers count (and get stored); anything else is ignored, not a 500.
+    submitted = [
+        {"question_id": a.get("question_id"), "choice_index": a.get("choice_index")}
+        for a in submitted[:200]
+        if isinstance(a, dict) and isinstance(a.get("question_id"), str) and isinstance(a.get("choice_index"), int)
+    ]
+    answer_map = {a["question_id"]: a["choice_index"] for a in submitted}
 
     # Graded in the language the test is shown in: a translated version can
     # have its own right answers (see Unit.questions).

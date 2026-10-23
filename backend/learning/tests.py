@@ -263,3 +263,16 @@ class LearningEarnsAITokensTests(TestCase):
         q = UserAIQuota.objects.get(user=self.user)
         self.assertTrue(q.maybe_rollover(q.reset_date))
         self.assertEqual((q.bonus_tokens, q.tokens_used_this_cycle, q.remaining()), (0, 0, 30000))
+
+
+class MalformedTestAnswersTests(TestCase):
+    """A unit test answered with junk is graded as wrong, never a server error."""
+
+    setUp = LearningFlowTests.setUp
+    post = LearningFlowTests.post
+
+    def test_junk_answers_count_as_wrong(self):
+        for junk in (['not a dict', 5], {'q1': 1}, [{'question_id': ['x'], 'choice_index': 'a'}], 'text'):
+            r = self.post(f'units/{self.unit.id}/test/submit', {'answers': junk})
+            self.assertEqual(r.status_code, 200, junk)
+            self.assertEqual(r.json()['correct_count'] if 'correct_count' in r.json() else 0, 0)

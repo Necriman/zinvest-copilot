@@ -1,6 +1,6 @@
 # Core (no DRF, no SimpleJWT — native views + manual PyJWT)
 Django==6.0.8
-PyJWT==2.13.0
+PyJWT==2.15.0
 
 # Time-ordered UUIDv7 primary keys. Backports uuid7() so the app runs on
 # Python < 3.14 too, instead of depending on the stdlib's native uuid.uuid7.
@@ -35,4 +35,5 @@ redis==5.2.1
 
 # Draws the "Up or down?" charts the Telegram bot sends as photos
 # (Telegram does not accept SVG). Server-side only.
-Pillow>=11.0
+Pillow==13.0.0
+certifi>=2026.10.19  # older bundles trust compromised emSign intermediates

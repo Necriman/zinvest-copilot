@@ -64,7 +64,7 @@ the AI steps answer that AI is not connected.
 # Simple tests of the AI Accountant logic (no database, no AI key), from the repository root
 python -m unittest discover -s tests -t .
 
-# The full suite: 276 tests, including the AI Accountant flow (proposal → approve/reject → history) with a mocked AI
+# The full suite: 277 tests, including the AI Accountant flow (proposal → approve/reject → history) with a mocked AI
 cd backend
 python manage.py test
 python manage.py test copilot     # only the AI Accountant
